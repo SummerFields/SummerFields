@@ -6,3 +6,7 @@ http://www.minecraftforum.net/viewtopic.php?&t=77619
 
 * LB Photo Realisme, for the damage animation !
 http://www.minecraftforum.net/viewtopic.php?t=136785
+
+
+29/06/11 :
+New redwood leaves, New glowstone block, futur piston texture...

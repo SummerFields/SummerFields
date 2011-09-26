@@ -1,2 +1,2 @@
-SummerFields v0.9 [1.8 FIXED] !
-For 1.8 By LithiumSound !
+SummerFields v1.0 [1.9 pre] !
+For 1.9.++ By LithiumSound !

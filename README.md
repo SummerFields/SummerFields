@@ -1,12 +1,13 @@
-* Jolicraft, my first source of inspiration for the sand, iron door, wool AND that's all =)
+* Jolicraft, my first source of inspiration !
 http://www.jolicraft.com/
-
-* GeruDoku, for the plank, sandstone, wheat, water, lava, portal !
-http://www.minecraftforum.net/viewtopic.php?&t=77619
+http://www.minecraftforum.net/topic/163244-16x-%C2%B7-%C2%B7-%C2%B7-jolicraft-%C2%B7-%C2%B7-%C2%B7-1109-18-update/
 
 * LB Photo Realisme, for the damage animation !
 http://www.minecraftforum.net/viewtopic.php?t=136785
 
+
+26/09/11 :
+Many textures change, 1.9 items & blocks, xp orbs, new chest, Enderman !
 
 11/09/11 :
 Added Chiken, zombie, cow and all 1.8 items/block

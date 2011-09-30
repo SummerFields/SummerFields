@@ -5,6 +5,12 @@ http://www.minecraftforum.net/topic/163244-16x-%C2%B7-%C2%B7-%C2%B7-jolicraft-%C
 * LB Photo Realisme, for the damage animation !
 http://www.minecraftforum.net/viewtopic.php?t=136785
 
+* Notch ! for the beautiful dark blue water & the ultra red lava ! =D
+http://www.minecraft.net
+
+
+30/09/11 :
+All 1.9.2 items & blocks, all disk, slime & ghast !
 
 26/09/11 :
 Many textures change, 1.9 items & blocks, xp orbs, new chest, Enderman !

@@ -9,6 +9,9 @@ http://www.minecraftforum.net/viewtopic.php?t=136785
 http://www.minecraft.net
 
 
+07/10/11 :
+All 1.9.3 items & blocks, 3 new mobs : Skeleton, spider & cave spider !
+
 30/09/11 :
 All 1.9.2 items & blocks, all disk, slime & ghast !
 

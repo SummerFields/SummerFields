@@ -1,2 +1,2 @@
-SummerFields v1.2 [1.9.3] !
-For 1.9.3 By LithiumSound !
+SummerFields v1.3 [1.9.4] !
+For 1.9.4 By LithiumSound !

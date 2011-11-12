@@ -9,6 +9,9 @@ http://www.minecraftforum.net/viewtopic.php?t=136785
 http://www.minecraft.net
 
 
+12/11/11 :
+All mobs, Many new painting, fixed GUI, alt mobs...
+
 29/10/11 :
 All the GUI is now finished ! New moon, new sun...
 

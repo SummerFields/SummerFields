@@ -1,6 +1,5 @@
 * Jolicraft, my first source of inspiration !
 http://www.jolicraft.com/
-http://www.minecraftforum.net/topic/163244-16x-%C2%B7-%C2%B7-%C2%B7-jolicraft-%C2%B7-%C2%B7-%C2%B7-1109-18-update/
 
 * LB Photo Realisme, for the damage animation !
 http://www.minecraftforum.net/viewtopic.php?t=136785
@@ -8,6 +7,11 @@ http://www.minecraftforum.net/viewtopic.php?t=136785
 * Notch ! for the beautiful dark blue water & the ultra red lava ! =D
 http://www.minecraft.net
 
+* Milktache, for setting up SummerFields on the customizer !
+
+
+19/11/11 :
+New GUI : reticul, healt, hardcore healt, hungry, XP barre, dragon life...
 
 12/11/11 :
 All mobs, Many new painting, fixed GUI, alt mobs...

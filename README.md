@@ -10,6 +10,9 @@ http://www.minecraft.net
 * Milktache, for setting up SummerFields on the customizer !
 
 
+28/11/11 :
+New animated water, new animated lava, some fix on the GUI (hunger, healt)
+
 19/11/11 :
 New GUI : reticul, healt, hardcore healt, hungry, XP barre, dragon life...
 

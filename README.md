@@ -9,6 +9,30 @@ http://www.minecraft.net
 
 * Milktache, for setting up SummerFields on the customizer !
 
+		----------------
+
+
+If you play with some mod, you should download mod support for summerfields :
+- On the summerfields thread you can download all of them.
+
+* Tale of kingdoms support :
+	http://adf.ly/4AC20
+
+* Claysoldiers support :
+	http://adf.ly/4EurC
+
+* Wurstknifte's bookmod support :
+	http://adf.ly/4ABx8
+
+* Better Than Wolves support :
+	NO LINK YET !
+	Comming December 31 2011 ! 
+	Check Summerfields thread if the date is passed !
+    
+		----------------
+
+31/12/11 :
+New dyes, better cauldron, fixed painting
 
 28/11/11 :
 New animated water, new animated lava, some fix on the GUI (hunger, healt)

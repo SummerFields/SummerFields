@@ -31,6 +31,10 @@ If you play with some mod, you should download mod support for summerfields :
     
 		----------------
 
+
+14/01/12 :
+Dragon skin, villagers, spwaning eggs, lightmap, custom colors, kz 100% done...
+
 31/12/11 :
 New dyes, better cauldron, fixed painting
 

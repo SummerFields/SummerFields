@@ -9,6 +9,8 @@ http://www.minecraft.net
 
 * Milktache, for setting up SummerFields on the customizer !
 
+* Marcinz606, for the lightmap and all the custom colors, sky, and all =)
+
 		----------------
 
 
@@ -31,6 +33,10 @@ If you play with some mod, you should download mod support for summerfields :
     
 		----------------
 
+
+14/01/12 :
+Fixed lightmap, New GUI, fixed GUI(language button)
+Torch now blink a little less, cave are a little less dark
 
 14/01/12 :
 Dragon skin, villagers, spwaning eggs, lightmap, custom colors, kz 100% done...

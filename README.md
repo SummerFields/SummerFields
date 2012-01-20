@@ -34,6 +34,9 @@ If you play with some mod, you should download mod support for summerfields :
 		----------------
 
 
+20/01/12 :
+New jungle leaves, new jungle wood log
+
 14/01/12 :
 Fixed lightmap, New GUI, fixed GUI(language button)
 Torch now blink a little less, cave are a little less dark

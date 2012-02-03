@@ -1,2 +1,2 @@
-SummerFields v20.a [1.1.0] !
-For 1.1.0 By LithiumSound !
+SummerFields !
+By LithiumSound !

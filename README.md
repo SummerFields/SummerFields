@@ -9,7 +9,7 @@ http://www.minecraft.net
 
 * Milktache, for setting up SummerFields on the customizer !
 
-* Marcinz606, for the lightmap and all the custom colors, sky, and all =)
+* Marcinz606, for the lightmap and all the custom colors, sky, and all.. =)
 
 		----------------
 
@@ -33,6 +33,9 @@ If you play with some mod, you should download mod support for summerfields :
     
 		----------------
 
+
+03/02/12 :
+Added ozelot, red cat, black cat, siamese cat & jungle tree sapling
 
 20/01/12 :
 New jungle leaves, new jungle wood log

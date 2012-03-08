@@ -11,6 +11,10 @@ http://www.minecraft.net
 
 * Marcinz606, for the lightmap and all the custom colors, sky, and all.. =)
 
+* Sixdd, for the ctm.png file.
+
+* CuddleWoozle, for the alternate cow & sheep.
+
 		----------------
 
 
@@ -33,6 +37,10 @@ If you play with some mod, you should download mod support for summerfields :
     
 		----------------
 
+
+08/03/12 :
+Added many many new alternate mobs !
+(creeper, cow, squid, slime, zombie...)
 
 03/02/12 :
 Added ozelot, red cat, black cat, siamese cat & jungle tree sapling

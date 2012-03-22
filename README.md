@@ -38,6 +38,10 @@ If you play with some mod, you should download mod support for summerfields :
 		----------------
 
 
+22/03/12 :
+For minecraft 1.2.4 & all pre-release !
+Added new plank for redwood birch and jungle tree, new sandstone.
+
 08/03/12 :
 Added many many new alternate mobs !
 (creeper, cow, squid, slime, zombie...)

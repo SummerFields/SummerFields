@@ -37,6 +37,60 @@ If you play with some mod, you should download mod support for summerfields :
     
 		----------------
 
+5/7/2013 : RP1
+Fixed file structure so the .zip is recognized by Minecraft.
+Updated this thread and added more mod support!
+Changed the Hay Bale slightly.
+
+13/3/2013 : R31
+
+13/3/2013 :
+I, CuddleWoozle, have updated SummerFields to be compatible with the 1.5 Minecraft release.  I have also filled in a lot of missing textures.
+
+I take absolutely no credit for Lithium's original work.  I am only updating this pack while he is gone so that people can continue to enjoy SummerFields.
+
+---
+
+List of CuddleWoozle created textures
+
+(using Lithium's work as a base)
+
+Activator Rails (Powered and non-powered)
+Anvil textures
+Comparator (lit and unlit)
+Daylight Detector
+Dropper
+Hopper
+Nether Quartz
+Comparator item
+Clock item (1.5 update)
+Compass item (1.5 update)
+Minecart with hopper and TNT
+Nether brick item
+Black Bat Mob
+Ender Crystal
+Beacon
+Underwater overlay
+Trapped chests
+Repair GUI
+
+Original Works
+
+Quartz blocks (bottom, chisled, chisled top, lines, line top, sides and top)
+Firework item
+Firework charge and overlay
+Hopper item
+Nether quartz item
+Saddle
+Ender Crystal Beam
+Beacon beam
+
+14/09/12 :
+Updated leather armor +icon
+Pumpkin pie icon
+Updated zombie skin
+Updated pigman
+Added zombie vilagger
 
 22/03/12 :
 For minecraft 1.2.4 & all pre-release !

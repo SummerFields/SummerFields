@@ -155,8 +155,9 @@ I take absolutely no credit for Lithium's original work.  I am only updating thi
 * new glass
 * new plant and flower
 * new podzol
-* new acacia
-
+* new acacia and big oak
+* new ice packed
+* new red sand
   
 5/7/2013 :
 Fixed file structure so the .zip is recognized by Minecraft.

@@ -47,6 +47,117 @@ I take absolutely no credit for Lithium's original work.  I am only updating thi
 
 		----------------
 
+21/11/2013 :
+  Modifié
+  -------
+  
+* clay.png
+  - To make it more compatible with blocks hardened clay.
+  
+* furnace_front_on.png
+* furnace_front_on.png.mcmeta
+  command_block.png
+  command_block.png.mcmeta
+  blaze_rod.png
+  blaze_rod.png.mcmeta
+  - New animated \o/
+  
+* diamond_ore.png
+  diamond_ore.png.mcmeta
+  tallgrass.png
+  tallgrass.png.mcmeta
+  - More lightweight.
+  
+* fire_layer_0.png
+  fire_layer_0.png.mcmeta
+  fire_layer_1.png
+  fire_layer_1.png.mcmeta
+  - New fire.
+  
+* comparator_on.png
+  comparator_off.png
+  repeater_on.png
+  repeater_off.png
+  - Show the ability to connect it to the side.
+  
+* comparator.png
+  repeater.png
+  - Finally real items
+  
+* door_wood_lower.png
+  door_wood_upper.png
+  - Mouth the hole on the side.
+  
+* dispenser_front_vertical.png
+  dropper_front_vertical.png
+  hopper.png
+  minecart_tnt.png
+  leaves_birch_opaque.png
+  leaves_oak_opaque.png
+  - Better texture.
+  
+* flower_rose.png
+  - Better in the hands of golems.
+  
+* enderman_eyes.png
+  spider_eyes.png
+  - Correction of the white effect.
+  
+* arrow.png
+  - Removing the rear, ugly and useless.
+  
+* end_sky.png
+  - Mitigation stripes.
+  
+* achievement_background.png
+  - To avoid overflow.
+
+* minecraft.png
+  - New title for Minecraft Realms.
+  
+* icons.png
+  particles
+  - Completed.
+ 
+* apple.png
+  apple_golden.png
+  The pre-cut apple does not fall the trees.
+  
+* magma_cream.png
+  - Remain cubic.
+
+* slimeball.png
+  - Just one.
+  
+  texture suprimé
+  ---------------
+  
+* Christmas.png
+  christmas_double.png
+  horse_skeleton.png
+  horse_zombie.png
+  demo_background.png
+  footprint.png
+  - Unmodified
+  
+* saddle.png
+  fish_cooked.png
+  fish_raw.png
+  - renamed
+
+* goggles_layer_1.png
+  - useless
+  
+  Ajout
+  -----
+  
+* new fish
+* new glass
+* new plant and flower
+* new podzol
+* new acacia
+
+  
 5/7/2013 :
 Fixed file structure so the .zip is recognized by Minecraft.
 Updated this thread and added more mod support!

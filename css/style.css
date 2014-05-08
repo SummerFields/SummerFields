@@ -1,0 +1,43 @@
+body, html {
+	margin: 0;
+	background:#FFF;
+	text-align: center;
+	height: 90%;
+}
+
+.hide {
+	display: none;
+}
+
+#wrap {   
+    position: relative;  
+    top: 0;   
+} 
+
+#header_p, #download_p, .page {
+	background: #2F393C;
+	height: 100%;
+	position: relative;
+    transition: top 1.4s cubic-bezier(.49,.22,.52,1.35); 
+}
+
+/* header */
+
+.fixe {
+	position: absolute;
+	height: 100%;
+	top: 0;
+}
+
+.panorama {
+	height: 100%;
+	margin: 0 auto;
+}
+
+/* download */
+	
+#download:target ~ #header_p, #download:target ~ #download_p {  
+    top:-100%;  
+}  
+
+

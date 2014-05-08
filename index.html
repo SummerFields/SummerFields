@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <title>Summerfields</title>
+
+        <script type="text/javascript" src="js/jquery.js"></script>
+        <script type="text/javascript" src="js/jquery.panorama.viewer.js"></script>
+        
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link rel="stylesheet" type="text/css" href="css/panorama_viewer.css">
+        
+        <script type="text/javascript">
+            $(window).load(function(){
+                $(".panorama").panorama_viewer({
+                    repeat: true,
+                    animationTime: 0,
+                    overlay: false
+                });
+            });
+        </script>
+    </head>
+    <body> 
+        <span id="header" class="hide"></span>  
+        <span id="download" class="hide"></span>  
+        <span id="s3" class="hide"></span>
+           
+        <div id="header_p" class="page">
+            <div class="panorama">
+                <img src="img/panorama.png">
+            </div>
+            <div class="fixe">
+                <h1><span>Summerfields</span></h1>
+                <a href="#download">hop</a>
+            </div>
+        </div>
+        
+        <div id="download_p" class="page">
+            <a href="#header">hop</a>
+        </div>
+        
+    </body>
+</html>

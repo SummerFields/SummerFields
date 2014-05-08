@@ -47,6 +47,19 @@ I take absolutely no credit for Lithium's original work.  I am only updating thi
 
 		----------------
 
+8/05/2014 :
+best new plant
+rotation of redstone_dust_line.png
+Enderman head
+new steve skin
+enchanting table with lapis
+new mojang logo
+new iron trapdooor
+new slime block
+new 3 stone
+new endermite
+new for 1.8
+
 21/11/2013 :
   Modifié
   -------

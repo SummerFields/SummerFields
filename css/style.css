@@ -2,42 +2,98 @@ body, html {
 	margin: 0;
 	background:#FFF;
 	text-align: center;
-	height: 90%;
+	height: 100%;
+    font-family: sans-serif;
 }
 
 .hide {
 	display: none;
 }
 
-#wrap {   
-    position: relative;  
-    top: 0;   
-} 
-
-#header_p, #download_p, .page {
-	background: #2F393C;
+.page {
+	border-top: 6px solid #84601B;
+	background: url(../img/options_background.png);
 	height: 100%;
 	position: relative;
     transition: top 1.4s cubic-bezier(.49,.22,.52,1.35); 
 }
 
-/* header */
-
 .fixe {
-	position: absolute;
-	height: 100%;
-	top: 0;
+    display: block;
+    left: 50%;
+    margin: 0 -300px;
+    position: absolute;
+    top: 10em;
+}
+.fixe p {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.62);
+    color: #FFFFFF;
+    padding: 1em 10px;
+    width: 580px;
 }
 
-.panorama {
+a.button {
+    background: url(../img/widgets.png) no-repeat;
+    display: block;
+    width: 396px;
+    margin: auto;
+    height: 34px;
+    line-height: 1.7em;
+    background-position: 0 -36px;
+    color: #291803;
+    font-weight: bold;
+    text-decoration: none;
+    text-shadow: white 1px 1px;
+}
+
+a.button:hover {
+    background-position: 0 -76px;
+    line-height: 2.1em;
+}
+
+a.button.old, a.button.old:hover {
+    background-position: 0 2px;
+    color: #14130F;
+    text-shadow: 1px 1px #606060;
+    line-height: 1.7em;
+}
+
+/* header */
+
+#header .panorama {
 	height: 100%;
 	margin: 0 auto;
 }
 
+#header h1 {
+    background: url("../img/logo.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: block;
+    height: 92px;
+    margin: auto;
+    width: 512px;
+}
+#header h1 span { display: none; }
+
 /* download */
-	
-#download:target ~ #header_p, #download:target ~ #download_p {  
-    top:-100%;  
-}  
+
+#download {
+	border-color: #1B1B1F;
+}
+
+#download h2 {
+    background: url("../img/latest.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: block;
+    height: 92px;
+    margin: auto;
+    width: 512px;
+}
+#download h2 span { display: none; }
+
+#download .fixe {
+    top: 1em;
+}
+#download .fixe p {
+    text-align: left;
+}
 
 

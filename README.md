@@ -1,5 +1,7 @@
-SummerFields
-============
+[SummerFields][4]
+=================
+
+the [site][4]
 
 Welcome everyone! This is SummerFields, the marvelous texture pack
 started by LithiumSound and now continued by me, CuddleWoozle.
@@ -254,3 +256,4 @@ If you play with some mod, you should download mod support for summerfields :
   [1]: http://www.jolicraft.com/
   [2]: http://www.minecraftforum.net/viewtopic.php?t=136785
   [3]: http://www.minecraft.net
+  [4]: http://cuddlewoozle.github.io/SummerFields/

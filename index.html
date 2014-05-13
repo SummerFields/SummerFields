@@ -1,101 +1,118 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-        <title>Summerfields</title>
+<!doctype html>
+<html dir="ltr" lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Summerfields</title>
 
-        <script type="text/javascript" src="js/jquery.js"></script>
-        <script type="text/javascript" src="js/jquery.panorama.viewer.js"></script>
-        
-        <link rel="stylesheet" type="text/css" href="css/style.css">
-        <link rel="stylesheet" type="text/css" href="css/panorama_viewer.css">
-        
-        <script type="text/javascript">
-            $(function() {
-                
-                // Panorama
-                $(".panorama").panorama_viewer({
-                    repeat: true,
-                    animationTime: 0,
-                    overlay: false
-                });
-            
-                // Smooth Scrolling
-                $('a[href*=#]:not([href=#])').click(function() {
-                    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-                        var target = $(this.hash);
-                        target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-                        if (target.length) {
-                            $('html,body').animate({
-                                scrollTop: target.offset().top
-                            }, 1000);
-                            return false;
-                        }
-                    }
-                });
-                
-                // animate
-                animate = function (){
-                    
-                    var position = $('.pv-animating').css('backgroundPosition');
-                    if( position == '0% 0%' )
-                        var pos = [0, 10, 0, 'px']
-                    else
-                        var pos = position.split(/-?(\d*)[^\d]* (\d*)([^\d]*)/);
-                    
-                    $('.pv-animating').css( 'backgroundPosition', (Number(pos[1])+1)+''+pos[3]+' '+pos[2]+pos[3] );
-                    
-                    requestAnimationFrame( this.animate.bind(this) );
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" type="text/css" href="css/reset.css">
+<link rel="stylesheet" href="js/flexslider/flexslider.css" />
+<link rel="stylesheet" type="text/css" href="css/tinytypo.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+
+<!-- jQuery -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script defer src="js/flexslider/jquery.flexslider-min.js"></script>
+<script charset="utf-8" type="text/javascript">
+   $(window).load(function() {
+        $('.flexslider').flexslider();
+          
+        // Smooth Scrolling
+        $('a[href*=#]:not([href=#])').click(function() {
+            if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+                var target = $(this.hash);
+                target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+                if (target.length) {
+                    $('html,body').animate({
+                        scrollTop: target.offset().top
+                    }, 1000);
+                    return false;
                 }
-                animate();
+            }
+        }); 
                 
-            });
-        </script>
-    </head>
-    <body>
-           
-        <div id="header" class="page">
-            <div class="panorama">
-                <img src="img/panorama.png">
-            </div>
-            <div class="fixe">
-                <h1><span>Summerfields</span></h1>
-                <p>
-                    Welcome everyone!  This is SummerFields, the marvelous texture pack<br/>
-                    started by LithiumSound and now continued by me, CuddleWoozle.
-                </p>
-                <p>
-                    Inspired by the 16x texture packs Jolicraft and GoodMorningCraft<br>
-                    and the game Fable - The Lost Chapters.
-                </p>
-                <a class="button" href="#download">Download</a>
-            </div>
-        </div>
+        // animate
+        animate = function (){
+            
+            var position = $('#Home').css('backgroundPosition');
+            var pos = position.split(/(-?\d+(\.\d+)?)px .*/);
+            $('#Home').css( 'backgroundPosition', (Number(pos[1])-.25)+'px top' );
+            
+            requestAnimationFrame( this.animate.bind(this) );
+        }
+        animate();
+          
+   });
+</script>
+
+</head>
+<body>
+<div class="page">
+
+<header>
+    <h1 class="hide">Summerfields</h1>
+</header>
+
+<main role="main">
         
-        <div id="download" class="page">
-            <div class="fixe">
-                <h2><span>Latest version</span></h2>
-                <p>
-                    You can now simply place the .zip file into your Resourcepack folder <br/>
-                    and it should work.<br/>
-                    Thank you very much for your patience !<br/>
-                    <br/>
-                    - Fixed file structure so the .zip is recognized by Minecraft.<br/>
-                    - Updated this thread and added more mod support !<br/>
-                    - Changed the Hay Bale slightly.
-                </p>
-                <a class="button" href="version/SummerFields_RP1.zip">SummerFields RP1 (5/7/2013) [For 1.6.1+]</a>
-                <p>
-                    R31 is the last regular texture pack release for SummerFields.  Use this version only for 1.5-1.5.2
-                </p>
-                <a class="button old" href="version/SummerFields_R31 (22-03-13)[1.5].zip">SummerFields R31 (13/3/2013) [For 1.5]</a>
-                <p>
-                    This download is for 1.4.7 and earlier only.  If you are using the snapshots, you want the first download.
-                </p>
-                <a class="button old" href="version/SummerFields_R30.b (05-03-13)[Legacy1.4.7].zip">SummerFields R30b (05/3/2013) [1.4.7]</a>
-            </div>
+    <!-- main navigation -->
+	<nav role="navigation" id="nav">
+		<ul class="list-inline"><!--
+			--><li class="current"><a href="./index.html#Home">Home</a></li><!--
+			--><li><a href="download.html">Download</a></li><!--
+			--><li><a href="./index.html#Image">Image</a></li><!--
+			--><li><a href="./index.html#Video">Video</a></li><!--
+			--><li><a href="./index.html#FAQ">FAQ</a></li><!--
+			--><li><a href="./index.html#Signature">Signature</a></li><!--
+			--><li><a href="./index.html#Contribute">Contribute</a></li>
+		</ul>
+	</nav>
+    <!-- end main navigation -->
+
+    <section id="Home">
+
+        <h2 role="banner"><span class="hide">Summerfields</span></h2>
+        <div class="fixe">
+            <p>
+                Welcome everyone!  This is SummerFields, the marvelous texture pack<br/>
+                started by LithiumSound and now continued by me, CuddleWoozle.
+            </p>
+            <p>
+                Inspired by the 16x texture packs Jolicraft and GoodMorningCraft<br>
+                and the game Fable - The Lost Chapters.
+            </p>
         </div>
+        <a class="button dl" href="#download"><span class="hide">Download : </span><span class="splash">Full Legacy</span></a>
+        <a class="button dl" href="#download"><span class="hide">Download : </span><span class="splash">Add-on MCPatcher</span></a>
+        <a class="button dl" href="#download"><span class="hide">Download : </span><span class="splash">Add-on 3D model</span></a>
+    </section>
+
+    <section id="Image">
+
+        <h2><span class="hide">Image</span></h2>
         
-    </body>
+        <!-- responsive FlexSlider image slideshow -->
+        <div class="flexslider">
+            <ul class="slides">
+                <li><img src="images/1.jpg" /></li>
+                <li><img src="images/2.jpg" /></li>
+                <li><img src="images/3.jpg" /></li>
+                <li><img src="images/4.jpg" /></li>
+                <li><img src="images/5.jpg" /></li>
+                <li><img src="images/6.jpg" /></li>
+                <li><img src="images/7.jpg" /></li>
+                <li><img src="images/8.jpg" /></li>
+                <li><img src="images/9.jpg" /></li>
+                <li><img src="images/10.jpg" /></li>
+                <li><img src="images/11.jpg" /></li>
+            </ul>
+        </div><!-- FlexSlider -->
+        
+    </section>
+
+</main>
+</div>
+<!--.page-->
+</body>
 </html>

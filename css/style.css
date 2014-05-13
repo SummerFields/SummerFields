@@ -17,10 +17,6 @@ body {
 
 .hide { display: none; }
 
-/*.half { float: left; width: 45%; margin-right: 5%; }
-.third { float: left; width: 30%; margin-right: 3%; }
-@media ( max-width: 768px) { .half, .third { float: none; width: 100%; margin-right: 0; } }*/
-
 /* menu */
 
 #nav {
@@ -83,9 +79,32 @@ h2 span {
 /* section Home */
 
 #Home {
-    background-image: url("../images/panorama.png");
-    background-size: cover;
+    background-image: url("../panorama/panorama_480_1.png"), url("../panorama/panorama_480_2.png"), url("../panorama/panorama_480_3.png"), url("../panorama/panorama_480_4.png"), url("../panorama/panorama_480_1.png");
+    background-position: 0 center, 600px center, 1200px center, 1800px center, 2400px center;
+    background-repeat: no-repeat;
+    background-size: auto 480px;
     text-align: center;
+}
+@media ( min-height: 480px) {
+	#Home {
+		background-image: url("../panorama/panorama_768_1.png"), url("../panorama/panorama_768_2.png"), url("../panorama/panorama_768_3.png"), url("../panorama/panorama_768_4.png"), url("../panorama/panorama_768_1.png");
+		background-position: 0 center, 961px center, 1922px center, 2883px center, 3844px center;
+		background-size: auto 768px;
+	}
+}
+@media ( min-height: 768px) {
+	#Home {
+		background-image: url("../panorama/panorama_976_1.png"), url("../panorama/panorama_976_2.png"), url("../panorama/panorama_976_3.png"), url("../panorama/panorama_976_4.png"), url("../panorama/panorama_976_1.png");
+		background-position: 0 center, 1221px center, 2442px center, 3663px center, 4884px center;
+		background-size: auto 976px;
+	}
+}
+@media ( min-height: 976px) {
+	#Home {
+		background-image: url("../panorama/panorama_976_1.png");
+		background-position: center center;
+		background-size: cover;
+	}
 }
 #Home h2 { background-image: url("../img/logo.png"); }
 
@@ -150,7 +169,3 @@ h2 span {
 }
 
 
-@media ( max-width: 768px) {
-}
-@media ( max-width: 480px) {
-}

@@ -26,11 +26,13 @@
                 if (target.length) {
                     $('html,body').animate({
                         scrollTop: target.offset().top
-                    }, 1000);
+                    }, 1000, function() {
+                        location.hash = target.selector;
+                    });
                     return false;
                 }
             }
-        }); 
+        });
         
         // animate
         var position = $('#Home').css('backgroundPosition');
@@ -70,13 +72,13 @@
     <!-- main navigation -->
 	<nav role="navigation" id="nav">
 		<ul class="list-inline"><!--
-			--><li class="current"><a href="./index.html#Home">Home</a></li><!--
-			--><li><a href="download.html">Download</a></li><!--
+			--><li><a href="./index.html#Home">Home</a></li><!--
+			--><li><a href="./index.html#Download">Download</a></li><!--
 			--><li><a href="./index.html#Image">Image</a></li><!--
 			--><li><a href="./index.html#Video">Video</a></li><!--
 			--><li><a href="./index.html#FAQ">FAQ</a></li><!--
 			--><li><a href="./index.html#Signature">Signature</a></li><!--
-			--><li><a href="./index.html#Contribute">Contribute</a></li>
+			<li><a href="./index.html#Contribute">Contribute</a></li>-->
 		</ul>
 	</nav>
     <!-- end main navigation -->
@@ -101,7 +103,7 @@
 
     <section id="Image">
 
-        <h2><span class="hide">Image</span></h2>
+        <h2><span>Image</span></h2>
         
         <!-- responsive FlexSlider image slideshow -->
         <div class="flexslider">
@@ -119,6 +121,63 @@
                 <li><img src="images/11.jpg" /></li>
             </ul>
         </div><!-- FlexSlider -->
+        
+    </section>
+
+    <section id="Video">
+
+        <h2><span>Video</span></h2>
+        
+        <object class="video"><param value="http://youtube.com/v/hLXUbY7Cg8g" name="movie">
+            <param value="transparent" name="wmode">
+            <embed width="100%" height="100%" wmode="transparent" type="application/x-shockwave-flash" src="http://youtube.com/v/hLXUbY7Cg8g">
+        </object>
+        
+        <object class="video"><param value="http://youtube.com/v/4qvqy5fXRjM" name="movie">
+            <param value="transparent" name="wmode">
+            <embed width="100%" height="100%" wmode="transparent" type="application/x-shockwave-flash" src="http://youtube.com/v/4qvqy5fXRjM">
+        </object>
+        
+        <iframe class="video" src="http://www.youtube.com/embed/hLXUbY7Cg8g" frameborder="0"></iframe>
+        <iframe class="video" src="http://www.youtube.com/embed/4qvqy5fXRjM" frameborder="0"></iframe>
+        
+    </section>
+
+    <section id="FAQ">
+
+        <h2><span>FAQ</span></h2>
+        
+        <div class="fixe">
+            <dl>
+               <dt>Q: "What does '32x' mean?"</dt>
+                  <dd>A: Minecraft has a default resolution of 16x. The resolution is the size of the textures, the default ones are 16 pixels by 16 pixels or '16x16' or '16x'. 32x is double that amount making it 32 pixels by 32 pixels. This gives the artist a slightly larger space to work in and allows for more detail.</dd>
+               <dt>Q: "UPDATE THE PACK!" or "Update, plz" or even "When are u gonna update?"</dt>
+                  <dd>A: Apparently update begging is against the forum rules. Aside from that, the answer will generally be "As soon as I can." I'm also studying for a BA of Graphic Design so keep in mind that I have to finish art for school before I can do art for fun. (And also means that I am quite open to constructive criticism. If you don't like something, tell me why and maybe suggest how it can be changed. Posted Image )</dd>
+               <dt>Q: "CuddleWoozle? What's that name all about?"</dt>
+                  <dd>A: I like weasels. Woozle is an alternate spelling, sounds cuter and is also the name of the sneaky creatures from Winnie the Pooh that steal honey. The 'cuddle' part is from my pet ferret who was extremely friendly and loved to cuddle with people. You can call me "Cuddles" or "Woozle", too, if you like.</dd>
+               <dt>Q: "What programs do you use to make textures?"</dt>
+                  <dd>A: I run a linux system, so Adobe doesn't play well on my system. Instead I use GIMP, Krita and Inkscape. GIMP is the main one for my texture work and speaking from experience, is very nearly as flexible as Photoshop. Inkscape is a great vector illustration program and Krita is a wonderfully intuitive tool for digital painting. I also use a Wacom Intuos 4 tablet, which gives me the ability to vary the pressure I put behind my lines.</dd>
+               <dt>Q: "The spiders/endermen are white."</dt>
+                  <dd>A: Since SummerFields is a 32x pack you have to use Optifine or MCPatcher to fix this issue. The reason only these two mobs are affected is because they both use an overlay for glowing eyes. The same answer goes for people using the Legacy pack on anything under Minecraft 1.5. You must patch the game or you will end up with weird stuff, like flaming pumpkins and a sea-washed nether.</dd>
+            </dl> 
+        </div>
+        
+    </section>
+
+    <section id="Signature">
+
+        <h2><span>Signature<br/>Support the pack</span></h2>
+        
+        <div class="fixe">
+            <dl>
+                <dt><img alt="" src="signature/sign2.png"/></dt>
+                    <dd><code>[URL=http://cuddlewoozle.github.io/SummerFields][IMG]http://cuddlewoozle.github.io/SummerFields/signature/sign2.png[/IMG][/URL]</code></dd>
+                <dt><img alt="" src="signature/sign1.png"/></dt>
+                    <dd><code>[URL=http://cuddlewoozle.github.io/SummerFields][IMG]http://cuddlewoozle.github.io/SummerFields/signature/sign2.png[/IMG][/URL]</code></dd>
+                <dt><img alt="" src="signature/sign3.png"/></dt>
+                    <dd><code>[URL=http://cuddlewoozle.github.io/SummerFields][IMG]http://cuddlewoozle.github.io/SummerFields/signature/sign2.png[/IMG][/URL]</code></dd>
+             </dl> 
+        </div>
         
     </section>
 

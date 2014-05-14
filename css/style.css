@@ -17,6 +17,19 @@ body {
 
 .hide { display: none; }
 
+.flexslider, .video {
+	background-color: #fff;
+    border: 1px solid;
+    margin: 0 auto 3em;
+    width: 80%;
+	max-width: 961px;
+    display: block;
+	min-height: 430px;
+}
+.flex-control-nav {
+    bottom: 0;
+}
+
 /* menu */
 
 #nav {
@@ -28,6 +41,7 @@ body {
     position: fixed;
     top: 0;
     width: 100%;
+    z-index: 1000;
 }
 #nav .list-inline {
     margin: auto;
@@ -43,34 +57,49 @@ body {
     padding: 0 0.6em;
 	margin: 0;
 }
+#nav .list-inline li:last-child { border: 0; }
 #nav .list-inline li a {
     text-decoration: none;
 }
-#nav .list-inline li.current a, #nav .list-inline li.current a:hover {
+#nav .list-inline li.current a:hover, #nav .list-inline li.current a:focus {
     font-weight: bold;
 }
 
 /* section */
 
 section {
-    height: 100%;
-	padding-top: 3em;
-	background-image: url("../img/options_background.png");
+    min-height: 100%;
+    padding: 3em 0 1px;
+	background-image: url("../img/wool_colored_light_blue.png");
 	background-attachment: fixed;
 	background-position: 0px top;
+	box-shadow: 0 0.5em 0.5em rgba(0, 0, 0, 0.67) inset;
 }
 h2 {
+	-webkit-border-image: url(../img/woodback.png) 24 46 32 32 fill repeat stretch;
+	   -moz-border-image: url(../img/woodback.png) 24 46 32 32 fill repeat stretch;
+	     -o-border-image: url(../img/woodback.png) 24 46 32 32 fill repeat stretch;
+	        border-image: url(../img/woodback.png) 24 46 32 32 fill repeat stretch;
+    border-style: solid;
+    border-width: 24px 46px 32px 32px;
+    text-align: center;
+    width: -moz-fit-content;
     display: block;
     height: 92px;
     margin: 2em auto;
-    width: 512px;
 }
 h2 span {
-    display: none;
+    color: rgba(255, 241, 217, 0.59);
+    font-family: Minecraft;
+    font-size: 2em;
+    line-height: 0.6em;
+    text-shadow: 0 0 0.2em #1B0F01, 0 0 0.2em #1C1002, 0 0 0.2em #1B0F02;
+	text-transform: uppercase;
 }
+
 .fixe {
     text-align: center;
-    margin: auto;
+    margin: 2em auto;
     width: 43em;
     background: rgba(0, 0, 0, 0.64);
     padding: 3em;
@@ -106,7 +135,12 @@ h2 span {
 		background-size: cover;
 	}
 }
-#Home h2 { background-image: url("../img/logo.png"); }
+#Home h2 {
+	background-image: url("../img/logo.png");
+    width: 512px;
+	border-image: 0;
+    border-width: 0;
+}
 
 .button.dl {
     background: url("../img/pack.png") no-repeat 0 0 / 100% auto;
@@ -156,16 +190,32 @@ h2 span {
 
 /* section image */
 
-#Image h2 { background-image: url("../img/images.png"); }
+#Image { background-image: url("../img/wool_colored_gray.png"); }
 
-.flexslider {
-    border: 1px solid;
-    margin: 0 auto 3em;
-    width: 80%;
-	max-width: 961px;
+/* section video */
+
+#Video { background-image: url("../img/wool_colored_green.png"); }
+
+/* section faq */
+
+#FAQ { background-image: url("../img/wool_colored_cyan.png"); }
+#FAQ .fixe { text-align: left; }
+
+/* section signature */
+
+#Signature { background-image: url("../img/wool_colored_red.png"); }
+#Signature h2 span {
+    font-size: 1.2em;
+    line-height: 1.0em;
+    margin-top: -0.5em;
+    display: block;
 }
-.flex-control-nav {
-    bottom: 0;
+#Signature dd {
+    text-align: left;
+    background: rgba(0, 0, 0, 0.49);
+    border: 1px solid rgba(255, 255, 255, 0.57);
+    padding: 0.3em 1em;
+    margin: 2em 0;
 }
 
 

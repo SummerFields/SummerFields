@@ -34,23 +34,23 @@
             }
         });
         
+        //panorama
+        var largeur, hauteur, step = 0;
+        $( window ).resize(function() {
+            var position = $('#Home').css( 'backgroundSize' );
+            var pos = position.split(/auto (\d+)px/);
+            hauteur = $(window).height();
+            largeur = Math.floor(pos[1]/0.8);
+        });
+        
         // animate
-        var position = $('#Home').css('backgroundPosition');
-        var pos = position.split(/0px 50%, (-?\d+(\.\d+)?)px/);
-        var largeur = Number(pos[1]);
-        var position = $('#Home').css('backgroundPosition');
         animate = function () {
-            if( $('body').height() < 976 ) {
-                var position = $('#Home').css('backgroundPosition');
-                var pos = position.split(/(-?\d+(\.\d+)?)px 50%, (-?\d+(\.\d+)?)px 50%, (-?\d+(\.\d+)?)px 50%, (-?\d+(\.\d+)?)px 50%, (-?\d+(\.\d+)?)px 50%/);
-                $('#Home').css( 'backgroundPosition', (Number(pos[1])-.2)+'px 50%,'+(Number(pos[3])-.2)+'px 50%,'+(Number(pos[5])-.2)+'px 50%,'+(Number(pos[7])-.2)+'px 50%,'+(Number(pos[9])-.2)+'px 50%' );
-                
-                if( Number(pos[1]) < -largeur*4 ) {
-                    $('#Home').css( 'backgroundPosition', '0px 50%,'+largeur+'px 50%,'+largeur*2+'px 50%,'+largeur*3+'px 50%,'+largeur*4+'px 50%' );
-                }
-            } else {
-                $('#Home').css( 'backgroundPosition', '0px 50%,'+largeur+'px 50%,'+largeur*2+'px 50%,'+largeur*3+'px 50%,'+largeur*4+'px 50%' );
-            }
+            if( hauteur < 976 ) {
+                step  = step-.5;
+                if( step < -largeur*4 ) step = 0;
+                $('#Home').css( 'backgroundPosition', step+'px 50%,'+(largeur+step)+'px 50%,'+(largeur*2+step)+'px 50%,'+(largeur*3+step)+'px 50%,'+(largeur*4+step)+'px 50%' );
+            } else
+                $('#Home').css( 'backgroundPosition', 'inherit' );
             
             requestAnimationFrame( this.animate.bind(this) );
         }
@@ -127,16 +127,6 @@
     <section id="Video">
 
         <h2><span>Video</span></h2>
-        
-        <object class="video"><param value="http://youtube.com/v/hLXUbY7Cg8g" name="movie">
-            <param value="transparent" name="wmode">
-            <embed width="100%" height="100%" wmode="transparent" type="application/x-shockwave-flash" src="http://youtube.com/v/hLXUbY7Cg8g">
-        </object>
-        
-        <object class="video"><param value="http://youtube.com/v/4qvqy5fXRjM" name="movie">
-            <param value="transparent" name="wmode">
-            <embed width="100%" height="100%" wmode="transparent" type="application/x-shockwave-flash" src="http://youtube.com/v/4qvqy5fXRjM">
-        </object>
         
         <iframe class="video" src="http://www.youtube.com/embed/hLXUbY7Cg8g" frameborder="0"></iframe>
         <iframe class="video" src="http://www.youtube.com/embed/4qvqy5fXRjM" frameborder="0"></iframe>

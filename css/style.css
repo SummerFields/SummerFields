@@ -21,10 +21,15 @@ body {
 	background-color: #fff;
     border: 1px solid;
     margin: 0 auto 3em;
-    width: 80%;
+    width: 100%;
 	max-width: 961px;
     display: block;
-	min-height: 430px;
+	min-height: inherit;
+}
+@media ( min-width: 43em) {
+	.flexslider, .video {
+		width: 43em;
+	}
 }
 .flex-control-nav {
     bottom: 0;
@@ -35,7 +40,6 @@ body {
 #nav {
     background: #000000;
     font-size: 0.9em;
-    height: 1.7em;
     left: 0;
     margin: 0;
     position: fixed;
@@ -69,7 +73,7 @@ body {
 
 section {
     min-height: 100%;
-    padding: 3em 0 1px;
+    padding: 3em 0 3em;
 	background-image: url("../img/wool_colored_light_blue.png");
 	background-attachment: fixed;
 	background-position: 0px top;
@@ -98,11 +102,20 @@ h2 span {
 }
 
 .fixe {
-    text-align: center;
-    margin: 2em auto;
-    width: 43em;
+    text-align: left;
+    margin: 2em auto 0;
+    width: 100%;
     background: rgba(0, 0, 0, 0.64);
-    padding: 3em;
+	padding: 4%;
+	font-size: 83%;
+}
+@media ( min-width: 43em) {
+	.fixe {
+		text-align: center;
+		width: 43em;
+		padding: 3em 3em 2em;
+		font-size: 1em;
+	}
 }
 
 /* section Home */
@@ -114,40 +127,73 @@ h2 span {
     background-size: auto 480px;
     text-align: center;
 }
-@media ( min-height: 480px) {
+@media ( min-height: 481px) {
 	#Home {
 		background-image: url("../panorama/panorama_768_1.png"), url("../panorama/panorama_768_2.png"), url("../panorama/panorama_768_3.png"), url("../panorama/panorama_768_4.png"), url("../panorama/panorama_768_1.png");
 		background-position: 0 center, 961px center, 1922px center, 2883px center, 3844px center;
 		background-size: auto 768px;
 	}
 }
-@media ( min-height: 768px) {
+@media ( min-height: 769px) {
 	#Home {
 		background-image: url("../panorama/panorama_976_1.png"), url("../panorama/panorama_976_2.png"), url("../panorama/panorama_976_3.png"), url("../panorama/panorama_976_4.png"), url("../panorama/panorama_976_1.png");
 		background-position: 0 center, 1221px center, 2442px center, 3663px center, 4884px center;
 		background-size: auto 976px;
 	}
 }
-@media ( min-height: 976px) {
+@media ( min-height: 977px) {
 	#Home {
 		background-image: url("../panorama/panorama_976_1.png");
 		background-position: center center;
 		background-size: cover;
 	}
 }
+
 #Home h2 {
 	background-image: url("../img/logo.png");
-    width: 512px;
+    width: 290px;
+    background-size: 290px;
+    background-repeat: no-repeat;
+    height: 52px;
+    margin: 1em auto;
 	border-image: 0;
     border-width: 0;
 }
+@media ( min-width: 531px) {
+	#Home h2 {
+		width: 512px;
+		height: 92px;
+		background-size: auto;
+	}
+}
 
 .button.dl {
-    background: url("../img/pack.png") no-repeat 0 0 / 100% auto;
-    display: inline-block;
-    height: 13em;
-    margin: 2em;
-    width: 13em;
+	-webkit-border-image: url(../img/buttonhover.png) 6 6 6 6 repeat stretch;
+	   -moz-border-image: url(../img/buttonhover.png) 6 6 6 6 repeat stretch;
+	     -o-border-image: url(../img/buttonhover.png) 6 6 6 6 repeat stretch;
+			border-image: url(../img/buttonhover.png) 6 6 6 6 fill repeat stretch;
+    border-style: solid;
+    border-width: 6px 6px 6px 6px;
+    display: block;
+    width: 10em;
+	color: #291803;
+	font-weight: bold;
+	text-decoration: none;
+	text-shadow: white 1px 1px;
+	margin: 1em auto;
+}
+.button.dl .hide { display: inline; }
+
+@media ( min-width: 830px) {
+	.button.dl {
+		background: url("../img/pack.png") no-repeat 0 0 / 100% auto;
+		display: inline-block;
+		height: 13em;
+		margin: 2em;
+		width: 13em;
+		border: 0;
+	}
+	.button.dl .hide { display: none; }
 }
 
 @-moz-keyframes pulse {
@@ -175,16 +221,26 @@ h2 span {
 	        animation: 1s ease-in-out 0s alternate none infinite pulse;
     color: #FFFF00;
     font-family: "Minecraft" !important;
-    margin-left: -24px;
-    margin-top: 147px;
+    font-size: 0.9em;
+    margin-left: -10em;
+    margin-top: 1em;
     position: absolute;
+    text-align: right;
     text-shadow: 4px 4px 1px #3F3F00;
-    font-size: 20px;
 	-webkit-transform: rotate(-10deg);
 	   -moz-transform: rotate(-10deg);
 	    -ms-transform: rotate(-10deg);
 	      o-transform: rotate(-10deg);
 	        transform: rotate(-10deg);
+    width: 14em;
+}
+
+@media ( min-width: 830px) {
+	.button.dl span.splash {
+		font-size: 1.2em;
+		margin-left: -7em;
+		margin-top: 9em;
+	}
 }
 
 
@@ -205,10 +261,16 @@ h2 span {
 
 #Signature { background-image: url("../img/wool_colored_red.png"); }
 #Signature h2 span {
-    font-size: 1.2em;
-    line-height: 1.0em;
-    margin-top: -0.5em;
     display: block;
+    font-size: 0.8em;
+    line-height: 1em;
+    margin-top: -0.2em;
+}
+@media ( min-width: 531px) {
+	#Signature h2 span {
+		font-size: 1.2em;
+		margin-top: -0.5em;
+	}
 }
 #Signature dd {
     text-align: left;

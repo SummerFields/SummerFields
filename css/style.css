@@ -26,10 +26,19 @@ body {
     display: block;
 	min-height: inherit;
 }
+.video {
+	height: 14em;
+}
+@media ( min-width: 23em) {
+	.video {
+		height: 20em;
+	}
+}
 @media ( min-width: 43em) {
 	.flexslider, .video {
 		width: 43em;
 	}
+	.video { height: 27em; }
 }
 .flex-control-nav {
     bottom: 0;
@@ -49,8 +58,8 @@ body {
 }
 #nav .list-inline {
     margin: auto;
-	width: -moz-fit-content;
     width: -webkit-fit-content;
+	width: -moz-fit-content;
     width: fit-content;
 }
 #nav .list-inline li {
@@ -60,6 +69,10 @@ body {
     line-height: 1em;
     padding: 0 0.6em;
 	margin: 0;
+}
+#nav .list-inline li a.inert {
+    color: #888;
+    cursor: default;
 }
 #nav .list-inline li:last-child { border: 0; }
 #nav .list-inline li a {
@@ -87,7 +100,9 @@ h2 {
     border-style: solid;
     border-width: 24px 46px 32px 32px;
     text-align: center;
-    width: -moz-fit-content;
+    width: -webkit-fit-content;
+	width: -moz-fit-content;
+    width: fit-content;
     display: block;
     height: 92px;
     margin: 2em auto;
@@ -156,7 +171,10 @@ h2 span {
     background-repeat: no-repeat;
     height: 52px;
     margin: 1em auto;
-	border-image: 0;
+	-webkit-border-image: 0;
+	   -moz-border-image: 0;
+	     -o-border-image: 0;
+	        border-image: 0;
     border-width: 0;
 }
 @media ( min-width: 531px) {

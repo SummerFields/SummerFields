@@ -87,16 +87,16 @@ body {
 section {
     min-height: 100%;
     padding: 3em 0 3em;
-	background-image: url("../img/wool_colored_light_blue.png");
+	background-image: url("../img/wool_colored_light_blue.min.png");
 	background-attachment: fixed;
 	background-position: 0px top;
 	box-shadow: 0 0.5em 0.5em rgba(0, 0, 0, 0.67) inset;
 }
 h2 {
-	-webkit-border-image: url(../img/woodback.png) 24 46 32 32 fill repeat stretch;
-	   -moz-border-image: url(../img/woodback.png) 24 46 32 32 fill repeat stretch;
-	     -o-border-image: url(../img/woodback.png) 24 46 32 32 fill repeat stretch;
-	        border-image: url(../img/woodback.png) 24 46 32 32 fill repeat stretch;
+	-webkit-border-image: url(../img/woodback.min.png) 24 46 32 32 fill repeat stretch;
+	   -moz-border-image: url(../img/woodback.min.png) 24 46 32 32 fill repeat stretch;
+	     -o-border-image: url(../img/woodback.min.png) 24 46 32 32 fill repeat stretch;
+	        border-image: url(../img/woodback.min.png) 24 46 32 32 fill repeat stretch;
     border-style: solid;
     border-width: 24px 46px 32px 32px;
     text-align: center;
@@ -136,7 +136,7 @@ h2 span {
 /* section Home */
 
 #Home {
-    background-image: url("../panorama/panorama_480_1.png"), url("../panorama/panorama_480_2.png"), url("../panorama/panorama_480_3.png"), url("../panorama/panorama_480_4.png"), url("../panorama/panorama_480_1.png");
+    background-image: url("../panorama/panorama_480_1.min.jpg"), url("../panorama/panorama_480_2.min.jpg"), url("../panorama/panorama_480_3.min.jpg"), url("../panorama/panorama_480_4.min.jpg"), url("../panorama/panorama_480_1.min.jpg");
     background-position: 0 center, 600px center, 1200px center, 1800px center, 2400px center;
     background-repeat: no-repeat;
     background-size: auto 480px;
@@ -144,28 +144,28 @@ h2 span {
 }
 @media ( min-height: 481px) {
 	#Home {
-		background-image: url("../panorama/panorama_768_1.png"), url("../panorama/panorama_768_2.png"), url("../panorama/panorama_768_3.png"), url("../panorama/panorama_768_4.png"), url("../panorama/panorama_768_1.png");
+		background-image: url("../panorama/panorama_768_1.min.jpg"), url("../panorama/panorama_768_2.min.jpg"), url("../panorama/panorama_768_3.min.jpg"), url("../panorama/panorama_768_4.min.jpg"), url("../panorama/panorama_768_1.min.jpg");
 		background-position: 0 center, 961px center, 1922px center, 2883px center, 3844px center;
 		background-size: auto 768px;
 	}
 }
 @media ( min-height: 769px) {
 	#Home {
-		background-image: url("../panorama/panorama_976_1.png"), url("../panorama/panorama_976_2.png"), url("../panorama/panorama_976_3.png"), url("../panorama/panorama_976_4.png"), url("../panorama/panorama_976_1.png");
+		background-image: url("../panorama/panorama_976_1.min.jpg"), url("../panorama/panorama_976_2.min.jpg"), url("../panorama/panorama_976_3.min.jpg"), url("../panorama/panorama_976_4.min.jpg"), url("../panorama/panorama_976_1.min.jpg");
 		background-position: 0 center, 1221px center, 2442px center, 3663px center, 4884px center;
 		background-size: auto 976px;
 	}
 }
 @media ( min-height: 977px) {
 	#Home {
-		background-image: url("../panorama/panorama_976_1.png");
+		background-image: url("../panorama/panorama_976_2.min.jpg");
 		background-position: center center;
 		background-size: cover;
 	}
 }
 
 #Home h2 {
-	background-image: url("../img/logo.png");
+	background-image: url("../img/logo.min.png");
     width: 290px;
     background-size: 290px;
     background-repeat: no-repeat;
@@ -186,10 +186,10 @@ h2 span {
 }
 
 .button.dl {
-	-webkit-border-image: url(../img/buttonhover.png) 6 6 6 6 repeat stretch;
-	   -moz-border-image: url(../img/buttonhover.png) 6 6 6 6 repeat stretch;
-	     -o-border-image: url(../img/buttonhover.png) 6 6 6 6 repeat stretch;
-			border-image: url(../img/buttonhover.png) 6 6 6 6 fill repeat stretch;
+	-webkit-border-image: url(../img/buttonhover.min.png) 6 6 6 6 repeat stretch;
+	   -moz-border-image: url(../img/buttonhover.min.png) 6 6 6 6 repeat stretch;
+	     -o-border-image: url(../img/buttonhover.min.png) 6 6 6 6 repeat stretch;
+			border-image: url(../img/buttonhover.min.png) 6 6 6 6 fill repeat stretch;
     border-style: solid;
     border-width: 6px 6px 6px 6px;
     display: block;
@@ -204,7 +204,7 @@ h2 span {
 
 @media ( min-width: 830px) {
 	.button.dl {
-		background: url("../img/pack.png") no-repeat 0 0 / 100% auto;
+		background: url("../img/pack.min.png") no-repeat 0 0 / 100% auto;
 		display: inline-block;
 		height: 13em;
 		margin: 2em;
@@ -212,10 +212,10 @@ h2 span {
 		border: 0;
 	}
 	#dl-addon-3d.button.dl {
-		background: url("../img/pack3d.png") no-repeat 0 0 / 100% auto;
+		background: url("../img/pack3d.min.png") no-repeat 0 0 / 100% auto;
 	}
 	#dl-full-mcpatcher.button.dl {
-		background: url("../img/packmcpatcher.png") no-repeat 0 0 / 100% auto;
+		background: url("../img/packmcpatcher.min.png") no-repeat 0 0 / 100% auto;
 	}
 	.button.dl .hide { display: none; }
 }
@@ -270,20 +270,20 @@ h2 span {
 
 /* section image */
 
-#Image { background-image: url("../img/wool_colored_gray.png"); }
+#Image { background-image: url("../img/wool_colored_gray.min.png"); }
 
 /* section video */
 
-#Video { background-image: url("../img/wool_colored_green.png"); }
+#Video { background-image: url("../img/wool_colored_green.min.png"); }
 
 /* section faq */
 
-#FAQ { background-image: url("../img/wool_colored_cyan.png"); }
+#FAQ { background-image: url("../img/wool_colored_cyan.min.png"); }
 #FAQ .fixe { text-align: left; }
 
 /* section signature */
 
-#Signature { background-image: url("../img/wool_colored_red.png"); }
+#Signature { background-image: url("../img/wool_colored_red.min.png"); }
 #Signature h2 span {
     display: block;
     font-size: 0.8em;

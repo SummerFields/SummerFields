@@ -211,6 +211,12 @@ h2 span {
 		width: 13em;
 		border: 0;
 	}
+	#dl-addon-3d.button.dl {
+		background: url("../img/pack3d.png") no-repeat 0 0 / 100% auto;
+	}
+	#dl-full-mcpatcher.button.dl {
+		background: url("../img/packmcpatcher.png") no-repeat 0 0 / 100% auto;
+	}
 	.button.dl .hide { display: none; }
 }
 

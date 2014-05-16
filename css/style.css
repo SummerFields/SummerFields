@@ -199,23 +199,28 @@ h2 span {
 	text-decoration: none;
 	text-shadow: white 1px 1px;
 	margin: 1em auto;
+	background-size: 0 0;
 }
 .button.dl .hide { display: inline; }
 
 @media ( min-width: 830px) {
 	.button.dl {
-		background: url("../img/pack.min.png") no-repeat 0 0 / 100% auto;
+		-webkit-border-image: url(../img/pack-border.min.png) 14 17 17 15 stretch;
+		   -moz-border-image: url(../img/pack-border.min.png) 14 17 17 15 stretch;
+			 -o-border-image: url(../img/pack-border.min.png) 14 17 17 15 stretch;
+				border-image: url(../img/pack-border.min.png) 14 17 17 15 stretch;
+		border-width: 14px 17px 17px 15px;
+	
 		display: inline-block;
-		height: 13em;
+		height: 14em;
 		margin: 2em;
-		width: 13em;
-		border: 0;
-	}
-	#dl-addon-3d.button.dl {
-		background: url("../img/pack3d.min.png") no-repeat 0 0 / 100% auto;
-	}
-	#dl-full-mcpatcher.button.dl {
-		background: url("../img/packmcpatcher.min.png") no-repeat 0 0 / 100% auto;
+		width: 14em;
+		background-size: 100% 100%;
+		image-rendering: -webkit-optimize-contrast;
+		image-rendering: -moz-crisp-edges;
+		image-rendering: -o-crisp-edges;
+		-ms-interpolation-mode: nearest-neighbor;
+		background-repeat: no-repeat;
 	}
 	.button.dl .hide { display: none; }
 }

@@ -1,7 +1,7 @@
 [SummerFields][4]
 =================
 
-the [site][4]
+The [Site of SummerFields][4]
 
 Welcome everyone! This is SummerFields, the marvelous texture pack
 started by LithiumSound and now continued by me, CuddleWoozle.
@@ -13,7 +13,7 @@ I, CuddleWoozle, have updated SummerFields to be compatible with the 1.5 Minecra
 
 I take absolutely no credit for Lithium's original work.  I am only updating this pack while he is gone so that people can continue to enjoy SummerFields.
 
-source of inspiration and thanks
+Source of inspiration and thanks
 --------------------------------
 
 * [Jolicraft][1], the first !
@@ -21,7 +21,7 @@ source of inspiration and thanks
 * [Notch][3] ! for the beautiful dark blue water & the ultra red lava ! =D
 * Milktache, for setting up SummerFields on the customizer !
 
-mod support for SummerFields
+Mod support for SummerFields
 ----------------------------
 
 If you play with some mod, you should download mod support for summerfields :

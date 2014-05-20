@@ -43,11 +43,6 @@ If you play with some mod, you should download mod support for summerfields :
     
 ----------------
 
- - **19/05/2014 :**
-    - new mojang logo
-    - bug fix for grass random
-    - new texture for wooden planks
-
  - **8/05/2014 :**
     - best new plant
     - rotation of redstone_dust_line.png

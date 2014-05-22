@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 [SummerFields][4]
 =================
+=======
+﻿[![SummerFields] (http://cuddlewoozle.github.io/SummerFields/signature/sign2.png) ] (http://cuddlewoozle.github.io/SummerFields)
+
+Thanks
+------
+* Jolicraft, my first source of inspiration !
+http://www.jolicraft.com/
+>>>>>>> 1.7
 
 the [site][4]
 
@@ -16,6 +25,7 @@ I take absolutely no credit for Lithium's original work.  I am only updating thi
 source of inspiration and thanks
 --------------------------------
 
+<<<<<<< HEAD
 * [Jolicraft][1], the first !
 * [LB Photo Realisme][2], for the damage animation !
 * [Notch][3] ! for the beautiful dark blue water & the ultra red lava ! =D
@@ -23,6 +33,10 @@ source of inspiration and thanks
 
 mod support for SummerFields
 ----------------------------
+=======
+MOD Support   
+-----------
+>>>>>>> 1.7
 
 If you play with some mod, you should download mod support for summerfields :
  - On the summerfields thread you can download all of them.
@@ -40,6 +54,7 @@ If you play with some mod, you should download mod support for summerfields :
 	NO LINK YET !
 	Comming December 31 2011 ! 
 	Check Summerfields thread if the date is passed !
+<<<<<<< HEAD
     
 ----------------
 
@@ -75,6 +90,68 @@ If you play with some mod, you should download mod support for summerfields :
     fire_layer_0.png.mcmeta
     fire_layer_1.png
     fire_layer_1.png.mcmeta
+=======
+
+Note 
+----
+        
+I, CuddleWoozle, have updated SummerFields to be compatible with the 1.5 Minecraft release.  I have also filled in a lot of missing textures.
+
+I take absolutely no credit for Lithium's original work.  I am only updating this pack while he is gone so that people can continue to enjoy SummerFields.
+
+History
+-------
+
+8/05/2014 :
+best new plant
+rotation of redstone_dust_line.png
+Enderman head
+new steve skin
+enchanting table with lapis
+new mojang logo
+new iron trapdooor
+new slime block
+new 3 stone
+new endermite
+new for 1.8
+
+21/11/2013 :
+  Modifié
+  -------
+  
+* clay.png
+  - To make it more compatible with blocks hardened clay.
+  
+* furnace_front_on.png
+* furnace_front_on.png.mcmeta
+  command_block.png
+  command_block.png.mcmeta
+  blaze_rod.png
+  blaze_rod.png.mcmeta
+  - New animated \o/
+  
+* diamond_ore.png
+  diamond_ore.png.mcmeta
+  tallgrass.png
+  tallgrass.png.mcmeta
+  - More lightweight.
+  
+* fire_layer_0.png
+  fire_layer_0.png.mcmeta
+  fire_layer_1.png
+  fire_layer_1.png.mcmeta
+  - New fire.
+  
+* comparator_on.png
+  comparator_off.png
+  repeater_on.png
+  repeater_off.png
+  - Show the ability to connect it to the side.
+  
+* comparator.png
+  repeater.png
+  - Finally real items
+>>>>>>> 1.7
   
    - *Show the ability to connect it to the side.*
     comparator_on.png

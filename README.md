@@ -1,3 +1,7 @@
+﻿[![SummerFields] (http://cuddlewoozle.github.io/SummerFields/signature/sign2.png) ] (http://cuddlewoozle.github.io/SummerFields)
+
+Thanks
+------
 * Jolicraft, my first source of inspiration !
 http://www.jolicraft.com/
 
@@ -19,8 +23,8 @@ http://www.minecraft.net
 
 *SilverLimit for the new quartz block textures!
 
-		----------------
-
+MOD Support   
+-----------
 
 If you play with some mod, you should download mod support for summerfields :
 - On the summerfields thread you can download all of them.
@@ -38,14 +42,16 @@ If you play with some mod, you should download mod support for summerfields :
 	NO LINK YET !
 	Comming December 31 2011 ! 
 	Check Summerfields thread if the date is passed !
-    
-		----------------
+
+Note 
+----
         
 I, CuddleWoozle, have updated SummerFields to be compatible with the 1.5 Minecraft release.  I have also filled in a lot of missing textures.
 
 I take absolutely no credit for Lithium's original work.  I am only updating this pack while he is gone so that people can continue to enjoy SummerFields.
 
-		----------------
+History
+-------
 
 8/05/2014 :
 best new plant

@@ -136,7 +136,7 @@ h2 span {
 /* section Home */
 
 #Home {
-    background-image: url("../panorama/panorama_480_1.min.jpg"), url("../panorama/panorama_480_2.min.jpg"), url("../panorama/panorama_480_3.min.jpg"), url("../panorama/panorama_480_4.min.jpg"), url("../panorama/panorama_480_1.min.jpg");
+    background-image: url("../panorama/panorama2/480_1.min.jpg"), url("../panorama/panorama2/480_2.min.jpg"), url("../panorama/panorama2/480_3.min.jpg"), url("../panorama/panorama2/480_4.min.jpg"), url("../panorama/panorama2/480_1.min.jpg");
     background-position: 0 center, 600px center, 1200px center, 1800px center, 2400px center;
     background-repeat: no-repeat;
     background-size: auto 480px;
@@ -144,21 +144,21 @@ h2 span {
 }
 @media ( min-height: 481px) {
 	#Home {
-		background-image: url("../panorama/panorama_768_1.min.jpg"), url("../panorama/panorama_768_2.min.jpg"), url("../panorama/panorama_768_3.min.jpg"), url("../panorama/panorama_768_4.min.jpg"), url("../panorama/panorama_768_1.min.jpg");
+		background-image: url("../panorama/panorama2/768_1.min.jpg"), url("../panorama/panorama2/768_2.min.jpg"), url("../panorama/panorama2/768_3.min.jpg"), url("../panorama/panorama2/768_4.min.jpg"), url("../panorama/panorama2/768_1.min.jpg");
 		background-position: 0 center, 961px center, 1922px center, 2883px center, 3844px center;
 		background-size: auto 768px;
 	}
 }
 @media ( min-height: 769px) {
 	#Home {
-		background-image: url("../panorama/panorama_976_1.min.jpg"), url("../panorama/panorama_976_2.min.jpg"), url("../panorama/panorama_976_3.min.jpg"), url("../panorama/panorama_976_4.min.jpg"), url("../panorama/panorama_976_1.min.jpg");
+		background-image: url("../panorama/panorama2/976_1.min.jpg"), url("../panorama/panorama2/976_2.min.jpg"), url("../panorama/panorama2/976_3.min.jpg"), url("../panorama/panorama2/976_4.min.jpg"), url("../panorama/panorama2/976_1.min.jpg");
 		background-position: 0 center, 1221px center, 2442px center, 3663px center, 4884px center;
 		background-size: auto 976px;
 	}
 }
 @media ( min-height: 977px) {
 	#Home {
-		background-image: url("../panorama/panorama_976_2.min.jpg");
+		background-image: url("../panorama/panorama2/976_4.min.jpg");
 		background-position: center center;
 		background-size: cover;
 	}
@@ -272,6 +272,40 @@ h2 span {
 	}
 }
 
+/* section download */
+
+#Download { background-image: url("../img/wool_colored_black.min.png"); }
+#Download .fixe {
+    height: 60%;
+    max-width: 488px;
+    padding: 9px 4px;
+}
+#Download h3 {
+    border-style: solid;
+    border-width: 0 0 2px;
+    font-family: Minecraft;
+    font-weight: bold;
+    margin: -0.2em auto 0.5em;
+    width: -webkit-fit-content;
+	width: -moz-fit-content;
+    width: fit-content;
+}
+#Download .dl {
+    background-size: auto auto;
+    border: 0 none;
+    color: #FFFFFF;
+    font-family: Minecraft;
+    font-weight: normal;
+    height: 64px;
+    margin: 0 0 10px;
+    padding: 0 0 0 74px;
+    text-shadow: none;
+    width: auto;
+    background-repeat: no-repeat;
+    display: block;
+    text-align: left;
+    text-decoration: none;
+}
 
 /* section image */
 

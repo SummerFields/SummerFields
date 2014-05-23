@@ -291,7 +291,7 @@ h2 span {
     width: fit-content;
 }
 #Download .dl {
-    background-size: auto auto;
+    background-size: 64px;
     border: 0 none;
     color: #FFFFFF;
     font-family: Minecraft;

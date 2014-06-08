@@ -26,21 +26,25 @@ Thanks
 
 * Lipki, for making the horse armor, markings and horses (and, initially, converting the texture pack to a resource pack)!
 
-* SilverLimit for the new quartz block textures!
+* SilverLimit, for the new quartz block textures!
+
+* Card, for Feed the Beast mod support.
 
 MOD Support   
 -----------
 
 If you play with some mod, you should download mod support for summerfields. On the summerfields thread you can download all of them.
 
-* [Tale of kingdoms - Support] (http://adf.ly/4AC20)
+* [Feed the Beast - Support] (http://forum.feed-the-beast.com/threads/32x-summerfields-1-5-2-1-6-4-wip-updated-05-16-14.26561/)
+
+* [Tale of Kingdoms - Support] (http://adf.ly/4AC20)
 
 * [ClaySoldiers - Support] (http://adf.ly/4EurC)
 
 * [Wurstknifte's Bookmod - Support] (http://adf.ly/4ABx8)
 
 * Better Than Wolves - Support
-  - NO LINK YET !
+  - [ ] NO LINK YET !
 
 History of recent updates
 -------------------------

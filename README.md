@@ -15,6 +15,10 @@ http://www.minecraft.net
 
 * CuddleWoozle, for the alternate cow & sheep.
 
+*Lipki, for making the horse armor, markings and horses!  (And initially converting the texture pack to a resource pack.)
+
+*SilverLimit for the new quartz block textures!
+
 		----------------
 
 
@@ -36,20 +40,19 @@ If you play with some mod, you should download mod support for summerfields :
 	Check Summerfields thread if the date is passed !
     
 		----------------
-
-5/7/2013 : RP1
-Fixed file structure so the .zip is recognized by Minecraft.
-Updated this thread and added more mod support!
-Changed the Hay Bale slightly.
-
-13/3/2013 : R31
-
-13/3/2013 :
+        
 I, CuddleWoozle, have updated SummerFields to be compatible with the 1.5 Minecraft release.  I have also filled in a lot of missing textures.
 
 I take absolutely no credit for Lithium's original work.  I am only updating this pack while he is gone so that people can continue to enjoy SummerFields.
 
----
+		----------------
+
+5/7/2013 :
+Fixed file structure so the .zip is recognized by Minecraft.
+Updated this thread and added more mod support!
+Changed the Hay Bale slightly.
+
+13/3/2013 :
 
 List of CuddleWoozle created textures
 

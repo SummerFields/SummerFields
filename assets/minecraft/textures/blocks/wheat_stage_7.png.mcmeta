@@ -1,0 +1,15 @@
+{
+  animation: {
+    frametime: 3,
+	frames:[
+		2,
+		3,
+		{index:4,time:24},
+		3,
+		2,
+		1,
+		{index:0,time:24},
+		1
+	]
+  }
+}

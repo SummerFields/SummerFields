@@ -1,21 +1,21 @@
 {
     "__comment": "Fair warning, this format is highly likely to change even more in the future!",
     "variants": {
-        "none": { "model": "r_bars_o" },
-        "n": { "model": "r_bars_i", "y": 180 },
-        "e": { "model": "r_bars_i", "y": -90 },
-        "s": { "model": "r_bars_i" },
-        "w": { "model": "r_bars_i", "y": 90 },
-        "ne": { "model": "r_bars_J", "y": -90 },
-        "es": { "model": "r_bars_J" },
-        "sw": { "model": "r_bars_J", "y": 90 },
-        "nw": { "model": "r_bars_J", "y": 180 },
-        "ns": { "model": "r_bars_I" },
-        "ew": { "model": "r_bars_I", "y": 90 },
-        "nse": { "model": "r_bars_T" },
-        "sew": { "model": "r_bars_T", "y": 90 },
-        "swn": { "model": "r_bars_T", "y": 180 },
-        "new": { "model": "r_bars_T", "y": 270 },
-        "nsew": { "model": "r_bars_+" }
+        "east=false,north=false,south=false,west=false": { "model": "r_bars_o" },
+        "east=false,north=true,south=false,west=false": { "model": "r_bars_i", "y": 180 },
+        "east=true,north=false,south=false,west=false": { "model": "r_bars_i", "y": -90 },
+        "east=false,north=false,south=true,west=false": { "model": "r_bars_i" },
+        "east=false,north=false,south=false,west=true": { "model": "r_bars_i", "y": 90 },
+        "east=true,north=true,south=false,west=false": { "model": "r_bars_J", "y": -90 },
+        "east=true,north=false,south=true,west=false": { "model": "r_bars_J" },
+        "east=false,north=false,south=true,west=true": { "model": "r_bars_J", "y": 90 },
+        "east=false,north=true,south=false,west=true": { "model": "r_bars_J", "y": 180 },
+        "east=false,north=true,south=true,west=false": { "model": "r_bars_I" },
+        "east=true,north=false,south=false,west=true": { "model": "r_bars_I", "y": 90 },
+        "east=true,north=true,south=true,west=false": { "model": "r_bars_T" },
+        "east=true,north=false,south=true,west=true": { "model": "r_bars_T", "y": 90 },
+        "east=false,north=true,south=true,west=true": { "model": "r_bars_T", "y": 180 },
+        "east=true,north=true,south=false,west=true": { "model": "r_bars_T", "y": 270 },
+        "east=true,north=true,south=true,west=true": { "model": "r_bars_+" }
     }
 }

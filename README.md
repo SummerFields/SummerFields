@@ -1,4 +1,4 @@
-﻿[![SummerFields] (http://cuddlewoozle.github.io/SummerFields/signature/sign2.png) ] (http://cuddlewoozle.github.io/SummerFields)
+﻿[![SummerFields] (http://cuddlewoozle.github.io/SummerFields/signature/sign2.png) ] (http://summerfields.github.io/official/)
 
 Note 
 ----
@@ -10,11 +10,11 @@ Note
 Thanks
 ------
 
-[Jolicraft] (http://www.jolicraft.com/) - My first source of inspiration!
+* [Jolicraft] (http://www.jolicraft.com/) - My first source of inspiration!
 
-[LB Photo Realisme] (http://www.minecraftforum.net/viewtopic.php?t=136785) - For the damage animation!
+* [LB Photo Realisme] (http://www.minecraftforum.net/viewtopic.php?t=136785) - For the damage animation!
 
-[Notch] (http://www.minecraft.net) - For the beautiful dark blue water & the ultra red lava! =D
+* [Notch] (http://www.minecraft.net) - For the beautiful dark blue water & the ultra red lava! =D
 
 * Milktache, for setting up SummerFields on the customizer!
 
@@ -24,7 +24,7 @@ Thanks
 
 * CuddleWoozle, for the alternate cow & sheep.
 
-* Lipki, for making the horse armor, markings and horses (and, initially, converting the texture pack to a resource pack)!
+* Lipki, for making the horse armor, markings and horses(and, initially, converting the texture pack to a resource pack)!
 
 * SilverLimit, for the new quartz block textures!
 
@@ -46,7 +46,7 @@ If you play with some mod, you should download mod support for summerfields. On 
 * Better Than Wolves - Support
   - NO LINK YET !
 
-History of recent updates
+History of Recent Updates
 -------------------------
 
 8/05/2014 :

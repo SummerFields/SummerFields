@@ -48,12 +48,14 @@ vvv /!\ must be checked vvv
 History of Recent Updates
 -------------------------
 
-3/08/2014 : Release 1.7.10
+4/08/2014 : Release 1.7.10
 * Changes
   - comparator & repeater & detector rail by [muink] (https://github.com/muink)
-  - flower by [2LEPRECHAUN] (https://github.com/2LEPRECHAUN)
   - record texture mend by [muink] (https://github.com/muink)
+  - Multiple interface correction by [muink] (https://github.com/muink)
+  - flower by [2LEPRECHAUN] (https://github.com/2LEPRECHAUN)
   - mcpatcher correct by [2LEPRECHAUN] (https://github.com/2LEPRECHAUN)
+  - various patch and release by [lipki] (https://github.com/lipki)
  
 * Added
   - new stats_icons.png by [2LEPRECHAUN] (https://github.com/2LEPRECHAUN)

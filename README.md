@@ -36,18 +36,29 @@ MOD Support
 If you play with some mod, you should download mod support for summerfields. On the summerfields thread you can download all of them.
 
 * [Feed the Beast - Support] (http://forum.feed-the-beast.com/threads/32x-summerfields-1-5-2-1-6-4-wip-updated-05-16-14.26561/)
+* [Improving-Minecraft - Support] (https://github.com/SummerFields/Mod-Improving-Minecraft/issues)
+
+vvv /!\ must be checked vvv
 
 * [Tale of Kingdoms - Support] (http://adf.ly/4AC20)
-
 * [ClaySoldiers - Support] (http://adf.ly/4EurC)
-
 * [Wurstknifte's Bookmod - Support] (http://adf.ly/4ABx8)
-
-* Better Than Wolves - Support
-  - NO LINK YET !
+* Better Than Wolves - Support - NO LINK YET !
 
 History of Recent Updates
 -------------------------
+
+3/08/2014 : Release 1.7.10
+* Changes
+  - comparator & repeater & detector rail by [muink] (https://github.com/muink)
+  - flower by [2LEPRECHAUN] (https://github.com/2LEPRECHAUN)
+  - record texture mend by [muink] (https://github.com/muink)
+  - mcpatcher correct by [2LEPRECHAUN] (https://github.com/2LEPRECHAUN)
+ 
+* Added
+  - new stats_icons.png by [2LEPRECHAUN] (https://github.com/2LEPRECHAUN)
+  - new stream_indicator.png by [2LEPRECHAUN] (https://github.com/2LEPRECHAUN)
+  - new widgets.png by [2LEPRECHAUN] (https://github.com/2LEPRECHAUN)
 
 8/05/2014 :
 * Added support for future release 1.8

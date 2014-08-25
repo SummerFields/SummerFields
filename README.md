@@ -1,7 +1,7 @@
 ﻿[![SummerFields] (http://summerfields.github.io/official/signature/sign2.png) ] (http://summerfields.github.io/official/)
 
-Note 
-----
+Notes
+-----
         
 * LithiumSound has created SummerFields. 
 * CuddleWoozle continued the texture pack. 

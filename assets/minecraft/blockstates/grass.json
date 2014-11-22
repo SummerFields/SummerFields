@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "snowy=false": [
+            { "model": "grass_normal" }
+        ],
+        "snowy=true":  { "model": "grass_snowed" }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "lapis_ore" },
+            { "model": "random/ore/lapis/lapis_ore1" },
+            { "model": "random/ore/lapis/lapis_ore2" },
+            { "model": "random/ore/lapis/lapis_ore3" },
+            { "model": "random/ore/lapis/lapis_ore4" },
+            { "model": "random/ore/lapis/lapis_ore5" },
+            { "model": "random/ore/lapis/lapis_ore6" }
+        ]
+    }
+}

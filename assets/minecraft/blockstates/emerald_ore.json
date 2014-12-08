@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "emerald_ore" },
+            { "model": "random/ore/emerald/emerald_ore1" },
+            { "model": "random/ore/emerald/emerald_ore2" },
+            { "model": "random/ore/emerald/emerald_ore3" },
+            { "model": "random/ore/emerald/emerald_ore4" },
+            { "model": "random/ore/emerald/emerald_ore5" },
+            { "model": "random/ore/emerald/emerald_ore6" }
+        ]
+    }
+}

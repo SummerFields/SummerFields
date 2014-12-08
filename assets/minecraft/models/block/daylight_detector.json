@@ -1,0 +1,23 @@
+{
+    "__comment": "This model was created with freundTech's Blender2Minecraft converter (BETA)",
+    "textures": {
+        "daylight_detector_side": "blocks/daylight_detector_side",
+        "daylight_detector_bottom": "blocks/daylight_detector_bottom",
+        "daylight_detector_top": "blocks/daylight_detector_top",
+        "particle": "blocks/daylight_detector_inverted_top"
+    },
+    "elements": [
+        {   "__comment": "post",
+            "from": [ 0.0, 0.0, 0.0 ],
+            "to": [ 16.0, 6.0, 16.0 ],
+            "faces": {
+                "west": { "uv": [ -0.0, 10.0, 16.0, 16.0 ], "texture": "#daylight_detector_side", "rotation": 0, "cullface": "west" },
+                "north": { "uv": [ -0.0, 10.0, 16.0, 16.0 ], "texture": "#daylight_detector_side", "rotation": 0, "cullface": "north" },
+                "east": { "uv": [ -0.0, 10.0, 16.0, 16.0 ], "texture": "#daylight_detector_side", "rotation": 0, "cullface": "east" },
+                "south": { "uv": [ -0.0, 10.0, 16.0, 16.0 ], "texture": "#daylight_detector_side", "rotation": 0, "cullface": "south" },
+                "down": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#daylight_detector_bottom", "rotation": 0, "cullface": "down" },
+                "up": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#daylight_detector_top", "rotation": 0 }
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "bookshelf" },
+            { "model": "random/bookshelf/bookshelf1" },
+            { "model": "random/bookshelf/bookshelf2" },
+            { "model": "random/bookshelf/bookshelf3" },
+            { "model": "random/bookshelf/bookshelf4" },
+            { "model": "random/bookshelf/bookshelf5" },
+            { "model": "random/bookshelf/bookshelf6" },
+            { "model": "random/bookshelf/bookshelf7" },
+            { "model": "random/bookshelf/bookshelf8" }
+        ]
+    }
+}

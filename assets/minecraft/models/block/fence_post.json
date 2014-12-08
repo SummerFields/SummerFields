@@ -1,0 +1,38 @@
+{
+    "__comment": "This model was created with freundTech's Blender2Minecraft converter (BETA)",
+    "ambientocclusion": false,
+    "elements": [
+        {   "__comment": "post",
+            "from": [ 6.0, 0.0, 6.0 ],
+            "to": [ 10.0, 16.0, 10.0 ],
+            "faces": {
+                "west": { "uv": [ 6.0, 0.0, 10.0, 16.0 ], "texture": "#texture", "rotation": 0 },
+                "north": { "uv": [ 6.0, 0.0, 10.0, 16.0 ], "texture": "#texture", "rotation": 0 },
+                "east": { "uv": [ 6.0, 0.0, 10.0, 16.0 ], "texture": "#texture", "rotation": 0 },
+                "south": { "uv": [ 6.0, 0.0, 10.0, 16.0 ], "texture": "#texture", "rotation": 0 },
+                "down": { "uv": [ 12.0, 8.0, 16.0, 12.0 ], "texture": "#texture", "rotation": 0 },
+                "up": { "uv": [ 12.0, 12.0, 16.0, 16.0 ], "texture": "#texture", "rotation": 0 }
+            }
+        }
+    ],
+    "textures": {
+        "particle": "#texture"
+    },
+    "display": {
+        "firstperson": {
+            "rotation": [ 0.0, 0.0, 0.0 ],
+            "translation": [ 0.0, 0.0, 0.0 ],
+            "scale": [ 1.0, 1.0, 1.0 ]
+        },
+        "thirdperson": {
+            "rotation": [ 0.0, 0.0, 0.0 ],
+            "translation": [ 0.0, 0.0, 0.0 ],
+            "scale": [ 1.0, 1.0, 1.0 ]
+        },
+        "gui": {
+            "rotation": [ 0.0, 0.0, 0.0 ],
+            "translation": [ 0.0, 0.0, 0.0 ],
+            "scale": [ 1.0, 1.0, 1.0 ]
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "__comment": "This model was created with freundTech's Blender2Minecraft converter (BETA)",
+    "textures": {
+        "fire": "blocks/leaves_spruce",
+        "particle": "blocks/leaves_spruce"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 8.8 ],
+            "to": [ 16, 16, 8.8 ],
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": -22.5, "rescale": true },
+            "shade": false,
+            "faces": { "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#fire" }}
+        },
+        {   "from": [ 0, 0, 7.2 ],
+            "to": [ 16, 16, 7.2 ],
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 22.5, "rescale": true },
+            "shade": false,
+            "faces": { "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#fire" }}
+        },
+        {   "from": [ 8.8, 0, 0 ],
+            "to": [ 8.8, 16, 16 ],
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": -22.5, "rescale": true },
+            "shade": false,
+            "faces": { "west": { "uv": [ 0, 0, 16, 16 ], "texture": "#fire" }}
+        },
+        {   "from": [ 7.2, 0, 0 ],
+            "to": [ 7.2, 16, 16 ],
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": 22.5, "rescale": true },
+            "shade": false,
+            "faces": { "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#fire" }}
+        },
+        {   "from": [ 0, 0, 8.8 ],
+            "to": [ 16, 16, 8.8 ],
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 22.5, "rescale": true },
+            "shade": false,
+            "faces": { "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#fire" }}
+        },
+        {   "from": [ 0, 0, 7.2 ],
+            "to": [ 16, 16, 7.2 ],
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": -22.5, "rescale": true },
+            "shade": false,
+            "faces": { "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#fire" }}
+        },
+        {   "from": [ 8.8, 0, 0 ],
+            "to": [ 8.8, 16, 16 ],
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": 22.5, "rescale": true },
+            "shade": false,
+            "faces": { "west": { "uv": [ 0, 0, 16, 16 ], "texture": "#fire" }}
+        },
+        {   "from": [ 7.2, 0, 0 ],
+            "to": [ 7.2, 16, 16 ],
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": -22.5, "rescale": true },
+            "shade": false,
+            "faces": { "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#fire" }}
+        },
+        {   "from": [ 0, 0, 15.99 ],
+            "to": [ 16, 16, 15.99 ],
+            "shade": false,
+            "faces": {
+                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#fire" },
+                "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#fire" }
+            }
+        },
+        {   "from": [ 0, 0, 0.01 ],
+            "to": [ 16, 16, 0.01 ],
+            "shade": false,
+            "faces": {
+                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#fire" },
+                "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#fire" }
+            }
+        },
+        {   "from": [ 0.01, 0, 0 ],
+            "to": [ 0.01, 16, 16 ],
+            "shade": false,
+            "faces": {
+                "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#fire" },
+                "west": { "uv": [ 0, 0, 16, 16 ], "texture": "#fire" }
+            }
+        },
+        {   "from": [ 15.99, 0, 0 ],
+            "to": [ 15.99, 16, 16 ],
+            "shade": false,
+            "faces": {
+                "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#fire" },
+                "west": { "uv": [ 0, 0, 16, 16 ], "texture": "#fire" }
+            }
+        }
+    ]
+}

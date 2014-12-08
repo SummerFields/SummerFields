@@ -1,0 +1,68 @@
+{
+    "__comment": "This model was created with freundTech's Blender2Minecraft converter (BETA)",
+    "textures": {
+        "particle": "#texture"
+    },
+    "elements": [
+        {   "__comment": "North top bar",
+            "from": [ 7, 12, 0 ],
+            "to"  : [ 9, 15, 6 ],
+            "faces": {
+                "west" : { "uv": [  0,  1,  6,  4 ], "texture": "#texture" },
+                "north": { "uv": [  4, 13,  6, 16 ], "texture": "#texture", "cullface": "north" },
+                "east" : { "uv": [ 10,  1, 16,  4 ], "texture": "#texture" },
+                "south": { "uv": [  4, 13,  6, 16 ], "texture": "#texture", "cullface": "south" },
+                "down" : { "uv": [  2, 10,  0, 16 ], "texture": "#texture", "rotation": 180, "cullface": "down" },
+                "up"   : { "uv": [  2, 10,  4, 16 ], "texture": "#texture" }
+            }
+        },
+        {   "__comment": "North lower bar",
+            "from": [ 7, 6, 0 ],
+            "to"  : [ 9, 9, 6 ],
+            "faces": {
+                "west" : { "uv": [  0,  5,  6,  8 ], "texture": "#texture" },
+                "north": { "uv": [  4, 13,  6, 16 ], "texture": "#texture", "cullface": "north" },
+                "east" : { "uv": [ 10,  5, 16,  8 ], "texture": "#texture" },
+                "south": { "uv": [  4, 13,  6, 16 ], "texture": "#texture", "cullface": "south" },
+                "down" : { "uv": [  2, 10,  0, 16 ], "texture": "#texture", "rotation": 180, "cullface": "down" },
+                "up"   : { "uv": [  2, 10,  4, 16 ], "texture": "#texture" }
+            }
+        },
+        {   "__comment": "South top bar",
+            "from": [ 7, 12, 10 ],
+            "to"  : [ 9, 15, 16 ],
+            "faces": {
+                "west" : { "uv": [ 10,  1, 16,  4 ], "texture": "#texture" },
+                "north": { "uv": [  4, 13,  6, 16 ], "texture": "#texture", "cullface": "north" },
+                "east" : { "uv": [  0,  1,  6,  4 ], "texture": "#texture" },
+                "south": { "uv": [  4, 13,  6, 16 ], "texture": "#texture", "cullface": "south" },
+                "down" : { "uv": [  2, 10,  0, 16 ], "texture": "#texture", "cullface": "down"  },
+                "up"   : { "uv": [  2, 10,  4, 16 ], "texture": "#texture", "rotation": 180 }
+            }
+        },
+        {   "__comment": "South lower bar",
+            "from": [ 7, 6, 10 ],
+            "to"  : [ 9, 9, 16 ],
+            "faces": {
+                "west" : { "uv": [ 10,  5, 16,  8 ], "texture": "#texture" },
+                "north": { "uv": [  4, 13,  6, 16 ], "texture": "#texture", "cullface": "north" },
+                "east" : { "uv": [  0,  5,  6,  8 ], "texture": "#texture" },
+                "south": { "uv": [  4, 13,  6, 16 ], "texture": "#texture", "cullface": "south" },
+                "down" : { "uv": [  2, 10,  0, 16 ], "texture": "#texture", "cullface": "down"  },
+                "up"   : { "uv": [  2, 10,  4, 16 ], "texture": "#texture", "rotation": 180 }
+            }
+        },
+        {   "__comment": "Center post",
+            "from": [  6,  0,  6 ],
+            "to"  : [ 10, 16, 10 ],
+            "faces": {
+                "west" : { "uv": [  6,  0, 10, 16 ], "texture": "#texture" },
+                "north": { "uv": [  6,  0, 10, 16 ], "texture": "#texture" },
+                "east" : { "uv": [  6,  0, 10, 16 ], "texture": "#texture" },
+                "south": { "uv": [  6,  0, 10, 16 ], "texture": "#texture" },
+                "down" : { "uv": [ 12,  8, 16, 12 ], "texture": "#texture", "cullface": "down" },
+                "up"   : { "uv": [ 12, 12, 16, 16 ], "texture": "#texture", "cullface": "up"   }
+            }
+        }
+    ]
+}

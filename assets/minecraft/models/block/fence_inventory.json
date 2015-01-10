@@ -1,0 +1,20 @@
+{
+    "__comment": "This model was created with freundTech's Blender2Minecraft converter (BETA)",
+    "textures": {
+        "particle": "#texture"
+    },
+    "elements": [
+        {   "__comment": "Center post",
+            "from": [  6,  0,  6 ],
+            "to"  : [ 10, 16, 10 ],
+            "faces": {
+                "west":  { "uv": [  6,  0, 10, 16 ], "texture": "#texture" },
+                "north": { "uv": [  6,  0, 10, 16 ], "texture": "#texture" },
+                "east":  { "uv": [  6,  0, 10, 16 ], "texture": "#texture" },
+                "south": { "uv": [  6,  0, 10, 16 ], "texture": "#texture" },
+                "down":  { "uv": [ 12,  8, 16, 12 ], "texture": "#texture" },
+                "up":    { "uv": [ 12, 12, 16, 16 ], "texture": "#texture" }
+            }
+        }
+    ]
+}

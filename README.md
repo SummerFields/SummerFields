@@ -48,6 +48,32 @@ vvv /!\ must be checked vvv
 History of Recent Updates
 -------------------------
 
+12/09/2014 : Release 1.8 bêta
+* Added
+  - new spectator_widgets.png by [2LEPRECHAUN] (https://github.com/2LEPRECHAUN) and [lipki] (https://github.com/lipki)
+  - new mob textures for MCPatcher by [lipki] (https://github.com/lipki)
+  - new coarse_dirt.png by [debugman18] (https://github.com/debugman18)
+  - new mutton_raw and cooked by [lipki] (https://github.com/lipki)
+  - new daylight_detector_inverted_top.png by [lipki] (https://github.com/lipki)
+  - new banner by [lipki] (https://github.com/lipki)
+  - new red_sandstone by [lipki] (https://github.com/lipki)
+  - new armorstand by [lipki] (https://github.com/lipki)
+  - new slime block by [2LEPRECHAUN] (https://github.com/2LEPRECHAUN)
+  - new alex by [lipki] (https://github.com/lipki)
+  - new doors by [lipki] (https://github.com/lipki)
+  - new andesite diorite granite by [lipki] (https://github.com/lipki) and JacquesRemy
+  - new endermite.png by [lipki] (https://github.com/lipki)
+  - new images presets by [muink] (https://github.com/muink)
+  - new sponge wet by [muink] (https://github.com/muink)
+  - new prismarine by [2LEPRECHAUN] (https://github.com/2LEPRECHAUN) and [lipki] (https://github.com/lipki)
+  - new guardian by [lipki] (https://github.com/lipki)
+
+* Changes
+  - Optimizing the weight of the zip
+  - flower by [CuddleWoozle] (https://github.com/CuddleWoozle)
+  - cake by [2LEPRECHAUN] (https://github.com/2LEPRECHAUN)
+  - clay by [2LEPRECHAUN] (https://github.com/2LEPRECHAUN)
+
 4/08/2014 : Release 1.7.10
 * Changes
   - comparator & repeater & detector rail by [muink] (https://github.com/muink)

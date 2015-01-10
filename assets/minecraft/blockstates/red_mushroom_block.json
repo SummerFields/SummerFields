@@ -1,0 +1,53 @@
+{
+    "variants": {
+        "variant=north_west": [
+            { "model": "red_mushroom_block_nw" },
+            { "model": "random/mushroom_block/red_mushroom_block_nw1" }
+        ],
+        "variant=north": [
+            { "model": "red_mushroom_block_n" },
+            { "model": "random/mushroom_block/red_mushroom_block_n1" }
+        ],
+        "variant=north_east": [
+            { "model": "red_mushroom_block_ne" },
+            { "model": "random/mushroom_block/red_mushroom_block_ne1" }
+        ],
+        "variant=west": [
+            { "model": "red_mushroom_block_w" },
+            { "model": "random/mushroom_block/red_mushroom_block_w1" }
+        ],
+        "variant=center": [
+            { "model": "red_mushroom_block_c" },
+            { "model": "random/mushroom_block/red_mushroom_block_c1" }
+        ],
+        "variant=east": [
+            { "model": "red_mushroom_block_e" },
+            { "model": "random/mushroom_block/red_mushroom_block_e1" }
+        ],
+        "variant=south_west": [
+            { "model": "red_mushroom_block_sw" },
+            { "model": "random/mushroom_block/red_mushroom_block_sw1" }
+        ],
+        "variant=south": [
+            { "model": "red_mushroom_block_s" },
+            { "model": "random/mushroom_block/red_mushroom_block_s1" }
+        ],
+        "variant=south_east": [
+            { "model": "red_mushroom_block_se" },
+            { "model": "random/mushroom_block/red_mushroom_block_se1" }
+        ],
+        "variant=stem": [
+            { "model": "red_mushroom_block_stem" }
+        ],
+        "variant=all_stem": [
+            { "model": "red_mushroom_block_stem_all" }
+        ],
+        "variant=all_outside": [
+            { "model": "red_mushroom_block_cap_all" },
+            { "model": "random/mushroom_block/red_mushroom_block_cap_all1" }
+        ],
+        "variant=all_inside": [
+            { "model": "red_mushroom_block_inside_all" }
+        ]
+    }
+}

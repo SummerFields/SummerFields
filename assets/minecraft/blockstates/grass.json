@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "snowy=false": [
+            { "model": "grass_normal" },
+            { "model": "random/grass/grass_normal1" },
+            { "model": "random/grass/grass_normal2" },
+            { "model": "random/grass/grass_normal3" },
+            { "model": "random/grass/grass_normal4" },
+            { "model": "random/grass/grass_normal5" },
+            { "model": "random/grass/grass_normal6" },
+            { "model": "random/grass/grass_normal7" },
+            { "model": "random/grass/grass_normal8" },
+            { "model": "random/grass/grass_normal9" },
+            { "model": "random/grass/grass_normal10" }
+        ],
+        "snowy=true":  { "model": "grass_snowed" }
+    }
+}

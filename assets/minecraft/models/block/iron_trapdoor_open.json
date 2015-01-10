@@ -1,0 +1,7 @@
+{
+    "parent": "block/trapdoor_open",
+    "textures": {
+        "side": "blocks/iron_trapdoor_side",
+        "top" : "blocks/iron_trapdoor"
+    }
+}

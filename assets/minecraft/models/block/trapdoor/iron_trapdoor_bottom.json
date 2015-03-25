@@ -1,5 +1,5 @@
 {
-    "parent": "block/trapdoor_top",
+    "parent": "block/trapdoor/trapdoor_bottom",
     "textures": {
         "side": "blocks/iron_trapdoor_side",
         "top" : "blocks/iron_trapdoor"

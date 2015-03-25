@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence/fence_post",
+    "textures": {
+        "texture": "blocks/fence_big_oak"
+    }
+}

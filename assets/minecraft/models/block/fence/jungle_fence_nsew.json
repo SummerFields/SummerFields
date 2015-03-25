@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence/fence_nsew",
+    "textures": {
+        "texture": "blocks/fence_jungle"
+    }
+}

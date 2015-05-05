@@ -1,5 +1,5 @@
 {
-    "parent": "block/nether_brick_fence_inventory",
+    "parent": "block/fence/nether_brick_fence_inventory",
     "display": {
         "thirdperson": {
             "rotation"   : [ 45,     0,   180 ],

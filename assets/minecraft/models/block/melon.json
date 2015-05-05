@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable_b",
+    "textures": {
+        "top": "blocks/melon_top",
+        "bottom": "blocks/melon_bottom",
+        "front": "blocks/melon_side",
+        "side": "blocks/melon_side"
+    }
+}

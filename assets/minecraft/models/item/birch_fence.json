@@ -1,5 +1,5 @@
 {
-    "parent": "block/birch_fence_inventory",
+    "parent": "block/fence/birch_fence_inventory",
     "display": {
         "thirdperson": {
             "rotation"   : [ 45,     0,   180 ],

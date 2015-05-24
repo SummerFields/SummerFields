@@ -11,23 +11,14 @@ Thanks
 ------
 
 * [Jolicraft] (http://www.jolicraft.com/) - My first source of inspiration!
-
 * [LB Photo Realisme] (http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223855-lb-photo-realism-1-6-convert-7-16-2013-rpg-realism) - For the damage animation!
-
 * [Notch] (http://www.minecraft.net) - For the beautiful dark blue water & the ultra red lava! =D
-
 * [CuddleWoozle] (http://cuddlewoozle.herobo.com/) - for the alternate cow & sheep.
-
 * Milktache, for setting up SummerFields on the customizer!
-
 * Marcinz606, for the lightmap and all the custom colors, sky and all. =D
-
 * Sixdd, for the ctm.png file.
-
-* Lipki, for making the horse armor, markings and horses(and, initially, converting the texture pack to a resource pack)!
-
+* [lipki] (https://github.com/lipki), for making the horse armor, markings and horses(and, initially, converting the texture pack to a resource pack)!
 * SilverLimit, for the new quartz block textures!
-
 * Card, for Feed the Beast mod support.
 
 MOD Support   
@@ -35,18 +26,38 @@ MOD Support
 
 If you play with some mod, you should download mod support for summerfields. On the summerfields thread you can download all of them.
 
-* [Feed the Beast - Support] (http://forum.feed-the-beast.com/threads/32x-summerfields-1-5-2-1-6-4-wip-updated-05-16-14.26561/)
-* [Improving-Minecraft - Support] (https://github.com/SummerFields/Mod-Improving-Minecraft/issues)
-
-vvv /!\ must be checked vvv
-
-* [Tale of Kingdoms - Support] (http://adf.ly/4AC20)
-* [ClaySoldiers - Support] (http://adf.ly/4EurC)
-* [Wurstknifte's Bookmod - Support] (http://adf.ly/4ABx8)
-* Better Than Wolves - Support - NO LINK YET !
-
 History of Recent Updates
 -------------------------
+
+12/09/2014 : Release 1.8
+* Added
+  - new quiver by [lipki] (https://github.com/lipki)
+  - new Alex by [lipki] (https://github.com/lipki)
+  - new pumkin face by OwO_V and [ImLeeRii] (https://github.com/ImLeeRii)
+  - new doors by [ImLeeRii] (https://github.com/ImLeeRii)
+  - new Rabbit by [lipki] (https://github.com/lipki)
+  - new item armor_stand by [lipki] (https://github.com/lipki)
+
+* Changes
+  - Water correct for cauldron
+  - Steve 1.8
+  - delete font file
+  - return of the opaque leaves (for fast mode)
+  - new stem by [ImLeeRii] (https://github.com/ImLeeRii)
+  - new beacon by [ImLeeRii] (https://github.com/ImLeeRii)
+  - new endercrystal by [ImLeeRii] (https://github.com/ImLeeRii)
+  
+* Changes (1.8 new model)
+  - delete random rotate (1.8)
+  - move random ctm in random vanilla
+  - new texture for fence
+  - new texture for trapdoor side
+  - new texture for daylight detector side
+  - some items in 3d include items door
+  - new pumkin and melon bottom
+  
+* Split
+  - Mcpatcher : new repo
 
 12/09/2014 : Release 1.8 bêta
 * Added

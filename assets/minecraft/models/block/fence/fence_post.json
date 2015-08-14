@@ -1,5 +1,18 @@
 {
-    "__comment": "This model was created with freundTech's Blender2Minecraft converter (BETA)",
+    "parent": "block/block",
+    "display": {
+        "gui": {
+            "rotation": [ 30, 135, 0 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -45, 90, 0 ],
+            "translation": [ 0, -3, -6 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "thirdperson_righthand": {
+            "scale": [ 1, 1, 1 ]
+        }
+    },
     "textures": {
         "particle": "#texture"
     },

@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "andesite_smooth" },
+            { "model": "random/new_stone_smooth/andesite_smooth1" },
+            { "model": "random/new_stone_smooth/andesite_smooth2" },
+            { "model": "random/new_stone_smooth/andesite_smooth3" },
+            { "model": "random/new_stone_smooth/andesite_smooth4" }
+        ]
+    }
+}

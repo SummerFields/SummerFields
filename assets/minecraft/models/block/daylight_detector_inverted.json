@@ -1,22 +1,20 @@
-{
-    "__comment": "This model was created with freundTech's Blender2Minecraft converter (BETA)",
+{   "parent": "block/block",
     "textures": {
-        "side"    : "blocks/daylight_detector_side",
-        "bottom"  : "blocks/daylight_detector_bottom",
-        "top"     : "blocks/daylight_detector_inverted_top",
-        "particle": "#top"
+        "particle": "blocks/daylight_detector_inverted_top",
+        "top": "blocks/daylight_detector_inverted_top",
+        "bottom": "blocks/daylight_detector_bottom",
+        "side": "blocks/daylight_detector_side"
     },
     "elements": [
-        {
-            "from" : [  0, 0,  0 ],
-            "to"   : [ 16, 6, 16 ],
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 6, 16 ],
             "faces": {
-                "west" : { "uv": [ 0, 10, 16, 16 ], "texture": "#side",   "rotation": 0, "cullface": "west"  },
-                "north": { "uv": [ 0, 10, 16, 16 ], "texture": "#side",   "rotation": 0, "cullface": "north" },
-                "east" : { "uv": [ 0, 10, 16, 16 ], "texture": "#side",   "rotation": 0, "cullface": "east"  },
-                "south": { "uv": [ 0, 10, 16, 16 ], "texture": "#side",   "rotation": 0, "cullface": "south" },
-                "down" : { "uv": [ 0,  0, 16, 16 ], "texture": "#bottom", "rotation": 0, "cullface": "down"  },
-                "up"   : { "uv": [ 0,  0, 16, 16 ], "texture": "#top",    "rotation": 0 }
+                "down" : { "texture": "#bottom", "cullface": "down"  },
+                "up"   : { "texture": "#top" },
+                "west" : { "uv": [ 0, 10, 16, 16 ], "texture": "#side", "cullface": "west"  },
+                "north": { "uv": [ 0, 10, 16, 16 ], "texture": "#side", "cullface": "north" },
+                "south": { "uv": [ 0, 10, 16, 16 ], "texture": "#side", "cullface": "south" },
+                "east" : { "uv": [ 0, 10, 16, 16 ], "texture": "#side", "cullface": "east"  }
             }
         }
     ]

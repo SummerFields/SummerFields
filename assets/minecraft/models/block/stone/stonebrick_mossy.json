@@ -1,0 +1,8 @@
+{
+    "parent": "block/stone/base",
+    "textures": {
+        "down": "blocks/stonebrick_mossy_top",
+        "up": "blocks/stonebrick_mossy_top",
+        "side": "blocks/stonebrick_mossy"
+    }
+}

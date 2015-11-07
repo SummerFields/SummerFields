@@ -10,27 +10,27 @@
             "faces": {
                 "up": {
                     "texture": "#three",
-                    "cullface": up
+                    "cullface": "up"
                 },
                 "down": {
                     "texture": "#two",
-                    "cullface": down
+                    "cullface": "down"
                 },
                 "west": {
                     "texture": "#three",
-                    "cullface": west
+                    "cullface": "west"
                 },
                 "east": {
                     "texture": "#one",
-                    "cullface": east
+                    "cullface": "east"
                 },
                 "north": {
                     "texture": "#two",
-                    "cullface": north
+                    "cullface": "north"
                 },
                 "south": {
                     "texture": "#for",
-                    "cullface": south
+                    "cullface": "south"
                 }
             }
         }

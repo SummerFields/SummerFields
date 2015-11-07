@@ -1,0 +1,8 @@
+{
+    "parent": "block/stone/base",
+    "textures": {
+        "down": "blocks/end_bricks_top",
+        "up": "blocks/end_bricks_top",
+        "side": "blocks/end_bricks"
+    }
+}

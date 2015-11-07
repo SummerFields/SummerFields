@@ -10,27 +10,27 @@
             "faces": {
                 "up": {
                     "texture": "#one",
-                    "cullface": up
+                    "cullface": "up"
                 },
                 "down": {
-                    "texture": "#for",
-                    "cullface": down
+                    "texture": "#three",
+                    "cullface": "down"
                 },
                 "west": {
-                    "texture": "#two",
-                    "cullface": west
+                    "texture": "#one",
+                    "cullface": "west"
                 },
                 "east": {
                     "texture": "#for",
-                    "cullface": east
+                    "cullface": "east"
                 },
                 "north": {
-                    "texture": "#one",
-                    "cullface": north
+                    "texture": "#three",
+                    "cullface": "north"
                 },
                 "south": {
-                    "texture": "#three",
-                    "cullface": south
+                    "texture": "#two",
+                    "cullface": "south"
                 }
             }
         }

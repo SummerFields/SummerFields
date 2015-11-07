@@ -2,10 +2,10 @@
     "variants": {
         "normal": [
             { "model": "granite_smooth" },
-            { "model": "random/new_stone_smooth/granite_smooth1" },
-            { "model": "random/new_stone_smooth/granite_smooth2" },
-            { "model": "random/new_stone_smooth/granite_smooth3" },
-            { "model": "random/new_stone_smooth/granite_smooth4" }
+            { "model": "random/new_stone_smooth/granite_smooth_1" },
+            { "model": "random/new_stone_smooth/granite_smooth_2" },
+            { "model": "random/new_stone_smooth/granite_smooth_3" },
+            { "model": "random/new_stone_smooth/granite_smooth_4" }
         ]
     }
 }

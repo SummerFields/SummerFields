@@ -1,5 +1,5 @@
 {
-    "parent": "block/random/new_stone_smooth/base4",
+    "parent": "block/random/new_stone_smooth/base_2",
     "textures": {
         "one": "blocks/stone_granite_smooth_1",
         "two": "blocks/stone_granite_smooth_2",

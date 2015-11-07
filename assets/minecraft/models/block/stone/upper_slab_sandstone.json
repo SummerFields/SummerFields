@@ -1,0 +1,9 @@
+{
+    "parent": "block/stone/base_upper_slab",
+    "textures": {
+        "bottom": "blocks/sandstone_top",
+        "top": "blocks/sandstone_top",
+        "side": "blocks/sandstone_slab",
+        "midtop": "blocks/sandstone_top"
+    }
+}

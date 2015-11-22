@@ -1,0 +1,58 @@
+{
+    "__comment": "This model was created with freundTech's Blender2Minecraft converter (BETA)",
+    "ambientocclusion": false,
+    "textures": {
+        "door_birch_lower": "blocks/door_birch_lower",
+        "particle": "blocks/door_birch_lower"
+    },
+    "elements": [
+        {   "__comment": "Cube",
+            "from": [ 1.0, 0.5, 0.5 ],
+            "to": [ 2.0, 16.0, 15.5 ],
+            "faces": {
+                "east": { "uv": [ 0.5, 0.0, 15.5, 15.5 ], "texture": "#door_birch_lower", "rotation": 0 },
+                "north": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#door_birch_lower", "rotation": 0 },
+                "west": { "uv": [ 0.5, 0.0, 15.5, 15.5 ], "texture": "#door_birch_lower", "rotation": 0 },
+                "south": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#door_birch_lower", "rotation": 0 },
+                "up": { "uv": [ 0.0, 1.5, 16.0, 2.5 ], "texture": "#door_birch_lower", "rotation": 270 },
+                "down": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#door_birch_lower", "rotation": 90 }
+            }
+        },
+        {   "__comment": "Cube",
+            "from": [ 0.0, 0.0, 0.0 ],
+            "to": [ 3.0, 16.0, 2.0 ],
+            "faces": {
+                "east": { "uv": [ 14.0, 0.0, 16.0, 16.0 ], "texture": "#door_birch_lower", "rotation": 0 },
+                "north": { "uv": [ 14.0, 0.0, 16.0, 16.0 ], "texture": "#door_birch_lower", "rotation": 0 },
+                "west": { "uv": [ 0.0, 0.0, 2.0, 16.0 ], "texture": "#door_birch_lower", "rotation": 0 },
+                "south": { "uv": [ 15.5, 0.0, 16.0, 16.0 ], "texture": "#door_birch_lower", "rotation": 0 },
+                "up": { "uv": [ 14.0, 0.0, 16.0, 2.5 ], "texture": "#door_birch_lower", "rotation": 270 },
+                "down": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#door_birch_lower", "rotation": 90 }
+            }
+        },
+        {   "__comment": "Cube",
+            "from": [ 0.0, 0.0, 14.0 ],
+            "to": [ 3.0, 16.0, 16.0 ],
+            "faces": {
+                "east": { "uv": [ 0.0, 0.0, 2.0, 16.0 ], "texture": "#door_birch_lower", "rotation": 0 },
+                "north": { "uv": [ 1.5, 0.0, 2.0, 16.0 ], "texture": "#door_birch_lower", "rotation": 0 },
+                "west": { "uv": [ 14.0, 0.0, 16.0, 16.0 ], "texture": "#door_birch_lower", "rotation": 0 },
+                "south": { "uv": [ 0.0, 0.0, 2.0, 16.0 ], "texture": "#door_birch_lower", "rotation": 0 },
+                "up": { "uv": [ 0.0, 0.0, 2.0, 2.5 ], "texture": "#door_birch_lower", "rotation": 270 },
+                "down": { "uv": [ 0.0, 13.5, 2.0, 16.0 ], "texture": "#door_birch_lower", "rotation": 90 }
+            }
+        },
+        {   "__comment": "Cube",
+            "from": [ 0.0, 0.0, 2.0 ],
+            "to": [ 3.0, 2.5, 14.0 ],
+            "faces": {
+                "east": { "uv": [ 2.0, 13.5, 14.0, 16.0 ], "texture": "#door_birch_lower", "rotation": 0 },
+                "north": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#door_birch_lower", "rotation": 0 },
+                "west": { "uv": [ 2.0, 13.5, 14.0, 16.0 ], "texture": "#door_birch_lower", "rotation": 0 },
+                "south": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#door_birch_lower", "rotation": 0 },
+                "up": { "uv": [ 2.0, 13.5, 14.0, 14.0 ], "texture": "#door_birch_lower", "rotation": 270 },
+                "down": { "uv": [ 2.0, 13.5, 14.0, 16.0 ], "texture": "#door_birch_lower", "rotation": 90 }
+            }
+        }
+    ]
+}

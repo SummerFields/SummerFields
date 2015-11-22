@@ -1,0 +1,71 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "edge": "blocks/iron_bars",
+        "particle": "blocks/iron_bars",
+        "bars": "blocks/iron_bars"
+    },
+    "elements": [
+        {
+            "from": [7.5,0,7.5],
+            "to": [8.5,16,8.5],
+            "faces": {
+                "up": {
+                    "uv": [13.5,0.5,14.5,1.5],
+                    "texture": "#edge"
+                },
+                "down": {
+                    "uv": [13.5,12.5,14.5,13.5],
+                    "texture": "#edge"
+                },
+                "west": {
+                    "uv": [13.5,0,14.5,16],
+                    "texture": "#edge"
+                },
+                "east": {
+                    "uv": [13.5,0,14.5,16],
+                    "texture": "#edge"
+                },
+                "north": {
+                    "uv": [13.5,0,14.5,16],
+                    "texture": "#bars"
+                },
+                "south": {
+                    "uv": [13.5,0,14.5,16],
+                    "texture": "#bars"
+                }
+            }
+        },
+        {
+            "from": [7,14.5,7],
+            "to": [9,15.5,9],
+            "faces": {
+                "up": {
+                    "uv": [13.5,0.5,14.5,1.5],
+                    "texture": "#edge"
+                },
+                "down": {
+                    "uv": [13.5,12.5,14.5,13.5],
+                    "texture": "#edge"
+                },
+                "west": {
+                    "uv": [13,0.5,15,1],
+                    "texture": "#bars"
+                },
+                "east": {
+                    "uv": [13,0.5,15,1.5],
+                    "texture": "#bars"
+                },
+                "north": {
+                    "uv": [13,0.5,15,1.5],
+                    "texture": "#bars"
+                },
+                "south": {
+                    "uv": [13,0.5,15,1.5],
+                    "texture": "#bars"
+                }
+            }
+        }
+    ]
+}

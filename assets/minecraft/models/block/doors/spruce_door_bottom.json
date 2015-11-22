@@ -1,0 +1,94 @@
+{
+    "__comment": "This model was created with freundTech's Blender2Minecraft converter (BETA)",
+    "ambientocclusion": false,
+    "elements": [
+        {   "__comment": "Cube",
+            "from": [ 0.5, 0.5, 0.0 ],
+            "to": [ 2.5, 16.0, 16.0 ],
+            "faces": {
+                "east": { "uv": [ 0.0, 0.0, 16.0, 15.5 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "north": { "uv": [ 0.0, 0.0, 2.5, 15.5 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "west": { "uv": [ 0.0, 0.0, 16.0, 15.5 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "south": { "uv": [ 0.0, 0.0, 2.5, 15.5 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "up": { "uv": [ 0.0, 5.5, 16.0, 7.5 ], "texture": "#door_spruce_lower", "rotation": 270 },
+                "down": { "uv": [ 0.0, 7.5, 16.0, 9.5 ], "texture": "#door_spruce_lower", "rotation": 90 }
+            }
+        },
+        {   "__comment": "Cube",
+            "from": [ 0.0, 4.5, 0.0 ],
+            "to": [ 3.0, 6.5, 16.0 ],
+            "faces": {
+                "east": { "uv": [ 0.0, 9.5, 16.0, 11.5 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "north": { "uv": [ 0.0, 9.5, 2.5, 11.5 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "west": { "uv": [ 0.0, 9.5, 16.0, 11.5 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "south": { "uv": [ 0.0, 9.5, 2.5, 11.5 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "up": { "uv": [ 0.0, 9.5, 16.0, 10.0 ], "texture": "#door_spruce_lower", "rotation": 270 },
+                "down": { "uv": [ 0.0, 11.0, 16.0, 11.5 ], "texture": "#door_spruce_lower", "rotation": 90 }
+            }
+        },
+        {   "__comment": "Cube",
+            "from": [ 0.0, 15.5, 0.0 ],
+            "to": [ 3.0, 16.0, 16.0 ],
+            "faces": {
+                "east": { "uv": [ 0.0, 11.0, 16.0, 11.5 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "north": { "uv": [ 0.0, 11.0, 2.5, 11.5 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "west": { "uv": [ 0.0, 11.0, 16.0, 11.5 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "south": { "uv": [ 0.0, 11.0, 2.5, 11.5 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "up": { "uv": [ 0.0, 9.5, 16.0, 10.0 ], "texture": "#door_spruce_lower", "rotation": 270 },
+                "down": { "uv": [ 0.0, 11.0, 16.0, 11.5 ], "texture": "#door_spruce_lower", "rotation": 90 }
+            }
+        },
+        {   "__comment": "Cube",
+            "from": [ 0.5, 0.0, 0.5 ],
+            "to": [ 2.5, 0.5, 2.0 ],
+            "faces": {
+                "east": { "uv": [ 0.5, 15.5, 2.0, 16.0 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "north": { "uv": [ 0.0, 13.5, 2.5, 14.0 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "west": { "uv": [ 0.5, 15.5, 2.0, 16.0 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "south": { "uv": [ 0.0, 13.0, 2.5, 13.5 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "up": { "uv": [ 0.5, 5.5, 2.0, 7.5 ], "texture": "#door_spruce_lower", "rotation": 270 },
+                "down": { "uv": [ 0.5, 7.5, 2.0, 9.5 ], "texture": "#door_spruce_lower", "rotation": 90 }
+            }
+        },
+        {   "__comment": "Cube",
+            "from": [ 0.5, 0.0, 3.0 ],
+            "to": [ 2.5, 0.5, 6.5 ],
+            "faces": {
+                "east": { "uv": [ 3.0, 15.5, 6.5, 16.0 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "north": { "uv": [ 4.0, 15.5, 6.5, 16.0 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "west": { "uv": [ 3.0, 15.5, 6.5, 16.0 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "south": { "uv": [ 4.0, 15.5, 6.5, 16.0 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "up": { "uv": [ 0.0, 5.5, 16.0, 7.5 ], "texture": "#door_spruce_lower", "rotation": 270 },
+                "down": { "uv": [ 3.0, 7.5, 6.5, 9.5 ], "texture": "#door_spruce_lower", "rotation": 90 }
+            }
+        },
+        {   "__comment": "Cube",
+            "from": [ 0.5, 0.0, 7.5 ],
+            "to": [ 2.5, 0.5, 10.0 ],
+            "faces": {
+                "east": { "uv": [ 7.5, 15.5, 10.0, 16.0 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "north": { "uv": [ 0.0, 13.5, 2.5, 14.0 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "west": { "uv": [ 7.5, 15.5, 10.0, 16.0 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "south": { "uv": [ 0.0, 13.0, 2.5, 13.5 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "up": { "uv": [ 0.0, 5.5, 16.0, 7.5 ], "texture": "#door_spruce_lower", "rotation": 270 },
+                "down": { "uv": [ 7.5, 7.5, 10.0, 9.5 ], "texture": "#door_spruce_lower", "rotation": 90 }
+            }
+        },
+        {   "__comment": "Cube",
+            "from": [ 0.5, 0.0, 10.5 ],
+            "to": [ 2.5, 0.5, 15.0 ],
+            "faces": {
+                "east": { "uv": [ 10.5, 15.5, 16.0, 16.0 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "north": { "uv": [ 0.0, 13.5, 2.5, 14.0 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "west": { "uv": [ 10.5, 15.5, 15.0, 16.0 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "south": { "uv": [ 0.0, 13.5, 2.5, 14.0 ], "texture": "#door_spruce_lower", "rotation": 0 },
+                "up": { "uv": [ 10.5, 5.5, 16.0, 7.5 ], "texture": "#door_spruce_lower", "rotation": 270 },
+                "down": { "uv": [ 10.5, 7.5, 16.0, 9.5 ], "texture": "#door_spruce_lower", "rotation": 90 }
+            }
+        }
+    ],
+    "textures": {
+        "door_spruce_lower": "blocks/door_spruce_lower",
+        "particle": "blocks/door_spruce_lower"
+    }
+}

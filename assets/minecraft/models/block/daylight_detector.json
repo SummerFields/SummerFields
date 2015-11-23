@@ -4,7 +4,7 @@
         "side"    : "blocks/daylight_detector_side",
         "bottom"  : "blocks/daylight_detector_bottom",
         "top"     : "blocks/daylight_detector_top",
-        "particle": "#top"
+        "particle": "blocks/daylight_detector_side"
     },
     "elements": [
         {

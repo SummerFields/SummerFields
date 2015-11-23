@@ -1,0 +1,58 @@
+{
+    "__comment": "This model was created with freundTech's Blender2Minecraft converter (BETA)",
+    "ambientocclusion": false,
+    "elements": [
+        {   "__comment": "Cube",
+            "from": [ 0.5, 0.5, 0.5 ],
+            "to": [ 2.5, 16.0, 15.5 ],
+            "faces": {
+                "east": { "uv": [ 0.5, 0.0, 15.5, 15.5 ], "texture": "#door_iron_lower", "rotation": 0 },
+                "north": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#door_iron_lower", "rotation": 0 },
+                "west": { "uv": [ 0.5, 0.0, 15.5, 15.5 ], "texture": "#door_iron_lower", "rotation": 0 },
+                "south": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#door_iron_lower", "rotation": 0 },
+                "up": { "uv": [ 0.0, 1.5, 16.0, 2.5 ], "texture": "#door_iron_lower", "rotation": 270 },
+                "down": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#door_iron_lower", "rotation": 90 }
+            }
+        },
+        {   "__comment": "Cube",
+            "from": [ 0.0, 0.0, 0.0 ],
+            "to": [ 3.0, 16.0, 1.0 ],
+            "faces": {
+                "east": { "uv": [ 15.0, 0.0, 16.0, 16.0 ], "texture": "#door_iron_lower", "rotation": 0 },
+                "north": { "uv": [ 6.5, 0.0, 9.5, 16.0 ], "texture": "#door_iron_lower", "rotation": 0 },
+                "west": { "uv": [ 0.0, 0.0, 1.0, 16.0 ], "texture": "#door_iron_lower", "rotation": 0 },
+                "south": { "uv": [ 14.5, 0.0, 15.0, 16.0 ], "texture": "#door_iron_lower", "rotation": 0 },
+                "up": { "uv": [ 15.0, 0.0, 16.0, 2.5 ], "texture": "#door_iron_lower", "rotation": 270 },
+                "down": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#door_iron_lower", "rotation": 90 }
+            }
+        },
+        {   "__comment": "Cube",
+            "from": [ 0.0, 0.0, 15.0 ],
+            "to": [ 3.0, 16.0, 16.0 ],
+            "faces": {
+                "east": { "uv": [ 0.0, 0.0, 1.0, 16.0 ], "texture": "#door_iron_lower", "rotation": 0 },
+                "north": { "uv": [ 1.0, 0.0, 1.5, 16.0 ], "texture": "#door_iron_lower", "rotation": 0 },
+                "west": { "uv": [ 15.0, 0.0, 16.0, 16.0 ], "texture": "#door_iron_lower", "rotation": 0 },
+                "south": { "uv": [ 6.5, 0.0, 9.5, 16.0 ], "texture": "#door_iron_lower", "rotation": 0 },
+                "up": { "uv": [ 0.0, 0.0, 1.0, 2.5 ], "texture": "#door_iron_lower", "rotation": 270 },
+                "down": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#door_iron_lower", "rotation": 90 }
+            }
+        },
+        {   "__comment": "Cube",
+            "from": [ 0.0, 0.0, 1.0 ],
+            "to": [ 3.0, 2.0, 15.0 ],
+            "faces": {
+                "east": { "uv": [ 1.0, 14.0, 15.0, 16.0 ], "texture": "#door_iron_lower", "rotation": 0 },
+                "north": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#door_iron_lower", "rotation": 0 },
+                "west": { "uv": [ 1.0, 14.0, 15.0, 16.0 ], "texture": "#door_iron_lower", "rotation": 0 },
+                "south": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#door_iron_lower", "rotation": 0 },
+                "up": { "uv": [ 1.0, 0.0, 15.0, 2.5 ], "texture": "#door_iron_lower", "rotation": 270 },
+                "down": { "uv": [ 1.0, 1.5, 15.0, 2.5 ], "texture": "#door_iron_lower", "rotation": 90 }
+            }
+        }
+    ],
+    "textures": {
+        "door_iron_lower": "blocks/door_iron_lower",
+        "particle": "blocks/door_iron_lower"
+    }
+}

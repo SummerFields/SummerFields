@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "diorite_smooth" },
+            { "model": "random/new_stone_smooth/diorite_smooth_1" },
+            { "model": "random/new_stone_smooth/diorite_smooth_2" },
+            { "model": "random/new_stone_smooth/diorite_smooth_3" },
+            { "model": "random/new_stone_smooth/diorite_smooth_4" }
+        ]
+    }
+}

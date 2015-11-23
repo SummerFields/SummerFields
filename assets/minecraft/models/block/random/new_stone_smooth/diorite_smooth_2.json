@@ -1,0 +1,9 @@
+{
+    "parent": "block/random/new_stone_smooth/base_2",
+    "textures": {
+        "one": "blocks/stone_diorite_smooth_1",
+        "two": "blocks/stone_diorite_smooth_2",
+        "three": "blocks/stone_diorite_smooth_3",
+        "for": "blocks/stone_diorite_smooth_4"
+    }
+}

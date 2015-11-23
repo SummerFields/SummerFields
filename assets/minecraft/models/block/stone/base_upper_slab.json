@@ -1,0 +1,37 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "textures": {
+        "particle": "#side"
+    },
+    "elements": [
+        {
+            "from": [0,8,0],
+            "to": [16,16,16],
+            "faces": {
+                "up": {
+                    "texture": "#top"
+                },
+                "down": {
+                    "texture": "#midtop",
+                    "cullface": "down"
+                },
+                "west": {
+                    "texture": "#side",
+                    "cullface": "west"
+                },
+                "east": {
+                    "texture": "#side",
+                    "cullface": "east"
+                },
+                "north": {
+                    "texture": "#side",
+                    "cullface": "north"
+                },
+                "south": {
+                    "texture": "#side",
+                    "cullface": "south"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "down": "blocks/brick_top",
+        "up": "blocks/brick_top",
+        "all": "blocks/brick"
+    }
+}

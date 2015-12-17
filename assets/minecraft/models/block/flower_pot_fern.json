@@ -3,8 +3,8 @@
     "textures": {
         "particle": "blocks/flower_pot",
         "flowerpot": "blocks/flower_pot",
-        "dirt": "blocks/sand",
-        "plant": "blocks/deadbush1"
+        "dirt": "blocks/dirt",
+        "plant": "blocks/fern"
     },
     "elements": [
         {   "from": [ 5, 0, 5 ],

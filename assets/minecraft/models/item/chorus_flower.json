@@ -1,0 +1,56 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "texture": "blocks/chorus_plant",
+        "particle": "blocks/chorus_plant",
+        "inside": "blocks/chorus_flower_dead"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, 90, 0 ],
+            "translation": [ -2, 0, 2],
+            "scale": [ 2, 2, 2 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -45, 90, 0 ],
+            "translation": [ 0, -3, -6 ],
+            "scale": [ 1.5, 1.5, 1.5 ]
+        },
+        "gui": {
+            "rotation": [ 30, 225, 0 ],
+            "scale"   : [  1,   1, 1 ]
+        }
+    },
+    "elements": [
+        {
+            "from": [6,6,6],
+            "to": [10,10,10],
+            "faces": {
+                "up": {
+                    "texture": "#inside"
+                },
+                "down": {
+                    "texture": "#inside"
+                },
+                "west": {
+                    "uv": [6,6,10,10],
+                    "texture": "#inside"
+                },
+                "east": {
+                    "uv": [6,6,10,10],
+                    "texture": "#inside"
+                },
+                "north": {
+                    "uv": [6,6,10,10],
+                    "texture": "#inside"
+                },
+                "south": {
+                    "uv": [6,6,10,10],
+                    "texture": "#inside"
+                }
+            }
+        }
+    ]
+}
+

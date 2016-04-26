@@ -1,0 +1,9 @@
+{
+    "parent": "block/random/new_stone_smooth/base_1",
+    "textures": {
+        "one": "blocks/purpur_block_1",
+        "two": "blocks/purpur_block_2",
+        "three": "blocks/purpur_block_3",
+        "for": "blocks/purpur_block_4"
+    }
+}

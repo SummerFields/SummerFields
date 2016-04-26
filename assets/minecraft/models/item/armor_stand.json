@@ -1,13 +1,15 @@
 {
     "parent": "block/armor_stand_inventory",
     "display": {
-        "thirdperson": {
-            "rotation"   : [ 45,     0,   180 ],
-            "translation": [  0,     1.5,  -1.7 ],
-            "scale"      : [  0.375, 0.375, 0.375 ]
+        "thirdperson_righthand": {
+            "rotation"   : [ 0, 90, 0 ],
+            "translation": [ 0,  0, 0 ],
+            "scale"      : [ 1,  1, 1 ]
         },
-        "gui": {
-            "rotation": [ 0, 90, 0 ]
+        "firstperson_righthand": {
+            "rotation": [ -45, 90, 0 ],
+            "translation": [ 0, -3, -6 ],
+            "scale": [ 1.5, 1.5, 1.5 ]
         }
     }
 }

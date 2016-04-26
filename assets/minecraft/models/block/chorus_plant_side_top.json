@@ -1,0 +1,36 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "texture": "blocks/chorus_plant",
+        "particle": "blocks/chorus_plant",
+        "inside": "blocks/chorus_plant"
+    },
+    "elements": [
+        {
+            "from": [4,12,4],
+            "to": [12,16,12],
+            "faces": {
+                "up": {
+                    "texture": "#texture"
+                },
+                "west": {
+                    "uv": [12,4,4,0],
+                    "texture": "#texture"
+                },
+                "east": {
+                    "uv": [12,4,4,0],
+                    "texture": "#texture"
+                },
+                "north": {
+                    "uv": [12,4,4,0],
+                    "texture": "#texture"
+                },
+                "south": {
+                    "uv": [12,4,4,0],
+                    "texture": "#texture"
+                }
+            }
+        }
+    ]
+}

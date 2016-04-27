@@ -39,7 +39,7 @@
             "faces": {
                 "up": {
                     "texture": "#top",
-                    "cullface": up"
+                    "cullface": "up"
                 },
                 "west": {
                     "texture": "#side"

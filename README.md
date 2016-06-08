@@ -32,6 +32,7 @@ History of Recent Updates
 05/06/2014 : Release 1.10
 * Added
   - some stuff 1.10
+  - by lipki and tobyplowy
 
 xx/xx/2014 : Release 1.9
 * Added

@@ -27,7 +27,16 @@ MOD Support
 If you play with some mod, you should download mod support for summerfields. On the summerfields thread you can download all of them.
 
 History of Recent Updates
--------------------------
+------------------------
+
+05/06/2014 : Release 1.10
+* Added
+  - some stuff 1.10
+  - by lipki and tobyplowy
+
+xx/xx/2014 : Release 1.9
+* Added
+  - some stuff
 
 12/09/2014 : Release 1.8
 * Added

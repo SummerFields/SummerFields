@@ -29,6 +29,12 @@ If you play with some mod, you should download mod support for summerfields. On 
 History of Recent Updates
 ------------------------
 
+24/08/2016 : Update 1.11
+* Added
+  - new random textures (dark prismarine, stone, mycellium, flower pot, top slab)  by [topyplowy] (https://github.com/topyplowy)
+  - new elytra angel by [topyplowy] (https://github.com/topyplowy)
+  - new villager and zombie by [topyplowy] (https://github.com/topyplowy)
+
 05/06/2014 : Release 1.10
 * Added
   - some stuff 1.10

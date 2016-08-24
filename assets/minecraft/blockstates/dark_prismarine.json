@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "prismarine_dark" },
+            { "model": "random/prismarine_dark/prismarine_dark_1" },
+            { "model": "random/prismarine_dark/prismarine_dark_2" },
+            { "model": "random/prismarine_dark/prismarine_dark_3" },
+            { "model": "random/prismarine_dark/prismarine_dark_4" }
+        ]
+    }
+}

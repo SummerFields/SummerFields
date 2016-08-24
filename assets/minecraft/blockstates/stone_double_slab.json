@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "double_stone" },
+            { "model": "random/slab_stone/double_stone_1" },
+            { "model": "random/slab_stone/double_stone_2" },
+            { "model": "random/slab_stone/double_stone_3" },
+            { "model": "random/slab_stone/double_stone_4" }
+        ],
+        "all": [
+            { "model": "double_stone_top" },
+            { "model": "random/slab_stone/double_stone_top_1" },
+            { "model": "random/slab_stone/double_stone_top_2" },
+            { "model": "random/slab_stone/double_stone_top_3" },
+            { "model": "random/slab_stone/double_stone_top_4" }
+        ]
+    }
+}

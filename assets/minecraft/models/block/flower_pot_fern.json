@@ -1,8 +1,8 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "blocks/flower_pot",
-        "flowerpot": "blocks/flower_pot",
+        "particle": "blocks/flower_pot_3",
+        "flowerpot": "blocks/flower_pot_3",
         "dirt": "blocks/dirt",
         "plant": "blocks/fern"
     },

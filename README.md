@@ -17,9 +17,10 @@ Thanks
 * Milktache, for setting up SummerFields on the customizer!
 * Marcinz606, for the lightmap and all the custom colors, sky and all. =D
 * Sixdd, for the ctm.png file.
-* [lipki] (https://github.com/lipki), for making the horse armor, markings and horses(and, initially, converting the texture pack to a resource pack)!
+* [lipki] (https://github.com/lipki) for many things (see below).
 * SilverLimit, for the new quartz block textures!
 * Card, for Feed the Beast mod support.
+* [topyplowy] (https://github.com/topyplowy) for many things (see below).
 
 MOD Support   
 -----------

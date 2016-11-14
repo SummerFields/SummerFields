@@ -1,8 +1,24 @@
 {
     "variants": {
-        "facing=north": { "model": "lit_pumpkin" },
-        "facing=south": { "model": "lit_pumpkin", "y": 180 },
-        "facing=west":  { "model": "lit_pumpkin", "y": 270 },
-        "facing=east":  { "model": "lit_pumpkin", "y": 90 }
+        "facing=north": [
+		{ "model": "random/lit_pumpkin/lit_pumpkin" }, 
+		{ "model": "random/lit_pumpkin/lit_pumpkin_1" }, 
+		{ "model": "random/lit_pumpkin/lit_pumpkin_2" }
+	],
+        "facing=south": [
+		{ "model": "random/lit_pumpkin/lit_pumpkin", "y": 180 }, 
+		{ "model": "random/lit_pumpkin/lit_pumpkin_1", "y": 180 }, 
+		{ "model": "random/lit_pumpkin/lit_pumpkin_2", "y": 180 }
+	],
+        "facing=west":  [
+		{ "model": "random/lit_pumpkin/lit_pumpkin", "y": 270 }, 
+		{ "model": "random/lit_pumpkin/lit_pumpkin_1", "y": 270 }, 
+		{ "model": "random/lit_pumpkin/lit_pumpkin_2", "y": 270 }
+	],
+        "facing=east":  [
+		{ "model": "random/lit_pumpkin/lit_pumpkin", "y": 90 }, 
+		{ "model": "random/lit_pumpkin/lit_pumpkin_1", "y": 90 }, 
+		{ "model": "random/lit_pumpkin/lit_pumpkin_2", "y": 90 }
+	]
     }
 }

@@ -31,7 +31,7 @@ History of Recent Updates
 ------------------------
 
 15/11/2016 : Release 1.11
-* Added
+  - Correction of stairs - by [Ultharine] (https://github.com/Ultharine)
   - New random textures (dark prismarine, stone, mycellium, flower pot, top slab)  by [topyplowy] (https://github.com/topyplowy)
   - New elytra angel by [topyplowy] (https://github.com/topyplowy)stem for melon and pumkin - by [lipki] (https://github.com/lipki)
   - Beacon, textures - by [ImLeeRii] (https://github.com/ImLeeRii) and model - by [lipki] (https://github.com/lipki)
@@ -81,10 +81,6 @@ History of Recent Updates
 * Added
   - some stuff 1.10
   - by lipki and tobyplowy
-
-xx/xx/2014 : Release 1.9
-* Added
-  - some stuff
 
 xx/xx/2014 : Release 1.9
 * Added

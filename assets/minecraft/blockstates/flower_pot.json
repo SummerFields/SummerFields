@@ -157,7 +157,12 @@
 			{ "model": "random/potted/flower_pot_cactus1" },
 			{ "model": "random/potted/flower_pot_cactus2" },
 			{ "model": "random/potted/flower_pot_cactus3" },
-			{ "model": "random/potted/flower_pot_cactus4" }
+			{ "model": "random/potted/flower_pot_cactus4" },
+			{ "model": "random/potted/flower_pot_cactus02" },
+			{ "model": "random/potted/flower_pot_cactus12" },
+			{ "model": "random/potted/flower_pot_cactus22" },
+			{ "model": "random/potted/flower_pot_cactus32" },
+			{ "model": "random/potted/flower_pot_cactus42" }
 		]
     }
 }

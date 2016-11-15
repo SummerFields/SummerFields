@@ -86,6 +86,10 @@ xx/xx/2014 : Release 1.9
 * Added
   - some stuff
 
+xx/xx/2014 : Release 1.9
+* Added
+  - some stuff
+
 12/09/2014 : Release 1.8
 * Added
   - new quiver by [lipki] (https://github.com/lipki)

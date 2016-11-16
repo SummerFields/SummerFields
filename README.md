@@ -20,7 +20,7 @@ Thanks
 * [lipki] (https://github.com/lipki) for many things (see below).
 * SilverLimit, for the new quartz block textures!
 * Card, for Feed the Beast mod support.
-* [topyplowy] (https://github.com/topyplowy) for many things (see below).
+* [tobyplowy] (https://github.com/tobyplowy) for many things (see below).
 
 MOD Support   
 -----------
@@ -32,11 +32,11 @@ History of Recent Updates
 
 15/11/2016 : Release 1.11
   - Correction of stairs - by [Ultharine] (https://github.com/Ultharine)
-  - New random textures (dark prismarine, stone, mycellium, flower pot, top slab)  by [topyplowy] (https://github.com/topyplowy)
-  - New elytra angel by [topyplowy] (https://github.com/topyplowy)stem for melon and pumkin - by [lipki] (https://github.com/lipki)
+  - New random textures (dark prismarine, stone, mycellium, flower pot, top slab)  by [tobyplowy] (https://github.com/tobyplowy)
+  - New elytra angel by [tobyplowy] (https://github.com/tobyplowy)stem for melon and pumkin - by [lipki] (https://github.com/lipki)
   - Beacon, textures - by [ImLeeRii] (https://github.com/ImLeeRii) and model - by [lipki] (https://github.com/lipki)
   - Endercrystal - by [ImLeeRii] (https://github.com/ImLeeRii)
-  - Big stone update - by [lipki] (https://github.com/lipki) and [topyplowy] (https://github.com/topyplowy)
+  - Big stone update - by [lipki] (https://github.com/lipki) and [tobyplowy] (https://github.com/tobyplowy)
   - Boat - by [lipki] (https://github.com/lipki)
   - Coal change - by [ImLeeRii] (https://github.com/ImLeeRii)
   - Dispenser change - by [ImLeeRii] (https://github.com/ImLeeRii)
@@ -46,10 +46,10 @@ History of Recent Updates
   - Furnace gui - by [lipki] (https://github.com/lipki)
   - Beacon change - by [ImLeeRii] (https://github.com/ImLeeRii)
   - Hopper change - by [lipki] (https://github.com/lipki)
-  - Upgrade flower and pot - by [topyplowy] (https://github.com/topyplowy)
+  - Upgrade flower and pot - by [tobyplowy] (https://github.com/tobyplowy)
   - Inventory gui - by [lipki] (https://github.com/lipki)
-  - Colored villager - by [lipki] (https://github.com/lipki) and [topyplowy] (https://github.com/topyplowy)
-  - Zombie villager - by [lipki] (https://github.com/lipki) and [topyplowy] (https://github.com/topyplowy)
+  - Colored villager - by [lipki] (https://github.com/lipki) and [tobyplowy] (https://github.com/tobyplowy)
+  - Zombie villager - by [lipki] (https://github.com/lipki) and [tobyplowy] (https://github.com/tobyplowy)
   - Special Arrow - by [lipki] (https://github.com/lipki)
   - Command block - by [lipki] (https://github.com/lipki)
   - Chorus - by [lipki] (https://github.com/lipki)
@@ -59,7 +59,7 @@ History of Recent Updates
   - Shulker - by [lipki] (https://github.com/lipki)
   - Correction des Leaves pour optifine (encore) - by [lipki] (https://github.com/lipki)
   - Rabbit hide - by [lipki] (https://github.com/lipki)
-  - End rode - by [lipki] (https://github.com/lipki) and [topyplowy] (https://github.com/topyplowy)
+  - End rode - by [lipki] (https://github.com/lipki) and [tobyplowy] (https://github.com/tobyplowy)
   - Frosted ice - by [lipki] (https://github.com/lipki)
   - Elytra - by [lipki] (https://github.com/lipki)
   - Create sweep - by [lipki] (https://github.com/lipki)
@@ -74,7 +74,7 @@ History of Recent Updates
   - Stray - by [lipki] (https://github.com/lipki)
   - Jusk - by [lipki] (https://github.com/lipki)
   - Void - by [lipki] (https://github.com/lipki)
-  - Dark darkprismarine - by [topyplowy] (https://github.com/topyplowy)
+  - Dark darkprismarine - by [tobyplowy] (https://github.com/tobyplowy)
   - Prismarine and sea lantern - by [ImLeeRii] (https://github.com/ImLeeRii)
 
 05/06/2014 : Release 1.10

@@ -1,4 +1,4 @@
-﻿[![SummerFields] (http://summerfields.github.io/official/signature/sign2.png) ] (http://summerfields.github.io/official/)
+﻿[![SummerFields](http://summerfields.info/public/signature/sign2.png)](http://summerfields.github.io/official/)
 
 Notes 
 -----

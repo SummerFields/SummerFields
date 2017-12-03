@@ -1,4 +1,4 @@
-﻿[![SummerFields] (http://summerfields.github.io/official/signature/sign2.png) ] (http://summerfields.github.io/official/)
+﻿[![SummerFields](http://summerfields.info/public/signature/sign2.png)](http://summerfields.github.io/official/)
 
 Notes 
 -----
@@ -33,7 +33,7 @@ History of Recent Updates
 15/11/2016 : Release 1.11
   - Correction of stairs - by [Ultharine] (https://github.com/Ultharine)
   - New random textures (dark prismarine, stone, mycellium, flower pot, top slab)  by [tobyplowy] (https://github.com/tobyplowy)
-  - New elytra angel by [tobyplowy] (https://github.com/tobyplowy)stem for melon and pumkin - by [lipki] (https://github.com/lipki)
+  - New elytra angel by [tobyplowy] (https://github.com/tobyplowy) stem for melon and pumkin - by [lipki] (https://github.com/lipki)
   - Beacon, textures - by [ImLeeRii] (https://github.com/ImLeeRii) and model - by [lipki] (https://github.com/lipki)
   - Endercrystal - by [ImLeeRii] (https://github.com/ImLeeRii)
   - Big stone update - by [lipki] (https://github.com/lipki) and [tobyplowy] (https://github.com/tobyplowy)

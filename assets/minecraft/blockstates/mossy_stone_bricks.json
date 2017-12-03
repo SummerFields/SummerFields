@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "stone/stone_brick/mossy_stone_bricks" }
+    }
+}

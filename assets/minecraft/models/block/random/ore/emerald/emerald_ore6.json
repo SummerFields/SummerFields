@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "blocks/emerald_ore6"
+        "all": "blocks/variants/ore/emerald_ore6"
     }
 }

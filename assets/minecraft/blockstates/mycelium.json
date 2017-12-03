@@ -12,6 +12,6 @@
             { "model": "random/mycelium/mycelium8" },
             { "model": "random/mycelium/mycelium9" }
         ],
-        "snowy=true": { "model": "grass_snowed" }
+        "snowy=true": { "model": "grass_block_snow" }
     }
 }

@@ -1,7 +1,7 @@
 {
     "parent": "item/door_inventory",
     "textures": {
-        "bottom": "blocks/door_iron_lower",
-        "top"   : "blocks/door_iron_upper"
+        "bottom": "blocks/iron_door_lower",
+        "top"   : "blocks/iron_door_upper"
     }
 }

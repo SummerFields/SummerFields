@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "normal": [
+  { "model": "random/flower_pot/potted_dead_bush_0" },
+  { "model": "random/flower_pot/potted_dead_bush_1" },
+  { "model": "random/flower_pot/potted_dead_bush_2" },
+  { "model": "random/flower_pot/potted_dead_bush_3" },
+  { "model": "random/flower_pot/potted_dead_bush_4" }
+]
+    }
+}

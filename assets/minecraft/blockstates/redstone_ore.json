@@ -1,6 +1,15 @@
 {
     "variants": {
-        "normal": [
+        "lit=false": [
+            { "model": "redstone_ore" },
+            { "model": "random/ore/redstone/redstone_ore1" },
+            { "model": "random/ore/redstone/redstone_ore2" },
+            { "model": "random/ore/redstone/redstone_ore3" },
+            { "model": "random/ore/redstone/redstone_ore4" },
+            { "model": "random/ore/redstone/redstone_ore5" },
+            { "model": "random/ore/redstone/redstone_ore6" }
+        ],
+        "lit=true": [
             { "model": "redstone_ore" },
             { "model": "random/ore/redstone/redstone_ore1" },
             { "model": "random/ore/redstone/redstone_ore2" },

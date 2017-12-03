@@ -1,6 +1,0 @@
-{
-    "parent": "block/fence/fence_n",
-    "textures": {
-        "texture": "blocks/fence_birch"
-    }
-}

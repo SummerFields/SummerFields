@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "normal": [
+  { "model": "random/flower_pot/potted_spruce_sapling_0" },
+  { "model": "random/flower_pot/potted_spruce_sapling_1" },
+  { "model": "random/flower_pot/potted_spruce_sapling_2" },
+  { "model": "random/flower_pot/potted_spruce_sapling_3" },
+  { "model": "random/flower_pot/potted_spruce_sapling_4" }
+]
+    }
+}

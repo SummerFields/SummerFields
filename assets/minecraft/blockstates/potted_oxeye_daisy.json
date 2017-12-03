@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "normal": [
+  { "model": "random/flower_pot/potted_oxeye_daisy_0" },
+  { "model": "random/flower_pot/potted_oxeye_daisy_1" },
+  { "model": "random/flower_pot/potted_oxeye_daisy_2" },
+  { "model": "random/flower_pot/potted_oxeye_daisy_3" },
+  { "model": "random/flower_pot/potted_oxeye_daisy_4" }
+]
+    }
+}

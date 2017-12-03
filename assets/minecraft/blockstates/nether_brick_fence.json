@@ -1,16 +1,16 @@
 {
     "multipart": [
         {   "apply": { "model": "fence/nether_brick_fence_post" }},
-        {   "when": { "north": "true" },
+        {   "when": { "north": true },
             "apply": { "model": "fence/nether_brick_fence_side" }
         },
-        {   "when": { "east": "true" },
+        {   "when": { "east": true },
             "apply": { "model": "fence/nether_brick_fence_side", "y": 90 }
         },
-        {   "when": { "south": "true" },
+        {   "when": { "south": true },
             "apply": { "model": "fence/nether_brick_fence_side", "y": 180 }
         },
-        {   "when": { "west": "true" },
+        {   "when": { "west": true },
             "apply": { "model": "fence/nether_brick_fence_side", "y": 270 }
         }
     ]

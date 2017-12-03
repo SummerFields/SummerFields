@@ -1,10 +1,10 @@
 {
-    "parent": "block/chorus_flower",
+    "parent": "block/chorus/chorus_plant_inventory",
     "display": {
         "thirdperson_righthand": {
             "rotation": [ 0, 90, 0 ],
             "translation": [ -2, 0, 2],
-            "scale": [ 2, 2, 2 ]
+            "scale": [ 1, 1, 1 ]
         },
         "firstperson_righthand": {
             "rotation": [ -45, 90, 0 ],

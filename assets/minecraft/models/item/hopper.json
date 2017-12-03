@@ -1,5 +1,5 @@
 {
-    "parent": "block/hopper_down",
+    "parent": "block/hopper",
     "display": {
         "gui": {
             "rotation": [ 30, 225, 0 ],

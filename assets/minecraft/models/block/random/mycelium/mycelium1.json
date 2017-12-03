@@ -2,7 +2,7 @@
     "parent": "block/cube_bottom_top",
     "textures": {
         "bottom": "blocks/dirt",
-        "top": "blocks/mycelium_top_1",
+        "top": "blocks/variants/grass/mycelium_top_1",
         "side": "blocks/mycelium_side"
     }
 }

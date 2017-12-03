@@ -1,11 +1,11 @@
 {
     "variants": {
         "normal": [
-            { "model": "prismarine_dark" },
-            { "model": "random/prismarine_dark/prismarine_dark_1" },
-            { "model": "random/prismarine_dark/prismarine_dark_2" },
-            { "model": "random/prismarine_dark/prismarine_dark_3" },
-            { "model": "random/prismarine_dark/prismarine_dark_4" }
+            { "model": "dark_prismarine" },
+            { "model": "random/dark_prismarine/dark_prismarine_1" },
+            { "model": "random/dark_prismarine/dark_prismarine_2" },
+            { "model": "random/dark_prismarine/dark_prismarine_3" },
+            { "model": "random/dark_prismarine/dark_prismarine_4" }
         ]
     }
 }

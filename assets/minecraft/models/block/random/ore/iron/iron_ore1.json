@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "blocks/iron_ore1"
+        "all": "blocks/variants/ore/iron_ore1"
     }
 }

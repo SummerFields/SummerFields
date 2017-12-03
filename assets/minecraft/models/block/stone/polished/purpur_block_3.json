@@ -1,0 +1,9 @@
+{
+    "parent": "block/stone/polished/base_3",
+    "textures": {
+        "one": "blocks/variants/stone/polished/purpur_block_1",
+        "two": "blocks/variants/stone/polished/purpur_block_2",
+        "three": "blocks/variants/stone/polished/purpur_block_3",
+        "for": "blocks/variants/stone/polished/purpur_block_4"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "normal": [
+  { "model": "random/flower_pot/potted_white_tulip_0" },
+  { "model": "random/flower_pot/potted_white_tulip_1" },
+  { "model": "random/flower_pot/potted_white_tulip_2" },
+  { "model": "random/flower_pot/potted_white_tulip_3" },
+  { "model": "random/flower_pot/potted_white_tulip_4" }
+]
+    }
+}

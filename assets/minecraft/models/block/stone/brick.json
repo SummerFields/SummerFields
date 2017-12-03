@@ -1,9 +1,0 @@
-{
-    "parent": "block/stone/base",
-    "textures": {
-        "particle": "blocks/brick",
-        "down": "blocks/brick_top",
-        "up": "blocks/brick_top",
-        "side": "blocks/brick"
-    }
-}

@@ -2,10 +2,10 @@
     "variants": {
         "normal": [
             { "model": "purpur_block" },
-            { "model": "random/new_stone_smooth/purpur_block_1" },
-            { "model": "random/new_stone_smooth/purpur_block_2" },
-            { "model": "random/new_stone_smooth/purpur_block_3" },
-            { "model": "random/new_stone_smooth/purpur_block_4" }
+            { "model": "stone/polished/purpur_block_1" },
+            { "model": "stone/polished/purpur_block_2" },
+            { "model": "stone/polished/purpur_block_3" },
+            { "model": "stone/polished/purpur_block_4" }
         ]
     }
 }

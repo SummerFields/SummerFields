@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "fern" },
+          { "model": "random/flower/fern1" }
+      ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "lily_pad" },
+            { "model": "lily_pad", "y": 90 },
+            { "model": "lily_pad", "y": 180 },
+            { "model": "lily_pad", "y": 270 },
+            { "model": "random/lily_pad/lily_pad1" },
+            { "model": "random/lily_pad/lily_pad1", "y": 90 },
+            { "model": "random/lily_pad/lily_pad1", "y": 180 },
+            { "model": "random/lily_pad/lily_pad1", "y": 270 }
+        ]
+    }
+}

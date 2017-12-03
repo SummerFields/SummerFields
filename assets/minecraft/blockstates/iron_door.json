@@ -1,4 +1,4 @@
-{
+{ 
     "variants": {
         "facing=east,half=lower,hinge=left,open=false":  { "model": "doors/iron_door_bottom" },
         "facing=south,half=lower,hinge=left,open=false": { "model": "doors/iron_door_bottom", "y": 90 },

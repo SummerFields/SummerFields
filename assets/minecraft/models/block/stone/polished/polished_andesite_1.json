@@ -1,0 +1,9 @@
+{
+    "parent": "block/stone/polished/base_1",
+    "textures": {
+        "one": "blocks/variants/stone/polished/polished_andesite_1",
+        "two": "blocks/variants/stone/polished/polished_andesite_2",
+        "three": "blocks/variants/stone/polished/polished_andesite_3",
+        "for": "blocks/variants/stone/polished/polished_andesite_4"
+    }
+}

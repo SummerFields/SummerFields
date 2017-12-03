@@ -1,0 +1,6 @@
+{
+    "parent": "block/random/flower_pot/flower_pot_cross_1",
+    "textures": {
+        "plant": "blocks/variants/potted/spruce_sapling_pot"
+    }
+}

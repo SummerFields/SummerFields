@@ -1,0 +1,20 @@
+{
+    "parent": "block/sea_pickle",
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ -1, 2, 0],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 5, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "gui": {
+            "rotation": [ 30, 225, 0 ],
+            "translation": [ 0, 4, 0 ],
+            "scale":[ 1.2, 1.2, 1.2 ]
+        }
+    }
+}

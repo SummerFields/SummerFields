@@ -4,7 +4,7 @@
     "textures": {
         "texture": "blocks/chorus_plant",
         "particle": "blocks/chorus_plant",
-        "inside": "blocks/chorus_flower_dead"
+        "inside": "blocks/chorus_flower"
     },
     "elements": [
         {

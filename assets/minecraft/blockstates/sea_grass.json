@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "normal": [
-            { "model": "sea_grass" },
-            { "model": "random/sea_grass/sea_grass2" }
-        ]
-    }
-}

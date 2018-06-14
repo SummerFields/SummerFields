@@ -3,7 +3,7 @@
     "textures": {
         "top": "blocks/pumpkin_top",
         "bottom": "blocks/variants/pumpkin_melon/pumpkin_bottom",
-        "front": "blocks/pumpkin_face_on",
+        "front": "blocks/jack_o_lantern",
         "side": "blocks/pumpkin_side"
     }
 }

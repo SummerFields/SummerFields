@@ -4,8 +4,7 @@ Notes
 -----
         
 * LithiumSound has created SummerFields. 
-* CuddleWoozle continued the texture pack. 
-* Currently external contributions are helping the package to stay updated.
+* Team SummerFields continued the texture pack.
 
 Thanks
 ------
@@ -21,14 +20,64 @@ Thanks
 * SilverLimit, for the new quartz block textures!
 * Card, for Feed the Beast mod support.
 * [tobyplowy] (https://github.com/tobyplowy) for many things (see below).
+* [chengzzi89] (https://github.com/chengzzi89) for MCPE and More.
+* [kingoscargames] (https://github.com/kingoscargames) for help.
 
-MOD Support   
+MOD Support
 -----------
 
 If you play with some mod, you should download mod support for summerfields. On the summerfields thread you can download all of them.
 
 History of Recent Updates
 ------------------------
+
+19/06/2018 : Release 1.13
+  - inventory update by [tobyplowy] (https://github.com/tobyplowy) and [lipki] (https://github.com/lipki)
+  - Blue ice by [lipki] (https://github.com/lipki)
+  - conduit by [lipki] (https://github.com/lipki)
+  - dolphin by [tobyplowy] (https://github.com/tobyplowy)
+  - sea pickle by [lipki] (https://github.com/lipki)
+  - Drowned by [tobyplowy] (https://github.com/tobyplowy) and [lipki] (https://github.com/lipki)
+  - Map icons by [lipki] (https://github.com/lipki)
+  - Coral by [lipki] (https://github.com/lipki)
+  - Real Tropical Fish by [lipki] (https://github.com/lipki)
+  - Real Fish by [tobyplowy] (https://github.com/tobyplowy)
+  - spider eyes by [lipki] (https://github.com/lipki)
+  - new magma cube by [lipki] (https://github.com/lipki)
+  - Particles update by [lipki] (https://github.com/lipki)
+  - Recipe book update by [chengzzi89] (https://github.com/chengzzi89)
+  - Trident by [lipki] (https://github.com/lipki)
+  - Phantom by [lipki] (https://github.com/lipki)
+  - Turtle by [lipki] (https://github.com/lipki)
+  - Stripped log by [lipki] (https://github.com/lipki)
+  - sea grass by [lipki] (https://github.com/lipki)
+  - Kelp by [chengzzi89] (https://github.com/chengzzi89) and [lipki] (https://github.com/lipki)
+  - Some stone tools have broken pixels by [kingoscargames] (https://github.com/kingoscargames)
+  - pressure plate by [lipki] (https://github.com/lipki)
+  - all button by [tobyplowy] (https://github.com/tobyplowy)
+  - new trapdoor by [tobyplowy] (https://github.com/tobyplowy)
+
+
+  
+03/12/2017 : Release 1.12
+  - Horses are broken by [lipki] (https://github.com/lipki)
+  - leaf fix by [lipki] (https://github.com/lipki)
+  - Illusionist by [lipki] (https://github.com/lipki)
+  - colored bed by [lipki] (https://github.com/lipki)
+  - new gravel texture by [tobyplowy] (https://github.com/tobyplowy)
+  - new selection arrows by [tobyplowy] (https://github.com/tobyplowy)
+  - hay recolor by [tobyplowy] (https://github.com/tobyplowy)
+  - New interface by [lipki] (https://github.com/lipki)
+  - Recipes book by [lipki] (https://github.com/lipki)
+  - Advancements by [lipki] (https://github.com/lipki)
+  - parrot by [tobyplowy] (https://github.com/tobyplowy)
+  - Correction of cow's udders by [lipki] (https://github.com/lipki)
+  - concrete by [lipki] (https://github.com/lipki)
+  - attack indicator by [lipki] (https://github.com/lipki)
+  - iron nugget by [lipki] (https://github.com/lipki)
+  - better map_background by [tobyplowy] (https://github.com/tobyplowy)
+  - update stats_icons by [tobyplowy] (https://github.com/tobyplowy)
+  - Chicken fix by [tobyplowy] (https://github.com/tobyplowy)
 
 15/11/2016 : Release 1.11
   - Correction of stairs - by [Ultharine] (https://github.com/Ultharine)

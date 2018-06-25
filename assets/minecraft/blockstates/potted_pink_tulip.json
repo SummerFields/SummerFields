@@ -1,11 +1,11 @@
 {
     "variants": {
-        "normal": [
-  { "model": "random/flower_pot/potted_pink_tulip_0" },
-  { "model": "random/flower_pot/potted_pink_tulip_1" },
-  { "model": "random/flower_pot/potted_pink_tulip_2" },
-  { "model": "random/flower_pot/potted_pink_tulip_3" },
-  { "model": "random/flower_pot/potted_pink_tulip_4" }
+        "": [
+  { "model": "block/random/flower_pot/potted_pink_tulip_0" },
+  { "model": "block/random/flower_pot/potted_pink_tulip_1" },
+  { "model": "block/random/flower_pot/potted_pink_tulip_2" },
+  { "model": "block/random/flower_pot/potted_pink_tulip_3" },
+  { "model": "block/random/flower_pot/potted_pink_tulip_4" }
 ]
     }
 }

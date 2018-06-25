@@ -1,6 +1,6 @@
 {
     "parent": "block/fence/fence_side",
     "textures": {
-        "texture": "blocks/variants/fence/birch_fence"
+        "texture": "block/variants/fence/birch_fence"
     }
 }

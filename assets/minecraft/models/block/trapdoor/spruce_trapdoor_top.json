@@ -1,8 +1,8 @@
 {
     "parent": "block/trapdoor/template_trapdoor_top",
     "textures": {
-        "texture": "blocks/spruce_trapdoor",
-        "side": "blocks/variants/trapdoor/spruce_trapdoor_side"
+        "texture": "block/spruce_trapdoor",
+        "side": "block/variants/trapdoor/spruce_trapdoor_side"
     },
     "elements": [
         {   "from": [ 0, 13, 0 ],

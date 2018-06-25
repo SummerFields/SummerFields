@@ -1,6 +1,6 @@
 {
     "parent": "block/cross",
     "textures": {
-        "cross": "blocks/variants/potted/allium1"
+        "cross": "block/variants/potted/allium1"
     }
 }

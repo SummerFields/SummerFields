@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "blocks/variants/ore/coal_ore3"
+        "all": "block/variants/ore/coal_ore3"
     }
 }

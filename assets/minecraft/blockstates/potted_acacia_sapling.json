@@ -1,11 +1,11 @@
 {
     "variants": {
-        "normal": [
-          { "model": "random/flower_pot/potted_acacia_sapling_0" },
-          { "model": "random/flower_pot/potted_acacia_sapling_1" },
-          { "model": "random/flower_pot/potted_acacia_sapling_2" },
-          { "model": "random/flower_pot/potted_acacia_sapling_3" },
-          { "model": "random/flower_pot/potted_acacia_sapling_4" }
+        "": [
+          { "model": "block/random/flower_pot/potted_acacia_sapling_0" },
+          { "model": "block/random/flower_pot/potted_acacia_sapling_1" },
+          { "model": "block/random/flower_pot/potted_acacia_sapling_2" },
+          { "model": "block/random/flower_pot/potted_acacia_sapling_3" },
+          { "model": "block/random/flower_pot/potted_acacia_sapling_4" }
         ]
     }
 }

@@ -1,11 +1,11 @@
 {
     "variants": {
-        "normal": [
-            { "model": "polished_granite" },
-            { "model": "stone/polished/polished_granite_1" },
-            { "model": "stone/polished/polished_granite_2" },
-            { "model": "stone/polished/polished_granite_3" },
-            { "model": "stone/polished/polished_granite_4" }
+        "": [
+            { "model": "block/polished_granite" },
+            { "model": "block/stone/polished/polished_granite_1" },
+            { "model": "block/stone/polished/polished_granite_2" },
+            { "model": "block/stone/polished/polished_granite_3" },
+            { "model": "block/stone/polished/polished_granite_4" }
         ]
     }
 }

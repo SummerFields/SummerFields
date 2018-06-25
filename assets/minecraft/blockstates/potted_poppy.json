@@ -1,11 +1,11 @@
 {
     "variants": {
-        "normal": [
-  { "model": "random/flower_pot/potted_poppy_0" },
-  { "model": "random/flower_pot/potted_poppy_1" },
-  { "model": "random/flower_pot/potted_poppy_2" },
-  { "model": "random/flower_pot/potted_poppy_3" },
-  { "model": "random/flower_pot/potted_poppy_4" }
+        "": [
+  { "model": "block/random/flower_pot/potted_poppy_0" },
+  { "model": "block/random/flower_pot/potted_poppy_1" },
+  { "model": "block/random/flower_pot/potted_poppy_2" },
+  { "model": "block/random/flower_pot/potted_poppy_3" },
+  { "model": "block/random/flower_pot/potted_poppy_4" }
 ]
     }
 }

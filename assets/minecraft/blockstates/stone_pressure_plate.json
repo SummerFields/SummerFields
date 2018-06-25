@@ -1,6 +1,6 @@
 {
     "variants": {
-        "powered=false": { "model": "pressure_plate/stone_pressure_plate" },
-        "powered=true": { "model": "pressure_plate/stone_pressure_plate_down" }
+        "powered=false": { "model": "block/pressure_plate/stone_pressure_plate" },
+        "powered=true": { "model": "block/pressure_plate/stone_pressure_plate_down" }
     }
 }

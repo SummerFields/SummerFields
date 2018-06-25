@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "blocks/variants/ore/lapis_ore6"
+        "all": "block/variants/ore/lapis_ore6"
     }
 }

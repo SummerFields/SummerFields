@@ -1,17 +1,17 @@
 {
     "variants": {
         "snowy=false": [
-            { "model": "mycelium" },
-            { "model": "random/mycelium/mycelium1" },
-            { "model": "random/mycelium/mycelium2" },
-            { "model": "random/mycelium/mycelium3" },
-            { "model": "random/mycelium/mycelium4" },
-            { "model": "random/mycelium/mycelium5" },
-            { "model": "random/mycelium/mycelium6" },
-            { "model": "random/mycelium/mycelium7" },
-            { "model": "random/mycelium/mycelium8" },
-            { "model": "random/mycelium/mycelium9" }
+            { "model": "block/mycelium" },
+            { "model": "block/random/mycelium/mycelium1" },
+            { "model": "block/random/mycelium/mycelium2" },
+            { "model": "block/random/mycelium/mycelium3" },
+            { "model": "block/random/mycelium/mycelium4" },
+            { "model": "block/random/mycelium/mycelium5" },
+            { "model": "block/random/mycelium/mycelium6" },
+            { "model": "block/random/mycelium/mycelium7" },
+            { "model": "block/random/mycelium/mycelium8" },
+            { "model": "block/random/mycelium/mycelium9" }
         ],
-        "snowy=true": { "model": "grass_block_snow" }
+        "snowy=true": { "model": "block/grass_block_snow" }
     }
 }

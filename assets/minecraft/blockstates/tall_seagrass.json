@@ -1,9 +1,9 @@
 {
     "variants": {
-        "half=lower": { "model": "tall_seagrass_bottom" },
+        "half=lower": { "model": "block/tall_seagrass_bottom" },
         "half=upper": [
-            { "model": "tall_seagrass_top" },
-            { "model": "random/seagrass/tall_seagrass_top2" }
+            { "model": "block/tall_seagrass_top" },
+            { "model": "block/random/seagrass/tall_seagrass_top2" }
         ]
     }
 }

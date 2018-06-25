@@ -1,6 +1,6 @@
 {
     "parent": "block/cross",
     "textures": {
-        "cross": "blocks/variants/potted/azure_bluet2"
+        "cross": "block/variants/potted/azure_bluet2"
     }
 }

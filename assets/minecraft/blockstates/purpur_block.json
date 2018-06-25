@@ -1,11 +1,11 @@
 {
     "variants": {
-        "normal": [
-            { "model": "purpur_block" },
-            { "model": "stone/polished/purpur_block_1" },
-            { "model": "stone/polished/purpur_block_2" },
-            { "model": "stone/polished/purpur_block_3" },
-            { "model": "stone/polished/purpur_block_4" }
+        "": [
+            { "model": "block/purpur_block" },
+            { "model": "block/stone/polished/purpur_block_1" },
+            { "model": "block/stone/polished/purpur_block_2" },
+            { "model": "block/stone/polished/purpur_block_3" },
+            { "model": "block/stone/polished/purpur_block_4" }
         ]
     }
 }

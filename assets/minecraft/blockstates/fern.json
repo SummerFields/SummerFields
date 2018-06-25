@@ -1,8 +1,8 @@
 {
     "variants": {
-        "normal": [
-          { "model": "fern" },
-          { "model": "random/flower/fern1" }
+        "": [
+          { "model": "block/fern" },
+          { "model": "block/random/flower/fern1" }
       ]
     }
 }

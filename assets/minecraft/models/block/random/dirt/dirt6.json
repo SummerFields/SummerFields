@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "blocks/variants/dirt/dirt6"
+        "all": "block/variants/dirt/dirt6"
     }
 }

@@ -1,11 +1,11 @@
 {
     "variants": {
-        "normal": [
-  { "model": "random/flower_pot/potted_brown_mushroom_0" },
-  { "model": "random/flower_pot/potted_brown_mushroom_1" },
-  { "model": "random/flower_pot/potted_brown_mushroom_2" },
-  { "model": "random/flower_pot/potted_brown_mushroom_3" },
-  { "model": "random/flower_pot/potted_brown_mushroom_4" }
+        "": [
+  { "model": "block/random/flower_pot/potted_brown_mushroom_0" },
+  { "model": "block/random/flower_pot/potted_brown_mushroom_1" },
+  { "model": "block/random/flower_pot/potted_brown_mushroom_2" },
+  { "model": "block/random/flower_pot/potted_brown_mushroom_3" },
+  { "model": "block/random/flower_pot/potted_brown_mushroom_4" }
 ]
     }
 }

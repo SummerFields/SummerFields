@@ -1,5 +1,5 @@
 {
     "variants": {
-        "normal": { "model": "stone/end_stone/end_stone_bricks" }
+        "": { "model": "block/stone/end_stone/end_stone_bricks" }
     }
 }

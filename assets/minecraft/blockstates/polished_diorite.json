@@ -1,11 +1,11 @@
 {
     "variants": {
-        "normal": [
-            { "model": "polished_diorite" },
-            { "model": "stone/polished/polished_diorite_1" },
-            { "model": "stone/polished/polished_diorite_2" },
-            { "model": "stone/polished/polished_diorite_3" },
-            { "model": "stone/polished/polished_diorite_4" }
+        "": [
+            { "model": "block/polished_diorite" },
+            { "model": "block/stone/polished/polished_diorite_1" },
+            { "model": "block/stone/polished/polished_diorite_2" },
+            { "model": "block/stone/polished/polished_diorite_3" },
+            { "model": "block/stone/polished/polished_diorite_4" }
         ]
     }
 }

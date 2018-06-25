@@ -1,5 +1,5 @@
 {
     "variants": {
-        "normal": { "model": "stone/cobblestone/cobblestone" }
+        "": { "model": "block/stone/cobblestone/cobblestone" }
     }
 }

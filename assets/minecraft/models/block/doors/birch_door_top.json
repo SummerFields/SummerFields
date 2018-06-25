@@ -2,8 +2,8 @@
     "__comment": "This model was created with freundTech's Blender2Minecraft converter (BETA)",
     "ambientocclusion": false,
     "textures": {
-        "birch_door_top": "blocks/birch_door_top",
-        "particle": "blocks/birch_door_top"
+        "birch_door_top": "block/birch_door_top",
+        "particle": "block/birch_door_top"
     },
     "elements": [
         {   "__comment": "Cube",

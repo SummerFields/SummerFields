@@ -1,20 +1,20 @@
 {
     "variants": {
         "facing=north": [
-		{ "model": "pumpkin_melon/jack_o_lantern" },
-		{ "model": "pumpkin_melon/jack_o_lantern1" }
+		{ "model": "block/pumpkin_melon/jack_o_lantern" },
+		{ "model": "block/pumpkin_melon/jack_o_lantern1" }
 	],
         "facing=south": [
-		{ "model": "pumpkin_melon/jack_o_lantern", "y": 180 },
-		{ "model": "pumpkin_melon/jack_o_lantern1", "y": 180 }
+		{ "model": "block/pumpkin_melon/jack_o_lantern", "y": 180 },
+		{ "model": "block/pumpkin_melon/jack_o_lantern1", "y": 180 }
 	],
         "facing=west":  [
-		{ "model": "pumpkin_melon/jack_o_lantern", "y": 270 },
-		{ "model": "pumpkin_melon/jack_o_lantern1", "y": 270 }
+		{ "model": "block/pumpkin_melon/jack_o_lantern", "y": 270 },
+		{ "model": "block/pumpkin_melon/jack_o_lantern1", "y": 270 }
 	],
         "facing=east":  [
-		{ "model": "pumpkin_melon/jack_o_lantern", "y": 90 },
-		{ "model": "pumpkin_melon/jack_o_lantern1", "y": 90 }
+		{ "model": "block/pumpkin_melon/jack_o_lantern", "y": 90 },
+		{ "model": "block/pumpkin_melon/jack_o_lantern1", "y": 90 }
 	]
     }
 }

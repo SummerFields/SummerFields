@@ -1,18 +1,18 @@
 {
     "variants": {
         "snowy=false": [
-            { "model": "grass_normal" },
-            { "model": "random/grass/grass_block1" },
-            { "model": "random/grass/grass_block2" },
-            { "model": "random/grass/grass_block3" },
-            { "model": "random/grass/grass_block4" },
-            { "model": "random/grass/grass_block5" },
-            { "model": "random/grass/grass_block6" },
-            { "model": "random/grass/grass_block7" },
-            { "model": "random/grass/grass_block8" },
-            { "model": "random/grass/grass_block9" },
-            { "model": "random/grass/grass_block10" }
+            { "model": "block/grass_normal" },
+            { "model": "block/random/grass/grass_block1" },
+            { "model": "block/random/grass/grass_block2" },
+            { "model": "block/random/grass/grass_block3" },
+            { "model": "block/random/grass/grass_block4" },
+            { "model": "block/random/grass/grass_block5" },
+            { "model": "block/random/grass/grass_block6" },
+            { "model": "block/random/grass/grass_block7" },
+            { "model": "block/random/grass/grass_block8" },
+            { "model": "block/random/grass/grass_block9" },
+            { "model": "block/random/grass/grass_block10" }
         ],
-        "snowy=true":  { "model": "grass_block_snow" }
+        "snowy=true":  { "model": "block/grass_block_snow" }
     }
 }

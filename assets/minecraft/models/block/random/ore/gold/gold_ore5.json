@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "blocks/variants/ore/gold_ore5"
+        "all": "block/variants/ore/gold_ore5"
     }
 }

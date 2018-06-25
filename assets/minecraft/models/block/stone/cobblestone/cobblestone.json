@@ -1,7 +1,7 @@
 {
     "parent": "block/cube_column",
     "textures": {
-        "end": "blocks/variants/stone/cobblestone/cobblestone_top",
-        "side": "blocks/cobblestone"
+        "end": "block/variants/stone/cobblestone/cobblestone_top",
+        "side": "block/cobblestone"
     }
 }

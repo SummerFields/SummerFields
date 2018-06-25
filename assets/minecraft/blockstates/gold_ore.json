@@ -1,13 +1,13 @@
 {
     "variants": {
-        "normal": [
-            { "model": "gold_ore" },
-            { "model": "random/ore/gold/gold_ore1" },
-            { "model": "random/ore/gold/gold_ore2" },
-            { "model": "random/ore/gold/gold_ore3" },
-            { "model": "random/ore/gold/gold_ore4" },
-            { "model": "random/ore/gold/gold_ore5" },
-            { "model": "random/ore/gold/gold_ore6" }
+        "": [
+            { "model": "block/gold_ore" },
+            { "model": "block/random/ore/gold/gold_ore1" },
+            { "model": "block/random/ore/gold/gold_ore2" },
+            { "model": "block/random/ore/gold/gold_ore3" },
+            { "model": "block/random/ore/gold/gold_ore4" },
+            { "model": "block/random/ore/gold/gold_ore5" },
+            { "model": "block/random/ore/gold/gold_ore6" }
         ]
     }
 }

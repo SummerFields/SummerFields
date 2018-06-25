@@ -1,15 +1,15 @@
 {
     "variants": {
-        "normal": [
-            { "model": "bookshelf" },
-            { "model": "random/bookshelf/bookshelf1" },
-            { "model": "random/bookshelf/bookshelf2" },
-            { "model": "random/bookshelf/bookshelf3" },
-            { "model": "random/bookshelf/bookshelf4" },
-            { "model": "random/bookshelf/bookshelf5" },
-            { "model": "random/bookshelf/bookshelf6" },
-            { "model": "random/bookshelf/bookshelf7" },
-            { "model": "random/bookshelf/bookshelf8" }
+        "": [
+            { "model": "block/bookshelf" },
+            { "model": "block/random/bookshelf/bookshelf1" },
+            { "model": "block/random/bookshelf/bookshelf2" },
+            { "model": "block/random/bookshelf/bookshelf3" },
+            { "model": "block/random/bookshelf/bookshelf4" },
+            { "model": "block/random/bookshelf/bookshelf5" },
+            { "model": "block/random/bookshelf/bookshelf6" },
+            { "model": "block/random/bookshelf/bookshelf7" },
+            { "model": "block/random/bookshelf/bookshelf8" }
         ]
     }
 }

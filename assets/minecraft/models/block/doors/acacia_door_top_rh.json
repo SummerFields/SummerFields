@@ -2,9 +2,9 @@
     "__createdwith": "opl's Model Creator",
     "ambientocclusion": false,
     "textures": {
-        "acacia_door_bottom": "blocks/acacia_door_bottom",
-        "acacia_door_top": "blocks/acacia_door_top",
-        "particle": "blocks/acacia_door_top"
+        "acacia_door_bottom": "block/acacia_door_bottom",
+        "acacia_door_top": "block/acacia_door_top",
+        "particle": "block/acacia_door_top"
     },
     "elements": [
         {

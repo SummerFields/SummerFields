@@ -2,8 +2,8 @@
     "__comment": "This model was created with freundTech's Blender2Minecraft converter (BETA)",
     "ambientocclusion": false,
     "textures": {
-        "dark_oak_door_bottom": "blocks/dark_oak_door_bottom",
-        "particle": "blocks/dark_oak_door_bottom"
+        "dark_oak_door_bottom": "block/dark_oak_door_bottom",
+        "particle": "block/dark_oak_door_bottom"
     },
     "elements": [
         {   "__comment": "Cube",

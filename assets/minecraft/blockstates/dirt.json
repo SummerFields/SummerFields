@@ -1,16 +1,16 @@
 {
     "variants": {
-        "normal": [
-            { "model": "dirt" },
-            { "model": "random/dirt/dirt1" },
-            { "model": "random/dirt/dirt2" },
-            { "model": "random/dirt/dirt3" },
-            { "model": "random/dirt/dirt4" },
-            { "model": "random/dirt/dirt5" },
-            { "model": "random/dirt/dirt6" },
-            { "model": "random/dirt/dirt7" },
-            { "model": "random/dirt/dirt8" },
-            { "model": "random/dirt/dirt9" }
+        "": [
+            { "model": "block/dirt" },
+            { "model": "block/random/dirt/dirt1" },
+            { "model": "block/random/dirt/dirt2" },
+            { "model": "block/random/dirt/dirt3" },
+            { "model": "block/random/dirt/dirt4" },
+            { "model": "block/random/dirt/dirt5" },
+            { "model": "block/random/dirt/dirt6" },
+            { "model": "block/random/dirt/dirt7" },
+            { "model": "block/random/dirt/dirt8" },
+            { "model": "block/random/dirt/dirt9" }
         ]
     }
 }

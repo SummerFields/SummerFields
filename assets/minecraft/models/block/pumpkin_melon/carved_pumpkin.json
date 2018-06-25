@@ -1,9 +1,9 @@
 {
     "parent": "block/pumpkin_melon/orientable_b",
     "textures": {
-        "top": "blocks/pumpkin_top",
-        "bottom": "blocks/variants/pumpkin_bottom",
-        "front": "blocks/carved_pumpkin",
-        "side": "blocks/pumpkin_side"
+        "top": "block/pumpkin_top",
+        "bottom": "block/variants/pumpkin_bottom",
+        "front": "block/carved_pumpkin",
+        "side": "block/pumpkin_side"
     }
 }

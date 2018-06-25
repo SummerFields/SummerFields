@@ -1,11 +1,11 @@
 {
     "variants": {
-        "normal": [
-  { "model": "random/flower_pot/potted_dandelion_0" },
-  { "model": "random/flower_pot/potted_dandelion_1" },
-  { "model": "random/flower_pot/potted_dandelion_2" },
-  { "model": "random/flower_pot/potted_dandelion_3" },
-  { "model": "random/flower_pot/potted_dandelion_4" }
+        "": [
+  { "model": "block/random/flower_pot/potted_dandelion_0" },
+  { "model": "block/random/flower_pot/potted_dandelion_1" },
+  { "model": "block/random/flower_pot/potted_dandelion_2" },
+  { "model": "block/random/flower_pot/potted_dandelion_3" },
+  { "model": "block/random/flower_pot/potted_dandelion_4" }
 ]
     }
 }

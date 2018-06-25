@@ -1,6 +1,6 @@
 {
     "parent": "block/button/template_orientable_button",
     "textures": {
-        "texture": "blocks/variants/button/oak_button"
+        "texture": "block/variants/button/oak_button"
     }
 }

@@ -1,5 +1,5 @@
 {
     "variants": {
-        "normal": { "model": "sugar_cane/sugar_cane" }
+        "": { "model": "block/sugar_cane/sugar_cane" }
     }
 }

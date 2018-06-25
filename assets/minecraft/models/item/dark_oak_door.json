@@ -1,7 +1,7 @@
 {
     "parent": "item/door_inventory",
     "textures": {
-        "bottom": "blocks/dark_oak_door_lower",
-        "top"   : "blocks/dark_oak_door_upper"
+        "bottom": "block/dark_oak_door_lower",
+        "top"   : "block/dark_oak_door_upper"
     }
 }

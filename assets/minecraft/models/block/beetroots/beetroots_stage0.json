@@ -1,7 +1,7 @@
 {
     "parent": "block/cross",
     "textures": {
-        "cross": "blocks/beetroots_stage0"
+        "cross": "block/beetroots_stage0"
     },
     "elements": [
         {   "from": [ 0.8, -1, 8 ],

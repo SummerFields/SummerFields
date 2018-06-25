@@ -1,11 +1,11 @@
 {
     "variants": {
-        "normal": [
-          { "model": "stone/stone_brick/stone_bricks" },
-          { "model": "stone/stone_brick/stone_bricks_1" },
-          { "model": "stone/stone_brick/stone_bricks_2" },
-          { "model": "stone/stone_brick/stone_bricks_3" },
-          { "model": "stone/stone_brick/stone_bricks_4" }
+        "": [
+          { "model": "block/stone/stone_brick/stone_bricks" },
+          { "model": "block/stone/stone_brick/stone_bricks_1" },
+          { "model": "block/stone/stone_brick/stone_bricks_2" },
+          { "model": "block/stone/stone_brick/stone_bricks_3" },
+          { "model": "block/stone/stone_brick/stone_bricks_4" }
         ]
     }
 }

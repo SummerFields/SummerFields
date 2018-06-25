@@ -1,17 +1,17 @@
 {
     "multipart": [
-        {   "apply": { "model": "fence/spruce_fence_post" }},
+        {   "apply": { "model": "block/fence/spruce_fence_post" }},
         {   "when": { "north": "true" },
-            "apply": { "model": "fence/spruce_fence_side" }
+            "apply": { "model": "block/fence/spruce_fence_side" }
         },
         {   "when": { "east": "true" },
-            "apply": { "model": "fence/spruce_fence_side", "y": 90 }
+            "apply": { "model": "block/fence/spruce_fence_side", "y": 90 }
         },
         {   "when": { "south": "true" },
-            "apply": { "model": "fence/spruce_fence_side", "y": 180 }
+            "apply": { "model": "block/fence/spruce_fence_side", "y": 180 }
         },
         {   "when": { "west": "true" },
-            "apply": { "model": "fence/spruce_fence_side", "y": 270 }
+            "apply": { "model": "block/fence/spruce_fence_side", "y": 270 }
         }
     ]
 }

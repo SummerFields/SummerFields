@@ -1,7 +1,7 @@
 {
     "variants": {
         "snowy=false": [
-            { "model": "block/grass_normal" },
+            { "model": "block/grass_block" },
             { "model": "block/random/grass/grass_block1" },
             { "model": "block/random/grass/grass_block2" },
             { "model": "block/random/grass/grass_block3" },

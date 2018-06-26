@@ -76,7 +76,7 @@
         {   "from": [ 6, 12, 6 ],
             "to": [ 10, 16, 10 ],
             "faces": {
-                "up":    { "uv": [ 6, 6, 10, 10 ], "cactustop": "#cactus" },
+                "up":    { "uv": [ 6, 6, 10, 10 ], "texture": "#cactustop" },
                 "north": { "uv": [ 6, 0, 10, 4 ], "texture": "#cactus" },
                 "south": { "uv": [ 6, 0, 10, 4 ], "texture": "#cactus" },
                 "west":  { "uv": [ 6, 0, 10, 4 ], "texture": "#cactus" },

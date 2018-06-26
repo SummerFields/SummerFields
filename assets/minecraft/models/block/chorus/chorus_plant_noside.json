@@ -17,8 +17,8 @@
             }
         },
         {
-            "from": [7,6,5],
-            "to": [9,8,6],
+            "from": [7,9,5],
+            "to": [8,10,6],
             "faces": {
                 "up": { "texture": "#texture" },
                 "down": { "texture": "#texture" },

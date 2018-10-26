@@ -1,0 +1,19 @@
+{
+    "multipart": [
+        {   "when": { "up": "true" },
+            "apply": { "model": "block/wall/diorite_wall_post" }
+        },
+        {   "when": { "north": "true" },
+            "apply": { "model": "block/wall/diorite_wall_side" }
+        },
+        {   "when": { "east": "true" },
+            "apply": { "model": "block/wall/diorite_wall_side", "y": 90 }
+        },
+        {   "when": { "south": "true" },
+            "apply": { "model": "block/wall/diorite_wall_side", "y": 180 }
+        },
+        {   "when": { "west": "true" },
+            "apply": { "model": "block/wall/diorite_wall_side", "y": 270 }
+        }
+    ]
+}

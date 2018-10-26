@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "block/slab/petrified_oak_slab_bottom" },
+        "type=top": { "model": "block/slab/petrified_oak_slab_top" },
+        "type=double": { "model": "block/slab/petrified_oak_slab_double" }
+    }
+}

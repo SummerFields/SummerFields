@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "":   { "model": "block/block/quartz_block" }
+    }
+}

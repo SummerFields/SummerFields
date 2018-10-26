@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab_top",
+    "textures": {
+        "bottom": "block/variants/stone/stone_brick/mossy_stone_bricks_top",
+        "top": "block/variants/stone/stone_brick/mossy_stone_bricks_top",
+        "side": "block/mossy_stone_bricks"
+    }
+}

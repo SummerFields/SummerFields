@@ -1,0 +1,50 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/variants/rails/rail_top",
+		"1": "block/variants/rails/rail_bottom",
+		"particle": "block/variants/rails/rail_top"
+	},
+	"elements": [
+		{
+			"name": "rail1",
+			"from": [4, 0.5, 0],
+			"to": [5.5, 1.5, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.75, 1, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 1.5, 1], "texture": "#0"},
+				"east": {"uv": [15, 0, 16, 16], "texture": "#0", "rotation": 90},
+				"south": {"uv": [0, 0, 1.5, 1], "texture": "#0"},
+				"west": {"uv": [0.5, 0, 1.5, 16], "texture": "#0", "rotation": 90},
+				"up": {"uv": [0, 0, 1.5, 16], "texture": "#0"},
+				"down": {"uv": [4, 0, 5.5, 16], "texture": "#1", "rotation": 180}
+			}
+		},
+		{
+			"name": "rail2",
+			"from": [10.5, 0.5, 0],
+			"to": [12, 1.5, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11.25, 1, 8]},
+			"faces": {
+				"north": {"uv": [14.5, 0, 16, 1], "texture": "#0"},
+				"east": {"uv": [15, 0, 16, 16], "texture": "#0", "rotation": 90},
+				"south": {"uv": [14.5, 0, 16, 1], "texture": "#0"},
+				"west": {"uv": [0.5, 0, 1.5, 16], "texture": "#0", "rotation": 90},
+				"up": {"uv": [14.5, 0, 16, 16], "texture": "#0", "rotation": 180},
+				"down": {"uv": [10.5, 0, 12, 16], "texture": "#1", "rotation": 180}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "rails",
+			"isOpen": true,
+			"shade": true,
+			"display": {
+				"visibility": true,
+				"autouv": true
+			},
+			"children": [0, 1]
+		}
+	]
+}

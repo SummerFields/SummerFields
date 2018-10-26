@@ -1,0 +1,6 @@
+{
+  "multipart": [
+    { "when": { "stage": "0"  }, "apply": { "model": "block/sapling/dark_oak_sapling_stade0" }},
+    { "when": { "stage": "1"  }, "apply": { "model": "block/dark_oak_sapling" }}
+  ]
+}

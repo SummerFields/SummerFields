@@ -6,27 +6,31 @@ Notes
 * LithiumSound has created SummerFields. 
 * Team SummerFields continued the texture pack.
 
-Thanks
+Thanks to our contributors
 ------
-
-* [Jolicraft] (http://www.jolicraft.com/) - My first source of inspiration!
-* [LB Photo Realisme] (http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223855-lb-photo-realism-1-6-convert-7-16-2013-rpg-realism) - For the damage animation!
-* [Notch] (http://www.minecraft.net) - For the beautiful dark blue water & the ultra red lava! =D
+* [lipki] (https://github.com/lipki) for many things (see below).
+* [tobyplowy] (https://github.com/tobyplowy) for many things (see below).
 * [CuddleWoozle] (http://cuddlewoozle.herobo.com/) - for the alternate cow & sheep.
+* [chengzzi89] (https://github.com/chengzzi89) for MCPE and More.
+* SilverLimit, for the new quartz block textures!
+* [kingoscargames] (https://github.com/kingoscargames) for help.
 * Milktache, for setting up SummerFields on the customizer!
 * Marcinz606, for the lightmap and all the custom colors, sky and all. =D
-* Sixdd, for the ctm.png file.
-* [lipki] (https://github.com/lipki) for many things (see below).
-* SilverLimit, for the new quartz block textures!
 * Card, for Feed the Beast mod support.
-* [tobyplowy] (https://github.com/tobyplowy) for many things (see below).
-* [chengzzi89] (https://github.com/chengzzi89) for MCPE and More.
-* [kingoscargames] (https://github.com/kingoscargames) for help.
+* Sixdd, for the ctm.png file.
 
+Inspiration sources.
+------
+* [Notch] (http://www.minecraft.net) - For the amazing game, and for the beautiful dark blue water, & the ultra red lava! =D
+* [Jolicraft] (http://www.jolicraft.com/) - My first source of inspiration!
+* [LB Photo Realisme] (http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223855-lb-photo-realism-1-6-convert-7-16-2013-rpg-realism) - For the damage animation!
+
+------
 MOD Support
 -----------
 
-If you play with some mod, you should download mod support for summerfields. On the summerfields thread you can download all of them.
+If you play with mods, then it's recommended that you download the mod support packs for summerfields. You can find the ones that we support on the summerfields thread.
+-------------
 
 History of Recent Updates
 ------------------------
@@ -51,6 +55,7 @@ History of Recent Updates
   - sea pickle by [lipki] (https://github.com/lipki)
   - Drowned by [tobyplowy] (https://github.com/tobyplowy) and [lipki] (https://github.com/lipki)
   - Map icons by [lipki] (https://github.com/lipki)
+  - Removed herobrine by [tobyplowy] (https://github.com/tobyplowy) and [lipki] (https://github.com/lipki)
   - Coral by [lipki] (https://github.com/lipki)
   - Real Tropical Fish by [lipki] (https://github.com/lipki)
   - Real Fish by [tobyplowy] (https://github.com/tobyplowy)
@@ -65,8 +70,8 @@ History of Recent Updates
   - sea grass by [lipki] (https://github.com/lipki)
   - Kelp by [chengzzi89] (https://github.com/chengzzi89) and [lipki] (https://github.com/lipki)
   - Some stone tools have broken pixels by [kingoscargames] (https://github.com/kingoscargames)
-  - pressure plate by [lipki] (https://github.com/lipki)
-  - all button by [tobyplowy] (https://github.com/tobyplowy)
+  - all pressure plate textures by [lipki] (https://github.com/lipki)
+  - all button textures by [tobyplowy] (https://github.com/tobyplowy)
   - new trapdoor by [tobyplowy] (https://github.com/tobyplowy)
 
 
@@ -301,3 +306,6 @@ xx/xx/2014 : Release 1.9
 
   - slimeball.png
     - Just one.
+	
+	Looks like you have reached the end of the update log.
+	- Toby plowy was here :P

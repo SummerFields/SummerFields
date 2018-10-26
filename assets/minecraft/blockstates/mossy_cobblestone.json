@@ -1,5 +1,5 @@
 {
     "variants": {
-        "": { "model": "block/stone/cobblestone/mossy_cobblestone" }
+        "": { "model": "block/block/mossy_cobblestone" }
     }
 }

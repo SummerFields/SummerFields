@@ -1,0 +1,29 @@
+{
+    "multipart": [        
+        {   "when": { "shape": "north_south"     }, "apply": { "model": "block/rails/rail_flat" }},
+        {   "when": { "shape": "east_west"       }, "apply": { "model": "block/rails/rail_flat", "y": 90 }},
+        {   "when": { "shape": "ascending_east"  }, "apply": { "model": "block/rails/rail_raised_ne", "y": 90 }},
+        {   "when": { "shape": "ascending_west"  }, "apply": { "model": "block/rails/rail_raised_ne", "y": -90 }},
+        {   "when": { "shape": "ascending_north" }, "apply": { "model": "block/rails/rail_raised_ne" }},
+        {   "when": { "shape": "ascending_south" }, "apply": { "model": "block/rails/rail_raised_ne", "y": 180 }},
+        
+        {   "when": { "shape": "north_south"     }, "apply": { "model": "block/rails/rail_planck_top" }},
+        {   "when": { "shape": "east_west"       }, "apply": { "model": "block/rails/rail_planck_top", "y": 90 }},
+        {   "when": { "shape": "north_south"     }, "apply": { "model": "block/rails/rail_planck_bottom" }},
+        {   "when": { "shape": "east_west"       }, "apply": { "model": "block/rails/rail_planck_bottom", "y": 90 }},
+        
+        {   "when": { "powered": "false", "shape": "north_south"     }, "apply": { "model": "block/rails/rail_activator_off" }},
+        {   "when": { "powered": "false", "shape": "east_west"       }, "apply": { "model": "block/rails/rail_activator_off", "y": 90 }},
+        {   "when": { "powered": "false", "shape": "ascending_east"  }, "apply": { "model": "block/rails/rail_activator_off_raised", "y": 90 }},
+        {   "when": { "powered": "false", "shape": "ascending_west"  }, "apply": { "model": "block/rails/rail_activator_off_raised", "y": -90 }},
+        {   "when": { "powered": "false", "shape": "ascending_north" }, "apply": { "model": "block/rails/rail_activator_off_raised" }},
+        {   "when": { "powered": "false", "shape": "ascending_south" }, "apply": { "model": "block/rails/rail_activator_off_raised", "y": 180 }},
+        
+        {   "when": { "powered": "true", "shape": "north_south"     }, "apply": { "model": "block/rails/rail_activator_on" }},
+        {   "when": { "powered": "true", "shape": "east_west"       }, "apply": { "model": "block/rails/rail_activator_on", "y": 90 }},
+        {   "when": { "powered": "true", "shape": "ascending_east"  }, "apply": { "model": "block/rails/rail_activator_on_raised", "y": 90 }},
+        {   "when": { "powered": "true", "shape": "ascending_west"  }, "apply": { "model": "block/rails/rail_activator_on_raised", "y": -90 }},
+        {   "when": { "powered": "true", "shape": "ascending_north" }, "apply": { "model": "block/rails/rail_activator_on_raised" }},
+        {   "when": { "powered": "true", "shape": "ascending_south" }, "apply": { "model": "block/rails/rail_activator_on_raised", "y": 180 }}
+    ]
+}

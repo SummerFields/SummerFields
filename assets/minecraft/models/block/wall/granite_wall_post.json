@@ -1,0 +1,7 @@
+{
+    "parent": "block/wall/template_wall_post",
+    "textures": {
+        "wall": "block/granite",
+		    "top": "block/granite"
+    }
+}

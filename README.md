@@ -31,6 +31,18 @@ If you play with some mod, you should download mod support for summerfields. On 
 History of Recent Updates
 ------------------------
 
+26/10/2018 : Release 1.13.2
+  - better 3d doors by [chengzzi89] (https://github.com/chengzzi89) and [lipki] (https://github.com/lipki)
+  - new sticky piston by [lipki] (https://github.com/lipki)
+  - Kelp correct by [tobyplowy] (https://github.com/tobyplowy)
+  - New 3d rail by [lipki] (https://github.com/lipki)
+  - New ladder 3d by [lipki] (https://github.com/lipki)
+  - New note block by [lipki] (https://github.com/lipki)
+  - Two stages of development of sapling by [lipki] (https://github.com/lipki)
+  - [1.14] New dyes by [lipki] (https://github.com/lipki)
+  - Easily recognize infested blocks by [lipki] (https://github.com/lipki)
+  
+
 19/06/2018 : Release 1.13
   - inventory update by [tobyplowy] (https://github.com/tobyplowy) and [lipki] (https://github.com/lipki)
   - Blue ice by [lipki] (https://github.com/lipki)

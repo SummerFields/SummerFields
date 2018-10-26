@@ -1,11 +1,11 @@
 {
     "variants": {
         "": [
-          { "model": "block/stone/stone_brick/stone_bricks" },
-          { "model": "block/stone/stone_brick/stone_bricks_1" },
-          { "model": "block/stone/stone_brick/stone_bricks_2" },
-          { "model": "block/stone/stone_brick/stone_bricks_3" },
-          { "model": "block/stone/stone_brick/stone_bricks_4" }
+          { "model": "block/block/stone_bricks" },
+          { "model": "block/block/stone_bricks_1" },
+          { "model": "block/block/stone_bricks_2" },
+          { "model": "block/block/stone_bricks_3" },
+          { "model": "block/block/stone_bricks_4" }
         ]
     }
 }

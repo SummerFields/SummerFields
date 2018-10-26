@@ -1,0 +1,8 @@
+{
+    "parent": "block/infested/template_infested_inventory",
+    "textures": {
+      "top": "block/variants/stone/cobblestone/cobblestone_top",
+      "side": "block/cobblestone",
+      "infested": "block/variants/infested/template_inventory_infested"
+    }
+}

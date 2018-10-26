@@ -1,0 +1,26 @@
+{
+    "multipart": [
+        {   "when": { "shape": "north_south"     }, "apply": { "model": "block/rails/rail_flat" }},
+        {   "when": { "shape": "east_west"       }, "apply": { "model": "block/rails/rail_flat", "y": 90 }},
+        
+        {   "when": { "shape": "north_south"     }, "apply": { "model": "block/rails/rail_planck_top" }},
+        {   "when": { "shape": "east_west"       }, "apply": { "model": "block/rails/rail_planck_top", "y": 90 }},
+        
+        {   "when": { "shape": "north_south"     }, "apply": { "model": "block/rails/rail_planck_middle" }},
+        {   "when": { "shape": "east_west"       }, "apply": { "model": "block/rails/rail_planck_middle", "y": 90 }},
+        
+        {   "when": { "shape": "north_south"     }, "apply": { "model": "block/rails/rail_planck_bottom" }},
+        {   "when": { "shape": "east_west"       }, "apply": { "model": "block/rails/rail_planck_bottom", "y": 90 }},
+        
+        
+        
+        {   "when": { "shape": "ascending_east"  }, "apply": { "model": "block/rails/rail_raised_ne", "y": 90 }},
+        {   "when": { "shape": "ascending_west"  }, "apply": { "model": "block/rails/rail_raised_ne", "y": -90 }},
+        {   "when": { "shape": "ascending_north" }, "apply": { "model": "block/rails/rail_raised_ne" }},
+        {   "when": { "shape": "ascending_south" }, "apply": { "model": "block/rails/rail_raised_ne", "y": 180 }},
+        {   "when": { "shape": "south_east"      }, "apply": { "model": "block/rails/rail_corner" }},
+        {   "when": { "shape": "south_west"      }, "apply": { "model": "block/rails/rail_corner", "y": 90 }},
+        {   "when": { "shape": "north_west"      }, "apply": { "model": "block/rails/rail_corner", "y": 180 }},
+        {   "when": { "shape": "north_east"      }, "apply": { "model": "block/rails/rail_corner", "y": 270 }}
+    ]
+}

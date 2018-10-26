@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "block/quartz_block_side",
+        "top": "block/quartz_block_side",
+        "side": "block/variants/slab/quartz_slab"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/wall/template_wall_post_brick",
+    "textures": {
+        "wall": "block/stone_bricks",
+		    "top": "block/variants/stone/stone_brick/stone_brick_top"
+    }
+}

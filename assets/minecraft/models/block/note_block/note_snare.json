@@ -1,0 +1,44 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/variants/note_block/note_snare",
+		"particle": "block/variants/note_block/note_snare"
+	},
+	"elements": [
+		{
+			"from": [3.5, 16.01, 0.5],
+			"to": [12.5, 16.01, 3.5],
+			"faces": {
+				"up": {"uv": [3.5, 0.5, 12.5, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-0.01, 12.5, 3.5],
+			"to": [-0.01, 15.5, 12.5],
+			"faces": {
+				"west": {"uv": [3.5, 0.5, 12.5, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3.5, 12.5, -0.01],
+			"to": [12.5, 15.5, -0.01],
+			"faces": {
+				"north": {"uv": [3.5, 0.5, 12.5, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [16.01, 12.5, 3.5],
+			"to": [16.01, 15.5, 12.5],
+			"faces": {
+				"east": {"uv": [3.5, 0.5, 12.5, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3.5, 12.5, 16.01],
+			"to": [12.5, 15.5, 16.01],
+			"faces": {
+				"south": {"uv": [3.5, 0.5, 12.5, 3.5], "texture": "#0"}
+			}
+		}
+	]
+}

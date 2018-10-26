@@ -1,5 +1,5 @@
 {
-    "parent": "block/birch_trapdoor_bottom",
+    "parent": "block/acacia_trapdoor_bottom",
     "display": {
         "thirdperson_righthand": {
             "rotation": [ 0, 0, -90 ],

@@ -1,0 +1,82 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/rail",
+		"1": "block/variants/rails/rail_bottom",
+		"particle": "block/rail"
+	},
+	"elements": [
+		{
+			"name": "m_d2",
+			"from": [14, 0, 7],
+			"to": [14.5, 0.5, 8.5],
+			"faces": {
+				"north": {"uv": [14, 7, 14.5, 7.5], "texture": "#0", "rotation": 180},
+				"east": {"uv": [14, 7, 14.5, 8.5], "texture": "#0", "rotation": 90},
+				"south": {"uv": [14, 8, 14.5, 8.5], "texture": "#0"},
+				"up": {"uv": [14, 7, 14.5, 8.5], "texture": "#0"},
+				"down": {"uv": [1.5, 7, 2, 8.5], "texture": "#1", "rotation": 180}
+			}
+		},
+		{
+			"name": "m_g1",
+			"from": [1.5, 0, 8],
+			"to": [2, 0.5, 9.5],
+			"faces": {
+				"north": {"uv": [1.5, 8, 2, 8.5], "texture": "#0", "rotation": 180},
+				"south": {"uv": [1.5, 9, 2, 9.5], "texture": "#0"},
+				"west": {"uv": [1.5, 8, 2, 9.5], "texture": "#0", "rotation": 270},
+				"up": {"uv": [1.5, 8, 2, 9.5], "texture": "#0"},
+				"down": {"uv": [14, 8, 14.5, 9.5], "texture": "#1", "rotation": 180}
+			}
+		},
+		{
+			"name": "m_g2",
+			"from": [2, 0, 6.5],
+			"to": [8, 0.5, 9.5],
+			"faces": {
+				"north": {"uv": [5.5, 7, 10.5, 7.5], "texture": "#0", "rotation": 180},
+				"east": {"uv": [7.5, 6.5, 8, 9.5], "texture": "#0", "rotation": 90},
+				"south": {"uv": [5.5, 14, 10.5, 14.5], "texture": "#0"},
+				"west": {"uv": [2, 6.5, 2.5, 9.5], "texture": "#0", "rotation": 270},
+				"up": {"uv": [2, 6.5, 8, 9.5], "texture": "#0"},
+				"down": {"uv": [8, 6.5, 14, 9.5], "texture": "#1", "rotation": 180}
+			}
+		},
+		{
+			"name": "m_d1",
+			"from": [8, 0, 7],
+			"to": [14, 0.5, 10],
+			"faces": {
+				"north": {"uv": [5.5, 7, 10.5, 7.5], "texture": "#0", "rotation": 180},
+				"east": {"uv": [13.5, 7, 14, 10], "texture": "#0", "rotation": 90},
+				"south": {"uv": [5.5, 14, 10.5, 14.5], "texture": "#0"},
+				"west": {"uv": [8, 7, 8.5, 10], "texture": "#0", "rotation": 270},
+				"up": {"uv": [8, 7, 14, 10], "texture": "#0"},
+				"down": {"uv": [2, 7, 8, 10], "texture": "#1", "rotation": 180}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "rails",
+			"isOpen": true,
+			"shade": true,
+			"display": {
+				"visibility": true,
+				"autouv": true
+			},
+			"children": []
+		},
+		{
+			"name": "middle",
+			"isOpen": true,
+			"shade": true,
+			"display": {
+				"visibility": true,
+				"autouv": true
+			},
+			"children": [0, 1, 2, 3]
+		}
+	]
+}

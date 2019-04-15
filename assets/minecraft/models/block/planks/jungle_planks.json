@@ -1,0 +1,6 @@
+{
+    "parent": "block/planks/planks",
+    "textures": {
+        "all": "block/jungle_planks"
+    }
+}

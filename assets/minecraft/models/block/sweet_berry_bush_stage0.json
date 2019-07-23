@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/sweet_berry_bush_stage0",
+		"particle": "block/sweet_berry_bush_stage0"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 3],
+			"to": [13, 10, 13],
+			"faces": {
+				"north": {"uv": [3, 6, 13, 16], "texture": "#0"},
+				"east": {"uv": [13, 16, 3, 6], "texture": "#0"},
+				"south": {"uv": [3, 6, 13, 16], "texture": "#0"},
+				"west": {"uv": [3, 6, 13, 16], "texture": "#0"},
+				"up": {"uv": [3, 3, 13, 13], "texture": "#0"},
+				"down": {"uv": [3, 3, 13, 13], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [5, 0, 5],
+			"to": [11, 8, 11],
+			"faces": {
+				"north": {"uv": [5, 8, 11, 16], "texture": "#0"},
+				"east": {"uv": [11, 16, 5, 8], "texture": "#0"},
+				"south": {"uv": [5, 8, 11, 16], "texture": "#0"},
+				"west": {"uv": [5, 8, 11, 16], "texture": "#0"},
+				"up": {"uv": [5, 5, 11, 11], "texture": "#0"},
+				"down": {"uv": [5, 5, 11, 11], "texture": "#missing"}
+			}
+		}
+	]
+}

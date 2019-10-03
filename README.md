@@ -14,6 +14,7 @@ Thanks to our contributors
 * [chengzzi89] (https://github.com/chengzzi89) for MCPE and More.
 * SilverLimit, for the new quartz block textures!
 * [kingoscargames] (https://github.com/kingoscargames) for help.
+* [Snykeurs] (https://github.com/Snykeurs) for help.
 * Milktache, for setting up SummerFields on the customizer!
 * Marcinz606, for the lightmap and all the custom colors, sky and all. =D
 * Card, for Feed the Beast mod support.
@@ -34,6 +35,10 @@ If you play with mods, then it's recommended that you download the mod support p
 
 History of Recent Updates
 ------------------------
+
+Release 1.14
+  - ravager by [Snykeurs] (https://github.com/Snykeurs)
+
 
 26/10/2018 : Release 1.13.2
   - better 3d doors by [chengzzi89] (https://github.com/chengzzi89) and [lipki] (https://github.com/lipki)

@@ -38,6 +38,7 @@ History of Recent Updates
 
 Release 1.14
   - ravager by [Snykeurs] (https://github.com/Snykeurs)
+  - honey bottle and comb by [Snykeurs] (https://github.com/Snykeurs) and [tobyplowy] (https://github.com/tobyplowy)
 
 
 26/10/2018 : Release 1.13.2

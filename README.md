@@ -39,12 +39,14 @@ History of Recent Updates
 Release 1.14
   - ravager by [Snykeurs] (https://github.com/Snykeurs)
   - honey bottle and comb by [Snykeurs] (https://github.com/Snykeurs) and [tobyplowy] (https://github.com/tobyplowy)
-  - smoker by [tobyplowy] (https://github.com/tobyplowy) and [lipki] (https://github.com/lipki)
+  - smoker by [tobyplowy] (https://github.com/tobyplowy) and [lipki] (https://github.com/lipki) GUI was done by [jaygradon] (https://github.com/jaygradon)
   - grind stone by [lipki] (https://github.com/lipki)
   - stone cutter by [tobyplowy] (https://github.com/tobyplowy) 
   - bell by [tobyplowy] (https://github.com/tobyplowy) 
   - smithing table by [lipki] (https://github.com/lipki)
 	
+	
+
 
 26/10/2018 : Release 1.13.2
   - better 3d doors by [chengzzi89] (https://github.com/chengzzi89) and [lipki] (https://github.com/lipki)

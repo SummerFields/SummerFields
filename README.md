@@ -36,6 +36,13 @@ If you play with mods, then it's recommended that you download the mod support p
 History of Recent Updates
 ------------------------
 
+Release 1.15
+  - beehive by [Snykeurs] (https://github.com/Snykeurs)
+  - Updated chests texture by [Snykeurs] (https://github.com/Snykeurs)
+  - Updated old honey texture by [Snykeurs] (https://github.com/Snykeurs)
+  - Added iron_golem folder by [Snykeurs] (https://github.com/Snykeurs)
+
+
 Release 1.14
   - ravager by [Snykeurs] (https://github.com/Snykeurs)
   - honey bottle and comb by [Snykeurs] (https://github.com/Snykeurs) and [tobyplowy] (https://github.com/tobyplowy)

@@ -1,0 +1,20 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"inside": "block/composter_compost",
+		"particle": "block/composter_compost"
+	},
+	"elements": [
+		{
+			"from": [1.5, 0, 1.5],
+			"to": [14.5, 15, 14.5],
+			"faces": {
+				"north": {"uv": [2, 2, 14, 14], "texture": "#inside"},
+				"east": {"uv": [2, 2, 14, 14], "texture": "#inside"},
+				"south": {"uv": [2, 2, 14, 14], "texture": "#inside"},
+				"west": {"uv": [2, 2, 14, 14], "texture": "#inside"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#inside", "rotation": 180, "cullface": "up"}
+			}
+		}
+	]
+}

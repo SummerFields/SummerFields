@@ -1,0 +1,15 @@
+{
+    "variants": {
+      "facing=north,face=floor": { "model": "block/bell_floor" },
+      "facing=south,face=floor": { "model": "block/bell_floor", "y": 180 },
+      "facing=east,face=floor":  { "model": "block/bell_floor", "y": 90 },
+      "facing=west,face=floor":  { "model": "block/bell_floor", "y": 270 },
+      "facing=north,face=ceiling": { "model": "block/bell_ceiling" },
+      "facing=south,face=ceiling": { "model": "block/bell_ceiling", "y": 180 },
+      "facing=east,face=ceiling":  { "model": "block/bell_ceiling", "y": 90 },
+      "facing=west,face=wall":  { "model": "block/bell_wall" },
+      "facing=south,face=wall": { "model": "block/bell_wall" },
+      "facing=east,face=wall":  { "model": "block/bell_wall" },
+      "facing=west,face=wall":  { "model": "block/bell_wall" }
+    }
+}

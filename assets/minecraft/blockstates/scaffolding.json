@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "distance=0": { "model": "block/scaffolding/scaffolding_stable" },
+        "distance=1": { "model": "block/scaffolding/scaffolding_unstable_1" },
+        "distance=2": { "model": "block/scaffolding/scaffolding_unstable_2" },
+        "distance=3": { "model": "block/scaffolding/scaffolding_unstable_3" },
+        "distance=4": { "model": "block/scaffolding/scaffolding_unstable_4" },
+        "distance=5": { "model": "block/scaffolding/scaffolding_unstable_5" },
+        "distance=6": { "model": "block/scaffolding/scaffolding_unstable_6" },
+        "distance=7": { "model": "block/scaffolding/scaffolding_stable" }
+    }
+}

@@ -41,7 +41,8 @@ Release 1.15
   - Updated chests texture by [Snykeurs] (https://github.com/Snykeurs)
   - Updated old honey texture by [Snykeurs] (https://github.com/Snykeurs)
   - Added iron_golem folder by [Snykeurs] (https://github.com/Snykeurs)
-
+  - Globe texture by [tobyplowy] (https://github.com/tobyplowy) and [lipki] (https://github.com/lipki)
+  - Banner pattern by [lipki] (https://github.com/lipki)
 
 Release 1.14
   - ravager by [Snykeurs] (https://github.com/Snykeurs)

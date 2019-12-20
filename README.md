@@ -35,6 +35,45 @@ If you play with mods, then it's recommended that you download the mod support p
 History of Recent Updates
 ------------------------
 
+Release 1.14
+  - hero of the village by [tobyplowy] (https://github.com/tobyplowy)
+  - Horse armor Leather by [Snykeurs] (https://github.com/Snykeurs)
+  - Brown Mooshroom by god
+  - Fox by [tobyplowy] (https://github.com/tobyplowy)
+  - Wandering trader by [tobyplowy] (https://github.com/tobyplowy)
+  - Composter by [lipki] (https://github.com/lipki)
+  - CampFire by Dream Team
+  - Jigsaw technical block by [lipki] (https://github.com/lipki)
+  - Berry bush by [tobyplowy] (https://github.com/tobyplowy) and [lipki] (https://github.com/lipki)
+  - Lantern by [tobyplowy] (https://github.com/tobyplowy) and [chengzzi89] (https://github.com/chengzzi89)
+  - smithing table by [lipki] (https://github.com/lipki)
+  - Fletching Table by [lipki] (https://github.com/lipki)
+  - Cartography Table by [tobyplowy] (https://github.com/tobyplowy) and [lipki] (https://github.com/lipki)
+  - Blast Furnace by [lipki] (https://github.com/lipki)
+  - smoker by [tobyplowy] (https://github.com/tobyplowy) and [lipki] (https://github.com/lipki) GUI was done by [jaygradon] (https://github.com/jaygradon)
+  - grind stone by [lipki] (https://github.com/lipki)
+  - bell by [tobyplowy] (https://github.com/tobyplowy) 
+  - stone cutter by [tobyplowy] (https://github.com/tobyplowy) 
+  - Barrel by [tobyplowy] (https://github.com/tobyplowy)
+  - New Flowers by [tobyplowy] (https://github.com/tobyplowy)
+  - suspicious stew by [lipki] (https://github.com/lipki) 
+  - New dyes by [lipki] (https://github.com/lipki) 
+  - Pattern for banner by [tobyplowy] (https://github.com/tobyplowy)
+  - Loom by [lipki] (https://github.com/lipki) 
+  - Crossbow by [lipki] (https://github.com/lipki) 
+  - Lectern by [tobyplowy] (https://github.com/tobyplowy)
+  - New sign for all types of wood by [lipki] (https://github.com/lipki) 
+  - New series of block variation by [lipki] (https://github.com/lipki) 
+  - Ravager by [Snykeurs] (https://github.com/Snykeurs)
+  - Pillager by [lipki] (https://github.com/lipki)
+  - Villager level by [lipki] (https://github.com/lipki)
+  - Zombie Villager by [lipki] (https://github.com/lipki) and [tobyplowy] (https://github.com/tobyplowy)
+  - Villager by [lipki] (https://github.com/lipki) and [tobyplowy] (https://github.com/tobyplowy)
+  - Panda by [lipki] (https://github.com/lipki) and [tobyplowy] (https://github.com/tobyplowy)
+  - Bamboo by [tobyplowy] (https://github.com/tobyplowy) and [chengzzi89] (https://github.com/chengzzi89)
+  - Nine cats by [lipki] (https://github.com/lipki) and [tobyplowy] (https://github.com/tobyplowy)
+
+
 26/10/2018 : Release 1.13.2
   - better 3d doors by [chengzzi89] (https://github.com/chengzzi89) and [lipki] (https://github.com/lipki)
   - new sticky piston by [lipki] (https://github.com/lipki)
@@ -74,7 +113,6 @@ History of Recent Updates
   - all button textures by [tobyplowy] (https://github.com/tobyplowy)
   - new trapdoor by [tobyplowy] (https://github.com/tobyplowy)
 
-
   
 03/12/2017 : Release 1.12
   - Horses are broken by [lipki] (https://github.com/lipki)
@@ -95,6 +133,7 @@ History of Recent Updates
   - better map_background by [tobyplowy] (https://github.com/tobyplowy)
   - update stats_icons by [tobyplowy] (https://github.com/tobyplowy)
   - Chicken fix by [tobyplowy] (https://github.com/tobyplowy)
+
 
 15/11/2016 : Release 1.11
   - Correction of stairs - by [Ultharine] (https://github.com/Ultharine)
@@ -143,14 +182,17 @@ History of Recent Updates
   - Dark darkprismarine - by [tobyplowy] (https://github.com/tobyplowy)
   - Prismarine and sea lantern - by [ImLeeRii] (https://github.com/ImLeeRii)
 
+
 05/06/2014 : Release 1.10
 * Added
   - some stuff 1.10
   - by lipki and tobyplowy
 
+
 xx/xx/2014 : Release 1.9
 * Added
   - some stuff
+
 
 12/09/2014 : Release 1.8
 * Added
@@ -182,6 +224,7 @@ xx/xx/2014 : Release 1.9
 * Split
   - Mcpatcher : new repo
 
+
 12/09/2014 : Release 1.8 bêta
 * Added
   - new spectator_widgets.png by [2LEPRECHAUN] (https://github.com/2LEPRECHAUN) and [lipki] (https://github.com/lipki)
@@ -208,6 +251,7 @@ xx/xx/2014 : Release 1.9
   - cake by [2LEPRECHAUN] (https://github.com/2LEPRECHAUN)
   - clay by [2LEPRECHAUN] (https://github.com/2LEPRECHAUN)
 
+
 4/08/2014 : Release 1.7.10
 * Changes
   - comparator & repeater & detector rail by [muink] (https://github.com/muink)
@@ -221,6 +265,7 @@ xx/xx/2014 : Release 1.9
   - new stats_icons.png by [2LEPRECHAUN] (https://github.com/2LEPRECHAUN)
   - new stream_indicator.png by [2LEPRECHAUN] (https://github.com/2LEPRECHAUN)
   - new widgets.png by [2LEPRECHAUN] (https://github.com/2LEPRECHAUN)
+
 
 8/05/2014 :
 * Added support for future release 1.8
@@ -236,6 +281,7 @@ xx/xx/2014 : Release 1.9
   - Enderman head
   - new steve skin
   - new mojang logo
+
 
 21/11/2013 :
 * Changes

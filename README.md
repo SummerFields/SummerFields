@@ -14,6 +14,7 @@ Thanks to our contributors
 * [chengzzi89] (https://github.com/chengzzi89) for MCPE and More.
 * SilverLimit, for the new quartz block textures!
 * [kingoscargames] (https://github.com/kingoscargames) for help.
+* [Snykeurs] (https://github.com/Snykeurs) for help.
 * Milktache, for setting up SummerFields on the customizer!
 * Marcinz606, for the lightmap and all the custom colors, sky and all. =D
 * Card, for Feed the Beast mod support.

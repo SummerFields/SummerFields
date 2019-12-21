@@ -36,6 +36,14 @@ If you play with mods, then it's recommended that you download the mod support p
 History of Recent Updates
 ------------------------
 
+Release 1.15
+  - beehive by [Snykeurs] (https://github.com/Snykeurs)
+  - Updated chests texture by [Snykeurs] (https://github.com/Snykeurs)
+  - Updated old honey texture by [Snykeurs] (https://github.com/Snykeurs)
+  - Added iron_golem folder by [Snykeurs] (https://github.com/Snykeurs)
+  - Globe texture by [tobyplowy] (https://github.com/tobyplowy) and [lipki] (https://github.com/lipki)
+  - Banner pattern by [lipki] (https://github.com/lipki)
+
 Release 1.14
   - hero of the village by [tobyplowy] (https://github.com/tobyplowy)
   - Horse armor Leather by [Snykeurs] (https://github.com/Snykeurs)

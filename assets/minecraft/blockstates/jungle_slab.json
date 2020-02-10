@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "block/slab/jungle_slab_bottom" },
+        "type=top": { "model": "block/slab/jungle_slab_top" },
+        "type=double": { "model": "block/planks/jungle_planks" }
+    }
+}

@@ -1,6 +1,6 @@
 {
     "parent": "block/slab/planks_slab_top",
     "textures": {
-        "all": "block/variants/slab/oak_petrified"
+        "all": "block/birch_planks"
     }
 }

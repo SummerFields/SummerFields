@@ -1,0 +1,25 @@
+{
+    "variants": {
+        "type=bottom": [
+          { "model": "block/dark_prismarine_slab" },
+          { "model": "block/slab/dark_prismarine_slab_bottom_1" },
+          { "model": "block/slab/dark_prismarine_slab_bottom_2" },
+          { "model": "block/slab/dark_prismarine_slab_bottom_3" },
+          { "model": "block/slab/dark_prismarine_slab_bottom_4" }
+        ],
+        "type=top": [
+          { "model": "block/dark_prismarine_slab_top" },
+          { "model": "block/slab/dark_prismarine_slab_top_1" },
+          { "model": "block/slab/dark_prismarine_slab_top_2" },
+          { "model": "block/slab/dark_prismarine_slab_top_3" },
+          { "model": "block/slab/dark_prismarine_slab_top_4" }
+        ],
+        "type=double": [
+          { "model": "block/dark_prismarine" },
+          { "model": "block/random/dark_prismarine/dark_prismarine_1" },
+          { "model": "block/random/dark_prismarine/dark_prismarine_2" },
+          { "model": "block/random/dark_prismarine/dark_prismarine_3" },
+          { "model": "block/random/dark_prismarine/dark_prismarine_4" }
+        ]
+    }
+}

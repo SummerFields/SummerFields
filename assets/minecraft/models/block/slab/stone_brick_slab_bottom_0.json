@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "block/variants/stone/stone_brick/stone_brick_top",
+        "top": "block/variants/stone/stone_brick/stone_brick_top",
+        "side": "block/stone_bricks"
+    }
+}

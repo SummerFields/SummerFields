@@ -22,6 +22,7 @@ Thanks to our contributors
 * Marcinz606, for the lightmap and all the custom colors, sky and all. =D
 * Card, for Feed the Beast mod support.
 * Sixdd, for the ctm.png file.
+* [jaygradon] (https://github.com/jaygradon)
 
 Inspiration sources.
 ------
@@ -40,6 +41,7 @@ History of Recent Updates
 ------------------------
 
 Release 1.16
+  - New food item by [jaygradon] (https://github.com/jaygradon)
   - Crying Obsidian by [chengzzi89] (https://github.com/chengzzi89)
   - Soul Fire by [lipki] (https://github.com/lipki)
   - Piglin by [lipki] (https://github.com/lipki)

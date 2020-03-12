@@ -40,6 +40,7 @@ History of Recent Updates
 ------------------------
 
 Release 1.16
+  - Piglin by [lipki] (https://github.com/lipki)
   - Nether gold ore by [Snykeurs] (https://github.com/Snykeurs)
 
 Release 1.15

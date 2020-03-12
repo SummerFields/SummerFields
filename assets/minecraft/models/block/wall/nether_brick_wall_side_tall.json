@@ -1,0 +1,7 @@
+{
+    "parent": "block/wall/template_wall_side_tall",
+    "textures": {
+        "wall": "block/nether_bricks",
+		"side": "block/nether_bricks"
+    }
+}

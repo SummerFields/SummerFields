@@ -54,6 +54,7 @@ Release 1.15
   - Added iron_golem folder by [Snykeurs] (https://github.com/Snykeurs)
   - Globe texture by [tobyplowy] (https://github.com/tobyplowy) and [lipki] (https://github.com/lipki)
   - Banner pattern by [lipki] (https://github.com/lipki)
+  - honey bottle and comb by [Snykeurs] (https://github.com/Snykeurs) and [tobyplowy] (https://github.com/tobyplowy)
 
 Release 1.14
   - hero of the village by [tobyplowy] (https://github.com/tobyplowy)

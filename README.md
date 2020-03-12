@@ -40,6 +40,7 @@ History of Recent Updates
 ------------------------
 
 Release 1.16
+  - Crying Obsidian by [chengzzi89] (https://github.com/chengzzi89)
   - Soul Fire by [lipki] (https://github.com/lipki)
   - Piglin by [lipki] (https://github.com/lipki)
   - Nether gold ore by [Snykeurs] (https://github.com/Snykeurs)

@@ -41,6 +41,7 @@ History of Recent Updates
 ------------------------
 
 Release 1.16
+  - Target block by [tobyplowy] (https://github.com/tobyplowy)
   - New food item by [jaygradon] (https://github.com/jaygradon)
   - Crying Obsidian by [chengzzi89] (https://github.com/chengzzi89)
   - Soul Fire by [lipki] (https://github.com/lipki)

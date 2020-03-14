@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+            { "model": "minecraft:block/target" },
+            { "model": "minecraft:block/target" },
+            { "model": "minecraft:block/target" },
+            { "model": "minecraft:block/target" },
+            { "model": "minecraft:block/target2" }
+        ]
+  }
+}

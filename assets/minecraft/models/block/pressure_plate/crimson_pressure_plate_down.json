@@ -1,0 +1,6 @@
+{
+    "parent": "block/pressure_plate_down",
+    "textures": {
+        "texture": "block/variants/pressure_plate/crimson_pressure_plate"
+    }
+}

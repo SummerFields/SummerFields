@@ -1,0 +1,6 @@
+{
+    "parent": "block/button/template_orientable_button_pressed",
+    "textures": {
+        "texture": "block/variants/button/crimson_button"
+    }
+}

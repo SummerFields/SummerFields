@@ -1,0 +1,20 @@
+{
+    "parent": "block/button/stone_button",
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, 0, -90 ],
+            "translation": [ 5, 0, 0],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -45, 0, -90 ],
+            "translation": [ 5, -8, -2 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "gui": {
+            "rotation": [ 30, 225, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale":[ 0.625, 0.625, 0.625 ]
+        }
+    }
+}

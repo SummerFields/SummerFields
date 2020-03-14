@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence/fence_post",
+    "textures": {
+        "texture": "block/variants/fence/crimson_fence"
+    }
+}

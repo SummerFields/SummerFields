@@ -1,0 +1,6 @@
+{
+    "parent": "block/pressure_plate_up",
+    "textures": {
+        "texture": "block/variants/pressure_plate/polished_blackstone_pressure_plate"
+    }
+}

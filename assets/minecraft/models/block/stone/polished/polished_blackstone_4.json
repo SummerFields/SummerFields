@@ -1,0 +1,9 @@
+{
+    "parent": "block/stone/polished/base_4",
+    "textures": {
+        "one": "block/variants/stone/polished/polished_blackstone_1",
+        "two": "block/variants/stone/polished/polished_blackstone_2",
+        "three": "block/variants/stone/polished/polished_blackstone_3",
+        "for": "block/variants/stone/polished/polished_blackstone_4"
+    }
+}

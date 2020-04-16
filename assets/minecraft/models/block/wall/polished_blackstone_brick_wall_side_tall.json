@@ -1,0 +1,7 @@
+{
+    "parent": "block/wall/template_wall_side_tall",
+    "textures": {
+        "wall": "block/polished_blackstone_bricks",
+		"side": "block/polished_blackstone_bricks"
+    }
+}

@@ -41,6 +41,7 @@ History of Recent Updates
 ------------------------
 
 Release 1.16
+  - New Glazzed Terracotta by [lipki] (https://github.com/lipki) and [chengzzi89] (https://github.com/chengzzi89)
   - Warped and crimson door/trapdoor by [Snykeurs] (https://github.com/Snykeurs)
   - Soul Particle by [lipki] (https://github.com/lipki)
   - Smithing UI by [Snykeurs] (https://github.com/Snykeurs)

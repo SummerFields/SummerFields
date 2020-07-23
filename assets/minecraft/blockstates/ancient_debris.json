@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/ancient_debris" },
+            { "model": "block/ancient_debris2" }
+        ]
+    }
+}

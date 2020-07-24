@@ -1,9 +1,0 @@
-{
-    "variants": {
-        "": [
-          { "model": "block/azure_bluet" },
-          { "model": "block/random/flower/azure_bluet1" },
-          { "model": "block/random/flower/azure_bluet2" }
-        ]
-    }
-}

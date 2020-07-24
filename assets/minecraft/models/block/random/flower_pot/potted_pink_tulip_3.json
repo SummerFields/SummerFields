@@ -1,6 +1,6 @@
 {
     "parent": "block/random/flower_pot/flower_pot_cross_3",
     "textures": {
-        "plant": "block/variants/potted/pink_tulip1"
+        "plant": "block/pink_tulip"
     }
 }

@@ -1,0 +1,7 @@
+{
+  "parent": "block/items/leather_leggings",
+  "textures": {
+	"0": "models/armor/leather_layer_2",
+	"particle": "models/armor/leather_layer_2"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/items/template_chestplate",
+  "textures": {
+	"0": "models/armor/gold_layer_1",
+	"particle": "models/armor/gold_layer_1"
+  }
+}

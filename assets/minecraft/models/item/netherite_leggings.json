@@ -1,0 +1,7 @@
+{
+  "parent": "block/items/template_leggings",
+  "textures": {
+	"0": "models/armor/netherite_layer_2",
+	"particle": "models/armor/netherite_layer_2"
+  }
+}

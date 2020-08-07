@@ -1,0 +1,8 @@
+{
+  "parent": "block/items/leather_helmet",
+  "textures": {
+	"layer0": "models/armor/leather_layer_1",
+	"layer1": "models/armor/leather_layer_1_overlay",
+	"particle": "models/armor/leather_layer_1"
+  }
+}

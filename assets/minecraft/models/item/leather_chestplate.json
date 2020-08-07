@@ -1,0 +1,7 @@
+{
+  "parent": "block/items/leather_chestplate",
+  "textures": {
+	"0": "models/armor/leather_layer_1",
+	"particle": "models/armor/leather_layer_1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+        {"model": "minecraft:block/twisting_vines_1", "y": 0},
+        {"model": "minecraft:block/twisting_vines_1", "y": 90},
+        {"model": "minecraft:block/twisting_vines_1", "y": 180},
+        {"model": "minecraft:block/twisting_vines_1", "y": 270},
+        {"model": "minecraft:block/twisting_vines_2", "y": 0},
+        {"model": "minecraft:block/twisting_vines_2", "y": 90},
+        {"model": "minecraft:block/twisting_vines_2", "y": 180},
+        {"model": "minecraft:block/twisting_vines_2", "y": 270}
+    ]
+  }
+}

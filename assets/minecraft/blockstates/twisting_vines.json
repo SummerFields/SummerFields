@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+        {"model": "minecraft:block/twisting_vines_1"},
+        {"model": "minecraft:block/twisting_vines_2"}
+    ]
+  }
+}

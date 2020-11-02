@@ -3,15 +3,14 @@
         "particle": "#texture"
     },
     "elements": [
-        {   "__comment": "North top bar",
-            "from": [ 7, 12, 0 ],
+        {   "from": [ 7, 12, 0 ],
             "to"  : [ 9, 15, 6 ],
             "faces": {
                 "west" : { "uv": [  0,  1,  6,  4 ], "texture": "#texture" },
                 "north": { "uv": [  4, 13,  6, 16 ], "texture": "#texture", "cullface": "north" },
                 "east" : { "uv": [ 10,  1, 16,  4 ], "texture": "#texture" },
                 "south": { "uv": [  4, 13,  6, 16 ], "texture": "#texture", "cullface": "south" },
-                "down" : { "uv": [  2, 10,  0, 16 ], "texture": "#texture", "rotation": 180, "cullface": "down" },
+                "down" : { "uv": [  2, 10,  0, 16 ], "texture": "#texture" },
                 "up"   : { "uv": [  2, 10,  4, 16 ], "texture": "#texture" }
             }
         },
@@ -23,7 +22,7 @@
                 "north": { "uv": [  4, 13,  6, 16 ], "texture": "#texture", "cullface": "north" },
                 "east" : { "uv": [ 10,  5, 16,  8 ], "texture": "#texture" },
                 "south": { "uv": [  4, 13,  6, 16 ], "texture": "#texture", "cullface": "south" },
-                "down" : { "uv": [  2, 10,  0, 16 ], "texture": "#texture", "rotation": 180, "cullface": "down" },
+                "down" : { "uv": [  2, 10,  0, 16 ], "texture": "#texture" },
                 "up"   : { "uv": [  2, 10,  4, 16 ], "texture": "#texture" }
             }
         }

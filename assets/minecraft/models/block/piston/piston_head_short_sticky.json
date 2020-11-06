@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
+		"particle": "#0",
 		"0": "block/piston_side",
 		"unsticky": "block/piston_top",
 		"side": "block/variants/piston/sticky_piston_side",

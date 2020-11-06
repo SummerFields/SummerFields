@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/sweet_berry_bush_stage3",
-		"1": "block/sweet_berry_bush_stage0",
-		"particle": "block/sweet_berry_bush_stage3"
+		"0": "block/variants/sweet_berry_bush/sweet_berry_bush_stage3",
+		"1": "block/variants/sweet_berry_bush/sweet_berry_bush_stage0",
+		"particle": "block/variants/sweet_berry_bush/sweet_berry_bush_stage3"
 	},
 	"elements": [
 		{

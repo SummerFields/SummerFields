@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"door_iron_upper": "block/iron_door_top",
-		"particle": "block/door_iron_top"
+		"particle": "block/variants/doors/door_iron_top"
 	},
 	"elements": [ 	 
 		{

@@ -1,6 +1,6 @@
 {
   "multipart": [
-    { "apply": { "model": "block/note_block" }},
+    { "apply": { "model": "block/note_block/note_block" }},
     { "when": { "note": "0"  }, "apply": { "model": "block/note_block/note_0" }},
     { "when": { "note": "1"  }, "apply": { "model": "block/note_block/note_1" }},
     { "when": { "note": "2"  }, "apply": { "model": "block/note_block/note_2" }},

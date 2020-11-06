@@ -3,6 +3,6 @@
     "textures": {
         "bottom": "block/variants/slab/stone_slab_top_1",
         "top": "block/variants/slab/stone_slab_top_1",
-        "side": "block/stone_slab_side"
+        "side": "block/variants/slab/stone_slab_side"
     }
 }

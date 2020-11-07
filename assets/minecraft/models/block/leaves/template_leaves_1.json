@@ -1,0 +1,73 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "#0",
+		"0": "block/variants/leaves/acacia_leaves"
+	},
+	"elements": [
+		{
+			"name": "sides",
+			"from": [-1.5, -5, 6],
+			"to": [16.5, 18, 6],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "x", "origin": [7.5, 6.5, 6.5]},
+			"faces": {
+				"north": {"uv": [16, 16, 0, 0], "texture": "#0", "rotation": 180, "cullface": "north", "tintindex": 0},
+				"south": {"uv": [16, 16, 0, 0], "texture": "#0", "rotation": 180, "cullface": "south", "tintindex": 0}
+			}
+		},
+		{
+			"name": "sides",
+			"from": [-1.5, -5, 11],
+			"to": [16.5, 18, 11],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "x", "origin": [7.5, 6.5, 10.5]},
+			"faces": {
+				"north": {"uv": [16, 16, 0, 0], "texture": "#0", "rotation": 180, "cullface": "north", "tintindex": 0},
+				"south": {"uv": [16, 16, 0, 0], "texture": "#0", "rotation": 180, "cullface": "south", "tintindex": 0}
+			}
+		},
+		{
+			"name": "sides",
+			"from": [9, -4.5, -1.5],
+			"to": [9, 18.5, 16.5],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "z", "origin": [9, 7, 7.5]},
+			"faces": {
+				"east": {"uv": [16, 16, 0, 0], "texture": "#0", "rotation": 180, "cullface": "east", "tintindex": 0},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#0", "cullface": "west", "tintindex": 0}
+			}
+		},
+		{
+			"name": "sides",
+			"from": [4, -5, -1.5],
+			"to": [4, 18, 16.5],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "z", "origin": [4, 7, 7.5]},
+			"faces": {
+				"east": {"uv": [16, 0, 0, 16], "texture": "#0", "cullface": "east", "tintindex": 0},
+				"west": {"uv": [16, 16, 0, 0], "texture": "#0", "rotation": 180, "tintindex": 0}
+			}
+		},
+		{
+			"from": [8, 2, -1],
+			"to": [8, 18, 17],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 10, 7]},
+			"faces": {
+				"east": {"uv": [15.91, 0, 0, 11.5], "texture": "#0", "cullface": "up", "tintindex": 0},
+				"west": {"uv": [0, 0, 15.91, 11.5], "texture": "#0", "cullface": "up", "tintindex": 0}
+			}
+		},
+		{
+			"from": [-6.5, 3, 5.5],
+			"to": [11.5, 19, 5.5],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "y", "origin": [1.5, 11, 13]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.91, 11.5], "texture": "#0", "cullface": "up", "tintindex": 0},
+				"south": {"uv": [0, 0, 15.91, 11.5], "texture": "#0", "cullface": "up", "tintindex": 0}
+			}
+		}
+	]
+}

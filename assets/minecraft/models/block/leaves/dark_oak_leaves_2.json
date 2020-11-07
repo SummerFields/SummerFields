@@ -1,0 +1,6 @@
+{
+  "parent": "block/leaves/template_leaves_2",
+  "textures": {
+    "0": "block/variants/leaves/dark_oak_leaves"
+  }
+}

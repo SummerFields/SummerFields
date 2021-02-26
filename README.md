@@ -43,6 +43,7 @@ History of Recent Updates
 Release 1.17
   - Smooth_basalt by [lipki] (https://github.com/lipki)
   - Deepslate by [Snykeurs] (https://github.com/Snykeurs)
+  - Spore Blossom by [Physignatily] (https://github.com/Physignatily)
 
 
 Release 1.16

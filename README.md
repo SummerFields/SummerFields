@@ -41,11 +41,6 @@ History of Recent Updates
 ------------------------
 
 Release 1.17
-  - by [Snykeurs] (https://github.com/Snykeurs)
-    - Deepslate
-    - Cave vines retouch by [lipki] (https://github.com/lipki)
-    - Glow berries
-    - Glow ink sac
   - by [lipki] (https://github.com/lipki)
     - Smooth basalt
     - glow particle
@@ -58,6 +53,14 @@ Release 1.17
     - Spore Blossom
     - Moss block
     - Axolotl in a bucket
+    - Snow in a bucket
+    - Snow powder
+    - Frozen hearts
+  - by [Snykeurs] (https://github.com/Snykeurs)
+    - Deepslate
+    - Cave vines retouch by [lipki] (https://github.com/lipki)
+    - Glow berries
+    - Glow ink sac
   - Glow lichen by [lunapanshiel] (https://github.com/lunapanshiel)
   - Glow squid by [chengzzi89] (https://github.com/chengzzi89)
 

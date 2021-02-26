@@ -51,6 +51,7 @@ Release 1.17
     - glow particle
     - Axolotl !!!!
     - new debug stick texture
+    - tinted glass
   - by [Physignatily] (https://github.com/Physignatily)
     - Spore Blossom
     - Moss block

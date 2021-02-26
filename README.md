@@ -49,9 +49,11 @@ Release 1.17
   - by [Physignatily] (https://github.com/Physignatily)
     - Spore Blossom
     - Moss block
+    - Axolotl in a bucket
   - by [lipki] (https://github.com/lipki)
     - Smooth basalt
     - glow particle
+    - Axolotl !!!!
   - Glow lichen by [lunapanshiel] (https://github.com/lunapanshiel)
   - Glow squid by [chengzzi89] (https://github.com/chengzzi89)
 

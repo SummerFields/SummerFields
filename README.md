@@ -49,6 +49,7 @@ Release 1.17
     - Spore Blossom
     - Moss block
   - Smooth basalt by [lipki] (https://github.com/lipki)
+  - Glow lichen by [lunapanshiel] (https://github.com/lunapanshiel)
 
 
 Release 1.16

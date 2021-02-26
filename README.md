@@ -41,11 +41,14 @@ History of Recent Updates
 ------------------------
 
 Release 1.17
+  - by [Snykeurs] (https://github.com/Snykeurs)
+    - Deepslate
+    - Cave vines retouch by [lipki] (https://github.com/lipki)
+    - Glow berries
   - by [Physignatily] (https://github.com/Physignatily)
     - Spore Blossom
     - Moss block
   - Smooth basalt by [lipki] (https://github.com/lipki)
-  - Deepslate by [Snykeurs] (https://github.com/Snykeurs)
 
 
 Release 1.16

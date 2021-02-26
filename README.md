@@ -53,6 +53,7 @@ Release 1.17
     - new debug stick texture
     - tinted glass
     - tuff
+    - calcite
   - by [Physignatily] (https://github.com/Physignatily)
     - Spore Blossom
     - Moss block

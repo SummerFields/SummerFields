@@ -52,6 +52,7 @@ Release 1.17
     - Axolotl !!!!
     - new debug stick texture
     - tinted glass
+    - tuff
   - by [Physignatily] (https://github.com/Physignatily)
     - Spore Blossom
     - Moss block

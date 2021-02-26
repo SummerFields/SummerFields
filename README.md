@@ -40,47 +40,55 @@ If you play with mods, then it's recommended that you download the mod support p
 History of Recent Updates
 ------------------------
 
+Release 1.17
+  - Smooth_basalt by [lipki] (https://github.com/lipki)
+
+
 Release 1.16
-  - Ancient Debris by [lipki] (https://github.com/lipki)
-  - New Glazzed Terracotta by [lipki] (https://github.com/lipki) and [chengzzi89] (https://github.com/chengzzi89)
-  - Warped and crimson door/trapdoor by [Snykeurs] (https://github.com/Snykeurs)
-  - Soul Particle by [lipki] (https://github.com/lipki)
-  - Smithing UI by [Snykeurs] (https://github.com/Snykeurs)
-  - Polished basalt by [lipki] (https://github.com/lipki)
-  - Chain by [lipki] (https://github.com/lipki)
-  - Hoglin and zoglin by [lipki] (https://github.com/lipki)
-  - New wall model by [lipki] (https://github.com/lipki)
-  - Respawn anchor by [lipki] (https://github.com/lipki)
-  - Lodstone by [lipki] (https://github.com/lipki)
-  - Nether disc by [lipki] (https://github.com/lipki)
-  - Strider by [lipki] (https://github.com/lipki)
-  - Jigsaw lock by [chengzzi89] (https://github.com/chengzzi89)
-  - Netherite bicolor by [lipki] (https://github.com/lipki)
-  - All Blackstone by [lipki] (https://github.com/lipki)
-  - New Nether Brick by [lipki] (https://github.com/lipki)
-  - Piglin Banner by [lipki] (https://github.com/lipki)
-  - Banner Update by [lipki] (https://github.com/lipki)
-  - Quartz brick by [lipki] (https://github.com/lipki)
-  - Soul Fire by [lipki] (https://github.com/lipki) and [tobyplowy] (https://github.com/tobyplowy)
-  - Soul CampireFire by [lipki] (https://github.com/lipki)
-  - Piglin by [lipki] (https://github.com/lipki)
-  - All nether forest wood by [lipki] (https://github.com/lipki)
-  - Target block by [tobyplowy] (https://github.com/tobyplowy)
+  - by [lipki] (https://github.com/lipki)
+    - Ancient Debris
+    - Soul Particle
+    - Polished basalt
+    - Chain
+    - Hoglin and zoglin
+    - New wall model
+    - Respawn anchor
+    - Lodstone
+    - Nether disc
+    - Strider
+    - Netherite bicolor
+    - All Blackstone
+    - New Nether Brick
+    - Piglin Banner
+    - Banner Update
+    - Quartz brick
+    - Soul CampireFire
+    - Piglin
+    - All nether forest wood
+    - Soul Fire
+  - by [Snykeurs] (https://github.com/Snykeurs)
+    - Nether gold ore
+    - Smithing UI
+    - Warped and crimson door/trapdoor
+  - by [chengzzi89] (https://github.com/chengzzi89)
+    - Crying Obsidian
+    - Jigsaw lock
+    - New Glazzed Terracotta
+  - by [tobyplowy] (https://github.com/tobyplowy)
+    - Target block
+    - Soul Fire
   - New food item by [jaygradon] (https://github.com/jaygradon)
-  - Crying Obsidian by [chengzzi89] (https://github.com/chengzzi89)
-  - Soul Fire by [lipki] (https://github.com/lipki)
-  - Piglin by [lipki] (https://github.com/lipki)
-  - Nether gold ore by [Snykeurs] (https://github.com/Snykeurs)
 
 Release 1.15
-  - beenest by [chengzzi89] (https://github.com/chengzzi89)
-  - beehive by [Snykeurs] (https://github.com/Snykeurs)
-  - Updated chests texture by [Snykeurs] (https://github.com/Snykeurs)
-  - Updated old honey texture by [Snykeurs] (https://github.com/Snykeurs)
-  - Added iron_golem folder by [Snykeurs] (https://github.com/Snykeurs)
-  - Globe texture by [tobyplowy] (https://github.com/tobyplowy) and [lipki] (https://github.com/lipki)
+  - by [Snykeurs] (https://github.com/Snykeurs)
+    - beehive
+    - Updated chests texture
+    - Updated old honey texture
+    - Added iron_golem folder
   - Banner pattern by [lipki] (https://github.com/lipki)
+  - beenest by [chengzzi89] (https://github.com/chengzzi89)
   - honey bottle and comb by [Snykeurs] (https://github.com/Snykeurs) and [tobyplowy] (https://github.com/tobyplowy)
+  - Globe texture by [tobyplowy] (https://github.com/tobyplowy) and [lipki] (https://github.com/lipki)
 
 Release 1.14
   - hero of the village by [tobyplowy] (https://github.com/tobyplowy)

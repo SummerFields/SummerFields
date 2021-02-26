@@ -42,6 +42,7 @@ History of Recent Updates
 
 Release 1.17
   - Smooth_basalt by [lipki] (https://github.com/lipki)
+  - Deepslate by [Snykeurs] (https://github.com/Snykeurs)
 
 
 Release 1.16

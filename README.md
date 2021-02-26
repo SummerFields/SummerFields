@@ -45,11 +45,15 @@ Release 1.17
     - Deepslate
     - Cave vines retouch by [lipki] (https://github.com/lipki)
     - Glow berries
+    - Glow ink sac
   - by [Physignatily] (https://github.com/Physignatily)
     - Spore Blossom
     - Moss block
-  - Smooth basalt by [lipki] (https://github.com/lipki)
+  - by [lipki] (https://github.com/lipki)
+    - Smooth basalt
+    - glow particle
   - Glow lichen by [lunapanshiel] (https://github.com/lunapanshiel)
+  - Glow squid by [chengzzi89] (https://github.com/chengzzi89)
 
 
 Release 1.16

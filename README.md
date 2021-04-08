@@ -61,6 +61,7 @@ Release 1.17
     - Cave vines retouch by [lipki] (https://github.com/lipki)
     - Glow berries
     - Glow ink sac
+    - Goat
   - Glow lichen by [lunapanshiel] (https://github.com/lunapanshiel)
   - Glow squid by [chengzzi89] (https://github.com/chengzzi89)
 

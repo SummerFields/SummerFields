@@ -41,6 +41,14 @@ History of Recent Updates
 ------------------------
 
 Release 1.17
+  - by [Physignatily] (https://github.com/Physignatily)
+    - Spore Blossom
+    - Moss block
+    - Axolotl in a bucket
+    - Snow in a bucket
+    - Snow powder
+    - Frozen hearts
+    - Bundle
   - by [lipki] (https://github.com/lipki)
     - Smooth basalt
     - glow particle
@@ -49,14 +57,6 @@ Release 1.17
     - tinted glass
     - tuff
     - calcite
-    - Smooth basalt
-  - by [Physignatily] (https://github.com/Physignatily)
-    - Spore Blossom
-    - Moss block
-    - Axolotl in a bucket
-    - Snow in a bucket
-    - Snow powder
-    - Frozen hearts
   - by [Snykeurs] (https://github.com/Snykeurs)
     - Deepslate
     - Cave vines retouch by [lipki] (https://github.com/lipki)

@@ -49,6 +49,7 @@ Release 1.17
     - tinted glass
     - tuff
     - calcite
+    - Smooth basalt
   - by [Physignatily] (https://github.com/Physignatily)
     - Spore Blossom
     - Moss block

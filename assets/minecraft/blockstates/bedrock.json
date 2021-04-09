@@ -1,7 +1,7 @@
 {
     "variants": {
         "": [
-            { "model": "block/bedrock" }
+            { "model": "minecraft:block/bedrock" }
         ]
     }
 }

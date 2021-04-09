@@ -53,6 +53,7 @@ Release 1.17
     - Amethyst shard
     - Dripstone
     - Pointed Dripstone With a [lunapanshiel] (https://github.com/lunapanshiel) correction 
+    - raw ore
   - by [Physignatily] (https://github.com/Physignatily)
     - Spore Blossom
     - Moss block
@@ -68,10 +69,11 @@ Release 1.17
     - Glow ink sac
     - Goat
     - Light helper
-  - Glow lichen by [lunapanshiel] (https://github.com/lunapanshiel)
   - by [chengzzi89] (https://github.com/chengzzi89)
     - Glow squid
     - Amethyst bud
+    - Glow item frame
+  - Glow lichen by [lunapanshiel] (https://github.com/lunapanshiel)
 
 
 Release 1.16

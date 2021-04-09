@@ -41,14 +41,6 @@ History of Recent Updates
 ------------------------
 
 Release 1.17
-  - by [Physignatily] (https://github.com/Physignatily)
-    - Spore Blossom
-    - Moss block
-    - Axolotl in a bucket
-    - Snow in a bucket
-    - Snow powder
-    - Frozen hearts
-    - Bundle
   - by [lipki] (https://github.com/lipki)
     - Smooth basalt
     - glow particle
@@ -57,6 +49,16 @@ Release 1.17
     - tinted glass
     - tuff
     - calcite
+    - Amethyst block and budding
+    - Amethyst shard
+  - by [Physignatily] (https://github.com/Physignatily)
+    - Spore Blossom
+    - Moss block
+    - Axolotl in a bucket
+    - Snow in a bucket
+    - Snow powder
+    - Frozen hearts
+    - Bundle
   - by [Snykeurs] (https://github.com/Snykeurs)
     - Deepslate
     - Cave vines retouch by [lipki] (https://github.com/lipki)
@@ -64,7 +66,9 @@ Release 1.17
     - Glow ink sac
     - Goat
   - Glow lichen by [lunapanshiel] (https://github.com/lunapanshiel)
-  - Glow squid by [chengzzi89] (https://github.com/chengzzi89)
+  - by [chengzzi89] (https://github.com/chengzzi89)
+    - Glow squid
+    - Amethyst bud
 
 
 Release 1.16

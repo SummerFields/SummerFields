@@ -54,6 +54,7 @@ Release 1.17
     - Dripstone
     - Pointed Dripstone With a [lunapanshiel] (https://github.com/lunapanshiel) correction 
     - raw ore
+    - copper block / cut /ingot
   - by [Physignatily] (https://github.com/Physignatily)
     - Spore Blossom
     - Moss block
@@ -62,6 +63,8 @@ Release 1.17
     - Snow powder
     - Frozen hearts
     - Bundle
+    - Lightning rod
+    - copper ore
   - by [Snykeurs] (https://github.com/Snykeurs)
     - Deepslate
     - Cave vines

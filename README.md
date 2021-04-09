@@ -67,6 +67,7 @@ Release 1.17
     - Glow berries
     - Glow ink sac
     - Goat
+    - Light helper
   - Glow lichen by [lunapanshiel] (https://github.com/lunapanshiel)
   - by [chengzzi89] (https://github.com/chengzzi89)
     - Glow squid

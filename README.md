@@ -51,6 +51,8 @@ Release 1.17
     - calcite
     - Amethyst block and budding
     - Amethyst shard
+    - Dripstone
+    - Pointed Dripstone With a [lunapanshiel] (https://github.com/lunapanshiel) correction 
   - by [Physignatily] (https://github.com/Physignatily)
     - Spore Blossom
     - Moss block
@@ -61,7 +63,7 @@ Release 1.17
     - Bundle
   - by [Snykeurs] (https://github.com/Snykeurs)
     - Deepslate
-    - Cave vines retouch by [lipki] (https://github.com/lipki)
+    - Cave vines
     - Glow berries
     - Glow ink sac
     - Goat

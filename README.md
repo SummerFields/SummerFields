@@ -55,6 +55,7 @@ Release 1.17
     - Pointed Dripstone With a [lunapanshiel] (https://github.com/lunapanshiel) correction 
     - raw ore
     - copper block / cut /ingot
+    - change boat
   - by [Physignatily] (https://github.com/Physignatily)
     - Spore Blossom
     - Moss block

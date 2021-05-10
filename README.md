@@ -73,6 +73,7 @@ Release 1.17
     - Glow ink sac
     - Goat
     - Light helper
+    - Melon texture connection
   - by [chengzzi89] (https://github.com/chengzzi89)
     - Glow squid
     - Amethyst bud

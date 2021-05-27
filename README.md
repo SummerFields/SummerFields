@@ -74,6 +74,7 @@ Release 1.17
     - Goat
     - Light helper
     - Melon texture connection
+    - GUI social interactions
   - by [chengzzi89] (https://github.com/chengzzi89)
     - Glow squid
     - Amethyst bud

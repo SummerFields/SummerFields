@@ -78,7 +78,8 @@ Release 1.17
   - by [chengzzi89] (https://github.com/chengzzi89)
     - Glow squid
     - Amethyst bud
-    - Glow item frame
+    - Gui icon chat
+    - candle with variants by [lipki] (https://github.com/lipki)
   - Glow lichen by [lunapanshiel] (https://github.com/lunapanshiel)
 
 

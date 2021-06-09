@@ -58,6 +58,7 @@ Release 1.17
     - change boat
     - powder snow outline
     - Spyglass
+    - DripLeaf
   - by [Physignatily] (https://github.com/Physignatily)
     - Spore Blossom
     - Moss block

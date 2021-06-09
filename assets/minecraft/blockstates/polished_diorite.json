@@ -1,11 +1,11 @@
 {
     "variants": {
         "": [
-            { "model": "block/polished_diorite" },
-            { "model": "block/stone/polished/polished_diorite_1" },
-            { "model": "block/stone/polished/polished_diorite_2" },
-            { "model": "block/stone/polished/polished_diorite_3" },
-            { "model": "block/stone/polished/polished_diorite_4" }
+            { "model": "minecraft:block/polished_diorite" },
+            { "model": "minecraft:block_full/polished/polished_diorite_2" },
+            { "model": "minecraft:block_full/polished/polished_diorite_3" },
+            { "model": "minecraft:block_full/polished/polished_diorite_4" },
+            { "model": "minecraft:block_full/polished/polished_diorite_5" }
         ]
     }
 }

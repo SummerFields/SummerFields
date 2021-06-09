@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block_full/bricks/basemossy",
+    "textures": {
+        "down": "minecraft:variant_full/bricks/mossy_stone_bricks_top_3",
+        "up": "minecraft:variant_full/bricks/mossy_stone_bricks_top_3",
+        "side": "minecraft:block/mossy_stone_bricks",
+        "crop": "minecraft:block/wheat_stage0"
+    }
+}

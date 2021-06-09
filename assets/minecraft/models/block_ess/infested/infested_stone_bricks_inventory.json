@@ -1,7 +1,7 @@
 {
     "parent": "minecraft:block_ess/infested/template_infested_inventory",
     "textures": {
-      "top": "block/variants/stone/stone_brick/stone_brick_top",
+      "top": "block/stone_bricks",
       "side": "block/stone_bricks",
       "infested": "variant_ess/infested/template_inventory_infested"
     }

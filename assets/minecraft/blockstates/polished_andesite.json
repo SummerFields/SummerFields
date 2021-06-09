@@ -1,11 +1,11 @@
 {
     "variants": {
         "": [
-            { "model": "block/polished_andesite" },
-            { "model": "block/stone/polished/polished_andesite_1" },
-            { "model": "block/stone/polished/polished_andesite_2" },
-            { "model": "block/stone/polished/polished_andesite_3" },
-            { "model": "block/stone/polished/polished_andesite_4" }
+            { "model": "minecraft:block/polished_andesite" },
+            { "model": "minecraft:block_full/polished/polished_andesite_2" },
+            { "model": "minecraft:block_full/polished/polished_andesite_3" },
+            { "model": "minecraft:block_full/polished/polished_andesite_4" },
+            { "model": "minecraft:block_full/polished/polished_andesite_5" }
         ]
     }
-}
+}4

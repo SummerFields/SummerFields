@@ -59,6 +59,7 @@ Release 1.17
     - powder snow outline
     - Spyglass
     - DripLeaf
+    - Azalea
   - by [Physignatily] (https://github.com/Physignatily)
     - Spore Blossom
     - Moss block

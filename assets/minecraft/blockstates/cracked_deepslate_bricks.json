@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": [
+          { "model": "minecraft:block_full/bricks/cracked_deepslate_bricks_1" }
+        ]
+    }
+}

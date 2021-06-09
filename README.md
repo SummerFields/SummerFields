@@ -56,6 +56,7 @@ Release 1.17
     - raw ore
     - copper block / cut /ingot
     - change boat
+    - powder snow outline
   - by [Physignatily] (https://github.com/Physignatily)
     - Spore Blossom
     - Moss block

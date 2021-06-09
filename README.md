@@ -57,6 +57,7 @@ Release 1.17
     - copper block / cut /ingot
     - change boat
     - powder snow outline
+    - Spyglass
   - by [Physignatily] (https://github.com/Physignatily)
     - Spore Blossom
     - Moss block

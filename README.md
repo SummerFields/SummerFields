@@ -70,6 +70,7 @@ Release 1.17
     - Bundle
     - Lightning rod
     - copper ore
+    - rooted
   - by [Snykeurs] (https://github.com/Snykeurs)
     - Deepslate
     - Cave vines

@@ -71,6 +71,7 @@ Release 1.17
     - Lightning rod
     - copper ore
     - rooted
+    - Azalea 3d
   - by [Snykeurs] (https://github.com/Snykeurs)
     - Deepslate
     - Cave vines

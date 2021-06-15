@@ -1,7 +1,0 @@
-{
-    "parent": "block/wall/template_wall_post",
-    "textures": {
-        "wall": "block/mossy_cobblestone",
-		    "top": "block/variants/stone/cobblestone/mossy_cobblestone_top"
-    }
-}

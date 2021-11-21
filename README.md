@@ -46,6 +46,7 @@ Release 1.18
   - by [lipki] (https://github.com/lipki)
     - Changed display of potion effects
     - asciillager
+    - redisgn book
   - by [Snykeurs] (https://github.com/Snykeurs)
     - Disc otherside
 

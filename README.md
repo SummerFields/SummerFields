@@ -42,6 +42,11 @@ If you play with mods, then it's recommended that you download the mod support p
 History of Recent Updates
 ------------------------
 
+Release 1.18
+  - by [Snykeurs] (https://github.com/Snykeurs)
+    - Disc otherside
+
+
 Release 1.17
   - by [lipki] (https://github.com/lipki)
     - Smooth basalt

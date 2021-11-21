@@ -43,10 +43,11 @@ History of Recent Updates
 ------------------------
 
 Release 1.18
-  - by [Snykeurs] (https://github.com/Snykeurs)
-    - Disc otherside
   - by [lipki] (https://github.com/lipki)
     - Changed display of potion effects
+    - asciillager
+  - by [Snykeurs] (https://github.com/Snykeurs)
+    - Disc otherside
 
 
 Release 1.17

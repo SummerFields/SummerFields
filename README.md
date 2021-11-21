@@ -23,6 +23,8 @@ Thanks to our contributors
 * Card, for Feed the Beast mod support.
 * Sixdd, for the ctm.png file.
 * [jaygradon] (https://github.com/jaygradon)
+* [Physignatily] (https://github.com/Physignatily)
+* [lunapanshiel] (https://github.com/lunapanshiel)
 
 Inspiration sources.
 ------

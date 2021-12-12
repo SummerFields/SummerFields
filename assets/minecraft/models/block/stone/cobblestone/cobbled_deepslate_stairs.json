@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "block/variants/stone/cobblestone/cobbled_deepslate_top",
+        "top": "block/variants/stone/cobblestone/cobbled_deepslate_top",
+        "side": "block/cobbled_deepslate"
+    }
+}

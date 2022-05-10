@@ -1,0 +1,7 @@
+{
+    "parent": "block_ess/trapdoor/template_trapdoor_fine_bottom",
+    "textures": {
+        "texture": "block/mangrove_trapdoor",
+        "particle": "variant_ess/trapdoor/mangrove_trapdoor_side"
+    }
+}

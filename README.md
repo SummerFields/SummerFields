@@ -47,6 +47,10 @@ Release 1.19
     - Recovery compass
 	- Boat with chest
 	- Mud and Mud brick
+	- Mangrove
+	- Froglight
+	- Tadpole and are bucket
+	- frogspawn
   - by [Physignatily] (https://github.com/Physignatily)
     - Disc 5
 	- Allay

@@ -51,6 +51,7 @@ Release 1.19
 	- Froglight
 	- Tadpole and are bucket
 	- frogspawn
+	- frog
   - by [Physignatily] (https://github.com/Physignatily)
     - Disc 5
 	- Allay

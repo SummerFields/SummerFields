@@ -43,11 +43,13 @@ History of Recent Updates
 ------------------------
 
 Release 1.19
+  - by [lipki] (https://github.com/lipki)
+    - Recovery compass
+	- Boat with chest
+	- Mud and Mud brick
   - by [Physignatily] (https://github.com/Physignatily)
     - Disc 5
 	- Allay
-  - by [lipki] (https://github.com/lipki)
-    - Recovery compass
   - by [chengzzi89] (https://github.com/chengzzi89) and [lipki] (https://github.com/lipki)
     - Goat horn
 

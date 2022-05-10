@@ -52,6 +52,7 @@ Release 1.19
 	- Tadpole and are bucket
 	- frogspawn
 	- frog
+	- Darkness effect
   - by [Physignatily] (https://github.com/Physignatily)
     - Disc 5
 	- Allay

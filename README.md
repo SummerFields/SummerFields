@@ -42,6 +42,10 @@ If you play with mods, then it's recommended that you download the mod support p
 History of Recent Updates
 ------------------------
 
+Release 1.19
+  - by [chengzzi89] (https://github.com/chengzzi89) and [lipki] (https://github.com/lipki)
+    - Goat horn
+
 Release 1.18
   - by [lipki] (https://github.com/lipki)
     - Changed display of potion effects

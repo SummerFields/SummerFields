@@ -53,6 +53,7 @@ Release 1.19
 	- frogspawn
 	- frog
 	- Darkness effect
+	- new clock and compass
   - by [Physignatily] (https://github.com/Physignatily)
     - Disc 5
 	- Allay

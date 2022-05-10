@@ -43,6 +43,8 @@ History of Recent Updates
 ------------------------
 
 Release 1.19
+  - by [Physignatily] (https://github.com/Physignatily)
+    - Disc 5
   - by [chengzzi89] (https://github.com/chengzzi89) and [lipki] (https://github.com/lipki)
     - Goat horn
 

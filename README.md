@@ -56,6 +56,7 @@ Release 1.19
 	- new clock and compass
 	- sculk particle and co
 	- sculk vein
+	- sonic boom
   - by [Physignatily] (https://github.com/Physignatily)
     - Disc 5
 	- Allay

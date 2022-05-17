@@ -54,6 +54,8 @@ Release 1.19
 	- frog
 	- Darkness effect
 	- new clock and compass
+	- sculk particle and co
+	- sculk vein
   - by [Physignatily] (https://github.com/Physignatily)
     - Disc 5
 	- Allay

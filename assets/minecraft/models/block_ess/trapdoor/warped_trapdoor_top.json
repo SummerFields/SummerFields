@@ -1,0 +1,7 @@
+{
+    "parent": "block_ess/trapdoor/template_trapdoor_fine_top",
+    "textures": {
+        "texture": "block/warped_trapdoor",
+        "particle": "variant_ess/trapdoor/warped_trapdoor_side"
+    }
+}

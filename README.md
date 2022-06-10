@@ -61,6 +61,7 @@ Release 1.19
     - sculk sensor
     - sculk catalyst
 	- sonic boom
+    - warden
   - by [Physignatily] (https://github.com/Physignatily)
     - Disc 5
 	- Allay

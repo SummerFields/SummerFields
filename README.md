@@ -65,6 +65,8 @@ Release 1.19
     - Disc 5
 	- Allay
 	- echo shard
+  - by [Physignatily] (https://github.com/Physignatily) and [lipki] (https://github.com/lipki)
+    - reinforced deepslate
   - by [chengzzi89] (https://github.com/chengzzi89) and [lipki] (https://github.com/lipki)
     - Goat horn
 

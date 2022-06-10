@@ -57,6 +57,7 @@ Release 1.19
 	- sculk particle and co
 	- sculk vein
     - sculk shrieker
+    - sculk sensor
 	- sonic boom
   - by [Physignatily] (https://github.com/Physignatily)
     - Disc 5

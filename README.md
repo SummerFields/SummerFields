@@ -54,6 +54,7 @@ Release 1.19
 	- frog
 	- Darkness effect
 	- new clock and compass
+    - sculk
 	- sculk particle and co
 	- sculk vein
     - sculk shrieker

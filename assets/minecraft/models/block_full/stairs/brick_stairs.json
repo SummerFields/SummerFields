@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block_full/stairs/template_stairs",
+	"textures": {
+		"3": "variant_full/stairs/bricks_stair",
+		"particle": "variant_full/stairs/bricks_stair"
+	}
+}

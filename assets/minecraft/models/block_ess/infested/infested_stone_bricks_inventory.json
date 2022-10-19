@@ -3,6 +3,6 @@
     "textures": {
       "top": "block/stone_bricks",
       "side": "block/stone_bricks",
-      "infested": "variant_ess/infested/template_inventory_infested"
+      "infested": "block/variant_ess/infested/template_inventory_infested"
     }
 }

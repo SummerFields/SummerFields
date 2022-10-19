@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "block_full/stairs/template_inner_stairs",
 	"textures": {
-		"0": "variant_full/stairs/stone_bricks_stair",
-		"particle": "variant_full/stairs/stone_bricks_stair"
+		"0": "block/variant_full/stairs/stone_bricks_stair",
+		"particle": "block/variant_full/stairs/stone_bricks_stair"
 	}
 }

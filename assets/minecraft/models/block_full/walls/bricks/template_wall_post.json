@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"top": "variant_full/bricks/bricks_top_1",
+		"top": "minecraft:block/variant_full/bricks/bricks_top_1",
 		"particle": "#wall",
 		"wall": "block/bricks"
 	},

@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "models/armor/leather_layer_2",
-		"1": "models/armor/leather_layer_2_overlay",
-		"particle": "models/armor/leather_layer_2"
+		"0": "block/variant_ess/armor/leather_layer_2",
+		"1": "block/variant_ess/armor/leather_layer_2_overlay",
+		"particle": "block/variant_ess/armor/leather_layer_2"
 	},
 	"elements": [
 		{

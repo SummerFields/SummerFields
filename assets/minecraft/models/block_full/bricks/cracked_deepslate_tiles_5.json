@@ -1,7 +1,7 @@
 {
     "parent": "minecraft:block/cube_column",
     "textures": {
-        "end": "minecraft:variant_full/bricks/cracked_deepslate_tiles_top_5",
+        "end": "minecraft:block/variant_full/bricks/cracked_deepslate_tiles_top_5",
         "side": "minecraft:block/cracked_deepslate_tiles"
     }
 }

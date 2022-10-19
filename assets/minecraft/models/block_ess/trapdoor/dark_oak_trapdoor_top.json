@@ -2,6 +2,6 @@
     "parent": "block_ess/trapdoor/template_trapdoor_top",
     "textures": {
         "texture": "block/dark_oak_trapdoor",
-        "side": "variant_ess/trapdoor/dark_oak_trapdoor_side"
+        "side": "block/variant_ess/trapdoor/dark_oak_trapdoor_side"
     }
 }

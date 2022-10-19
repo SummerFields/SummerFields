@@ -3,7 +3,7 @@
 	"parent": "block/thin_block",
 	"textures": {
 		"texture": "block/birch_trapdoor",
-		"particle": "variant_ess/trapdoor/birch_trapdoor_side"
+		"particle": "block/variant_ess/trapdoor/birch_trapdoor_side"
 	},
 	"elements": [
 		{
@@ -11,7 +11,7 @@
 			"to": [16, 16, 15],
 			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 14.5]},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#texture", "rotation": 180, "cullface": "down"},
+				"north": {"uv": [0, 0, 16, 16], "texture": "#texture", "rotation": 180},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#texture"}
 			}
 		},

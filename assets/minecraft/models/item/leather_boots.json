@@ -1,7 +1,3 @@
 {
-  "parent": "block/items/leather_boots",
-  "textures": {
-	"0": "models/armor/leather_layer_1",
-	"particle": "models/armor/leather_layer_1"
-  }
+  "parent": "block_ess/armor/leather_boots"
 }

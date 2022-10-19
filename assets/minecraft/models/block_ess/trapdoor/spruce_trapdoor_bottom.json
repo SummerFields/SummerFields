@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/thin_block",
 	"textures": {
-		"1": "variant_ess/trapdoor/spruce_trapdoor_side",
+		"1": "block/variant_ess/trapdoor/spruce_trapdoor_side",
 		"2": "block/spruce_trapdoor",
-		"particle": "variant_ess/trapdoor/spruce_trapdoor_side"
+		"particle": "block/variant_ess/trapdoor/spruce_trapdoor_side"
 	},
 	"elements": [
 		{

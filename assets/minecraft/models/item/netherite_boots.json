@@ -1,7 +1,7 @@
 {
-  "parent": "block/items/template_boots",
+  "parent": "block_ess/armor/template_boots",
   "textures": {
-	"0": "models/armor/netherite_layer_1",
-	"particle": "models/armor/netherite_layer_1"
+	"0": "block/variant_ess/armor/netherite_layer_1",
+	"particle": "block/variant_ess/armor/netherite_layer_1"
   }
 }

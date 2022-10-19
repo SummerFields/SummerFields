@@ -3,7 +3,7 @@
 	"parent": "block/thin_block",
 	"textures": {
 		"texture": "block/acacia_trapdoor",
-		"particle": "variant_ess/trapdoor/acacia_trapdoor_side"
+		"particle": "block/variant_ess/trapdoor/acacia_trapdoor_side"
 	},
 	"elements": [
 		{

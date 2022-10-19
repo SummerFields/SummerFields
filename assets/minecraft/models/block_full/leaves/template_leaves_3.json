@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"particle": "#0",
-		"0": "variant_full/leaves/acacia_leaves"
+		"0": "block/variant_full/leaves/acacia_leaves"
 	},
 	"elements": [
 		{

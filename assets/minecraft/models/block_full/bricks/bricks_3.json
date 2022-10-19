@@ -1,7 +1,7 @@
 {
     "parent": "minecraft:block/cube_column",
     "textures": {
-        "end": "minecraft:variant_full/bricks/bricks_top_3",
+        "end": "minecraft:block/variant_full/bricks/bricks_top_3",
         "side": "minecraft:block/bricks"
     }
 }

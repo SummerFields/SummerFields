@@ -1,7 +1,7 @@
 {
-  "parent": "block/items/template_helmet",
+  "parent": "block_ess/armor/template_helmet",
   "textures": {
-	"0": "models/armor/iron_layer_1",
-	"particle": "models/armor/iron_layer_1"
+	"0": "block/variant_ess/armor/iron_layer_1",
+	"particle": "block/variant_ess/armor/iron_layer_1"
   }
 }

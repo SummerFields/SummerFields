@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block_full/walls/bricks/template_wall_post",
   "textures": {
-    "top": "minecraft:variant_full/bricks/bricks_top_1",
+    "top": "minecraft:block/variant_full/bricks/bricks_top_1",
     "wall": "minecraft:block/bricks"
   }
 }

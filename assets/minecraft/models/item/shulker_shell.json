@@ -1,5 +1,5 @@
 {
-    "parent": "block/items/shulker_shell",
+    "parent": "minecraft:block_full/shulker_shell/shulker_shell",
     "display": {
         "gui": {
             "rotation": [ 30, 225, 0 ],

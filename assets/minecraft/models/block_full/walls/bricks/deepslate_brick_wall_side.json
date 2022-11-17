@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block_full/walls/bricks/template_wall_side",
+  "textures": {
+		"1": "block/variant_full/bricks/deepslate_bricks_top_1",
+		"particle": "block/deepslate_bricks",
+		"wall": "block/deepslate_bricks"
+  }
+}

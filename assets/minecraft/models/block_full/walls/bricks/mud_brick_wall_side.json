@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block_full/walls/bricks/template_wall_side",
+  "textures": {
+	"1": "minecraft:block/variant_full/bricks/mud_bricks_top_1",
+    "wall": "minecraft:block/mud_bricks"
+  }
+}

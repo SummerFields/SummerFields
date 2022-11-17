@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block_full/walls/bricks/template_wall_post",
+  "textures": {
+	"top": "minecraft:block/red_sandstone_top",
+    "wall": "minecraft:block/red_sandstone"
+  }
+}

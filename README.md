@@ -47,6 +47,7 @@ Release 1.20
     - Hanging signs
 	- Bamboo stuff
 	- Chiseled Bookshelf
+	- vex in allay form
 
 Release 1.19
   - by [lipki] (https://github.com/lipki)

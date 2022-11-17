@@ -15,6 +15,11 @@
             "rotation": [ 30, 225, 0 ],
             "translation": [ 0, 3, 0 ],
             "scale":[ 0.625, 0.625, 0.625 ]
-        }
+        },
+		"fixed": {
+            "rotation": [ 90, 0, 0 ],
+			"translation": [ 0, 0, 4 ],
+            "scale": [ 0.7, 0.7, 0.7 ]
+		}
     }
 }

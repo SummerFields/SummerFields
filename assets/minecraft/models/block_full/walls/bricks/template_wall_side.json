@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "block/variant_full/bricks/deepslate_bricks_top_1",
+		"particle": "block/deepslate_bricks",
+		"wall": "block/deepslate_bricks"
+	},
+	"elements": [
+		{
+			"name": "wall",
+			"from": [5, 0, 0],
+			"to": [11, 14, 8],
+			"faces": {
+				"north": {"uv": [1, 2, 7, 16], "texture": "#wall", "cullface": "north"},
+				"east": {"uv": [8, 2, 16, 16], "texture": "#wall"},
+				"west": {"uv": [0, 2, 8, 16], "texture": "#wall"},
+				"up": {"uv": [9, 0, 15, 8], "texture": "#1"},
+				"down": {"uv": [9, 8, 15, 16], "texture": "#1", "cullface": "down"}
+			}
+		}
+	]
+}

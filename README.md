@@ -42,6 +42,10 @@ If you play with mods, then it's recommended that you download the mod support p
 History of Recent Updates
 ------------------------
 
+Release 1.20
+  - by [lipki] (https://github.com/lipki)
+    - Hanging signs
+
 Release 1.19
   - by [lipki] (https://github.com/lipki)
     - Recovery compass

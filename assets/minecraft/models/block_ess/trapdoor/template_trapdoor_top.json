@@ -1,18 +1,22 @@
 {
-    "textures": {
-        "particle": "#texture"
-    },
-    "elements": [
-        {   "from": [ 0, 13, 0 ],
-            "to": [ 16, 16, 16 ],
-            "faces": {
-                "down":  { "uv": [ 0,  0, 16, 16 ], "texture": "#texture", "rotation":  90 },
-                "up":    { "uv": [ 0,  0, 16, 16 ], "texture": "#texture", "rotation":  90, "cullface": "up" },
-                "north": { "uv": [ 0, 0, 16, 3 ], "texture": "#particle", "cullface": "north" },
-                "south": { "uv": [ 0, 0, 16, 3 ], "texture": "#particle", "cullface": "south" },
-                "west":  { "uv": [ 0, 0, 16, 3 ], "texture": "#particle", "cullface": "west" },
-                "east":  { "uv": [ 0, 0, 16, 3 ], "texture": "#particle", "cullface": "east" }
-            }
-        }
-    ]
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "block/oak_trapdoor",
+		"texture": "block/oak_trapdoor",
+		"side": "block/variant_ess/trapdoor/oak_trapdoor_side"
+	},
+	"elements": [
+		{
+			"from": [0, 13, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 3], "texture": "#side", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 3], "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 3], "texture": "#side", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 3], "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#texture", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#texture"}
+			}
+		}
+	]
 }

@@ -48,6 +48,7 @@ Release 1.20
 	- Bamboo stuff
 	- Chiseled Bookshelf
 	- vex in allay form
+	- update gui
 
 Release 1.19
   - by [lipki] (https://github.com/lipki)

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/thin_block",
 	"textures": {
-		"texture": "block/birch_trapdoor",
-		"particle": "block/variant_ess/trapdoor/birch_trapdoor_side"
+		"texture": "block/mangrove_trapdoor",
+		"particle": "block/variant_ess/trapdoor/mangrove_trapdoor_side"
 	},
 	"elements": [
 		{
@@ -21,7 +21,7 @@
 				"east": {"uv": [2, 0, 14, 3], "texture": "#particle"},
 				"west": {"uv": [2, 0, 14, 3], "texture": "#particle"},
 				"up": {"uv": [0, 2, 2, 14], "texture": "#texture"},
-				"down": {"uv": [0, 2, 2, 14], "texture": "#texture"}
+				"down": {"uv": [16, 2, 14, 14], "texture": "#texture"}
 			}
 		},
 		{
@@ -30,8 +30,8 @@
 			"faces": {
 				"east": {"uv": [2, 0, 14, 3], "texture": "#particle"},
 				"west": {"uv": [2, 0, 14, 3], "texture": "#particle"},
-				"up": {"uv": [14, 2.5, 16, 13.5], "texture": "#texture"},
-				"down": {"uv": [14, 2, 16, 14], "texture": "#texture"}
+				"up": {"uv": [14, 2, 16, 14], "texture": "#texture"},
+				"down": {"uv": [2, 2, 0, 14], "texture": "#texture"}
 			}
 		},
 		{
@@ -43,7 +43,7 @@
 				"south": {"uv": [0, 0, 16, 3], "texture": "#particle"},
 				"west": {"uv": [14, 0, 16, 3], "texture": "#particle"},
 				"up": {"uv": [0, 14, 16, 16], "texture": "#texture"},
-				"down": {"uv": [0, 0, 16, 2], "texture": "#texture"}
+				"down": {"uv": [16, 0, 0, 2], "texture": "#texture"}
 			}
 		},
 		{
@@ -55,7 +55,7 @@
 				"south": {"uv": [0, 0, 16, 3], "texture": "#particle"},
 				"west": {"uv": [0, 0, 2, 3], "texture": "#particle"},
 				"up": {"uv": [0, 0, 16, 2], "texture": "#texture"},
-				"down": {"uv": [0, 14, 16, 16], "texture": "#texture"}
+				"down": {"uv": [16, 14, 0, 16], "texture": "#texture"}
 			}
 		}
 	]

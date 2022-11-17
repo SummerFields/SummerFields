@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/variant_full/stairs/stone_bricks_stair",
-		"particle": "block/variant_full/stairs/stone_bricks_stair"
+		"0": "block/variant_full/stairs/bamboo_stair",
+		"particle": "block/variant_full/stairs/bamboo_stair"
 	},
 	"elements": [
 		{
@@ -37,7 +37,7 @@
 				"east": {"uv": [0, 0, 0, 0], "texture": "#0"},
 				"south": {"uv": [0, 0, 2.66667, 2.66667], "texture": "#0", "cullface": "south"},
 				"west": {"uv": [13.33333, 5.33333, 16, 8], "texture": "#0", "cullface": "west"},
-				"up": {"uv": [0, 10.83333, 2.5, 13.33333], "rotation": 270, "texture": "#0", "cullface": "up"},
+				"up": {"uv": [2.66667, 13.33333, 5.33333, 16], "rotation": 90, "texture": "#0", "cullface": "up"},
 				"down": {"uv": [0, 0, 0, 0], "texture": "#0"}
 			}
 		}

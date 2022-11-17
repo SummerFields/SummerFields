@@ -45,6 +45,7 @@ History of Recent Updates
 Release 1.20
   - by [lipki] (https://github.com/lipki)
     - Hanging signs
+	- Bamboo stuff
 
 Release 1.19
   - by [lipki] (https://github.com/lipki)

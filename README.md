@@ -49,6 +49,7 @@ Release 1.20
 	- Chiseled Bookshelf
 	- vex in allay form
 	- update gui
+	- camel
 
 Release 1.19
   - by [lipki] (https://github.com/lipki)

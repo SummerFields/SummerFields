@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cross",
+    "textures": {
+        "cross": "minecraft:variant_ess/sapling/oak_sapling_stade0"
+    }
+}

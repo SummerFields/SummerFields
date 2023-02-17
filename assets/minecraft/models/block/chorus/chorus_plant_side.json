@@ -1,10 +1,9 @@
 {
     "__createdwith": "opl's Model Creator",
-    "ambientocclusion": false,
     "textures": {
-        "texture": "block/chorus_plant",
-        "particle": "block/chorus_plant",
-        "inside": "block/chorus_plant"
+        "texture": "minecraft:variant_ess/chorus_plant",
+        "particle": "minecraft:block/chorus_plant",
+        "inside": "minecraft:block/chorus_plant"
     },
     "elements": [
         {

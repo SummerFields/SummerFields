@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block/thin_block",
+	"parent": "minecraft:block/thin_block",
 	"textures": {
-		"texture": "block/acacia_trapdoor",
-		"particle": "block/variant_ess/trapdoor/acacia_trapdoor_side"
+		"texture": "minecraft:block/acacia_trapdoor",
+		"particle": "minecraft:variant_ess/trapdoor/acacia_trapdoor_side"
 	},
 	"elements": [
 		{

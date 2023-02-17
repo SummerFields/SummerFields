@@ -1,9 +1,9 @@
-{   "parent": "block/block",
+{   "parent": "minecraft:block/block",
     "textures": {
-        "particle": "block/daylight_detector_inverted_top",
-        "top": "block/daylight_detector_inverted_top",
-        "bottom": "block/variants/daylight_detector_bottom",
-        "side": "block/daylight_detector_side"
+        "particle": "minecraft:block/daylight_detector_inverted_top",
+        "top": "minecraft:block/daylight_detector_inverted_top",
+        "bottom": "minecraft:block/variants/daylight_detector_bottom",
+        "side": "minecraft:block/daylight_detector_side"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],

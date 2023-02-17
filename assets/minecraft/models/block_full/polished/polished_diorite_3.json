@@ -1,9 +1,9 @@
 {
     "parent": "minecraft:block_full/polished/base_3",
     "textures": {
-        "one": "minecraft:block/variant_full/polished/polished_diorite_2",
-        "two": "minecraft:block/variant_full/polished/polished_diorite_3",
-        "three": "minecraft:block/variant_full/polished/polished_diorite_4",
-        "for": "minecraft:block/variant_full/polished/polished_diorite_5"
+        "one": "minecraft:variant_full/polished/polished_diorite_2",
+        "two": "minecraft:variant_full/polished/polished_diorite_3",
+        "three": "minecraft:variant_full/polished/polished_diorite_4",
+        "for": "minecraft:variant_full/polished/polished_diorite_5"
     }
 }

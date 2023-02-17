@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/pressure_plate_down",
+    "textures": {
+        "texture": "minecraft:variant_ess/pressure_plate/bamboo_pressure_plate"
+    }
+}

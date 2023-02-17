@@ -1,5 +1,5 @@
 {
-    "parent": "block/cauldron",
+    "parent": "minecraft:block/cauldron",
     "display": {
         "gui": {
             "rotation": [ 30, 225, 0 ],

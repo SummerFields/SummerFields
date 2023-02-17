@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/variants/note_block/note_flute",
-		"particle": "block/variants/note_block/note_flute"
+		"0": "minecraft:block/variants/note_block/note_flute",
+		"particle": "minecraft:block/variants/note_block/note_flute"
 	},
 	"elements": [
 		{

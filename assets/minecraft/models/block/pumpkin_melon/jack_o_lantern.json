@@ -1,9 +1,0 @@
-{
-    "parent": "block/pumpkin_melon/orientable_b",
-    "textures": {
-        "top": "block/pumpkin_top",
-        "bottom": "block/variants/pumpkin_melon/pumpkin_bottom",
-        "front": "block/jack_o_lantern",
-        "side": "block/pumpkin_side"
-    }
-}

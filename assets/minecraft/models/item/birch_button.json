@@ -1,5 +1,5 @@
 {
-    "parent": "block/button/birch_button",
+    "parent": "minecraft:block_ess/button/birch_button",
     "display": {
         "thirdperson_righthand": {
             "rotation": [ 0, 0, -90 ],

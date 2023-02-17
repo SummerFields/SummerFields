@@ -1,11 +1,11 @@
 {
     "variants": {
         "": [
-  { "model": "block/random/flower_pot/potted_blue_orchid_0" },
-  { "model": "block/random/flower_pot/potted_blue_orchid_1" },
-  { "model": "block/random/flower_pot/potted_blue_orchid_2" },
-  { "model": "block/random/flower_pot/potted_blue_orchid_3" },
-  { "model": "block/random/flower_pot/potted_blue_orchid_4" }
+  { "model": "minecraft:block/random/flower_pot/potted_blue_orchid_0" },
+  { "model": "minecraft:block/random/flower_pot/potted_blue_orchid_1" },
+  { "model": "minecraft:block/random/flower_pot/potted_blue_orchid_2" },
+  { "model": "minecraft:block/random/flower_pot/potted_blue_orchid_3" },
+  { "model": "minecraft:block/random/flower_pot/potted_blue_orchid_4" }
 ]
     }
 }

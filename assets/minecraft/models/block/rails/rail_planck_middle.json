@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/rail",
-		"1": "block/variants/rails/rail_bottom",
-		"particle": "block/rail"
+		"0": "minecraft:block/rail",
+		"1": "minecraft:block/variants/rails/rail_bottom",
+		"particle": "minecraft:block/rail"
 	},
 	"elements": [
 		{

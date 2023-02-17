@@ -1,0 +1,21 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"inside": "minecraft:block/chorus_flower_dead"
+	},
+	"elements": [
+		{
+			"from": [6, 6, 6],
+			"to": [10, 10, 10],
+			"faces": {
+				"north": {"uv": [6, 6, 10, 10], "texture": "#inside"},
+				"east": {"uv": [6, 6, 10, 10], "texture": "#inside"},
+				"south": {"uv": [6, 6, 10, 10], "texture": "#inside"},
+				"west": {"uv": [6, 6, 10, 10], "texture": "#inside"},
+				"up": {"uv": [6, 6, 10, 10], "texture": "#inside"},
+				"down": {"uv": [6, 6, 10, 10], "texture": "#inside"}
+			}
+		}
+	]
+}

@@ -1,6 +1,0 @@
-{
-    "parent": "block/cross",
-    "textures": {
-        "cross": "block/variants/sapling/jungle_sapling_stade0"
-    }
-}

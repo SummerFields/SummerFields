@@ -1,5 +1,5 @@
 {
-    "parent": "block/button/acacia_button",
+    "parent": "minecraft:block_ess/button/acacia_button",
     "display": {
         "thirdperson_righthand": {
             "rotation": [ 0, 0, -90 ],

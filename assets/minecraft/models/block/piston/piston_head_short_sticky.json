@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"particle": "#0",
-		"0": "block/piston_side",
-		"unsticky": "block/piston_top",
-		"side": "block/variants/piston/sticky_piston_side",
-		"platform": "block/piston_top_sticky"
+		"0": "minecraft:block/piston_side",
+		"unsticky": "minecraft:block/piston_top",
+		"side": "minecraft:block/variants/piston/sticky_piston_side",
+		"platform": "minecraft:block/piston_top_sticky"
 	},
 	"elements": [
 		{

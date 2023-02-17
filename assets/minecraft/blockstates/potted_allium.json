@@ -1,11 +1,11 @@
 {
     "variants": {
         "": [
-  { "model": "block/random/flower_pot/potted_allium_0" },
-  { "model": "block/random/flower_pot/potted_allium_1" },
-  { "model": "block/random/flower_pot/potted_allium_2" },
-  { "model": "block/random/flower_pot/potted_allium_3" },
-  { "model": "block/random/flower_pot/potted_allium_4" }
+  { "model": "minecraft:block/random/flower_pot/potted_allium_0" },
+  { "model": "minecraft:block/random/flower_pot/potted_allium_1" },
+  { "model": "minecraft:block/random/flower_pot/potted_allium_2" },
+  { "model": "minecraft:block/random/flower_pot/potted_allium_3" },
+  { "model": "minecraft:block/random/flower_pot/potted_allium_4" }
 ]
     }
 }

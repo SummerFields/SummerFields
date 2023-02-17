@@ -1,7 +1,7 @@
 {
-    "parent": "item/door_inventory",
+    "parent": "minecraft:item/door_inventory",
     "textures": {
-        "bottom": "block/acacia_door_bottom",
-        "top"   : "block/acacia_door_top"
+        "bottom": "minecraft:block/acacia_door_bottom",
+        "top"   : "minecraft:block/acacia_door_top"
     }
 }

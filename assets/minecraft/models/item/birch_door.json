@@ -1,7 +1,7 @@
 {
-    "parent": "item/door_inventory",
+    "parent": "minecraft:item/door_inventory",
     "textures": {
-        "bottom": "block/birch_door_bottom",
-        "top"   : "block/birch_door_top"
+        "bottom": "minecraft:block/birch_door_bottom",
+        "top"   : "minecraft:block/birch_door_top"
     }
 }

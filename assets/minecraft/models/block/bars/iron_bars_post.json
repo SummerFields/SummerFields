@@ -2,9 +2,9 @@
     "__createdwith": "opl's Model Creator",
     "ambientocclusion": false,
     "textures": {
-        "edge": "block/iron_bars",
-        "particle": "block/iron_bars",
-        "bars": "block/iron_bars"
+        "edge": "minecraft:block/iron_bars",
+        "particle": "minecraft:block/iron_bars",
+        "bars": "minecraft:block/iron_bars"
     },
     "elements": [
         {

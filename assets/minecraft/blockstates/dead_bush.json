@@ -1,8 +1,8 @@
 {
     "variants": {
         "": [
-          { "model": "block/dead_bush" },
-          { "model": "block/random/flower/dead_bush1" }
+          { "model": "minecraft:block/dead_bush" },
+          { "model": "minecraft:block/random/flower/dead_bush1" }
         ]
     }
 }

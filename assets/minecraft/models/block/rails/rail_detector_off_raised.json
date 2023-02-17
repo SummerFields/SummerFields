@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "block/detector_rail"
+		"1": "minecraft:block/detector_rail"
 	},
 	"elements": [
 		{

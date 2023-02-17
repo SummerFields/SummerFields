@@ -1,6 +1,6 @@
 {
-    "parent": "block/slab/planks_slab_top",
+    "parent": "minecraft:block/slab/planks_slab_top",
     "textures": {
-        "all": "block/acacia_planks"
+        "all": "minecraft:block/acacia_planks"
     }
 }

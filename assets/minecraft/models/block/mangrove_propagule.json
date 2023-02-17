@@ -1,6 +1,6 @@
 {
-    "parent": "block/cross",
+    "parent": "minecraft:block/cross",
     "textures": {
-        "cross": "block/mangrove_propagule"
+        "cross": "minecraft:block/mangrove_propagule"
     }
 }

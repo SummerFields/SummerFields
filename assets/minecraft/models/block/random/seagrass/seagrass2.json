@@ -1,9 +1,8 @@
 {
-    "parent": "block/seagrass",
-    "ambientocclusion": false,
+    "parent": "minecraft:block/seagrass",
     "textures": {
-      "seagrass": "block/variants/seagrass/seagrass2",
-      "particle":  "block/variants/seagrass/seagrass2"
+      "seagrass": "minecraft:block/variants/seagrass/seagrass2",
+      "particle": "minecraft:block/variants/seagrass/seagrass2"
     },
     "elements": [
         {   "from": [ 0, 0, 4 ],

@@ -1,13 +1,13 @@
 {
     "variants": {
         "": [
-            { "model": "block/emerald_ore" },
-            { "model": "block/random/ore/emerald/emerald_ore1" },
-            { "model": "block/random/ore/emerald/emerald_ore2" },
-            { "model": "block/random/ore/emerald/emerald_ore3" },
-            { "model": "block/random/ore/emerald/emerald_ore4" },
-            { "model": "block/random/ore/emerald/emerald_ore5" },
-            { "model": "block/random/ore/emerald/emerald_ore6" }
+            { "model": "minecraft:block/emerald_ore" },
+            { "model": "minecraft:block/random/ore/emerald/emerald_ore1" },
+            { "model": "minecraft:block/random/ore/emerald/emerald_ore2" },
+            { "model": "minecraft:block/random/ore/emerald/emerald_ore3" },
+            { "model": "minecraft:block/random/ore/emerald/emerald_ore4" },
+            { "model": "minecraft:block/random/ore/emerald/emerald_ore5" },
+            { "model": "minecraft:block/random/ore/emerald/emerald_ore6" }
         ]
     }
 }

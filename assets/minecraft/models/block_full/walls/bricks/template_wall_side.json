@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/variant_full/bricks/deepslate_bricks_top_1",
-		"particle": "block/deepslate_bricks",
-		"wall": "block/deepslate_bricks"
+		"1": "minecraft:variant_full/bricks/deepslate_bricks_top_1",
+		"particle": "minecraft:block/deepslate_bricks",
+		"wall": "minecraft:block/deepslate_bricks"
 	},
 	"elements": [
 		{

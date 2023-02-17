@@ -1,5 +1,5 @@
 {
-    "parent": "block/repeater_2tick",
+    "parent": "minecraft:block/repeater_2tick",
     "display": {
         "thirdperson_righthand": {
             "rotation": [ 90, 30, 0 ],

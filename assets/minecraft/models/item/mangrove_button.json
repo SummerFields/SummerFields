@@ -1,5 +1,5 @@
 {
-    "parent": "block/button/mangrove_button",
+    "parent": "minecraft:block_ess/button/mangrove_button",
     "display": {
         "thirdperson_righthand": {
             "rotation": [ 0, 0, -90 ],

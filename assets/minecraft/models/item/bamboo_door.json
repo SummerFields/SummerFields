@@ -1,7 +1,7 @@
 {
-    "parent": "item/door_inventory",
+    "parent": "minecraft:item/door_inventory",
     "textures": {
-        "bottom": "block/bamboo_door_bottom",
-        "top"   : "block/bamboo_door_top"
+        "bottom": "minecraft:block/bamboo_door_bottom",
+        "top"   : "minecraft:block/bamboo_door_top"
     }
 }

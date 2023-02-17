@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-		"all": "block/variants/note_block/note_block"
+		"all": "minecraft:block/variants/note_block/note_block"
 	},
 	"elements": [
 		{

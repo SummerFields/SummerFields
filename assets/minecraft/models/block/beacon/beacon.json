@@ -1,12 +1,11 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block/block",
-	"ambientocclusion": false,
+	"parent": "minecraft:block/block",
 	"textures": {
-		"particle": "block/glass",
-		"glass": "block/glass",
-		"obsidian": "block/obsidian",
-		"beacon": "block/beacon"
+		"particle": "minecraft:block/glass",
+		"glass": "minecraft:block/glass",
+		"obsidian": "minecraft:block/obsidian",
+		"beacon": "minecraft:block/beacon"
 	},
 	"elements": [
 		{

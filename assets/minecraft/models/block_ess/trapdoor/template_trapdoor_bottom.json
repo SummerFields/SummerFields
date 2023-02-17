@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block/thin_block",
+	"parent": "minecraft:block/thin_block",
 	"textures": {
-		"particle": "block/oak_trapdoor",
-		"texture": "block/oak_trapdoor",
-		"side": "block/variant_ess/trapdoor/oak_trapdoor_side"
+		"particle": "minecraft:block/oak_trapdoor",
+		"texture": "minecraft:block/oak_trapdoor",
+		"side": "minecraft:variant_ess/trapdoor/oak_trapdoor_side"
 	},
 	"elements": [
 		{

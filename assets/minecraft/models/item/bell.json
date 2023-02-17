@@ -1,5 +1,5 @@
 {
-    "parent": "block/bell_item",
+    "parent": "minecraft:block/bell_item",
     "display": {
         "gui": {
             "rotation": [ 30, 225, 0 ],

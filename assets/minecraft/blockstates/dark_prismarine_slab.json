@@ -14,6 +14,6 @@
           { "model": "minecraft:block_full/slabs/dark_prismarine_slab_top_4" },
           { "model": "minecraft:block_full/slabs/dark_prismarine_slab_top_5" }
         ],
-        "type=double": { "model": "block/dark_prismarine" }
+        "type=double": { "model": "minecraft:block/dark_prismarine" }
     }
 }

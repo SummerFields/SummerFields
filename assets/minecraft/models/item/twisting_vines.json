@@ -1,5 +1,5 @@
 {
-    "parent": "block/twisting_vines_1",
+    "parent": "minecraft:block/twisting_vines_1",
     "display": {
         "gui": {
             "rotation": [ 30, 135, 0 ],

@@ -1,7 +1,7 @@
 {
-    "parent": "item/door_inventory",
+    "parent": "minecraft:item/door_inventory",
     "textures": {
-        "bottom": "block/mangrove_door_bottom",
-        "top"   : "block/mangrove_door_top"
+        "bottom": "minecraft:block/mangrove_door_bottom",
+        "top"   : "minecraft:block/mangrove_door_top"
     }
 }

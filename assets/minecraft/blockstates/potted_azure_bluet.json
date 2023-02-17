@@ -1,11 +1,11 @@
 {
     "variants": {
         "": [
-  { "model": "block/random/flower_pot/potted_azure_bluet_0" },
-  { "model": "block/random/flower_pot/potted_azure_bluet_1" },
-  { "model": "block/random/flower_pot/potted_azure_bluet_2" },
-  { "model": "block/random/flower_pot/potted_azure_bluet_3" },
-  { "model": "block/random/flower_pot/potted_azure_bluet_4" }
+  { "model": "minecraft:block/random/flower_pot/potted_azure_bluet_0" },
+  { "model": "minecraft:block/random/flower_pot/potted_azure_bluet_1" },
+  { "model": "minecraft:block/random/flower_pot/potted_azure_bluet_2" },
+  { "model": "minecraft:block/random/flower_pot/potted_azure_bluet_3" },
+  { "model": "minecraft:block/random/flower_pot/potted_azure_bluet_4" }
 ]
     }
 }

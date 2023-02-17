@@ -1,7 +1,7 @@
 {
-  "parent": "block_ess/armor/template_boots",
+  "parent": "minecraft:block_ess/armor/template_boots",
   "textures": {
-	"0": "block/variant_ess/armor/diamond_layer_1",
-	"particle": "block/variant_ess/armor/diamond_layer_1"
+	"0": "minecraft:models/armor/diamond_layer_1",
+	"particle": "minecraft:models/armor/diamond_layer_1"
   }
 }

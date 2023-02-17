@@ -1,5 +1,5 @@
 {
     "variants": {
-        "": { "model": "block/block/smooth_quartz_block" }
+        "": { "model": "minecraft:block/block/smooth_quartz_block" }
     }
 }

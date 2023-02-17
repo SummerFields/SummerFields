@@ -1,8 +1,8 @@
 {
     "variants": {
         "": [
-          { "model": "block/fern" },
-          { "model": "block/random/flower/fern1" }
+          { "model": "minecraft:block/fern" },
+          { "model": "minecraft:block/random/flower/fern1" }
       ]
     }
 }

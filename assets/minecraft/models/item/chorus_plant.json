@@ -1,5 +1,5 @@
 {
-    "parent": "block/chorus/chorus_plant_inventory",
+    "parent": "minecraft:block/chorus/chorus_plant_inventory",
     "display": {
         "thirdperson_righthand": {
             "rotation": [ 0, 90, 0 ],

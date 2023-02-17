@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"5": "block/variants/nether_vines/weeping_vines_plant",
-		"particle": "block/variants/nether_vines/weeping_vines_plant"
+		"5": "minecraft:block/variants/nether_vines/weeping_vines_plant",
+		"particle": "minecraft:block/variants/nether_vines/weeping_vines_plant"
 	},
 	"elements": [
 		{

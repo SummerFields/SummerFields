@@ -1,5 +1,5 @@
 {
-    "parent": "block/jungle_trapdoor_bottom",
+    "parent": "minecraft:block/jungle_trapdoor_bottom",
     "display": {
         "thirdperson_righthand": {
             "rotation": [ 0, 0, -90 ],

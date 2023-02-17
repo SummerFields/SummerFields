@@ -1,22 +1,22 @@
 {
     "variants": {
         "lit=false": [
-            { "model": "block/redstone_ore" },
-            { "model": "block/random/ore/redstone/redstone_ore1" },
-            { "model": "block/random/ore/redstone/redstone_ore2" },
-            { "model": "block/random/ore/redstone/redstone_ore3" },
-            { "model": "block/random/ore/redstone/redstone_ore4" },
-            { "model": "block/random/ore/redstone/redstone_ore5" },
-            { "model": "block/random/ore/redstone/redstone_ore6" }
+            { "model": "minecraft:block/redstone_ore" },
+            { "model": "minecraft:block/random/ore/redstone/redstone_ore1" },
+            { "model": "minecraft:block/random/ore/redstone/redstone_ore2" },
+            { "model": "minecraft:block/random/ore/redstone/redstone_ore3" },
+            { "model": "minecraft:block/random/ore/redstone/redstone_ore4" },
+            { "model": "minecraft:block/random/ore/redstone/redstone_ore5" },
+            { "model": "minecraft:block/random/ore/redstone/redstone_ore6" }
         ],
         "lit=true": [
-            { "model": "block/redstone_ore" },
-            { "model": "block/random/ore/redstone/redstone_ore1" },
-            { "model": "block/random/ore/redstone/redstone_ore2" },
-            { "model": "block/random/ore/redstone/redstone_ore3" },
-            { "model": "block/random/ore/redstone/redstone_ore4" },
-            { "model": "block/random/ore/redstone/redstone_ore5" },
-            { "model": "block/random/ore/redstone/redstone_ore6" }
+            { "model": "minecraft:block/redstone_ore" },
+            { "model": "minecraft:block/random/ore/redstone/redstone_ore1" },
+            { "model": "minecraft:block/random/ore/redstone/redstone_ore2" },
+            { "model": "minecraft:block/random/ore/redstone/redstone_ore3" },
+            { "model": "minecraft:block/random/ore/redstone/redstone_ore4" },
+            { "model": "minecraft:block/random/ore/redstone/redstone_ore5" },
+            { "model": "minecraft:block/random/ore/redstone/redstone_ore6" }
         ]
     }
 }

@@ -1,6 +1,6 @@
 {
-    "parent": "block/slab/planks_slab_bottom",
+    "parent": "minecraft:block/slab/planks_slab_bottom",
     "textures": {
-        "all": "block/variants/slab/oak_petrified"
+        "all": "minecraft:block/variants/slab/oak_petrified"
     }
 }

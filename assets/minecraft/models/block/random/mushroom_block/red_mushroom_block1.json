@@ -1,7 +1,7 @@
 {
     "textures": {
-        "texture": "block/variants/mushroom/red_mushroom_block1",
-        "particle": "block/variants/mushroom/red_mushroom_block1"
+        "texture": "minecraft:variant_ess/mushroom/red_mushroom_block1",
+        "particle": "minecraft:variant_ess/mushroom/red_mushroom_block1"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],

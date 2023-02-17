@@ -1,5 +1,5 @@
 {
-    "parent": "block/button/oak_button",
+    "parent": "minecraft:block_ess/button/oak_button",
     "display": {
         "thirdperson_righthand": {
             "rotation": [ 0, 0, -90 ],

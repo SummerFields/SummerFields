@@ -1,14 +1,14 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/variants/loom/loom_top",
-		"1": "block/loom_side",
-		"2": "block/variants/loom/loom_back",
-		"3": "block/loom_front",
-		"4": "block/diorite",
-		"5": "block/loom_bottom",
-		"6": "block/variants/loom/loom_bross",
-		"particle": "block/variants/loom/loom_top"
+		"0": "minecraft:block/variants/loom/loom_top",
+		"1": "minecraft:block/loom_side",
+		"2": "minecraft:block/variants/loom/loom_back",
+		"3": "minecraft:block/loom_front",
+		"4": "minecraft:block/diorite",
+		"5": "minecraft:block/loom_bottom",
+		"6": "minecraft:block/variants/loom/loom_bross",
+		"particle": "minecraft:block/variants/loom/loom_top"
 	},
 	"elements": [
 		{

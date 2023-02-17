@@ -1,5 +1,5 @@
 {
     "variants": {
-        "": { "model": "block/sugar_cane/sugar_cane" }
+        "": { "model": "minecraft:block_full/sugar_cane/sugar_cane" }
     }
 }

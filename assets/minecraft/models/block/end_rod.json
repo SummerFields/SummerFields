@@ -1,10 +1,9 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block/block",
-	"ambientocclusion": false,
+	"parent": "minecraft:block/block",
 	"textures": {
-		"end_rod": "block/end_rod",
-		"particle": "block/end_rod"
+		"end_rod": "minecraft:block/end_rod",
+		"particle": "minecraft:block/end_rod"
 	},
 	"elements": [
 		{

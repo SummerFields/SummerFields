@@ -51,6 +51,7 @@ Release 1.20
 	- update gui
 	- camel
 	- cherry wood
+	- slider
   - by [Physignatily] (https://github.com/Physignatily)
     - Torch flower
 	- Smithing template

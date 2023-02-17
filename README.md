@@ -52,6 +52,7 @@ Release 1.20
 	- camel
 	- cherry wood
 	- slider
+	- new Smithing table
   - by [Physignatily] (https://github.com/Physignatily)
     - Torch flower
 	- Smithing template

@@ -50,6 +50,7 @@ Release 1.20
 	- vex in allay form
 	- update gui
 	- camel
+	- cherry wood
 
 Release 1.19.3
   - by [lipki] (https://github.com/lipki)

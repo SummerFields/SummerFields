@@ -51,6 +51,8 @@ Release 1.20
 	- update gui
 	- camel
 	- cherry wood
+  - by [Physignatily] (https://github.com/Physignatily)
+    - Torch flower
 
 Release 1.19.3
   - by [lipki] (https://github.com/lipki)

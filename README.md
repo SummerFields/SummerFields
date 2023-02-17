@@ -53,6 +53,7 @@ Release 1.20
 	- cherry wood
   - by [Physignatily] (https://github.com/Physignatily)
     - Torch flower
+	- Smithing template
 
 Release 1.19.3
   - by [lipki] (https://github.com/lipki)

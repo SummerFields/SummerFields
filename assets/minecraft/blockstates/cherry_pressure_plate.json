@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "minecraft:block_ess/pressure_plate/cherry_pressure_plate" },
+        "powered=true": { "model": "minecraft:block_ess/pressure_plate/cherry_pressure_plate_down" }
+    }
+}

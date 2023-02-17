@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/fence/fence_post",
+    "textures": {
+        "texture": "minecraft:block/variants/fence/cherry_fence"
+    }
+}

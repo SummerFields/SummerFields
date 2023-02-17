@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/slab/planks_slab_top",
+    "textures": {
+        "all": "minecraft:block/cherry_planks"
+    }
+}

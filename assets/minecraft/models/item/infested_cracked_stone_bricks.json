@@ -1,3 +1,8 @@
 {
-    "parent": "minecraft:block_ess/infested/infested_cracked_stone_bricks_inventory"
+    "parent": "minecraft:block_ess/infested/template_infested_inventory",
+    "textures": {
+      "top": "minecraft:block/cracked_stone_bricks",
+      "side": "minecraft:block/cracked_stone_bricks",
+      "infested": "minecraft:variant_ess/infested/template_inventory_infested"
+    }
 }

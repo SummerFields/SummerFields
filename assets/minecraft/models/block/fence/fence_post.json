@@ -16,7 +16,6 @@
             "scale": [ 1, 1, 1 ]
         }
     },
-    "ambientocclusion": false,
     "textures": {
         "particle": "#texture"
     },

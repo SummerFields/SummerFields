@@ -1,11 +1,11 @@
 {
     "variants": {
         "": [
-            { "model": "block/dark_prismarine" },
-            { "model": "block_full/bricks/dark_prismarine_2" },
-            { "model": "block_full/bricks/dark_prismarine_3" },
-            { "model": "block_full/bricks/dark_prismarine_4" },
-            { "model": "block_full/bricks/dark_prismarine_5" }
+            { "model": "minecraft:block/dark_prismarine" },
+            { "model": "minecraft:block_full/bricks/dark_prismarine_2" },
+            { "model": "minecraft:block_full/bricks/dark_prismarine_3" },
+            { "model": "minecraft:block_full/bricks/dark_prismarine_4" },
+            { "model": "minecraft:block_full/bricks/dark_prismarine_5" }
         ]
     }
 }

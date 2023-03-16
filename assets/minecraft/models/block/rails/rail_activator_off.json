@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/variants/rails/rail_activator",
-		"1": "block/variants/rails/activator_rail"
+		"0": "minecraft:block/variants/rails/rail_activator",
+		"1": "minecraft:block/variants/rails/activator_rail"
 	},
 	"elements": [
 		{

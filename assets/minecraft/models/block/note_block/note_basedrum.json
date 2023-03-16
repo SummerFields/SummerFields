@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/variants/note_block/note_basedrum",
-		"particle": "block/variants/note_block/note_basedrum"
+		"0": "minecraft:block/variants/note_block/note_basedrum",
+		"particle": "minecraft:block/variants/note_block/note_basedrum"
 	},
 	"elements": [
 		{

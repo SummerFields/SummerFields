@@ -1,5 +1,5 @@
 {
-    "parent": "block/weeping_vines",
+    "parent": "minecraft:block/weeping_vines",
     "display": {
         "gui": {
             "rotation": [ 30, 135, 0 ],

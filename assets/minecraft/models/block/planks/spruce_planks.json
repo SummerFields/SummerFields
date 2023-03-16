@@ -1,6 +1,6 @@
 {
-    "parent": "block/planks/planks",
+    "parent": "minecraft:block/planks/planks",
     "textures": {
-        "all": "block/spruce_planks"
+        "all": "minecraft:block/spruce_planks"
     }
 }

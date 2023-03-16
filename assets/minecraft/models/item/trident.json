@@ -1,14 +1,14 @@
 {
-    "parent": "item/handheld",
+    "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/trident"
+        "layer0": "minecraft:item/trident"
     },
     "overrides": [
         {
             "predicate": {
                 "throwing": 1
             },
-            "model": "item/trident_throwing"
+            "model": "minecraft:item/trident_throwing"
         }
     ]
 }

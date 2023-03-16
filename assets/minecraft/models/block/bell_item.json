@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "block/bell_bottom",
-		"bottom": "block/bell_bottom",
-		"side": "block/bell_side",
-		"top": "block/bell_top",
-		"bar": "block/dark_oak_planks"
+		"particle": "minecraft:block/bell_bottom",
+		"bottom": "minecraft:block/bell_bottom",
+		"side": "minecraft:block/bell_side",
+		"top": "minecraft:block/bell_top",
+		"bar": "minecraft:block/dark_oak_planks"
 	},
 	"elements": [
 		{

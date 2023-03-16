@@ -1,8 +1,8 @@
 {
-    "parent": "block/cube_bottom_top",
+    "parent": "minecraft:block/cube_bottom_top",
     "textures": {
-        "bottom": "block/sandstone_bottom",
-        "top": "block/sandstone_top",
-        "side": "block/variants/stone/sandstone/cut_sandstone_slab"
+        "bottom": "minecraft:block/sandstone_bottom",
+        "top": "minecraft:block/sandstone_top",
+        "side": "minecraft:block/variants/stone/sandstone/cut_sandstone_slab"
     }
 }

@@ -1,7 +1,7 @@
 {
     "variants": {
         "": [
-            { "model": "block/netherrack" }
+            { "model": "minecraft:block/netherrack" }
         ]
     }
 }

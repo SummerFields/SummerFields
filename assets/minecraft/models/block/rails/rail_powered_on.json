@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "block/powered_rail_on"
+		"1": "minecraft:block/powered_rail_on"
 	},
 	"elements": [
 		{

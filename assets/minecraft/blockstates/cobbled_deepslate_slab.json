@@ -1,7 +1,7 @@
 {
     "variants": {
-        "type=bottom": { "model": "block/slab/cobbled_deepslate_slab_bottom" },
-        "type=top": { "model": "block/slab/cobbled_deepslate_slab_top" },
-        "type=double": { "model": "block/block/cobbled_deepslate" }
+        "type=bottom": { "model": "minecraft:block/slab/cobbled_deepslate_slab_bottom" },
+        "type=top": { "model": "minecraft:block/slab/cobbled_deepslate_slab_top" },
+        "type=double": { "model": "minecraft:block/block/cobbled_deepslate" }
     }
 }

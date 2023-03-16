@@ -1,14 +1,14 @@
 {
     "variants": {
         "": [
-            { "model": "block/lily_pad" },
-            { "model": "block/lily_pad", "y": 90 },
-            { "model": "block/lily_pad", "y": 180 },
-            { "model": "block/lily_pad", "y": 270 },
-            { "model": "block/random/lily_pad/lily_pad1" },
-            { "model": "block/random/lily_pad/lily_pad1", "y": 90 },
-            { "model": "block/random/lily_pad/lily_pad1", "y": 180 },
-            { "model": "block/random/lily_pad/lily_pad1", "y": 270 }
+            { "model": "minecraft:block/lily_pad" },
+            { "model": "minecraft:block/lily_pad", "y": 90 },
+            { "model": "minecraft:block/lily_pad", "y": 180 },
+            { "model": "minecraft:block/lily_pad", "y": 270 },
+            { "model": "minecraft:block/random/lily_pad/lily_pad1" },
+            { "model": "minecraft:block/random/lily_pad/lily_pad1", "y": 90 },
+            { "model": "minecraft:block/random/lily_pad/lily_pad1", "y": 180 },
+            { "model": "minecraft:block/random/lily_pad/lily_pad1", "y": 270 }
         ]
     }
 }

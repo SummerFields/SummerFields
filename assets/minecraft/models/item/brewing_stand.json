@@ -1,5 +1,5 @@
 {
-  "parent": "block/items/brewing_stand",
+  "parent": "minecraft:block/items/brewing_stand",
     "display": {
         "gui": {
             "rotation": [ 30, 225, 0 ],

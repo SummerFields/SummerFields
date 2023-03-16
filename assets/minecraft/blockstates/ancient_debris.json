@@ -1,8 +1,8 @@
 {
     "variants": {
         "": [
-            { "model": "block/ancient_debris" },
-            { "model": "block/ancient_debris2" }
+            { "model": "minecraft:block/ancient_debris" },
+            { "model": "minecraft:block/ancient_debris2" }
         ]
     }
 }

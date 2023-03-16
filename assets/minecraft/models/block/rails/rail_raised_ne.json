@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/rail"
+		"0": "minecraft:block/rail"
 	},
 	"elements": [
 		{

@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/variants/note_block/note_block_curser"
+		"1": "minecraft:block/variants/note_block/note_block_curser"
 	},
 	"elements": [
 		{

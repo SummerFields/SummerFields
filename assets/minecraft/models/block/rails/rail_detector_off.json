@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"3_1": "block/detector_rail",
-		"particle": "block/detector_rail"
+		"3_1": "minecraft:block/detector_rail",
+		"particle": "minecraft:block/detector_rail"
 	},
 	"elements": [
 		{

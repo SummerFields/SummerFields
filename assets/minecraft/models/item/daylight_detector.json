@@ -1,5 +1,5 @@
 {
-    "parent": "block/daylight_detector",
+    "parent": "minecraft:block/daylight_detector",
     "display": {
         "gui": {
             "rotation": [ 30, 225, 0 ],

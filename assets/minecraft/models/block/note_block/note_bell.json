@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/variants/note_block/note_bell",
-		"particle": "block/variants/note_block/note_bell"
+		"0": "minecraft:block/variants/note_block/note_bell",
+		"particle": "minecraft:block/variants/note_block/note_bell"
 	},
 	"elements": [
 		{

@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"top": "block/hopper_top",
-		"side": "block/hopper_outside",
-		"particle": "block/hopper_outside",
-		"inside": "block/hopper_inside"
+		"top": "minecraft:block/hopper_top",
+		"side": "minecraft:block/hopper_outside",
+		"particle": "minecraft:block/hopper_outside",
+		"inside": "minecraft:block/hopper_inside"
 	},
 	"elements": [
 		{

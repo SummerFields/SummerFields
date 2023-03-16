@@ -1,10 +1,10 @@
 {
 	"__comment": "by chengzzi89",
-	"parent": "block/block",
+	"parent": "minecraft:block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"door_wood_lower": "block/oak_door_bottom",
-		"particle": "block/oak_door_bottom"
+		"door_wood_lower": "minecraft:block/oak_door_bottom",
+		"particle": "minecraft:block/oak_door_bottom"
 	},
 	"elements": [ 	 
 		{

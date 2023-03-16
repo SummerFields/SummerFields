@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block/block",
+	"parent": "minecraft:block/block",
 	"textures": {
-		"top": "block/composter_top",
-		"bottom": "block/composter_bottom",
-		"particle": "block/composter_side",
-		"side": "block/composter_side"
+		"top": "minecraft:block/composter_top",
+		"bottom": "minecraft:block/composter_bottom",
+		"particle": "minecraft:block/composter_side",
+		"side": "minecraft:block/composter_side"
 	},
 	"elements": [
 		{

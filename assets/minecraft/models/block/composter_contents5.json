@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"inside": "block/composter_compost",
-		"particle": "block/composter_compost"
+		"inside": "minecraft:block/composter_compost",
+		"particle": "minecraft:block/composter_compost"
 	},
 	"elements": [
 		{

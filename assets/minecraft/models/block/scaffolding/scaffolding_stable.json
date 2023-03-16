@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block/block",
+	"parent": "minecraft:block/block",
 	"textures": {
-		"top": "block/scaffolding_top",
-		"particle": "block/scaffolding_top",
-		"side": "block/scaffolding_side",
-		"bottom": "block/scaffolding_bottom"
+		"top": "minecraft:block/scaffolding_top",
+		"particle": "minecraft:block/scaffolding_top",
+		"side": "minecraft:block/scaffolding_side",
+		"bottom": "minecraft:block/scaffolding_bottom"
 	},
 	"elements": [
 		{

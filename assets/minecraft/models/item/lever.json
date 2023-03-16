@@ -1,5 +1,5 @@
 {
-    "parent": "block/lever",
+    "parent": "minecraft:block/lever",
     "display": {
         "gui": {
             "rotation": [ 30, 225, 0 ],

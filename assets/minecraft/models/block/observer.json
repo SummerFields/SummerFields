@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block/block",
+	"parent": "minecraft:block/block",
 	"textures": {
-		"bottom": "block/observer_back",
-		"side": "block/observer_side",
-		"top": "block/observer_top",
-		"particle": "block/observer_front",
-		"front": "block/observer_front"
+		"bottom": "minecraft:block/observer_back",
+		"side": "minecraft:block/observer_side",
+		"top": "minecraft:block/observer_top",
+		"particle": "minecraft:block/observer_front",
+		"front": "minecraft:block/observer_front"
 	},
 	"elements": [
 		{

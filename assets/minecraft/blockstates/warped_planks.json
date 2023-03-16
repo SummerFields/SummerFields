@@ -1,5 +1,5 @@
 {
     "variants": {
-        "": { "model": "block/planks/warped_planks" }
+        "": { "model": "minecraft:block/planks/warped_planks" }
     }
 }

@@ -1,16 +1,16 @@
 {
     "variants": {
         "": [
-            { "model": "block/dirt" },
-            { "model": "block/random/dirt/dirt1" },
-            { "model": "block/random/dirt/dirt2" },
-            { "model": "block/random/dirt/dirt3" },
-            { "model": "block/random/dirt/dirt4" },
-            { "model": "block/random/dirt/dirt5" },
-            { "model": "block/random/dirt/dirt6" },
-            { "model": "block/random/dirt/dirt7" },
-            { "model": "block/random/dirt/dirt8" },
-            { "model": "block/random/dirt/dirt9" }
+            { "model": "minecraft:block/dirt" },
+            { "model": "minecraft:block/random/dirt/dirt1" },
+            { "model": "minecraft:block/random/dirt/dirt2" },
+            { "model": "minecraft:block/random/dirt/dirt3" },
+            { "model": "minecraft:block/random/dirt/dirt4" },
+            { "model": "minecraft:block/random/dirt/dirt5" },
+            { "model": "minecraft:block/random/dirt/dirt6" },
+            { "model": "minecraft:block/random/dirt/dirt7" },
+            { "model": "minecraft:block/random/dirt/dirt8" },
+            { "model": "minecraft:block/random/dirt/dirt9" }
         ]
     }
 }

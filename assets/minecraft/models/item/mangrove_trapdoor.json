@@ -1,5 +1,5 @@
 {
-    "parent": "block/mangrove_trapdoor_bottom",
+    "parent": "minecraft:block/mangrove_trapdoor_bottom",
     "display": {
         "thirdperson_righthand": {
             "rotation": [ 0, 0, -90 ],

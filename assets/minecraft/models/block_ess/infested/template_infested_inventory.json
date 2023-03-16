@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"top": "block/variants/stone/cobblestone/cobblestone_top",
-		"particle": "block/cobblestone",
-		"side": "block/cobblestone",
-		"infested": "block/variant_ess/infested/template_inventory_infested"
+		"4": "minecraft:entity/silverfish",
+		"top": "minecraft:block/variants/stone/cobblestone/cobblestone_top",
+		"side": "minecraft:block/cobblestone",
+		"particle": "minecraft:entity/silverfish"
 	},
 	"elements": [
 		{
@@ -25,12 +25,10 @@
 			"to": [16, 20, 1],
 			"rotation": {"angle": -22.5, "axis": "y", "origin": [2, 0, -4]},
 			"faces": {
-				"north": {"uv": [2, 2, 5, 4], "texture": "#infested"},
-				"east": {"uv": [0, 2, 2, 4], "texture": "#infested"},
-				"south": {"uv": [7, 2, 10, 4], "texture": "#infested"},
-				"west": {"uv": [5, 2, 7, 4], "texture": "#infested"},
-				"up": {"uv": [2, 0, 5, 2], "rotation": 180, "texture": "#infested"},
-				"down": {"uv": [5, 0, 8, 2], "texture": "#infested"}
+				"north": {"uv": [0.5, 1, 1.25, 2], "texture": "#4"},
+				"east": {"uv": [0, 1, 0.5, 2], "texture": "#4"},
+				"west": {"uv": [1.25, 1, 1.75, 2], "texture": "#4"},
+				"up": {"uv": [0.5, 0, 1.25, 1], "rotation": 180, "texture": "#4"}
 			}
 		},
 		{
@@ -38,12 +36,11 @@
 			"to": [17, 21, 5],
 			"rotation": {"angle": -22.5, "axis": "y", "origin": [2, 0, -4]},
 			"faces": {
-				"north": {"uv": [2, 6, 6, 9], "texture": "#infested"},
-				"east": {"uv": [0, 6, 2, 9], "texture": "#infested"},
-				"south": {"uv": [8, 6, 12, 9], "texture": "#infested"},
-				"west": {"uv": [6, 6, 8, 9], "texture": "#infested"},
-				"up": {"uv": [2, 4, 6, 6], "rotation": 180, "texture": "#infested"},
-				"down": {"uv": [6, 4, 10, 6], "texture": "#infested"}
+				"north": {"uv": [0.75, 6, 2.25, 8], "texture": "#4"},
+				"east": {"uv": [0, 6, 0.75, 8], "texture": "#4"},
+				"south": {"uv": [3, 6, 4.5, 8], "texture": "#4"},
+				"west": {"uv": [2.25, 6, 3, 8], "texture": "#4"},
+				"up": {"uv": [0.75, 4.5, 2.25, 6], "rotation": 180, "texture": "#4"}
 			}
 		},
 		{
@@ -51,12 +48,10 @@
 			"to": [15, 20, 11],
 			"rotation": {"angle": -22.5, "axis": "y", "origin": [2, 0, -4]},
 			"faces": {
-				"north": {"uv": [3, 12, 5, 14], "texture": "#infested"},
-				"east": {"uv": [0, 12, 3, 14], "texture": "#infested"},
-				"south": {"uv": [8, 12, 10, 14], "texture": "#infested"},
-				"west": {"uv": [5, 12, 8, 14], "texture": "#infested"},
-				"up": {"uv": [3, 9, 5, 12], "rotation": 180, "texture": "#infested"},
-				"down": {"uv": [5, 9, 7, 12], "texture": "#infested"}
+				"east": {"uv": [0, 9.5, 0.75, 11], "texture": "#4"},
+				"south": {"uv": [2.25, 9.5, 3, 11], "texture": "#4"},
+				"west": {"uv": [1.5, 9.5, 2.25, 11], "texture": "#4"},
+				"up": {"uv": [0.75, 8, 1.5, 9.5], "rotation": 180, "texture": "#4"}
 			}
 		}
 	],

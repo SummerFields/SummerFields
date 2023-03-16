@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+    "parent": "minecraft:block_full/pot/pot_0",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "minecraft:variant_full/potted/pot_3",
+		"flowerpot": "minecraft:variant_full/potted/pot_3",
+		"dirt": "block/dirt"
+	}
+}

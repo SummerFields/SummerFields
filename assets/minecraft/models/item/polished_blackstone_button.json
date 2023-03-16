@@ -1,5 +1,5 @@
 {
-    "parent": "block/button/polished_blackstone_button",
+    "parent": "minecraft:block_ess/button/polished_blackstone_button",
     "display": {
         "thirdperson_righthand": {
             "rotation": [ 0, 0, -90 ],

@@ -1,7 +1,7 @@
 {
-    "parent": "block_ess/trapdoor/template_trapdoor_fine_bottom",
+    "parent": "minecraft:block_ess/trapdoor/template_trapdoor_fine_bottom",
     "textures": {
-        "texture": "block/warped_trapdoor",
-        "particle": "block/variant_ess/trapdoor/warped_trapdoor_side"
+        "texture": "minecraft:block/warped_trapdoor",
+        "particle": "minecraft:variant_ess/trapdoor/warped_trapdoor_side"
     }
 }

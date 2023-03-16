@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block_full/stairs/template_stairs",
+	"parent": "minecraft:block_full/stairs/template_stairs",
 	"textures": {
-		"3": "block/variant_full/stairs/bamboo_stair",
-		"particle": "block/variant_full/stairs/bamboo_stair"
+		"3": "minecraft:variant_full/stairs/bamboo_stair",
+		"particle": "minecraft:variant_full/stairs/bamboo_stair"
 	}
 }

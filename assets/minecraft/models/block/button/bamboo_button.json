@@ -1,6 +1,0 @@
-{
-    "parent": "block/button/template_orientable_button",
-    "textures": {
-        "texture": "block/variants/button/bamboo_button"
-    }
-}

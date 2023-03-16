@@ -1,5 +1,5 @@
 {
-    "parent": "block/button/crimson_button",
+    "parent": "minecraft:block_ess/button/crimson_button",
     "display": {
         "thirdperson_righthand": {
             "rotation": [ 0, 0, -90 ],

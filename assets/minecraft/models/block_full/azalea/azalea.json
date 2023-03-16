@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block/block",
+	"parent": "minecraft:block/block",
 	"textures": {
-		"1": "block/azalea_leaves",
-		"2": "block/azalea_plant",
-		"particle": "block/azalea_plant"
+		"1": "minecraft:block/azalea_leaves",
+		"2": "minecraft:block/azalea_plant",
+		"particle": "minecraft:block/azalea_plant"
 	},
 	"elements": [
 		{

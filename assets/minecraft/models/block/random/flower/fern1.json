@@ -1,6 +1,6 @@
 {
-    "parent": "block/tinted_cross",
+    "parent": "minecraft:block/tinted_cross",
     "textures": {
-        "cross": "block/variants/potted/fern1"
+        "cross": "minecraft:variant_full/potted/fern1"
     }
 }

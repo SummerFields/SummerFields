@@ -1,6 +1,6 @@
 {
-  "parent": "block_full/leaves/template_leaves_3",
+  "parent": "minecraft:block_full/leaves/template_leaves_3",
   "textures": {
-    "0": "block/variant_full/leaves/acacia_leaves"
+    "0": "minecraft:variant_full/leaves/acacia_leaves"
   }
 }

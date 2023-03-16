@@ -1,7 +1,7 @@
 {
-    "parent": "block_ess/trapdoor/template_trapdoor_fine_open",
+    "parent": "minecraft:block_ess/trapdoor/template_trapdoor_fine_open",
     "textures": {
-        "texture": "block/mangrove_trapdoor",
-        "particle": "block/variant_ess/trapdoor/mangrove_trapdoor_side"
+        "texture": "minecraft:block/mangrove_trapdoor",
+        "particle": "minecraft:variant_ess/trapdoor/mangrove_trapdoor_side"
     }
 }

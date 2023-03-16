@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block_ess/button/template_orientable_button",
+    "textures": {
+        "texture": "minecraft:variant_ess/button/jungle_button"
+    }
+}

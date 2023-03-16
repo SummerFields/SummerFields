@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block_ess/pumpkin_melon/jack_o_lantern",
+    "display": {
+        "gui": {
+            "rotation": [ 30, 225, 0 ],
+            "scale": [ 0.6, 0.6, 0.6 ]
+        }
+    }
+}

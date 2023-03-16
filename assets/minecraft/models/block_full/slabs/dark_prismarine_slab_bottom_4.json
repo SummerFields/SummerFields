@@ -1,8 +1,8 @@
 {
-    "parent": "block/slab",
+    "parent": "minecraft:block/slab",
     "textures": {
-        "bottom": "block/variant_full/bricks/dark_prismarine_4",
-        "top": "block/variant_full/bricks/dark_prismarine_4",
-        "side": "block/variant_full/bricks/dark_prismarine_4"
+        "bottom": "minecraft:variant_full/bricks/dark_prismarine_4",
+        "top": "minecraft:variant_full/bricks/dark_prismarine_4",
+        "side": "minecraft:variant_full/bricks/dark_prismarine_4"
     }
 }

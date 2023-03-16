@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "variant_full/potted/cactus_pot",
+		"cactus": "variant_full/potted/cactus_pot",
+		"cactustop": "variant_full/potted/cactus_top_pot"
+	},
+	"elements": [
+		{
+			"from": [6, 4, 6],
+			"to": [10, 16, 10],
+			"faces": {
+				"north": {"uv": [6, 4, 10, 16], "texture": "#cactus"},
+				"east": {"uv": [6, 4, 10, 16], "texture": "#cactus"},
+				"south": {"uv": [6, 4, 10, 16], "texture": "#cactus"},
+				"west": {"uv": [6, 4, 10, 16], "texture": "#cactus"},
+				"up": {"uv": [6, 6, 10, 10], "texture": "#cactustop"}
+			}
+		}
+	]
+}

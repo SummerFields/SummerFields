@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/variants/sweet_berry_bush/sweet_berry_bush_stage0",
-		"particle": "block/variants/sweet_berry_bush/sweet_berry_bush_stage0"
+		"0": "minecraft:block/variants/sweet_berry_bush/sweet_berry_bush_stage0",
+		"particle": "minecraft:block/variants/sweet_berry_bush/sweet_berry_bush_stage0"
 	},
 	"elements": [
 		{
@@ -14,7 +14,7 @@
 				"south": {"uv": [4, 6, 12, 16], "texture": "#0"},
 				"west": {"uv": [4, 6, 12, 16], "texture": "#0"},
 				"up": {"uv": [4, 4, 12, 12], "texture": "#0"},
-				"down": {"uv": [4, 4, 12, 12], "texture": "#missing"}
+				"down": {"uv": [4, 4, 12, 12], "texture": "#0"}
 			}
 		},
 		{
@@ -26,7 +26,7 @@
 				"south": {"uv": [2, 4, 14, 16], "texture": "#0"},
 				"west": {"uv": [2, 4, 14, 16], "texture": "#0"},
 				"up": {"uv": [2, 2, 14, 14], "texture": "#0"},
-				"down": {"uv": [2, 2, 14, 14], "texture": "#missing"}
+				"down": {"uv": [2, 2, 14, 14], "texture": "#0"}
 			}
 		}
 	]

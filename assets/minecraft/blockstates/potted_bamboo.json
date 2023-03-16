@@ -1,0 +1,23 @@
+{
+  "multipart": [
+    {   "apply": [
+        { "model": "minecraft:block/bamboo1_age0" }
+      ]
+    },
+    {   "apply": [
+		{ "model": "minecraft:block_full/bamboo/bamboo_large_leaves1" },
+		{ "model": "minecraft:block_full/bamboo/bamboo_large_leaves1", "y": 90 },
+		{ "model": "minecraft:block_full/bamboo/bamboo_large_leaves1", "y": 180 },
+		{ "model": "minecraft:block_full/bamboo/bamboo_large_leaves1", "y": 270 }
+      ]
+    },
+    {   "apply": [
+        { "model": "minecraft:block_full/pot/pot_0" },
+        { "model": "minecraft:block_full/pot/pot_1" },
+        { "model": "minecraft:block_full/pot/pot_2" },
+        { "model": "minecraft:block_full/pot/pot_3" },
+        { "model": "minecraft:block_full/pot/pot_4" }
+      ]
+    } 
+  ]
+}

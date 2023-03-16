@@ -1,8 +1,8 @@
 {
     "parent": "minecraft:block_full/bricks/basemossy",
     "textures": {
-        "down": "minecraft:block/variant_full/bricks/mossy_stone_bricks_top_2",
-        "up": "minecraft:block/variant_full/bricks/mossy_stone_bricks_top_2",
+        "down": "minecraft:variant_full/bricks/mossy_stone_bricks_top_2",
+        "up": "minecraft:variant_full/bricks/mossy_stone_bricks_top_2",
         "side": "minecraft:block/mossy_stone_bricks",
         "crop": "minecraft:block/wheat_stage0"
     }

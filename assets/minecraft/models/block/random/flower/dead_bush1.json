@@ -1,6 +1,6 @@
 {
-    "parent": "block/cross",
+    "parent": "minecraft:block/cross",
     "textures": {
-        "cross": "block/variants/potted/dead_bush1"
+        "cross": "minecraft:variant_full/potted/dead_bush1"
     }
 }

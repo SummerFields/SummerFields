@@ -1,11 +1,23 @@
 {
-    "variants": {
-        "": [
-  { "model": "block/random/flower_pot/potted_dead_bush_0" },
-  { "model": "block/random/flower_pot/potted_dead_bush_1" },
-  { "model": "block/random/flower_pot/potted_dead_bush_2" },
-  { "model": "block/random/flower_pot/potted_dead_bush_3" },
-  { "model": "block/random/flower_pot/potted_dead_bush_4" }
-]
-    }
+  "multipart": [
+    {   "apply": [
+        { "model": "minecraft:block_full/pot/potted_dead_bush0" },
+		{ "model": "minecraft:block_full/pot/potted_dead_bush0", "y": 90 },
+		{ "model": "minecraft:block_full/pot/potted_dead_bush0", "y": 180 },
+		{ "model": "minecraft:block_full/pot/potted_dead_bush0", "y": 270 },
+        { "model": "minecraft:block_full/pot/potted_dead_bush1" },
+		{ "model": "minecraft:block_full/pot/potted_dead_bush1", "y": 90 },
+		{ "model": "minecraft:block_full/pot/potted_dead_bush1", "y": 180 },
+		{ "model": "minecraft:block_full/pot/potted_dead_bush1", "y": 270 }
+      ]
+    },
+    {   "apply": [
+        { "model": "minecraft:block_full/pot/pot_0" },
+        { "model": "minecraft:block_full/pot/pot_1" },
+        { "model": "minecraft:block_full/pot/pot_2" },
+        { "model": "minecraft:block_full/pot/pot_3" },
+        { "model": "minecraft:block_full/pot/pot_4" }
+      ]
+    } 
+  ]
 }

@@ -1,6 +1,0 @@
-{
-    "parent": "block/cross",
-    "textures": {
-        "cross": "block/variants/sapling/birch_sapling_stade0"
-    }
-}

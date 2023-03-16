@@ -50,6 +50,7 @@ Release 1.19.3
 	- vex in allay form
 	- update gui
 	- camel
+	- interface
 
 Release 1.19
   - by [lipki] (https://github.com/lipki)
@@ -288,7 +289,7 @@ Release 1.14
 15/11/2016 : Release 1.11
   - Correction of stairs - by [Ultharine] (https://github.com/Ultharine)
   - New random textures (dark prismarine, stone, mycellium, flower pot, top slab)  by [tobyplowy] (https://github.com/tobyplowy)
-  - New elytra angel by [tobyplowy] (https://github.com/tobyplowy) stem for melon and pumkin - by [lipki] (https://github.com/lipki)
+  - New elytra angel by [tobyplowy] (https://github.com/tobyplowy) stem for melon and pumpkin - by [lipki] (https://github.com/lipki)
   - Beacon, textures - by [ImLeeRii] (https://github.com/ImLeeRii) and model - by [lipki] (https://github.com/lipki)
   - Endercrystal - by [ImLeeRii] (https://github.com/ImLeeRii)
   - Big stone update - by [lipki] (https://github.com/lipki) and [tobyplowy] (https://github.com/tobyplowy)
@@ -348,7 +349,7 @@ xx/xx/2014 : Release 1.9
 * Added
   - new quiver by [lipki] (https://github.com/lipki)
   - new Alex by [lipki] (https://github.com/lipki)
-  - new pumkin face by OwO_V and [ImLeeRii] (https://github.com/ImLeeRii)
+  - new pumpkin face by OwO_V and [ImLeeRii] (https://github.com/ImLeeRii)
   - new doors by [ImLeeRii] (https://github.com/ImLeeRii)
   - new Rabbit by [lipki] (https://github.com/lipki)
   - new item armor_stand by [lipki] (https://github.com/lipki)
@@ -369,7 +370,7 @@ xx/xx/2014 : Release 1.9
   - new texture for trapdoor side
   - new texture for daylight detector side
   - some items in 3d include items door
-  - new pumkin and melon bottom
+  - new pumpkin and melon bottom
   
 * Split
   - Mcpatcher : new repo

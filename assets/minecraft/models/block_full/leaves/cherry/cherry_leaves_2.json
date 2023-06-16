@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block_full/leaves/template_leaves_2",
+  "textures": {
+    "0": "minecraft:variant_full/leaves/cherry_leaves"
+  }
+}

@@ -53,6 +53,7 @@ Release 1.20
 	- cherry wood
 	- slider
 	- new Smithing table
+	- trims
   - by [Physignatily] (https://github.com/Physignatily)
     - Torch flower
 	- Smithing template

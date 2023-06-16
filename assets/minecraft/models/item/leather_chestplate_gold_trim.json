@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block_ess/armor/template_chestplate",
+  "textures": {
+     "layer0": "minecraft:models/armor/leather_layer_1",
+     "layer1": "minecraft:models/armor/leather_layer_1_overlay",
+    "layer2": "minecraft:trims/models/armor/wayfinder_gold"
+  }
+}

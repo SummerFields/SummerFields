@@ -56,6 +56,8 @@ Release 1.20
 	- calibrated sculk sensor
 	- trims
 	- Sniffer
+	- Pink petals
+	- Cherry Wood
   - by [Physignatily] (https://github.com/Physignatily)
     - Torch flower
 	- Smithing template

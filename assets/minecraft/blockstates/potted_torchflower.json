@@ -1,0 +1,19 @@
+{
+  "multipart": [
+    {   "apply": [
+        { "model": "minecraft:block_full/pot/potted_torchflower" },
+		{ "model": "minecraft:block_full/pot/potted_torchflower", "y": 90 },
+		{ "model": "minecraft:block_full/pot/potted_torchflower", "y": 180 },
+		{ "model": "minecraft:block_full/pot/potted_torchflower", "y": 270 }
+      ]
+    },
+    {   "apply": [
+        { "model": "minecraft:block_full/pot/pot_0" },
+        { "model": "minecraft:block_full/pot/pot_1" },
+        { "model": "minecraft:block_full/pot/pot_2" },
+        { "model": "minecraft:block_full/pot/pot_3" },
+        { "model": "minecraft:block_full/pot/pot_4" }
+      ]
+    } 
+  ]
+}

@@ -54,6 +54,7 @@ Release 1.20
 	- slider
 	- new Smithing table
 	- trims
+	- Sniffer
   - by [Physignatily] (https://github.com/Physignatily)
     - Torch flower
 	- Smithing template

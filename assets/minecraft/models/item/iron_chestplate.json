@@ -1,10 +1,19 @@
 {
   "parent": "minecraft:block_ess/armor/template_chestplate",
+  "textures": {
+		"layer0": "minecraft:models/armor/iron_layer_1"
+  },
   "overrides": [
     {
       "model": "minecraft:item/iron_chestplate_quartz_trim",
       "predicate": {
         "trim_type": 0.1
+      }
+    },
+    {
+      "model": "minecraft:item/iron_chestplate_iron_trim",
+      "predicate": {
+        "trim_type": 0.2
       }
     },
     {
@@ -55,9 +64,5 @@
         "trim_type": 1.0
       }
     }
-  ],
-  "textures": {
-		"0": "minecraft:models/armor/iron_layer_1",
-		"1": "minecraft:trims/models/armor/nop_iron"
-  }
+  ]
 }

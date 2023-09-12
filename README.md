@@ -54,6 +54,8 @@ Release 1.20
 	- slider
 	- new Smithing table
 	- calibrated sculk sensor
+	- trims
+	- Sniffer
   - by [Physignatily] (https://github.com/Physignatily)
     - Torch flower
 	- Smithing template

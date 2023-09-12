@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block_ess/armor/template_chestplate",
+  "textures": {
+     "layer0": "minecraft:models/armor/netherite_layer_1",
+    "layer2": "minecraft:trims/models/armor/wayfinder_gold"
+  }
+}

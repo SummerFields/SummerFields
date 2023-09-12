@@ -1,5 +1,8 @@
 {
   "parent": "minecraft:block_ess/armor/template_helmet",
+  "textures": {
+     "layer0": "minecraft:models/armor/gold_layer_1"
+  },
   "overrides": [
     {
       "model": "minecraft:item/golden_helmet_quartz_trim",
@@ -32,6 +35,12 @@
       }
     },
     {
+      "model": "minecraft:item/golden_helmet_gold_trim",
+      "predicate": {
+        "trim_type": 0.6
+      }
+    },
+    {
       "model": "minecraft:item/golden_helmet_emerald_trim",
       "predicate": {
         "trim_type": 0.7
@@ -55,9 +64,5 @@
         "trim_type": 1.0
       }
     }
-  ],
-  "textures": {
-     "0": "minecraft:models/armor/gold_layer_1",
-    "1": "minecraft:trims/models/armor/nop_gold"
-  }
+  ]
 }

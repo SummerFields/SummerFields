@@ -61,6 +61,7 @@ Release 1.20
   - by [Physignatily] (https://github.com/Physignatily)
     - Torch flower
 	- Smithing template
+    - New Font
 
 Release 1.19.3
   - by [lipki] (https://github.com/lipki)

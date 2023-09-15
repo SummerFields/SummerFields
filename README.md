@@ -51,7 +51,7 @@ Release 1.20
 	- trims
 	- Sniffer
 	- Pink petals
-        - suspicious sand and gravel
+    - suspicious sand and gravel
 	- empty slot
   - by [Physignatily] (https://github.com/Physignatily)
     - Torch flower

@@ -44,12 +44,6 @@ History of Recent Updates
 
 Release 1.20
   - by [lipki] (https://github.com/lipki)
-    - Hanging signs
-	- Bamboo stuff
-	- Chiseled Bookshelf
-	- vex in allay form
-	- update gui
-	- camel
 	- cherry wood
 	- slider
 	- new Smithing table
@@ -57,15 +51,21 @@ Release 1.20
 	- trims
 	- Sniffer
 	- Pink petals
-	- Cherry Wood
+        - suspicious sand and gravel
+	- empty slot
   - by [Physignatily] (https://github.com/Physignatily)
     - Torch flower
-	- Smithing template
+    - Smithing template
     - New Font
+    - brush
+    - music disc relic
+  - by [Physignatily] (https://github.com/Physignatily) and [lipki] (https://github.com/lipki)
+    - decorated pot
+    
 
 Release 1.19.3
   - by [lipki] (https://github.com/lipki)
-    - Hanging signs
+        - Hanging signs
 	- Bamboo stuff
 	- Chiseled Bookshelf
 	- vex in allay form

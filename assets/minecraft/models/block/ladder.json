@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"texture": "minecraft:variant_ess/ladder",
+		"texture": "minecraft:block/ladder",
 		"particle": "minecraft:block/ladder"
 	},
 	"elements": [

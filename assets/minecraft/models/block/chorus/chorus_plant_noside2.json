@@ -1,7 +1,7 @@
 {
     "__createdwith": "opl's Model Creator",
     "textures": {
-        "texture": "minecraft:variant_ess/white_wool",
+        "texture": "minecraft:block/white_wool",
         "particle": "minecraft:block/chorus_plant",
         "inside": "minecraft:block/chorus_plant"
     },

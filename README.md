@@ -50,6 +50,7 @@ Release 1.20
 	- calibrated sculk sensor
 	- trims
 	- Sniffer
+    - Sniffer egg
 	- Pink petals
     - suspicious sand and gravel
 	- empty slot

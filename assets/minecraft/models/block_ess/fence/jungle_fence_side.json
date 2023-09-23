@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block_ess/fence/custom_fence_side",
+    "textures": {
+        "texture": "minecraft:variant_ess/fence/jungle_fence"
+    }
+}

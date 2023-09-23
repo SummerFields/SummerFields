@@ -1,7 +1,7 @@
 {
   "multipart": [
     {   "apply": [
-        { "model": "minecraft:block_full/pot/potted_pink_tulip" }
+        { "model": "minecraft:block_full/pot/potted_warped_fungus" }
       ]
     },
     {   "apply": [

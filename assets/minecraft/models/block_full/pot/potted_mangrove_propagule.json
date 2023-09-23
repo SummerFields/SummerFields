@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block_full/pot/pot_cross",
+    "textures": {
+        "plant": "minecraft:variant_ess/sapling/mangrove_propagule_stade0"
+    }
+}

@@ -1,11 +1,16 @@
 {
-    "variants": {
-        "": [
-  { "model": "minecraft:block/random/flower_pot/potted_oxeye_daisy_0" },
-  { "model": "minecraft:block/random/flower_pot/potted_oxeye_daisy_1" },
-  { "model": "minecraft:block/random/flower_pot/potted_oxeye_daisy_2" },
-  { "model": "minecraft:block/random/flower_pot/potted_oxeye_daisy_3" },
-  { "model": "minecraft:block/random/flower_pot/potted_oxeye_daisy_4" }
-]
-    }
+  "multipart": [
+    {   "apply": [
+        { "model": "minecraft:block_full/pot/potted_oxeye_daisy" }
+      ]
+    },
+    {   "apply": [
+        { "model": "minecraft:block_full/pot/pot_0" },
+        { "model": "minecraft:block_full/pot/pot_1" },
+        { "model": "minecraft:block_full/pot/pot_2" },
+        { "model": "minecraft:block_full/pot/pot_3" },
+        { "model": "minecraft:block_full/pot/pot_4" }
+      ]
+    } 
+  ]
 }

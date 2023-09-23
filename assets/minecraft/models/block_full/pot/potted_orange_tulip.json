@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block_full/pot/pot_cross",
+    "textures": {
+        "plant": "minecraft:block/orange_tulip"
+    }
+}

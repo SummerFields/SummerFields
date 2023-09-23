@@ -1,11 +1,16 @@
 {
-    "variants": {
-        "": [
-  { "model": "minecraft:block/random/flower_pot/potted_red_mushroom_0" },
-  { "model": "minecraft:block/random/flower_pot/potted_red_mushroom_1" },
-  { "model": "minecraft:block/random/flower_pot/potted_red_mushroom_2" },
-  { "model": "minecraft:block/random/flower_pot/potted_red_mushroom_3" },
-  { "model": "minecraft:block/random/flower_pot/potted_red_mushroom_4" }
-]
-    }
+  "multipart": [
+    {   "apply": [
+        { "model": "minecraft:block_full/pot/potted_red_mushroom" }
+      ]
+    },
+    {   "apply": [
+        { "model": "minecraft:block_full/pot/pot_0" },
+        { "model": "minecraft:block_full/pot/pot_1" },
+        { "model": "minecraft:block_full/pot/pot_2" },
+        { "model": "minecraft:block_full/pot/pot_3" },
+        { "model": "minecraft:block_full/pot/pot_4" }
+      ]
+    } 
+  ]
 }

@@ -1,11 +1,16 @@
 {
-    "variants": {
-        "": [
-  { "model": "minecraft:block/random/flower_pot/potted_azure_bluet_0" },
-  { "model": "minecraft:block/random/flower_pot/potted_azure_bluet_1" },
-  { "model": "minecraft:block/random/flower_pot/potted_azure_bluet_2" },
-  { "model": "minecraft:block/random/flower_pot/potted_azure_bluet_3" },
-  { "model": "minecraft:block/random/flower_pot/potted_azure_bluet_4" }
-]
-    }
+  "multipart": [
+    {   "apply": [
+        { "model": "minecraft:block_full/pot/potted_azure_bluet" }
+      ]
+    },
+    {   "apply": [
+        { "model": "minecraft:block_full/pot/pot_0" },
+        { "model": "minecraft:block_full/pot/pot_1" },
+        { "model": "minecraft:block_full/pot/pot_2" },
+        { "model": "minecraft:block_full/pot/pot_3" },
+        { "model": "minecraft:block_full/pot/pot_4" }
+      ]
+    } 
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "multipart": [
     {   "apply": [
-        { "model": "minecraft:block_full/pot/potted_pink_tulip" }
+        { "model": "minecraft:block_full/pot/potted_bamboo" },
+        { "model": "minecraft:block_full/pot/potted_bamboo", "y":90 },
+        { "model": "minecraft:block_full/pot/potted_bamboo", "y":180},
+        { "model": "minecraft:block_full/pot/potted_bamboo", "y":270 }
       ]
     },
     {   "apply": [

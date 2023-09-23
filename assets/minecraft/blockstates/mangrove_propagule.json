@@ -1,0 +1,7 @@
+
+{
+  "multipart": [
+    { "when": { "stage": "0"  }, "apply": { "model": "minecraft:block/mangrove_propagule" }},
+    { "when": { "stage": "1"  }, "apply": { "model": "minecraft:block_full/sapling/mangrove_propagule_stade1" }}
+  ]
+}

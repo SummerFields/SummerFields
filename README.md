@@ -50,10 +50,11 @@ Release 1.20
 	- calibrated sculk sensor
 	- trims
 	- Sniffer
-    - Sniffer egg
+        - Sniffer egg
 	- Pink petals
-    - suspicious sand and gravel
+        - suspicious sand and gravel
 	- empty slot
+        - Cherry Wood
   - by [Physignatily] (https://github.com/Physignatily)
     - Torch flower
     - Smithing template

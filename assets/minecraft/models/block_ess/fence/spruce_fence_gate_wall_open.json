@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_custom_fence_gate_wall_open",
+  "textures": {
+    "particle": "minecraft:variant_ess/fence/spruce_fence_gate_particle",
+    "texture": "minecraft:variant_ess/fence/spruce_fence_gate"
+  }
+}

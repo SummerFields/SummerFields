@@ -61,7 +61,7 @@ Release 1.20
     - New Font
     - brush
     - music disc relic
- - by [Physignatily] (https://github.com/Physignatily) and [lipki] (https://github.com/lipki)
+  - by [Physignatily] (https://github.com/Physignatily) and [lipki] (https://github.com/lipki)
     - decorated pot
     
 

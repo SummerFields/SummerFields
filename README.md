@@ -61,6 +61,7 @@ Release 1.20
     - New Font
     - brush
     - music disc relic
+    - Pitcher
   - by [Physignatily] (https://github.com/Physignatily) and [lipki] (https://github.com/lipki)
     - decorated pot
     

@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "minecraft:block/cherry_door_top",
+		"particle": "#bottom",
 		"bottom": "minecraft:block/cherry_door_top"
 	},
 	"elements": [

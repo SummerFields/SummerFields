@@ -3,7 +3,7 @@
 	"parent": "minecraft:block/thin_block",
 	"textures": {
 		"texture": "minecraft:block/bamboo_trapdoor",
-		"particle": "minecraft:variant_ess/trapdoor/bamboo_trapdoor_side"
+		"particle": "#texture"
 	},
 	"elements": [
 		{

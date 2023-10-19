@@ -3,7 +3,7 @@
 	"parent": "minecraft:block/stairs",
 	"textures": {
 		"3": "minecraft:variant_full/stairs/bamboo_stair",
-		"particle": "minecraft:variant_full/stairs/bamboo_stair"
+		"particle": "#3"
 	},
 	"elements": [
 		{

@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"door_iron_lower": "minecraft:block/iron_door_bottom",
-		"particle": "minecraft:variant_ess/doors/door_iron_top"
+		"particle": "#door_iron_lower"
 	},
 	"elements": [ 	 
 		{

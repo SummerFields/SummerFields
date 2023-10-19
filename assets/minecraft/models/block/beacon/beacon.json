@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/block",
 	"textures": {
-		"particle": "minecraft:block/glass",
+		"particle": "#glass",
 		"glass": "minecraft:block/glass",
 		"obsidian": "minecraft:block/obsidian",
 		"beacon": "minecraft:block/beacon"

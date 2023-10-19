@@ -3,6 +3,6 @@
 	"parent": "minecraft:block_full/stairs/template_inner_stairs",
 	"textures": {
 		"0": "minecraft:variant_full/stairs/bricks_stair",
-		"particle": "minecraft:variant_full/stairs/bricks_stair"
+		"particle": "#0"
 	}
 }

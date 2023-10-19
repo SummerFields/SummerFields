@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "block/pink_petals",
-		"flowerbed": "block/pink_petals",
-		"stem": "block/pink_petals_stem"
+		"particle": "#flowerbed",
+		"flowerbed": "minecraft:block/pink_petals",
+		"stem": "minecraft:block/pink_petals_stem"
 	},
 	"elements": [
 		{

@@ -1,6 +1,6 @@
 {   "parent": "minecraft:block/block",
     "textures": {
-        "particle": "minecraft:block/daylight_detector_top",
+        "particle": "#top",
         "top": "minecraft:block/daylight_detector_top",
         "bottom": "minecraft:block/variants/daylight_detector_bottom",
         "side": "minecraft:block/daylight_detector_side"

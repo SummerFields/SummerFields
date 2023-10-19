@@ -4,7 +4,7 @@
 	"textures": {
 		"acacia_door_bottom": "minecraft:block/acacia_door_bottom",
 		"acacia_door_top": "minecraft:block/acacia_door_top",
-		"particle": "minecraft:block/acacia_door_top"
+		"particle": "#acacia_door_top"
 	},
 	"elements": [ 	 
 		{

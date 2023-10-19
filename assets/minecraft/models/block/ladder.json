@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"texture": "minecraft:block/ladder",
-		"particle": "minecraft:block/ladder"
+		"particle": "#texture"
 	},
 	"elements": [
 		{

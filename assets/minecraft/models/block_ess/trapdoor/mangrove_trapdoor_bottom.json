@@ -2,6 +2,6 @@
     "parent": "minecraft:block_ess/trapdoor/template_trapdoor_fine_bottom",
     "textures": {
         "texture": "minecraft:block/mangrove_trapdoor",
-        "particle": "minecraft:variant_ess/trapdoor/mangrove_trapdoor_side"
+        "particle": "#texture"
     }
 }

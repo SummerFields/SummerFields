@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "minecraft:variant_full/potted/pot_4",
+		"particle": "#flowerpot",
 		"flowerpot": "minecraft:variant_full/potted/pot_4",
-		"dirt": "block/dirt"
+		"dirt": "minecraft:block/dirt"
 	},
 	"elements": [
 		{

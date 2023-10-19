@@ -19,23 +19,19 @@
             "type": "directory",
             "source": "item",
             "prefix": "item/"
-        },
-        {
+        }, {
             "type": "directory",
             "source": "models",
             "prefix": "models/"
-        },
-        {
+        }, {
             "type": "directory",
             "source": "entity",
             "prefix": "entity/"
-        },
-        {
+        }, {
             "type": "directory",
             "source": "trims",
             "prefix": "trims/"
-        },
-        {
+        }, {
             "type": "paletted_permutations",
             "textures": [
                 "trims/items/leggings_trim",

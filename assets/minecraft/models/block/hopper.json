@@ -4,7 +4,7 @@
 	"textures": {
 		"top": "minecraft:block/hopper_top",
 		"side": "minecraft:block/hopper_outside",
-		"particle": "minecraft:block/hopper_outside",
+		"particle": "#side",
 		"inside": "minecraft:block/hopper_inside"
 	},
 	"elements": [

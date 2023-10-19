@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "minecraft:block/variants/sweet_berry_bush/sweet_berry_bush_stage0",
-		"particle": "minecraft:block/variants/sweet_berry_bush/sweet_berry_bush_stage0"
+		"particle": "#0"
 	},
 	"elements": [
 		{

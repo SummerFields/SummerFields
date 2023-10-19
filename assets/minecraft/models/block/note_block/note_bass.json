@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "minecraft:block/variants/note_block/note_bass",
-		"particle": "minecraft:block/variants/note_block/note_bass"
+		"particle": "#0"
 	},
 	"elements": [
 		{

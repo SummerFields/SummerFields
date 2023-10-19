@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "variant_full/potted/fern_pot",
-		"plant": "variant_full/potted/fern_pot"
+		"particle": "#plant",
+		"plant": "minecraft:variant_full/potted/fern_pot"
 	},
 	"elements": [
 		{

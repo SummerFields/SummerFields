@@ -4,7 +4,7 @@
 	"textures": {
 		"cherry_door_bottom": "minecraft:block/cherry_door_bottom",
 		"cherry_door_top": "minecraft:block/cherry_door_top",
-		"particle": "minecraft:block/cherry_door_top"
+		"particle": "#cherry_door_top"
 	},
 	"elements": [ 	 
 		{

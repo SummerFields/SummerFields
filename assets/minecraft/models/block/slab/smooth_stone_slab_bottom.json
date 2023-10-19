@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/block",
 	"textures": {
-		"particle": "minecraft:block/smooth_stone",
+		"particle": "#top",
 		"top": "minecraft:block/smooth_stone",
 		"side": "minecraft:block/smooth_stone_slab_side"
 	},

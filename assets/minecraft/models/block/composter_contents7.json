@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"inside": "minecraft:block/composter_compost",
-		"particle": "minecraft:block/composter_compost"
+		"particle": "#inside"
 	},
 	"elements": [
 		{

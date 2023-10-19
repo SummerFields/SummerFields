@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "minecraft:block/ancient_debris_top",
-		"particle": "minecraft:block/ancient_debris_top"
+		"particle": "#2"
 	},
 	"elements": [
 		{

@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "minecraft:block/chorus_plant",
+		"particle": "#texture",
 		"texture": "minecraft:block/chorus_plant",
 		"inside": "minecraft:block/chorus_flower_dead"
 	},

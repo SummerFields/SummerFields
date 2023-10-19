@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "minecraft:block/rail",
 		"1": "minecraft:block/variants/rails/rail_bottom",
-		"particle": "minecraft:block/rail"
+		"particle": "#0"
 	},
 	"elements": [
 		{

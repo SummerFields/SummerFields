@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "minecraft:block/variants/note_block/note_harp",
-		"particle": "minecraft:block/variants/note_block/note_harp"
+		"particle": "#0"
 	},
 	"elements": [
 		{

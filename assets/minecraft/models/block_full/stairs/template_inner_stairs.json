@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "minecraft:variant_full/stairs/bamboo_stair",
-		"particle": "minecraft:variant_full/stairs/bamboo_stair"
+		"particle": "#0"
 	},
 	"elements": [
 		{

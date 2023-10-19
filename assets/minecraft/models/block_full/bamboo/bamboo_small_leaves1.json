@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"1": "minecraft:block/bamboo_small_leaves",
-		"particle": "minecraft:block/bamboo_small_leaves"
+		"particle": "#1"
 	},
 	"elements": [
 		{

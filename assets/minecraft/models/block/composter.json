@@ -4,7 +4,7 @@
 	"textures": {
 		"top": "minecraft:block/composter_top",
 		"bottom": "minecraft:block/composter_bottom",
-		"particle": "minecraft:block/composter_side",
+		"particle": "#side",
 		"side": "minecraft:block/composter_side"
 	},
 	"elements": [

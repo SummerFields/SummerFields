@@ -5,7 +5,7 @@
 	"textures": {
 		"0": "minecraft:block/mangrove_propagule",
 		"flowerpot": "minecraft:block/flower_pot",
-		"particle": "minecraft:block/flower_pot",
+		"particle": "#flowerpot",
 		"dirt": "minecraft:block/dirt"
 	},
 	"elements": [

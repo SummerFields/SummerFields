@@ -1,7 +1,7 @@
 {
     "parent": "minecraft:block/custom_fence_post",
     "textures": {
-        "texture": "minecraft:variant_ess/fence/oak_fence",
-        "particle": "#texture"
+        "particle": "#texture",
+        "texture": "minecraft:variant_ess/fence/oak_fence"
     }
 }

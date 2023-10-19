@@ -3,7 +3,7 @@
     "ambientocclusion": false,
     "textures": {
         "edge": "minecraft:block/iron_bars",
-        "particle": "minecraft:block/iron_bars",
+        "particle": "#edge",
         "bars": "minecraft:block/iron_bars"
     },
     "elements": [

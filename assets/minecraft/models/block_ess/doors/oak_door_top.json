@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"door_wood_upper": "minecraft:block/oak_door_top",
-		"particle": "minecraft:block/oak_door_top"
+		"particle": "#door_wood_upper"
 	},
 	"elements": [ 	 
 		{

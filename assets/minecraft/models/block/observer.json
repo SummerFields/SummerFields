@@ -5,7 +5,7 @@
 		"bottom": "minecraft:block/observer_back",
 		"side": "minecraft:block/observer_side",
 		"top": "minecraft:block/observer_top",
-		"particle": "minecraft:block/observer_front",
+		"particle": "#front",
 		"front": "minecraft:block/observer_front"
 	},
 	"elements": [

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "variant_full/leaves/cherry_leaves",
-		"particle": "variant_full/leaves/cherry_leaves"
+		"0": "minecraft:variant_full/leaves/cherry_leaves",
+		"particle": "#0"
 	},
 	"elements": [
 		{

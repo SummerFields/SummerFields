@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/thin_block",
 	"textures": {
-		"texture": "block/cherry_trapdoor",
-		"particle": "variant_ess/trapdoor/cherry_trapdoor_side"
+		"texture": "minecraft:block/cherry_trapdoor",
+		"particle": "#texture"
 	},
 	"elements": [
 		{

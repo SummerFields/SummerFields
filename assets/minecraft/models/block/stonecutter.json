@@ -3,7 +3,7 @@
 	"parent": "minecraft:block/block",
 	"textures": {
 		"bottom": "minecraft:block/stonecutter_bottom",
-		"particle": "minecraft:block/stonecutter_bottom",
+		"particle": "#bottom",
 		"top": "minecraft:block/stonecutter_top",
 		"side": "minecraft:block/stonecutter_side",
 		"saw": "minecraft:block/stonecutter_saw"

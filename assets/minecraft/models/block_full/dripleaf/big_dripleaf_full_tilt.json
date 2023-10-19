@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/block",
 	"textures": {
-		"particle": "minecraft:block/big_dripleaf_top",
+		"particle": "#top",
 		"top": "minecraft:block/big_dripleaf_top",
 		"stem": "minecraft:block/big_dripleaf_stem",
 		"side": "minecraft:block/big_dripleaf_side",

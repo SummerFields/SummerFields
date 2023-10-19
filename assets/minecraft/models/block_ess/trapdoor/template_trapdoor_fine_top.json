@@ -3,7 +3,7 @@
 	"parent": "minecraft:block/thin_block",
 	"textures": {
 		"texture": "minecraft:block/mangrove_trapdoor",
-		"particle": "minecraft:variant_ess/trapdoor/mangrove_trapdoor_side"
+		"particle": "#texture"
 	},
 	"elements": [
 		{

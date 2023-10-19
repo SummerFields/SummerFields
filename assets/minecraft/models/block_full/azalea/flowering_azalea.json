@@ -5,7 +5,7 @@
 		"1": "minecraft:block/azalea_leaves",
 		"2": "minecraft:block/azalea_plant",
 		"3": "minecraft:block/flowering_azalea_leaves",
-		"particle": "minecraft:block/azalea_plant"
+		"particle": "#2"
 	},
 	"elements": [
 		{

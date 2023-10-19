@@ -3,7 +3,7 @@
     "ambientocclusion": false,
     "textures": {
         "spruce_door_bottom": "minecraft:block/spruce_door_bottom",
-        "particle": "minecraft:block/spruce_door_bottom"
+        "particle": "#spruce_door_bottom"
     },
     "elements": [
         {   "__comment": "Cube",

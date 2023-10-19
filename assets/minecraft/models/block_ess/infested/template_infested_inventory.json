@@ -4,7 +4,7 @@
 		"4": "minecraft:entity/silverfish",
 		"top": "minecraft:block/variants/stone/cobblestone/cobblestone_top",
 		"side": "minecraft:block/cobblestone",
-		"particle": "minecraft:entity/silverfish"
+		"particle": "#4"
 	},
 	"elements": [
 		{

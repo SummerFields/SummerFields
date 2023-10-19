@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"door_birch_lower": "minecraft:block/birch_door_bottom",
-		"particle": "minecraft:block/birch_door_bottom"
+		"particle": "#door_birch_lower"
 	},
 	"elements": [ 	 
 		{

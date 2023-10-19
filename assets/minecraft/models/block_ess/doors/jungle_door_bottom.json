@@ -3,7 +3,7 @@
     "ambientocclusion": false,
     "textures": {
         "jungle_door_bottom": "minecraft:block/jungle_door_bottom",
-        "particle": "minecraft:block/jungle_door_bottom"
+        "particle": "#jungle_door_bottom"
     },
     "elements": [
         {   "__comment": "Cube",

@@ -1,6 +1,6 @@
 {
     "textures": {
-        "particle": "minecraft:block/sugar_cane",
+        "particle": "#all",
         "all": "minecraft:block/sugar_cane"
     },
     "elements": [

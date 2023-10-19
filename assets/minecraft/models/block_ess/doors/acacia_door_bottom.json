@@ -3,7 +3,7 @@
     "ambientocclusion": false,
     "textures": {
         "acacia_door_bottom": "minecraft:block/acacia_door_bottom",
-        "particle": "minecraft:block/acacia_door_bottom"
+        "particle": "#acacia_door_bottom"
     },
     "elements": [
         {

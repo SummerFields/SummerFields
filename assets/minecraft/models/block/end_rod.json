@@ -3,7 +3,7 @@
 	"parent": "minecraft:block/block",
 	"textures": {
 		"end_rod": "minecraft:block/end_rod",
-		"particle": "minecraft:block/end_rod"
+		"particle": "#end_rod"
 	},
 	"elements": [
 		{

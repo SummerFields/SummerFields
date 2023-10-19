@@ -4,7 +4,7 @@
 	"textures": {
 		"1": "minecraft:variant_ess/trapdoor/jungle_trapdoor_side",
 		"2": "minecraft:block/jungle_trapdoor",
-		"particle": "minecraft:variant_ess/trapdoor/jungle_trapdoor_side"
+		"particle": "#2"
 	},
 	"elements": [
 		{

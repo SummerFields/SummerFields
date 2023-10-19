@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"3_1": "minecraft:block/detector_rail",
-		"particle": "minecraft:block/detector_rail"
+		"particle": "#3_1"
 	},
 	"elements": [
 		{

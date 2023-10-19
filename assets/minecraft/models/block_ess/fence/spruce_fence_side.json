@@ -1,6 +1,7 @@
 {
     "parent": "minecraft:block_ess/fence/custom_fence_side",
     "textures": {
+        "particle": "#texture",
         "texture": "minecraft:variant_ess/fence/spruce_fence"
     }
 }

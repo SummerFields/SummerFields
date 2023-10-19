@@ -3,7 +3,7 @@
   "textures": {
     "bottom": "minecraft:block/beehive_end",
     "front": "minecraft:variant_full/beenest/beehive_front_3",
-    "particle": "minecraft:variant_full/beenest/beehive_side_3",
+    "particle": "#side",
     "side": "minecraft:variant_full/beenest/beehive_side_3",
     "top": "minecraft:block/beehive_end"
   }

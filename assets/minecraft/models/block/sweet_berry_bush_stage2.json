@@ -3,7 +3,7 @@
 	"textures": {
 		"1": "minecraft:block/variants/sweet_berry_bush/sweet_berry_bush_stage0",
 		"2": "minecraft:block/variants/sweet_berry_bush/sweet_berry_bush_stage3",
-		"particle": "minecraft:block/variants/sweet_berry_bush/sweet_berry_bush_stage0"
+		"particle": "#1"
 	},
 	"elements": [
 		{

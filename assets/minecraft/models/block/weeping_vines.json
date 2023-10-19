@@ -3,7 +3,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"5": "minecraft:block/variants/nether_vines/weeping_vines_plant",
-		"particle": "minecraft:block/variants/nether_vines/weeping_vines_plant"
+		"particle": "#5"
 	},
 	"elements": [
 		{

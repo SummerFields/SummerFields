@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block_full/stairs/template_outer_stairs",
 	"textures": {
-		"particle": "minecraft:variant_full/stairs/deepslate_tiles_stair",
+		"particle": "#bottom",
 		"bottom": "minecraft:variant_full/stairs/deepslate_tiles_stair"
 	}
 }

@@ -1,8 +1,19 @@
 {
     "variants": {
-        "facing=north": { "model": "minecraft:block_ess/pumpkin_melon/carved_pumpkin" },
-        "facing=south": { "model": "minecraft:block_ess/pumpkin_melon/carved_pumpkin", "y": 180 },
-        "facing=west":  { "model": "minecraft:block_ess/pumpkin_melon/carved_pumpkin", "y": 270 },
-        "facing=east":  { "model": "minecraft:block_ess/pumpkin_melon/carved_pumpkin", "y": 90 }
+        "facing=north": {
+            "model": "minecraft:block_variant/pumpkin_melon/carved_pumpkin"
+        },
+        "facing=south": {
+            "model": "minecraft:block_variant/pumpkin_melon/carved_pumpkin",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "minecraft:block_variant/pumpkin_melon/carved_pumpkin",
+            "y": 270
+        },
+        "facing=east": {
+            "model": "minecraft:block_variant/pumpkin_melon/carved_pumpkin",
+            "y": 90
+        }
     }
 }

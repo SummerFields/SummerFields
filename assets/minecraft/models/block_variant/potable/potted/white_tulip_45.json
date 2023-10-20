@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block_variant/potable/template_flower_pot_45",
+    "textures": {
+        "particle": "#side",
+        "side": "minecraft:block/white_tulip"
+    }
+}

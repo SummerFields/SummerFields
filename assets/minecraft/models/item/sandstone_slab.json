@@ -1,3 +1,3 @@
 {
-    "parent": "minecraft:block/slab/sandstone_slab_bottom"
+    "parent": "minecraft:block_variant/slabs/sandstone_slab_bottom"
 }

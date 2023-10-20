@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/slab_top",
+    "textures": {
+        "bottom": "minecraft:textures_variant/bricks/mossy_stone_bricks_top_4",
+        "top": "minecraft:textures_variant/bricks/mossy_stone_bricks_top_4",
+        "side": "minecraft:block/mossy_stone_bricks"
+    }
+}

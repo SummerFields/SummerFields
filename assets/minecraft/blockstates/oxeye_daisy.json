@@ -1,0 +1,70 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "minecraft:block_variant/potable/flowers/oxeye_daisy",
+                "y": 0
+            },
+            {
+                "model": "minecraft:block_variant/potable/flowers/oxeye_daisy_22-5",
+                "y": 0
+            },
+            {
+                "model": "minecraft:block_variant/potable/flowers/oxeye_daisy_45",
+                "y": 0
+            },
+            {
+                "model": "minecraft:block_variant/potable/flowers/oxeye_daisy_-22-5",
+                "y": 0
+            },
+            {
+                "model": "minecraft:block_variant/potable/flowers/oxeye_daisy",
+                "y": 90
+            },
+            {
+                "model": "minecraft:block_variant/potable/flowers/oxeye_daisy_22-5",
+                "y": 90
+            },
+            {
+                "model": "minecraft:block_variant/potable/flowers/oxeye_daisy_45",
+                "y": 90
+            },
+            {
+                "model": "minecraft:block_variant/potable/flowers/oxeye_daisy_-22-5",
+                "y": 90
+            },
+            {
+                "model": "minecraft:block_variant/potable/flowers/oxeye_daisy",
+                "y": 180
+            },
+            {
+                "model": "minecraft:block_variant/potable/flowers/oxeye_daisy_22-5",
+                "y": 180
+            },
+            {
+                "model": "minecraft:block_variant/potable/flowers/oxeye_daisy_45",
+                "y": 180
+            },
+            {
+                "model": "minecraft:block_variant/potable/flowers/oxeye_daisy_-22-5",
+                "y": 180
+            },
+            {
+                "model": "minecraft:block_variant/potable/flowers/oxeye_daisy",
+                "y": 270
+            },
+            {
+                "model": "minecraft:block_variant/potable/flowers/oxeye_daisy_22-5",
+                "y": 270
+            },
+            {
+                "model": "minecraft:block_variant/potable/flowers/oxeye_daisy_45",
+                "y": 270
+            },
+            {
+                "model": "minecraft:block_variant/potable/flowers/oxeye_daisy_-22-5",
+                "y": 270
+            }
+        ]
+    }
+}

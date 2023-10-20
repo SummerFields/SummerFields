@@ -1,0 +1,70 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "minecraft:block_variant/potable/fungus/crimson_fungus",
+                "y": 0
+            },
+            {
+                "model": "minecraft:block_variant/potable/fungus/crimson_fungus_22-5",
+                "y": 0
+            },
+            {
+                "model": "minecraft:block_variant/potable/fungus/crimson_fungus_45",
+                "y": 0
+            },
+            {
+                "model": "minecraft:block_variant/potable/fungus/crimson_fungus_-22-5",
+                "y": 0
+            },
+            {
+                "model": "minecraft:block_variant/potable/fungus/crimson_fungus",
+                "y": 90
+            },
+            {
+                "model": "minecraft:block_variant/potable/fungus/crimson_fungus_22-5",
+                "y": 90
+            },
+            {
+                "model": "minecraft:block_variant/potable/fungus/crimson_fungus_45",
+                "y": 90
+            },
+            {
+                "model": "minecraft:block_variant/potable/fungus/crimson_fungus_-22-5",
+                "y": 90
+            },
+            {
+                "model": "minecraft:block_variant/potable/fungus/crimson_fungus",
+                "y": 180
+            },
+            {
+                "model": "minecraft:block_variant/potable/fungus/crimson_fungus_22-5",
+                "y": 180
+            },
+            {
+                "model": "minecraft:block_variant/potable/fungus/crimson_fungus_45",
+                "y": 180
+            },
+            {
+                "model": "minecraft:block_variant/potable/fungus/crimson_fungus_-22-5",
+                "y": 180
+            },
+            {
+                "model": "minecraft:block_variant/potable/fungus/crimson_fungus",
+                "y": 270
+            },
+            {
+                "model": "minecraft:block_variant/potable/fungus/crimson_fungus_22-5",
+                "y": 270
+            },
+            {
+                "model": "minecraft:block_variant/potable/fungus/crimson_fungus_45",
+                "y": 270
+            },
+            {
+                "model": "minecraft:block_variant/potable/fungus/crimson_fungus_-22-5",
+                "y": 270
+            }
+        ]
+    }
+}

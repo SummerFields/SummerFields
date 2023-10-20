@@ -1,3 +1,3 @@
 {
-  "parent": "minecraft:block_full/walls/bricks/deepslate_brick_wall_post"
+    "parent": "minecraft:block_variant/walls/deepslate_brick_inventory"
 }

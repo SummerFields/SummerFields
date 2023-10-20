@@ -1,3 +1,3 @@
 {
-  "parent": "minecraft:block_full/walls/bricks/polished_blackstone_brick_wall_post"
+    "parent": "minecraft:block_variant/walls/polished_blackstone_bricks_inventory"
 }

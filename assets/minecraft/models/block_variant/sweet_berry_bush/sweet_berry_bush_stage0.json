@@ -1,0 +1,408 @@
+{
+    "textures": {
+        "particle": "minecraft:textures_variant/sweet_berry_bush/sweet_berry_bush_stage0"
+    },
+    "elements": [
+        {
+            "from": [
+                4,
+                8,
+                4
+            ],
+            "to": [
+                12,
+                8,
+                12
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "x",
+                "origin": [
+                    9,
+                    8,
+                    9
+                ]
+            },
+            "faces": {
+                "up": {
+                    "uv": [
+                        4,
+                        4,
+                        12,
+                        12
+                    ],
+                    "texture": "#particle"
+                },
+                "down": {
+                    "uv": [
+                        4,
+                        4,
+                        12,
+                        12
+                    ],
+                    "texture": "#particle"
+                }
+            }
+        },
+        {
+            "from": [
+                4,
+                0,
+                12
+            ],
+            "to": [
+                12,
+                8,
+                12
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    10,
+                    6,
+                    12
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        4,
+                        8,
+                        12,
+                        16
+                    ],
+                    "texture": "#particle"
+                },
+                "south": {
+                    "uv": [
+                        4,
+                        8,
+                        12,
+                        16
+                    ],
+                    "texture": "#particle"
+                }
+            }
+        },
+        {
+            "from": [
+                4,
+                0,
+                4
+            ],
+            "to": [
+                12,
+                8,
+                4
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    9,
+                    5,
+                    4
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        4,
+                        8,
+                        12,
+                        16
+                    ],
+                    "texture": "#particle"
+                },
+                "south": {
+                    "uv": [
+                        4,
+                        8,
+                        12,
+                        16
+                    ],
+                    "texture": "#particle"
+                }
+            }
+        },
+        {
+            "from": [
+                4,
+                0,
+                4
+            ],
+            "to": [
+                4,
+                8,
+                12
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    9,
+                    5,
+                    9
+                ]
+            },
+            "faces": {
+                "east": {
+                    "uv": [
+                        4,
+                        8,
+                        12,
+                        16
+                    ],
+                    "texture": "#particle"
+                },
+                "west": {
+                    "uv": [
+                        3,
+                        5,
+                        11,
+                        13
+                    ],
+                    "texture": "#particle"
+                }
+            }
+        },
+        {
+            "from": [
+                12,
+                0,
+                4
+            ],
+            "to": [
+                12,
+                8,
+                12
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    7,
+                    5,
+                    9
+                ]
+            },
+            "faces": {
+                "east": {
+                    "uv": [
+                        4,
+                        8,
+                        12,
+                        16
+                    ],
+                    "texture": "#particle"
+                },
+                "west": {
+                    "uv": [
+                        4,
+                        8,
+                        12,
+                        16
+                    ],
+                    "texture": "#particle"
+                }
+            }
+        },
+        {
+            "from": [
+                5,
+                7,
+                5
+            ],
+            "to": [
+                11,
+                7,
+                11
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "x",
+                "origin": [
+                    8,
+                    7,
+                    8
+                ]
+            },
+            "faces": {
+                "up": {
+                    "uv": [
+                        5,
+                        5,
+                        11,
+                        11
+                    ],
+                    "texture": "#particle"
+                },
+                "down": {
+                    "uv": [
+                        5,
+                        5,
+                        11,
+                        11
+                    ],
+                    "texture": "#particle"
+                }
+            }
+        },
+        {
+            "from": [
+                5,
+                0,
+                5
+            ],
+            "to": [
+                11,
+                7,
+                5
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        5,
+                        4,
+                        11,
+                        11
+                    ],
+                    "texture": "#particle"
+                },
+                "south": {
+                    "uv": [
+                        4,
+                        3,
+                        12,
+                        13
+                    ],
+                    "texture": "#particle"
+                }
+            }
+        },
+        {
+            "from": [
+                5,
+                0,
+                11
+            ],
+            "to": [
+                11,
+                7,
+                11
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    8,
+                    4,
+                    11
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        5,
+                        5,
+                        11,
+                        12
+                    ],
+                    "texture": "#particle"
+                },
+                "south": {
+                    "uv": [
+                        4,
+                        3,
+                        12,
+                        13
+                    ],
+                    "texture": "#particle"
+                }
+            }
+        },
+        {
+            "from": [
+                11,
+                0,
+                5
+            ],
+            "to": [
+                11,
+                7,
+                11
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    8,
+                    4,
+                    8
+                ]
+            },
+            "faces": {
+                "east": {
+                    "uv": [
+                        5,
+                        5,
+                        11,
+                        12
+                    ],
+                    "texture": "#particle"
+                },
+                "west": {
+                    "uv": [
+                        4,
+                        3,
+                        12,
+                        13
+                    ],
+                    "texture": "#particle"
+                }
+            }
+        },
+        {
+            "from": [
+                5,
+                0,
+                5
+            ],
+            "to": [
+                5,
+                7,
+                11
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    8,
+                    4,
+                    8
+                ]
+            },
+            "faces": {
+                "east": {
+                    "uv": [
+                        5,
+                        5,
+                        11,
+                        12
+                    ],
+                    "texture": "#particle"
+                },
+                "west": {
+                    "uv": [
+                        4,
+                        3,
+                        12,
+                        13
+                    ],
+                    "texture": "#particle"
+                }
+            }
+        }
+    ]
+}

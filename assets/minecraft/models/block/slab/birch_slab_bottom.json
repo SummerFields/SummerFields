@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:block/slab/planks_slab_bottom",
-    "textures": {
-        "all": "minecraft:block/birch_planks"
-    }
-}

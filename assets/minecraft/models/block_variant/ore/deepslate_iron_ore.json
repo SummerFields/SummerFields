@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block_variant/ore/template_ore",
+    "textures": {
+        "base": "minecraft:block/deepslate_iron_ore",
+        "glow": "minecraft:textures_variant/ore/deepslate_iron_ore_emission"
+    }
+}

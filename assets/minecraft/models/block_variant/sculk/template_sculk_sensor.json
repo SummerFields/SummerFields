@@ -1,0 +1,464 @@
+{
+    "parent": "minecraft:block/block",
+    "textures": {
+        "particle": "minecraft:block/sculk_sensor_bottom",
+        "bottom": "minecraft:block/sculk_sensor_bottom",
+        "side": "minecraft:block/sculk_sensor_side",
+        "side_amethyst": "minecraft:block/sculk_sensor_side",
+        "tendrils": "minecraft:block/sculk_sensor_tendril_active",
+        "top": "minecraft:block/sculk_sensor_top",
+        "emission": "minecraft:textures_variant/sculk/sculk_vein_emission",
+        "amethyst": "minecraft:textures_variant/empty",
+        "top_amethyst": "minecraft:textures_variant/empty"
+    },
+    "elements": [
+        {
+            "name": "amethyst_in",
+            "from": [
+                0.1,
+                0.1,
+                0.1
+            ],
+            "to": [
+                15.9,
+                7.9,
+                15.9
+            ],
+            "light_emission": 10,
+            "faces": {
+                "south": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        16
+                    ],
+                    "texture": "#top_amethyst",
+                    "cullface": "south"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#top_amethyst"
+                }
+            }
+        },
+        {
+            "name": "sculk",
+            "from": [
+                0,
+                0,
+                0
+            ],
+            "to": [
+                16,
+                8,
+                16
+            ],
+            "light_emission": 2,
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        16
+                    ],
+                    "texture": "#side",
+                    "cullface": "north"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        16
+                    ],
+                    "texture": "#side",
+                    "cullface": "east"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        16
+                    ],
+                    "texture": "#side_amethyst",
+                    "cullface": "south"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        16
+                    ],
+                    "texture": "#side",
+                    "cullface": "west"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#top"
+                },
+                "down": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#bottom",
+                    "cullface": "down"
+                }
+            }
+        },
+        {
+            "name": "emissive",
+            "from": [
+                0,
+                0,
+                0
+            ],
+            "to": [
+                16,
+                8,
+                16
+            ],
+            "light_emission": 10,
+            "faces": {
+                "north": {
+                    "uv": [
+                        16,
+                        8,
+                        0,
+                        0
+                    ],
+                    "rotation": 180,
+                    "texture": "#emission",
+                    "cullface": "north"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        8
+                    ],
+                    "texture": "#emission",
+                    "cullface": "east"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        8
+                    ],
+                    "texture": "#emission",
+                    "cullface": "south"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        8
+                    ],
+                    "texture": "#emission",
+                    "cullface": "west"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#emission"
+                },
+                "down": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#emission",
+                    "cullface": "down"
+                }
+            }
+        },
+        {
+            "name": "tendrils",
+            "from": [
+                -1,
+                8,
+                3
+            ],
+            "to": [
+                7,
+                16,
+                3
+            ],
+            "light_emission": 2,
+            "rotation": {
+                "angle": 45,
+                "axis": "y",
+                "origin": [
+                    3,
+                    12,
+                    3
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        4,
+                        8,
+                        12,
+                        16
+                    ],
+                    "texture": "#tendrils"
+                },
+                "south": {
+                    "uv": [
+                        12,
+                        8,
+                        4,
+                        16
+                    ],
+                    "texture": "#tendrils"
+                }
+            }
+        },
+        {
+            "name": "tendrils",
+            "from": [
+                9,
+                8,
+                3
+            ],
+            "to": [
+                17,
+                16,
+                3
+            ],
+            "light_emission": 2,
+            "rotation": {
+                "angle": -45,
+                "axis": "y",
+                "origin": [
+                    13,
+                    12,
+                    3
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        12,
+                        8,
+                        4,
+                        16
+                    ],
+                    "texture": "#tendrils"
+                },
+                "south": {
+                    "uv": [
+                        4,
+                        8,
+                        12,
+                        16
+                    ],
+                    "texture": "#tendrils"
+                }
+            }
+        },
+        {
+            "name": "tendrils",
+            "from": [
+                9,
+                8,
+                13
+            ],
+            "to": [
+                17,
+                16,
+                13
+            ],
+            "light_emission": 2,
+            "rotation": {
+                "angle": 45,
+                "axis": "y",
+                "origin": [
+                    13,
+                    12,
+                    13
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        12,
+                        8,
+                        4,
+                        16
+                    ],
+                    "texture": "#tendrils"
+                },
+                "south": {
+                    "uv": [
+                        4,
+                        8,
+                        12,
+                        16
+                    ],
+                    "texture": "#tendrils"
+                }
+            }
+        },
+        {
+            "name": "tendrils",
+            "from": [
+                -1,
+                8,
+                13
+            ],
+            "to": [
+                7,
+                16,
+                13
+            ],
+            "light_emission": 2,
+            "rotation": {
+                "angle": -45,
+                "axis": "y",
+                "origin": [
+                    3,
+                    12,
+                    13
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        4,
+                        8,
+                        12,
+                        16
+                    ],
+                    "texture": "#tendrils"
+                },
+                "south": {
+                    "uv": [
+                        12,
+                        8,
+                        4,
+                        16
+                    ],
+                    "texture": "#tendrils"
+                }
+            }
+        },
+        {
+            "name": "amethyst",
+            "from": [
+                0,
+                8,
+                8
+            ],
+            "to": [
+                16,
+                20,
+                8
+            ],
+            "shade": false,
+            "light_emission": 14,
+            "rotation": {
+                "angle": 45,
+                "axis": "y",
+                "origin": [
+                    8,
+                    9,
+                    8
+                ],
+                "rescale": true
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        4,
+                        16,
+                        16
+                    ],
+                    "texture": "#amethyst"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        4,
+                        16,
+                        16
+                    ],
+                    "texture": "#amethyst"
+                }
+            }
+        },
+        {
+            "name": "amethyst",
+            "from": [
+                8,
+                8,
+                0
+            ],
+            "to": [
+                8,
+                20,
+                16
+            ],
+            "shade": false,
+            "light_emission": 14,
+            "rotation": {
+                "angle": 45,
+                "axis": "y",
+                "origin": [
+                    8,
+                    9,
+                    8
+                ],
+                "rescale": true
+            },
+            "faces": {
+                "east": {
+                    "uv": [
+                        0,
+                        4,
+                        16,
+                        16
+                    ],
+                    "texture": "#amethyst"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        4,
+                        16,
+                        16
+                    ],
+                    "texture": "#amethyst"
+                }
+            }
+        }
+    ]
+}

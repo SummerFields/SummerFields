@@ -1,0 +1,9 @@
+{
+   "parent": "minecraft:block_variant/doors/dark_oak_door_top",
+   "ambientocclusion": false,
+    "textures": {
+        "2": "minecraft:textures_variant/doors/crimson_door_side",
+        "particle": "#top",
+        "top": "minecraft:block/crimson_door_top"
+    }
+}

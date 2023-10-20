@@ -1,16 +1,94 @@
 {
-  "multipart": [
-    {   "apply": [
-        { "model": "minecraft:block_full/pot/potted_mangrove_propagule" }
-      ]
-    },
-    {   "apply": [
-        { "model": "minecraft:block_full/pot/pot_0" },
-        { "model": "minecraft:block_full/pot/pot_1" },
-        { "model": "minecraft:block_full/pot/pot_2" },
-        { "model": "minecraft:block_full/pot/pot_3" },
-        { "model": "minecraft:block_full/pot/pot_4" }
-      ]
-    } 
-  ]
+    "multipart": [
+        {
+            "apply": [
+                {
+                    "model": "minecraft:block_variant/potable/potted/mangrove_propagule",
+                    "y": 0
+                },
+                {
+                    "model": "minecraft:block_variant/potable/potted/mangrove_propagule_22-5",
+                    "y": 0
+                },
+                {
+                    "model": "minecraft:block_variant/potable/potted/mangrove_propagule_45",
+                    "y": 0
+                },
+                {
+                    "model": "minecraft:block_variant/potable/potted/mangrove_propagule_-22-5",
+                    "y": 0
+                },
+                {
+                    "model": "minecraft:block_variant/potable/potted/mangrove_propagule",
+                    "y": 90
+                },
+                {
+                    "model": "minecraft:block_variant/potable/potted/mangrove_propagule_22-5",
+                    "y": 90
+                },
+                {
+                    "model": "minecraft:block_variant/potable/potted/mangrove_propagule_45",
+                    "y": 90
+                },
+                {
+                    "model": "minecraft:block_variant/potable/potted/mangrove_propagule_-22-5",
+                    "y": 90
+                },
+                {
+                    "model": "minecraft:block_variant/potable/potted/mangrove_propagule",
+                    "y": 180
+                },
+                {
+                    "model": "minecraft:block_variant/potable/potted/mangrove_propagule_22-5",
+                    "y": 180
+                },
+                {
+                    "model": "minecraft:block_variant/potable/potted/mangrove_propagule_45",
+                    "y": 180
+                },
+                {
+                    "model": "minecraft:block_variant/potable/potted/mangrove_propagule_-22-5",
+                    "y": 180
+                },
+                {
+                    "model": "minecraft:block_variant/potable/potted/mangrove_propagule",
+                    "y": 270
+                },
+                {
+                    "model": "minecraft:block_variant/potable/potted/mangrove_propagule_22-5",
+                    "y": 270
+                },
+                {
+                    "model": "minecraft:block_variant/potable/potted/mangrove_propagule_45",
+                    "y": 270
+                },
+                {
+                    "model": "minecraft:block_variant/potable/potted/mangrove_propagule_-22-5",
+                    "y": 270
+                }
+            ]
+        },
+        {
+            "apply": [
+                {
+                    "model": "minecraft:block/flower_pot"
+                },
+                {
+                    "model": "minecraft:block_variant/potable/pot/pot_0"
+                },
+                {
+                    "model": "minecraft:block_variant/potable/pot/pot_1"
+                },
+                {
+                    "model": "minecraft:block_variant/potable/pot/pot_2"
+                },
+                {
+                    "model": "minecraft:block_variant/potable/pot/pot_3"
+                },
+                {
+                    "model": "minecraft:block_variant/potable/pot/pot_4"
+                }
+            ]
+        }
+    ]
 }

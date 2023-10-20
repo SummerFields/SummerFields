@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block_variant/walls/bricks/template_wall_side",
+    "textures": {
+        "1": "minecraft:textures_variant/bricks/stone_bricks_top_1",
+        "wall": "minecraft:block/stone_bricks"
+    }
+}

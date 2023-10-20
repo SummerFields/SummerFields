@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block_ess/trapdoor/template_trapdoor_bottom",
-    "textures": {
-        "texture": "minecraft:block/iron_trapdoor",
-        "side": "minecraft:variant_ess/trapdoor/iron_trapdoor_side"
-    }
-}

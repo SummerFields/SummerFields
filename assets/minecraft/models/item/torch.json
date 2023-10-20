@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/torch",
+  "display": {
+      "gui": {
+          "rotation": [ 30, 135, 0 ],
+          "translation": [ 0, 3, 0 ]
+      }
+  }
+}

@@ -1,0 +1,272 @@
+{
+    "parent": "minecraft:block/block",
+    "textures": {
+        "silverfish": "minecraft:entity/silverfish",
+        "particle": "minecraft:entity/silverfish"
+    },
+    "elements": [
+        {
+            "from": [
+                10,
+                16,
+                -3
+            ],
+            "to": [
+                16,
+                20,
+                1
+            ],
+            "rotation": {
+                "angle": -22.5,
+                "axis": "y",
+                "origin": [
+                    2,
+                    0,
+                    -4
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        0.5,
+                        1,
+                        1.25,
+                        2
+                    ],
+                    "texture": "#silverfish"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        1,
+                        0.5,
+                        2
+                    ],
+                    "texture": "#silverfish"
+                },
+                "west": {
+                    "uv": [
+                        1.25,
+                        1,
+                        1.75,
+                        2
+                    ],
+                    "texture": "#silverfish"
+                },
+                "up": {
+                    "uv": [
+                        0.5,
+                        0,
+                        1.25,
+                        1
+                    ],
+                    "rotation": 180,
+                    "texture": "#silverfish"
+                }
+            }
+        },
+        {
+            "from": [
+                9,
+                15,
+                1
+            ],
+            "to": [
+                17,
+                21,
+                5
+            ],
+            "rotation": {
+                "angle": -22.5,
+                "axis": "y",
+                "origin": [
+                    2,
+                    0,
+                    -4
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        0.75,
+                        6,
+                        2.25,
+                        8
+                    ],
+                    "texture": "#silverfish"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        6,
+                        0.75,
+                        8
+                    ],
+                    "texture": "#silverfish"
+                },
+                "south": {
+                    "uv": [
+                        3,
+                        6,
+                        4.5,
+                        8
+                    ],
+                    "texture": "#silverfish"
+                },
+                "west": {
+                    "uv": [
+                        2.25,
+                        6,
+                        3,
+                        8
+                    ],
+                    "texture": "#silverfish"
+                },
+                "up": {
+                    "uv": [
+                        0.75,
+                        4.5,
+                        2.25,
+                        6
+                    ],
+                    "rotation": 180,
+                    "texture": "#silverfish"
+                }
+            }
+        },
+        {
+            "from": [
+                11,
+                16,
+                5
+            ],
+            "to": [
+                15,
+                20,
+                11
+            ],
+            "rotation": {
+                "angle": -22.5,
+                "axis": "y",
+                "origin": [
+                    2,
+                    0,
+                    -4
+                ]
+            },
+            "faces": {
+                "east": {
+                    "uv": [
+                        0,
+                        9.5,
+                        0.75,
+                        11
+                    ],
+                    "texture": "#silverfish"
+                },
+                "south": {
+                    "uv": [
+                        2.25,
+                        9.5,
+                        3,
+                        11
+                    ],
+                    "texture": "#silverfish"
+                },
+                "west": {
+                    "uv": [
+                        1.5,
+                        9.5,
+                        2.25,
+                        11
+                    ],
+                    "texture": "#silverfish"
+                },
+                "up": {
+                    "uv": [
+                        0.75,
+                        8,
+                        1.5,
+                        9.5
+                    ],
+                    "rotation": 180,
+                    "texture": "#silverfish"
+                }
+            }
+        }
+    ],
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [
+                75,
+                45,
+                0
+            ],
+            "translation": [
+                0,
+                2.5,
+                0
+            ],
+            "scale": [
+                0.375,
+                0.375,
+                0.375
+            ]
+        },
+        "firstperson_righthand": {
+            "rotation": [
+                0,
+                135,
+                0
+            ],
+            "scale": [
+                0.4,
+                0.4,
+                0.4
+            ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [
+                0,
+                135,
+                0
+            ],
+            "scale": [
+                0.4,
+                0.4,
+                0.4
+            ]
+        },
+        "ground": {
+            "translation": [
+                0,
+                3,
+                0
+            ],
+            "scale": [
+                0.25,
+                0.25,
+                0.25
+            ]
+        },
+        "gui": {
+            "rotation": [
+                30,
+                225,
+                0
+            ],
+            "scale": [
+                0.625,
+                0.625,
+                0.625
+            ]
+        },
+        "fixed": {
+            "scale": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        }
+    }
+}

@@ -1,3 +1,3 @@
 {
-    "parent": "minecraft:block/slab/smooth_quartz_slab_bottom"
+    "parent": "minecraft:block_variant/slabs/smooth_quartz_slab_bottom"
 }

@@ -1,0 +1,26 @@
+{
+    "textures": {
+        "texture": "minecraft:textures_variant/mushroom/red_mushroom_block1",
+        "particle": "minecraft:textures_variant/mushroom/red_mushroom_block1"
+    },
+    "elements": [
+        {
+            "from": [
+                0,
+                0,
+                0
+            ],
+            "to": [
+                16,
+                16,
+                0
+            ],
+            "faces": {
+                "north": {
+                    "texture": "#texture",
+                    "cullface": "north"
+                }
+            }
+        }
+    ]
+}

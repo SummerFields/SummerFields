@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block_variant/bricks/innertop",
+    "textures": {
+        "particle": "#front",
+        "front": "minecraft:block/deepslate_bricks",
+        "innertop": "minecraft:textures_variant/bricks/deepslate_bricks_top",
+        "other": "minecraft:textures_variant/bricks/deepslate_bricks_other"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block_variant/potable/template_flower_16_pot",
+    "textures": {
+        "particle": "#side",
+        "side": "minecraft:textures_variant/potable/fern"
+    }
+}

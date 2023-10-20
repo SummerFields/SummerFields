@@ -1,7 +1,7 @@
 {
-  "variants": {
-    "": {
-      "model": "minecraft:block_full/azalea/flowering_azalea"
+    "variants": {
+        "": {
+            "model": "minecraft:block_variant/potable/azalea/flowering_azalea"
+        }
     }
-  }
 }

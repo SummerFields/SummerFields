@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:block_variant/sculk/template_sculk_sensor",
+    "textures": {
+        "particle": "minecraft:block/sculk_sensor_bottom",
+        "bottom": "minecraft:block/sculk_sensor_bottom",
+        "side": "minecraft:block/sculk_sensor_side",
+        "side_amethyst": "minecraft:block/sculk_sensor_side",
+        "tendrils": "minecraft:block/sculk_sensor_tendril_active",
+        "top": "minecraft:block/sculk_sensor_top",
+        "emission": "minecraft:textures_variant/sculk/sculk_vein_emission",
+        "amethyst": "minecraft:textures_variant/empty",
+        "top_amethyst": "minecraft:textures_variant/empty"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block_variant/walls/template_inventory",
+    "textures": {
+        "front": "block/cobbled_deepslate",
+        "top": "minecraft:textures_variant/bricks/cobbled_deepslate_top",
+        "innertop": "minecraft:textures_variant/bricks/cobbled_deepslate_top",
+        "other": "#front"
+    }
+}

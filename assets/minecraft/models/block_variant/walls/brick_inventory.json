@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block_variant/walls/template_inventory",
+    "textures": {
+        "front": "minecraft:block/bricks",
+        "top": "minecraft:textures_variant/walls/bricks_top",
+        "innertop": "minecraft:textures_variant/walls/bricks_inner_top",
+        "other": "minecraft:textures_variant/walls/bricks_other"
+    }
+}

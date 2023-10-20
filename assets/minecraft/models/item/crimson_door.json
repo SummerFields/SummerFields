@@ -1,7 +1,3 @@
 {
-    "parent": "minecraft:item/door_inventory",
-    "textures": {
-        "bottom": "minecraft:block/crimson_door_bottom",
-        "top"   : "minecraft:block/crimson_door_top"
-    }
+    "parent": "minecraft:block_variant/doors/crimson_door_inventory"
 }

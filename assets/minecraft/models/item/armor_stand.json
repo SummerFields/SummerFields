@@ -1,15 +1,39 @@
 {
-    "parent": "minecraft:block_ess/armorstand/armorstand_inventory",
+    "parent": "minecraft:block_variant/armorstand/armorstand_inventory",
     "display": {
         "thirdperson_righthand": {
-            "rotation"   : [ 0, 90, 0 ],
-            "translation": [ 0,  0, 0 ],
-            "scale"      : [ 1,  1, 1 ]
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "translation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
         },
         "firstperson_righthand": {
-            "rotation": [ -45, 90, 0 ],
-            "translation": [ 0, -3, -6 ],
-            "scale": [ 1.5, 1.5, 1.5 ]
+            "rotation": [
+                -45,
+                90,
+                0
+            ],
+            "translation": [
+                0,
+                -3,
+                -6
+            ],
+            "scale": [
+                1.5,
+                1.5,
+                1.5
+            ]
         }
     }
 }

@@ -1,22 +1,15 @@
 {
     "variants": {
-        "lit=false": [
-            { "model": "minecraft:block/redstone_ore" },
-            { "model": "minecraft:block/random/ore/redstone/redstone_ore1" },
-            { "model": "minecraft:block/random/ore/redstone/redstone_ore2" },
-            { "model": "minecraft:block/random/ore/redstone/redstone_ore3" },
-            { "model": "minecraft:block/random/ore/redstone/redstone_ore4" },
-            { "model": "minecraft:block/random/ore/redstone/redstone_ore5" },
-            { "model": "minecraft:block/random/ore/redstone/redstone_ore6" }
-        ],
-        "lit=true": [
-            { "model": "minecraft:block/redstone_ore" },
-            { "model": "minecraft:block/random/ore/redstone/redstone_ore1" },
-            { "model": "minecraft:block/random/ore/redstone/redstone_ore2" },
-            { "model": "minecraft:block/random/ore/redstone/redstone_ore3" },
-            { "model": "minecraft:block/random/ore/redstone/redstone_ore4" },
-            { "model": "minecraft:block/random/ore/redstone/redstone_ore5" },
-            { "model": "minecraft:block/random/ore/redstone/redstone_ore6" }
+        "": [
+            {
+                "model": "minecraft:block_variant/ore/redstone_ore_1"
+            },
+            {
+                "model": "minecraft:block_variant/ore/redstone_ore_2"
+            },
+            {
+                "model": "minecraft:block_variant/ore/redstone_ore_3"
+            }
         ]
     }
 }

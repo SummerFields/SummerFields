@@ -1,11 +1,21 @@
 {
-  "variants": {
-    "": [
-            { "model": "minecraft:block/target" },
-            { "model": "minecraft:block/target" },
-            { "model": "minecraft:block/target" },
-            { "model": "minecraft:block/target" },
-            { "model": "minecraft:block/target2" }
+    "variants": {
+        "": [
+            {
+                "model": "minecraft:block/target"
+            },
+            {
+                "model": "minecraft:block/target"
+            },
+            {
+                "model": "minecraft:block/target"
+            },
+            {
+                "model": "minecraft:block/target"
+            },
+            {
+                "model": "minecraft:block_variant/target/target2"
+            }
         ]
-  }
+    }
 }

@@ -1,0 +1,194 @@
+{
+    "multipart": [
+        {
+            "when": {
+                "north": "false",
+                "east": "false",
+                "south": "false",
+                "west": "false"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/glass/yellow_stained_glass_pane_post"
+            }
+        },
+        {
+            "when": {
+                "north": "true",
+                "east": "true",
+                "south": "true",
+                "west": "true"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/glass/yellow_stained_glass_pane_forside"
+            }
+        },
+        {
+            "when": {
+                "north": "true",
+                "east": "false",
+                "south": "false",
+                "west": "false"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/glass/yellow_stained_glass_pane_side"
+            }
+        },
+        {
+            "when": {
+                "north": "false",
+                "east": "true",
+                "south": "false",
+                "west": "false"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/glass/yellow_stained_glass_pane_side",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "north": "false",
+                "east": "false",
+                "south": "true",
+                "west": "false"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/glass/yellow_stained_glass_pane_side",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "north": "false",
+                "east": "false",
+                "south": "false",
+                "west": "true"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/glass/yellow_stained_glass_pane_side",
+                "y": 270
+            }
+        },
+        {
+            "when": {
+                "north": "true",
+                "east": "false",
+                "south": "true",
+                "west": "false"
+            },
+            "apply": [
+                {
+                    "model": "minecraft:block_variant/glass/yellow_stained_glass_pane_twoside"
+                }
+            ]
+        },
+        {
+            "when": {
+                "north": "false",
+                "east": "true",
+                "south": "false",
+                "west": "true"
+            },
+            "apply": [
+                {
+                    "model": "minecraft:block_variant/glass/yellow_stained_glass_pane_twoside",
+                    "y": 90
+                }
+            ]
+        },
+        {
+            "when": {
+                "north": "true",
+                "east": "true",
+                "south": "false",
+                "west": "false"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/glass/yellow_stained_glass_pane_angle"
+            }
+        },
+        {
+            "when": {
+                "north": "false",
+                "east": "true",
+                "south": "true",
+                "west": "false"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/glass/yellow_stained_glass_pane_angle",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "north": "false",
+                "east": "false",
+                "south": "true",
+                "west": "true"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/glass/yellow_stained_glass_pane_angle",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "north": "true",
+                "east": "false",
+                "south": "false",
+                "west": "true"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/glass/yellow_stained_glass_pane_angle",
+                "y": 270
+            }
+        },
+        {
+            "when": {
+                "north": "true",
+                "east": "true",
+                "south": "true",
+                "west": "false"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/glass/yellow_stained_glass_pane_threeside"
+            }
+        },
+        {
+            "when": {
+                "north": "false",
+                "east": "true",
+                "south": "true",
+                "west": "true"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/glass/yellow_stained_glass_pane_threeside",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "north": "true",
+                "east": "false",
+                "south": "true",
+                "west": "true"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/glass/yellow_stained_glass_pane_threeside",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "north": "true",
+                "east": "true",
+                "south": "false",
+                "west": "true"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/glass/yellow_stained_glass_pane_threeside",
+                "y": 270
+            }
+        }
+    ]
+}

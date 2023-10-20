@@ -1,0 +1,33 @@
+{
+    "textures": {
+        "back": "minecraft:textures_variant/bricks/stone_bricks_top_3",
+        "particle": "#back"
+    },
+    "elements": [
+        {
+            "name": "back",
+            "from": [
+                0,
+                0,
+                0
+            ],
+            "to": [
+                16,
+                0,
+                16
+            ],
+            "faces": {
+                "down": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#back",
+                    "cullface": "down"
+                }
+            }
+        }
+    ]
+}

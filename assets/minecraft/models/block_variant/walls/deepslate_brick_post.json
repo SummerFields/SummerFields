@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block_variant/bricks/template_post",
+    "textures": {
+        "post": "minecraft:textures_variant/bricks/deepslate_bricks_post",
+        "particle": "#post"
+    }
+}

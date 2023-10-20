@@ -1,0 +1,10 @@
+{
+    "parent": "minecraft:block_variant/bricks/template_side",
+    "textures": {
+        "particle": "#front",
+        "front": "minecraft:block/end_stone_bricks",
+        "top": "minecraft:textures_variant/bricks/end_stone_bricks_top",
+        "innertop": "minecraft:textures_variant/bricks/end_stone_bricks_inner_top",
+        "other": "minecraft:textures_variant/bricks/end_stone_bricks_other"
+    }
+}

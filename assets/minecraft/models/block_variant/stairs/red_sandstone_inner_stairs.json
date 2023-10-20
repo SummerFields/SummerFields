@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block_variant/stairs/template_inner_stairs",
+    "textures": {
+        "0": "minecraft:textures_variant/stairs/red_sandstone_stair",
+        "particle": "minecraft:textures_variant/stairs/red_sandstone_stair"
+    }
+}

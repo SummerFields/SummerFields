@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block_variant/stairs/template_stairs",
+    "textures": {
+        "3": "minecraft:textures_variant/stairs/deepslate_tiles_stair",
+        "particle": "minecraft:textures_variant/stairs/deepslate_tiles_stair"
+    }
+}

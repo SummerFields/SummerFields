@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block_variant/fence/custom_fence_side",
+    "textures": {
+        "particle": "#texture",
+        "texture": "minecraft:textures_variant/fence/mangrove_fence"
+    }
+}

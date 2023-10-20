@@ -1,0 +1,100 @@
+{
+    "multipart": [
+        {
+            "when": {
+                "facing": "down",
+                "enabled": "true"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/hopper/hopper"
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "enabled": "true"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/hopper/hopper_side",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "enabled": "true"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/hopper/hopper_side"
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "enabled": "true"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/hopper/hopper_side",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "enabled": "true"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/hopper/hopper_side",
+                "y": 270
+            }
+        },
+        {
+            "when": {
+                "facing": "down",
+                "enabled": "false"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/hopper/hopper_close"
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "enabled": "false"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/hopper/hopper_side_close",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "enabled": "false"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/hopper/hopper_side_close"
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "enabled": "false"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/hopper/hopper_side_close",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "enabled": "false"
+            },
+            "apply": {
+                "model": "minecraft:block_variant/hopper/hopper_side_close",
+                "y": 270
+            }
+        }
+    ]
+}

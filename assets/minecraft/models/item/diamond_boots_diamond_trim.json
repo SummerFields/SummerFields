@@ -1,7 +1,7 @@
 {
-  "parent": "minecraft:block_ess/armor/template_boots",
-  "textures": {
-    "layer0": "minecraft:models/armor/diamond_layer_1",
-    "layer2": "minecraft:trims/models/armor/wayfinder_diamond_darker"
-  }
+    "parent": "minecraft:block_variant/armor/template_boots",
+    "textures": {
+        "layer0": "minecraft:models/armor/diamond_layer_1",
+        "layer2": "minecraft:trims/models/armor/wayfinder_diamond_darker"
+    }
 }

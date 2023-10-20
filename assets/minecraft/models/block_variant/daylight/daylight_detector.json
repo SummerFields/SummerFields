@@ -1,0 +1,108 @@
+{
+    "parent": "minecraft:block/block",
+    "textures": {
+        "particle": "minecraft:block/daylight_detector_top",
+        "top": "minecraft:block/daylight_detector_top",
+        "bottom": "minecraft:textures_variant/daylight_detector/daylight_detector_bottom",
+        "side": "minecraft:block/daylight_detector_side"
+    },
+    "elements": [
+        {
+            "from": [
+                0,
+                0,
+                0
+            ],
+            "to": [
+                16,
+                6,
+                16
+            ],
+            "faces": {
+                "down": {
+                    "texture": "#bottom",
+                    "cullface": "down"
+                },
+                "up": {
+                    "texture": "#top"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        10,
+                        16,
+                        16
+                    ],
+                    "texture": "#side",
+                    "cullface": "west"
+                },
+                "north": {
+                    "uv": [
+                        0,
+                        10,
+                        16,
+                        16
+                    ],
+                    "texture": "#side",
+                    "cullface": "north"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        10,
+                        16,
+                        16
+                    ],
+                    "texture": "#side",
+                    "cullface": "south"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        10,
+                        16,
+                        16
+                    ],
+                    "texture": "#side",
+                    "cullface": "east"
+                }
+            }
+        }
+    ],
+    "display": {
+        "gui": {
+            "rotation": [
+                30,
+                225,
+                0
+            ],
+            "translation": [
+                0,
+                3,
+                0
+            ],
+            "scale": [
+                0.625,
+                0.625,
+                0.625
+            ]
+        },
+        "fixed": {
+            "rotation": [
+                -90,
+                0,
+                0
+            ],
+            "translation": [
+                0,
+                0,
+                -5
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        }
+    }
+}

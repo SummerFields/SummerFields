@@ -1,7 +1,7 @@
 {
-  "parent": "minecraft:block_ess/armor/template_leggings",
-  "textures": {
-	"layer0": "minecraft:models/armor/netherite_layer_2",
-    "layer2": "minecraft:trims/models/armor/wayfinder_leggings_emerald"
-  }
+    "parent": "minecraft:block_variant/armor/template_leggings",
+    "textures": {
+        "layer0": "minecraft:models/armor/netherite_layer_2",
+        "layer2": "minecraft:trims/models/armor/wayfinder_leggings_emerald"
+    }
 }

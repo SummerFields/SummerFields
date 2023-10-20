@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block_variant/walls/template_simple_post",
+    "textures": {
+        "top": "minecraft:textures_variant/bricks/mossy_cobblestone_top",
+        "post": "minecraft:block/mossy_cobblestone"
+    }
+}

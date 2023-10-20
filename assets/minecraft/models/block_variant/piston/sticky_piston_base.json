@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/piston_extended",
+    "textures": {
+        "particle": "#bottom",
+        "bottom": "minecraft:textures_variant/piston/sticky_piston_bottom",
+        "side": "minecraft:textures_variant/piston/sticky_piston_side",
+        "inside": "minecraft:block/piston_inner"
+    }
+}

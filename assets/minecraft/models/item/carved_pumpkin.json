@@ -1,9 +1,17 @@
 {
-    "parent": "minecraft:block_ess/pumpkin_melon/carved_pumpkin",
+    "parent": "minecraft:block_variant/pumpkin_melon/carved_pumpkin",
     "display": {
         "gui": {
-            "rotation": [ 30, 225, 0 ],
-            "scale": [ 0.6, 0.6, 0.6 ]
+            "rotation": [
+                30,
+                225,
+                0
+            ],
+            "scale": [
+                0.6,
+                0.6,
+                0.6
+            ]
         }
     }
 }

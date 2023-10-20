@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/template_custom_fence_gate_open",
+    "textures": {
+        "particle": "#texture",
+        "texture": "minecraft:textures_variant/fence/dark_oak_fence_gate"
+    }
+}

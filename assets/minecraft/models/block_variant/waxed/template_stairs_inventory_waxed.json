@@ -1,0 +1,164 @@
+{
+    "parent": "minecraft:block/block",
+    "textures": {
+        "particle": "#waxed",
+        "waxed": "minecraft:textures_variant/waxed/block_waxed"
+    },
+    "elements": [
+        {
+            "from": [
+                -0.1,
+                -0.1,
+                -0.1
+            ],
+            "to": [
+                16.1,
+                8.1,
+                16.1
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    8,
+                    12,
+                    12
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        16
+                    ],
+                    "texture": "#waxed",
+                    "cullface": "north"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        16
+                    ],
+                    "texture": "#waxed",
+                    "cullface": "east"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        16
+                    ],
+                    "texture": "#waxed",
+                    "cullface": "south"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        16
+                    ],
+                    "texture": "#waxed",
+                    "cullface": "west"
+                },
+                "down": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#waxed",
+                    "cullface": "down"
+                }
+            }
+        },
+        {
+            "from": [
+                -0.1,
+                7.9,
+                7.9
+            ],
+            "to": [
+                16.1,
+                16.1,
+                16.1
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    8,
+                    12,
+                    12
+                ]
+            },
+            "faces": {
+                "east": {
+                    "uv": [
+                        0,
+                        0,
+                        8.2,
+                        8.2
+                    ],
+                    "texture": "#waxed"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        8
+                    ],
+                    "texture": "#waxed",
+                    "cullface": "north"
+                },
+                "west": {
+                    "uv": [
+                        8,
+                        0,
+                        16,
+                        8
+                    ],
+                    "texture": "#waxed",
+                    "cullface": "east"
+                },
+                "up": {
+                    "uv": [
+                        7.8,
+                        16,
+                        16,
+                        0
+                    ],
+                    "rotation": 90,
+                    "texture": "#waxed",
+                    "cullface": "up"
+                }
+            }
+        }
+    ],
+    "display": {
+        "fixed": {
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "translation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        }
+    }
+}

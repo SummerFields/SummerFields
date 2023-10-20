@@ -1,3 +1,3 @@
 {
-    "parent": "minecraft:block/slab/petrified_oak_slab_bottom"
+    "parent": "minecraft:block_variant/slabs/petrified_oak_slab_bottom"
 }

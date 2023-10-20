@@ -1,0 +1,300 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "#flowerbed",
+        "flowerbed": "minecraft:block/pink_petals",
+        "stem": "minecraft:block/pink_petals_stem"
+    },
+    "elements": [
+        {
+            "from": [
+                8,
+                2,
+                8
+            ],
+            "to": [
+                16,
+                2,
+                16
+            ],
+            "faces": {
+                "up": {
+                    "uv": [
+                        8,
+                        8,
+                        16,
+                        16
+                    ],
+                    "texture": "#flowerbed"
+                },
+                "down": {
+                    "uv": [
+                        8,
+                        16,
+                        16,
+                        8
+                    ],
+                    "texture": "#flowerbed"
+                }
+            }
+        },
+        {
+            "from": [
+                12.2,
+                0,
+                -0.4
+            ],
+            "to": [
+                12.2,
+                2,
+                0.1
+            ],
+            "rotation": {
+                "angle": -45,
+                "axis": "y",
+                "origin": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "faces": {
+                "east": {
+                    "uv": [
+                        0,
+                        4.5,
+                        0.5,
+                        6.5
+                    ],
+                    "texture": "#stem",
+                    "tintindex": 1
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        4.5,
+                        0.5,
+                        6.5
+                    ],
+                    "texture": "#stem",
+                    "tintindex": 1
+                }
+            }
+        },
+        {
+            "from": [
+                11.95,
+                0,
+                -0.15
+            ],
+            "to": [
+                12.45,
+                2,
+                -0.15
+            ],
+            "rotation": {
+                "angle": -45,
+                "axis": "y",
+                "origin": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        4.5,
+                        0.5,
+                        6.5
+                    ],
+                    "texture": "#stem",
+                    "tintindex": 1
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        4.5,
+                        0.5,
+                        6.5
+                    ],
+                    "texture": "#stem",
+                    "tintindex": 1
+                }
+            }
+        },
+        {
+            "from": [
+                16.2,
+                0,
+                -1.9
+            ],
+            "to": [
+                16.7,
+                2,
+                -1.9
+            ],
+            "rotation": {
+                "angle": -45,
+                "axis": "y",
+                "origin": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        4.5,
+                        0.5,
+                        6.5
+                    ],
+                    "texture": "#stem",
+                    "tintindex": 1
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        4.5,
+                        0.5,
+                        6.5
+                    ],
+                    "texture": "#stem",
+                    "tintindex": 1
+                }
+            }
+        },
+        {
+            "from": [
+                16.45,
+                0,
+                -2.15
+            ],
+            "to": [
+                16.45,
+                2,
+                -1.65
+            ],
+            "rotation": {
+                "angle": -45,
+                "axis": "y",
+                "origin": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "faces": {
+                "east": {
+                    "uv": [
+                        0,
+                        4.5,
+                        0.5,
+                        6.5
+                    ],
+                    "texture": "#stem",
+                    "tintindex": 1
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        4.5,
+                        0.5,
+                        6.5
+                    ],
+                    "texture": "#stem",
+                    "tintindex": 1
+                }
+            }
+        },
+        {
+            "from": [
+                18.45,
+                0,
+                1.35
+            ],
+            "to": [
+                18.95,
+                2,
+                1.35
+            ],
+            "rotation": {
+                "angle": -45,
+                "axis": "y",
+                "origin": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        4.5,
+                        0.5,
+                        6.5
+                    ],
+                    "texture": "#stem",
+                    "tintindex": 1
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        4.5,
+                        0.5,
+                        6.5
+                    ],
+                    "texture": "#stem",
+                    "tintindex": 1
+                }
+            }
+        },
+        {
+            "from": [
+                18.7,
+                0,
+                1.1
+            ],
+            "to": [
+                18.7,
+                2,
+                1.6
+            ],
+            "rotation": {
+                "angle": -45,
+                "axis": "y",
+                "origin": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "faces": {
+                "east": {
+                    "uv": [
+                        0,
+                        4.5,
+                        0.5,
+                        6.5
+                    ],
+                    "texture": "#stem",
+                    "tintindex": 1
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        4.5,
+                        0.5,
+                        6.5
+                    ],
+                    "texture": "#stem",
+                    "tintindex": 1
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block_variant/stairs/template_side",
+    "textures": {
+        "back": "minecraft:block/bricks",
+        "particle": "#back"
+    }
+}

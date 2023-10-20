@@ -1,36 +1,100 @@
 {
     "variants": {
-        "inverted=false,power=0": { "model": "minecraft:block/daylight/daylight_detector" },
-        "inverted=false,power=1": { "model": "minecraft:block/daylight/daylight_detector" },
-        "inverted=false,power=2": { "model": "minecraft:block/daylight/daylight_detector" },
-        "inverted=false,power=3": { "model": "minecraft:block/daylight/daylight_detector" },
-        "inverted=false,power=4": { "model": "minecraft:block/daylight/daylight_detector" },
-        "inverted=false,power=5": { "model": "minecraft:block/daylight/daylight_detector" },
-        "inverted=false,power=6": { "model": "minecraft:block/daylight/daylight_detector" },
-        "inverted=false,power=7": { "model": "minecraft:block/daylight/daylight_detector" },
-        "inverted=false,power=8": { "model": "minecraft:block/daylight/daylight_detector" },
-        "inverted=false,power=9": { "model": "minecraft:block/daylight/daylight_detector" },
-        "inverted=false,power=10": { "model": "minecraft:block/daylight/daylight_detector" },
-        "inverted=false,power=11": { "model": "minecraft:block/daylight/daylight_detector" },
-        "inverted=false,power=12": { "model": "minecraft:block/daylight/daylight_detector" },
-        "inverted=false,power=13": { "model": "minecraft:block/daylight/daylight_detector" },
-        "inverted=false,power=14": { "model": "minecraft:block/daylight/daylight_detector" },
-        "inverted=false,power=15": { "model": "minecraft:block/daylight/daylight_detector" },
-        "inverted=true,power=0": { "model": "minecraft:block/daylight/daylight_detector_inverted" },
-        "inverted=true,power=1": { "model": "minecraft:block/daylight/daylight_detector_inverted" },
-        "inverted=true,power=2": { "model": "minecraft:block/daylight/daylight_detector_inverted" },
-        "inverted=true,power=3": { "model": "minecraft:block/daylight/daylight_detector_inverted" },
-        "inverted=true,power=4": { "model": "minecraft:block/daylight/daylight_detector_inverted" },
-        "inverted=true,power=5": { "model": "minecraft:block/daylight/daylight_detector_inverted" },
-        "inverted=true,power=6": { "model": "minecraft:block/daylight/daylight_detector_inverted" },
-        "inverted=true,power=7": { "model": "minecraft:block/daylight/daylight_detector_inverted" },
-        "inverted=true,power=8": { "model": "minecraft:block/daylight/daylight_detector_inverted" },
-        "inverted=true,power=9": { "model": "minecraft:block/daylight/daylight_detector_inverted" },
-        "inverted=true,power=10": { "model": "minecraft:block/daylight/daylight_detector_inverted" },
-        "inverted=true,power=11": { "model": "minecraft:block/daylight/daylight_detector_inverted" },
-        "inverted=true,power=12": { "model": "minecraft:block/daylight/daylight_detector_inverted" },
-        "inverted=true,power=13": { "model": "minecraft:block/daylight/daylight_detector_inverted" },
-        "inverted=true,power=14": { "model": "minecraft:block/daylight/daylight_detector_inverted" },
-        "inverted=true,power=15": { "model": "minecraft:block/daylight/daylight_detector_inverted" }
+        "inverted=false,power=0": {
+            "model": "minecraft:block_variant/daylight/daylight_detector"
+        },
+        "inverted=false,power=1": {
+            "model": "minecraft:block_variant/daylight/daylight_detector"
+        },
+        "inverted=false,power=2": {
+            "model": "minecraft:block_variant/daylight/daylight_detector"
+        },
+        "inverted=false,power=3": {
+            "model": "minecraft:block_variant/daylight/daylight_detector"
+        },
+        "inverted=false,power=4": {
+            "model": "minecraft:block_variant/daylight/daylight_detector"
+        },
+        "inverted=false,power=5": {
+            "model": "minecraft:block_variant/daylight/daylight_detector"
+        },
+        "inverted=false,power=6": {
+            "model": "minecraft:block_variant/daylight/daylight_detector"
+        },
+        "inverted=false,power=7": {
+            "model": "minecraft:block_variant/daylight/daylight_detector"
+        },
+        "inverted=false,power=8": {
+            "model": "minecraft:block_variant/daylight/daylight_detector"
+        },
+        "inverted=false,power=9": {
+            "model": "minecraft:block_variant/daylight/daylight_detector"
+        },
+        "inverted=false,power=10": {
+            "model": "minecraft:block_variant/daylight/daylight_detector"
+        },
+        "inverted=false,power=11": {
+            "model": "minecraft:block_variant/daylight/daylight_detector"
+        },
+        "inverted=false,power=12": {
+            "model": "minecraft:block_variant/daylight/daylight_detector"
+        },
+        "inverted=false,power=13": {
+            "model": "minecraft:block_variant/daylight/daylight_detector"
+        },
+        "inverted=false,power=14": {
+            "model": "minecraft:block_variant/daylight/daylight_detector"
+        },
+        "inverted=false,power=15": {
+            "model": "minecraft:block_variant/daylight/daylight_detector"
+        },
+        "inverted=true,power=0": {
+            "model": "minecraft:block_variant/daylight/daylight_detector_inverted"
+        },
+        "inverted=true,power=1": {
+            "model": "minecraft:block_variant/daylight/daylight_detector_inverted"
+        },
+        "inverted=true,power=2": {
+            "model": "minecraft:block_variant/daylight/daylight_detector_inverted"
+        },
+        "inverted=true,power=3": {
+            "model": "minecraft:block_variant/daylight/daylight_detector_inverted"
+        },
+        "inverted=true,power=4": {
+            "model": "minecraft:block_variant/daylight/daylight_detector_inverted"
+        },
+        "inverted=true,power=5": {
+            "model": "minecraft:block_variant/daylight/daylight_detector_inverted"
+        },
+        "inverted=true,power=6": {
+            "model": "minecraft:block_variant/daylight/daylight_detector_inverted"
+        },
+        "inverted=true,power=7": {
+            "model": "minecraft:block_variant/daylight/daylight_detector_inverted"
+        },
+        "inverted=true,power=8": {
+            "model": "minecraft:block_variant/daylight/daylight_detector_inverted"
+        },
+        "inverted=true,power=9": {
+            "model": "minecraft:block_variant/daylight/daylight_detector_inverted"
+        },
+        "inverted=true,power=10": {
+            "model": "minecraft:block_variant/daylight/daylight_detector_inverted"
+        },
+        "inverted=true,power=11": {
+            "model": "minecraft:block_variant/daylight/daylight_detector_inverted"
+        },
+        "inverted=true,power=12": {
+            "model": "minecraft:block_variant/daylight/daylight_detector_inverted"
+        },
+        "inverted=true,power=13": {
+            "model": "minecraft:block_variant/daylight/daylight_detector_inverted"
+        },
+        "inverted=true,power=14": {
+            "model": "minecraft:block_variant/daylight/daylight_detector_inverted"
+        },
+        "inverted=true,power=15": {
+            "model": "minecraft:block_variant/daylight/daylight_detector_inverted"
+        }
     }
 }

@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block_variant/walls/template_inventory",
+    "textures": {
+        "front": "block/deepslate_tiles",
+        "top": "#front",
+        "innertop": "#front",
+        "other": "#front"
+    }
+}

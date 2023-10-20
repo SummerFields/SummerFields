@@ -1,0 +1,81 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "1": "minecraft:block/detector_rail",
+        "particle": "#1"
+    },
+    "elements": [
+        {
+            "name": "button",
+            "from": [
+                6,
+                15,
+                7.5
+            ],
+            "to": [
+                10,
+                16,
+                12.5
+            ],
+            "rotation": {
+                "angle": 45,
+                "axis": "x",
+                "origin": [
+                    0,
+                    14.5,
+                    2
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        6,
+                        9.5,
+                        10,
+                        10.5
+                    ],
+                    "rotation": 180,
+                    "texture": "#1"
+                },
+                "east": {
+                    "uv": [
+                        9,
+                        5.5,
+                        10,
+                        10.5
+                    ],
+                    "rotation": 270,
+                    "texture": "#1"
+                },
+                "south": {
+                    "uv": [
+                        6,
+                        5.5,
+                        10,
+                        6.5
+                    ],
+                    "texture": "#1"
+                },
+                "west": {
+                    "uv": [
+                        6,
+                        5.5,
+                        7,
+                        10.5
+                    ],
+                    "rotation": 90,
+                    "texture": "#1"
+                },
+                "up": {
+                    "uv": [
+                        6,
+                        5.5,
+                        10,
+                        10.5
+                    ],
+                    "texture": "#1"
+                }
+            }
+        }
+    ]
+}

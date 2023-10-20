@@ -1,9 +1,0 @@
-{
-    "parent": "minecraft:block_ess/pumpkin_melon/orientable_b",
-    "textures": {
-        "top": "minecraft:block/melon_top",
-        "bottom": "minecraft:variant_ess/pumpkin_melon/melon_bottom",
-        "front": "minecraft:block/melon_side",
-        "side": "minecraft:block/melon_side"
-    }
-}

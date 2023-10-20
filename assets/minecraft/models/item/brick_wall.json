@@ -1,3 +1,3 @@
 {
-  "parent": "minecraft:block_full/walls/bricks/brick_wall_post"
+    "parent": "minecraft:block_variant/walls/brick_inventory"
 }

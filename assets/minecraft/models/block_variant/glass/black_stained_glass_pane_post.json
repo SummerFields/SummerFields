@@ -1,0 +1,9 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "top": "minecraft:block/black_stained_glass_pane_top",
+        "particle": "minecraft:block/black_stained_glass",
+        "face": "minecraft:block/black_stained_glass"
+    },
+    "parent": "minecraft:block_variant/glass/glass_pane_post"
+}

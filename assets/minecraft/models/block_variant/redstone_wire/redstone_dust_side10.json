@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block_variant/redstone_wire/redstone_dust_side",
+    "textures": {
+        "line": "minecraft:textures_variant/redstone_wire/redstone_dust_line10"
+    }
+}

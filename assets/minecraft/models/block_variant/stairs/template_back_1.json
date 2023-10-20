@@ -1,0 +1,48 @@
+{
+    "parent": "minecraft:block/block",
+    "textures": {
+        "particle": "minecraft:textures_variant/bricks/stone_bricks_top_1",
+        "back": "minecraft:textures_variant/bricks/stone_bricks_top_1"
+    },
+    "elements": [
+        {
+            "name": "back",
+            "from": [
+                0,
+                0,
+                0
+            ],
+            "to": [
+                16,
+                0,
+                16
+            ],
+            "faces": {
+                "down": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#back",
+                    "cullface": "down"
+                }
+            }
+        }
+    ],
+    "display": {
+        "fixed": {
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "type=bottom": {
+            "model": "minecraft:block_variant/slabs/deepslate_brick_slab_bottom"
+        },
+        "type=double": {
+            "model": "minecraft:block_variant/bricks/deepslate_bricks_1"
+        },
+        "type=top": {
+            "model": "minecraft:block_variant/slabs/deepslate_brick_slab_top"
+        }
+    }
+}

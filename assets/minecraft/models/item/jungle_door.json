@@ -1,7 +1,3 @@
 {
-    "parent": "minecraft:item/door_inventory",
-    "textures": {
-        "bottom": "minecraft:block/jungle_door_bottom",
-        "top"   : "minecraft:block/jungle_door_top"
-    }
+    "parent": "minecraft:block_variant/doors/jungle_door_inventory"
 }

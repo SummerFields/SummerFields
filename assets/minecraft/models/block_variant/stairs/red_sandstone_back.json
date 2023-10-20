@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block_variant/stairs/template_back_1",
+    "textures": {
+        "back": "minecraft:block/red_sandstone_bottom",
+        "particle": "#back"
+    }
+}

@@ -1,8 +1,12 @@
 {
     "variants": {
         "": [
-            { "model": "minecraft:block/seagrass" },
-            { "model": "minecraft:block/random/seagrass/seagrass2" }
+            {
+                "model": "minecraft:block/seagrass"
+            },
+            {
+                "model": "minecraft:block_variant/seagrass/seagrass2"
+            }
         ]
     }
 }

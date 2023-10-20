@@ -1,12 +1,28 @@
 {
     "variants": {
-        "distance=0": { "model": "minecraft:block/scaffolding/scaffolding_stable" },
-        "distance=1": { "model": "minecraft:block/scaffolding/scaffolding_unstable_1" },
-        "distance=2": { "model": "minecraft:block/scaffolding/scaffolding_unstable_2" },
-        "distance=3": { "model": "minecraft:block/scaffolding/scaffolding_unstable_3" },
-        "distance=4": { "model": "minecraft:block/scaffolding/scaffolding_unstable_4" },
-        "distance=5": { "model": "minecraft:block/scaffolding/scaffolding_unstable_5" },
-        "distance=6": { "model": "minecraft:block/scaffolding/scaffolding_unstable_6" },
-        "distance=7": { "model": "minecraft:block/scaffolding/scaffolding_stable" }
+        "bottom=true,distance=0": {
+            "model": "minecraft:block_variant/scaffolding/scaffolding_stable"
+        },
+        "bottom=true,distance=1": {
+            "model": "minecraft:block_variant/scaffolding/scaffolding_unstable_1"
+        },
+        "bottom=true,distance=2": {
+            "model": "minecraft:block_variant/scaffolding/scaffolding_unstable_2"
+        },
+        "bottom=true,distance=3": {
+            "model": "minecraft:block_variant/scaffolding/scaffolding_unstable_3"
+        },
+        "bottom=true,distance=4": {
+            "model": "minecraft:block_variant/scaffolding/scaffolding_unstable_4"
+        },
+        "bottom=true,distance=5": {
+            "model": "minecraft:block_variant/scaffolding/scaffolding_unstable_5"
+        },
+        "bottom=true,distance=6": {
+            "model": "minecraft:block_variant/scaffolding/scaffolding_unstable_6"
+        },
+        "bottom=false": {
+            "model": "minecraft:block_variant/scaffolding/scaffolding_stable"
+        }
     }
 }

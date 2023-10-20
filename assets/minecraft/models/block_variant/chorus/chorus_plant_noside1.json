@@ -1,0 +1,59 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "textures": {
+        "texture": "minecraft:block/white_wool",
+        "particle": "minecraft:block/chorus_plant",
+        "inside": "minecraft:block/chorus_plant"
+    },
+    "elements": [
+        {
+            "from": [
+                6,
+                6,
+                6
+            ],
+            "to": [
+                10,
+                10,
+                10
+            ],
+            "faces": {
+                "north": {
+                    "texture": "#inside"
+                }
+            }
+        },
+        {
+            "from": [
+                6,
+                8,
+                4
+            ],
+            "to": [
+                8,
+                10,
+                6
+            ],
+            "faces": {
+                "up": {
+                    "texture": "#texture"
+                },
+                "down": {
+                    "texture": "#texture"
+                },
+                "west": {
+                    "texture": "#texture"
+                },
+                "east": {
+                    "texture": "#texture"
+                },
+                "north": {
+                    "texture": "#texture"
+                },
+                "south": {
+                    "texture": "#texture"
+                }
+            }
+        }
+    ]
+}

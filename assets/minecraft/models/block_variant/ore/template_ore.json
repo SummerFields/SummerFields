@@ -1,0 +1,88 @@
+{
+    "parent": "block/block",
+    "textures": {
+        "particle": "#base"
+    },
+    "elements": [
+        {
+            "from": [
+                0,
+                0,
+                0
+            ],
+            "to": [
+                16,
+                16,
+                16
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#base",
+                    "cullface": "north",
+                    "tintindex": 0
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#base",
+                    "cullface": "east",
+                    "tintindex": 0
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#base",
+                    "cullface": "south",
+                    "tintindex": 0
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#base",
+                    "cullface": "west",
+                    "tintindex": 0
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#base",
+                    "cullface": "up",
+                    "tintindex": 0
+                },
+                "down": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#base",
+                    "cullface": "down",
+                    "tintindex": 0
+                }
+            }
+        }
+    ]
+}

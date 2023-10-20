@@ -1,16 +1,36 @@
 {
     "variants": {
         "": [
-            { "model": "minecraft:block/dirt" },
-            { "model": "minecraft:block/random/dirt/dirt1" },
-            { "model": "minecraft:block/random/dirt/dirt2" },
-            { "model": "minecraft:block/random/dirt/dirt3" },
-            { "model": "minecraft:block/random/dirt/dirt4" },
-            { "model": "minecraft:block/random/dirt/dirt5" },
-            { "model": "minecraft:block/random/dirt/dirt6" },
-            { "model": "minecraft:block/random/dirt/dirt7" },
-            { "model": "minecraft:block/random/dirt/dirt8" },
-            { "model": "minecraft:block/random/dirt/dirt9" }
+            {
+                "model": "minecraft:block/dirt"
+            },
+            {
+                "model": "minecraft:block_variant/dirt/dirt1"
+            },
+            {
+                "model": "minecraft:block_variant/dirt/dirt2"
+            },
+            {
+                "model": "minecraft:block_variant/dirt/dirt3"
+            },
+            {
+                "model": "minecraft:block_variant/dirt/dirt4"
+            },
+            {
+                "model": "minecraft:block_variant/dirt/dirt5"
+            },
+            {
+                "model": "minecraft:block_variant/dirt/dirt6"
+            },
+            {
+                "model": "minecraft:block_variant/dirt/dirt7"
+            },
+            {
+                "model": "minecraft:block_variant/dirt/dirt8"
+            },
+            {
+                "model": "minecraft:block_variant/dirt/dirt9"
+            }
         ]
     }
 }

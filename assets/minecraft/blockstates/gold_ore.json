@@ -1,13 +1,15 @@
 {
     "variants": {
         "": [
-            { "model": "minecraft:block/gold_ore" },
-            { "model": "minecraft:block/random/ore/gold/gold_ore1" },
-            { "model": "minecraft:block/random/ore/gold/gold_ore2" },
-            { "model": "minecraft:block/random/ore/gold/gold_ore3" },
-            { "model": "minecraft:block/random/ore/gold/gold_ore4" },
-            { "model": "minecraft:block/random/ore/gold/gold_ore5" },
-            { "model": "minecraft:block/random/ore/gold/gold_ore6" }
+            {
+                "model": "minecraft:block_variant/ore/gold_ore_1"
+            },
+            {
+                "model": "minecraft:block_variant/ore/gold_ore_2"
+            },
+            {
+                "model": "minecraft:block_variant/ore/gold_ore_3"
+            }
         ]
     }
 }

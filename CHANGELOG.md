@@ -276,7 +276,7 @@ Release 1.14
   - New random textures (dark prismarine, stone, mycellium, flower pot, top slab)  by [tobyplowy] (https://github.com/tobyplowy)
   - New elytra angel by [tobyplowy] (https://github.com/tobyplowy) stem for melon and pumpkin - by [lipki] (https://github.com/lipki)
   - Beacon, textures - by [ImLeeRii] (https://github.com/ImLeeRii) and model - by [lipki] (https://github.com/lipki)
-  - Endercrystal - by [ImLeeRii] (https://github.com/ImLeeRii)
+  - endercrystal - by [ImLeeRii] (https://github.com/ImLeeRii)
   - Big stone update - by [lipki] (https://github.com/lipki) and [tobyplowy] (https://github.com/tobyplowy)
   - Boat - by [lipki] (https://github.com/lipki)
   - Coal change - by [ImLeeRii] (https://github.com/ImLeeRii)
@@ -300,7 +300,7 @@ Release 1.14
   - Shulker - by [lipki] (https://github.com/lipki)
   - Correction des Leaves pour optifine (encore) - by [lipki] (https://github.com/lipki)
   - Rabbit hide - by [lipki] (https://github.com/lipki)
-  - End rode - by [lipki] (https://github.com/lipki) and [tobyplowy] (https://github.com/tobyplowy)
+  - end rode - by [lipki] (https://github.com/lipki) and [tobyplowy] (https://github.com/tobyplowy)
   - Frosted ice - by [lipki] (https://github.com/lipki)
   - Elytra - by [lipki] (https://github.com/lipki)
   - Create sweep - by [lipki] (https://github.com/lipki)
@@ -361,7 +361,7 @@ xx/xx/2014 : Release 1.9
   - Mcpatcher : new repo
 
 
-12/09/2014 : Release 1.8 bêta
+12/09/2014 : Release 1.8 bï¿½ta
 * Added
   - new spectator_widgets.png by [2LEPRECHAUN] (https://github.com/2LEPRECHAUN) and [lipki] (https://github.com/lipki)
   - new mob textures for MCPatcher by [lipki] (https://github.com/lipki)
@@ -414,7 +414,7 @@ xx/xx/2014 : Release 1.9
 * Changes
   - best new plant
   - rotation of redstone_dust_line.png
-  - Enderman head
+  - enderman head
   - new steve skin
   - new mojang logo
 

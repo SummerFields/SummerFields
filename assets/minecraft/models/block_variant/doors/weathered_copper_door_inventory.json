@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block_variant/doors/copper_door_inventory",
+    "textures": {
+        "door_lower": "minecraft:block/weathered_copper_door_bottom",
+        "door_upper": "minecraft:block/weathered_copper_door_top",
+        "side": "minecraft:textures_variant/doors/weathered_copper_door_side"
+    }
+}

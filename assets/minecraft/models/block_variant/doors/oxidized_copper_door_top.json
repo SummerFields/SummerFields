@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block_variant/doors/copper_door_top",
+    "textures": {
+        "1": "minecraft:textures_variant/doors/oxidized_copper_door_side",
+        "bottom": "minecraft:block/oxidized_copper_door_top"
+    }
+}

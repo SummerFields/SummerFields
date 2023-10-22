@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+            { "model": "minecraft:block/polished_tuff" },
+            { "model": "minecraft:block_variant/polished/polished_tuff_2" },
+            { "model": "minecraft:block_variant/polished/polished_tuff_3" },
+            { "model": "minecraft:block_variant/polished/polished_tuff_4" },
+            { "model": "minecraft:block_variant/polished/polished_tuff_5" }
+        ]
+    }
+}

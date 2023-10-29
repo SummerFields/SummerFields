@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block_full/polished/base_2",
+    "textures": {
+        "one": "minecraft:variant_full/polished/polished_tuff_2",
+        "two": "minecraft:variant_full/polished/polished_tuff_3",
+        "three": "minecraft:variant_full/polished/polished_tuff_4",
+        "for": "minecraft:variant_full/polished/polished_tuff_5"
+    }
+}

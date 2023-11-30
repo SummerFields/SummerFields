@@ -1,7 +1,7 @@
 {
     "variants": {
         "": {
-            "model": "minecraft:block/planks/crimson_planks"
+            "model": "minecraft:block_variant/planks/crimson_planks"
         }
     }
 }

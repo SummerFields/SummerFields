@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block_variant/planks/planks",
+    "textures": {
+        "all": "minecraft:block/warped_planks"
+    }
+}

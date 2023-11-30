@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "minecraft:block_variant/planks/mangrove_planks"
+        }
+    }
+}

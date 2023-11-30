@@ -1,3 +1,3 @@
 {
-  "parent": "minecraft:block_variant/fence/dark_oak_fence_gate"
+    "parent": "minecraft:block_variant/fence/dark_oak_fence_gate"
 }

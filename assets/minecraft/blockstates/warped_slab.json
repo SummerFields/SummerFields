@@ -7,7 +7,7 @@
             "model": "minecraft:block_variant/slabs/warped_slab_top"
         },
         "type=double": {
-            "model": "minecraft:block/planks/warped_planks"
+            "model": "minecraft:block_variant/planks/warped_planks"
         }
     }
 }

@@ -7,7 +7,7 @@
             "model": "minecraft:block_variant/slabs/oak_slab_top"
         },
         "type=double": {
-            "model": "minecraft:block/planks/oak_planks"
+            "model": "minecraft:block_variant/planks/oak_planks"
         }
     }
 }

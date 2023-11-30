@@ -1,19 +1,51 @@
 {
-	"parent": "minecraft:block/block",
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [0, 90, 0],
-			"translation": [0, 0, -1],
-			"scale": [0.35, 0.35, 0.35]
-		},
-		"firstperson_righthand": {
-			"rotation": [-45, 90, 0],
-			"translation": [0, -3, -6],
-			"scale": [0.35, 0.35, 0.35]
-		},
-		"gui": {
-			"rotation": [30, -225, 0],
-			"scale": [0.4, 0.4, 0.4]
-		}
-	}
+    "parent": "minecraft:block/block",
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "translation": [
+                0,
+                0,
+                -1
+            ],
+            "scale": [
+                0.35,
+                0.35,
+                0.35
+            ]
+        },
+        "firstperson_righthand": {
+            "rotation": [
+                -45,
+                90,
+                0
+            ],
+            "translation": [
+                0,
+                -3,
+                -6
+            ],
+            "scale": [
+                0.35,
+                0.35,
+                0.35
+            ]
+        },
+        "gui": {
+            "rotation": [
+                30,
+                -225,
+                0
+            ],
+            "scale": [
+                0.4,
+                0.4,
+                0.4
+            ]
+        }
+    }
 }

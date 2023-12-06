@@ -42,6 +42,19 @@ If you play with mods, then it's recommended that you download the mod support p
 History of Recent Updates
 ------------------------
 
+Release 1.20.3
+
+Implementation of the “supported_format” and “overlays” system.
+The changes are in the main folder.
+Old textures are in overlays folders.
+The "pack_format" is always the last one.
+
+  - by [lipki] (https://github.com/lipki)
+	- new bat
+    - grass name change
+    
+    
+
 Release 1.20
   - by [lipki] (https://github.com/lipki)
 	- cherry wood

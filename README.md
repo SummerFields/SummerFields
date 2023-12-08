@@ -42,6 +42,10 @@ If you play with mods, then it's recommended that you download the mod support p
 History of Recent Updates
 ------------------------
 
+Release 1.21
+  - by [lipki] (https://github.com/lipki)
+	- Breeze
+
 Release 1.20.3
 
 Implementation of the “supported_format” and “overlays” system.

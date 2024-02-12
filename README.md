@@ -54,6 +54,7 @@ Snapshot
 	- Trial Spawner
 	- Spawner redo
 	- Armadillo
+	- Crafter
 
 Release 1.20.3
 

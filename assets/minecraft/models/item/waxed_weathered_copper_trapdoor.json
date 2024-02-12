@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block_full/waxed/template_trapdoor_inventory_waxed",
+    "textures": {
+		"particle": "minecraft:block/weathered_copper_trapdoor",
+		"waxed": "minecraft:variant_full/waxed/block_waxed",
+		"side": "minecraft:block/weathered_copper_trapdoor"
+	}
+}

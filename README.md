@@ -45,13 +45,14 @@ History of Recent Updates
 Snapshot
 
   - by [lipki] (https://github.com/lipki)
-	- new particle gust
+	- particle gust
 	- Breeze
 	- Wind
 	- Wolf armor
 	- Vault
 	- Trial Key
 	- Armadillo
+	- Copper Block variante
 
 Release 1.20.3
 

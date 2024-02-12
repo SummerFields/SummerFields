@@ -48,6 +48,7 @@ Snapshot
 	- new particle gust
 	- Breeze
 	- Wind
+	- Wolf armor
 
 Release 1.20.3
 

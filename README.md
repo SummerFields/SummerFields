@@ -52,6 +52,7 @@ Snapshot
 	- Vault
 	- Trial Key
 	- Armadillo
+	- Crafter
 
 Release 1.20.3
 

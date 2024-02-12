@@ -52,6 +52,7 @@ Snapshot
 	- Vault
 	- Trial Key
 	- Trial Spawner
+	- Spawner redo
 	- Armadillo
 
 Release 1.20.3

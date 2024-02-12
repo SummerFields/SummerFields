@@ -42,6 +42,13 @@ If you play with mods, then it's recommended that you download the mod support p
 History of Recent Updates
 ------------------------
 
+Snapshot
+
+  - by [lipki] (https://github.com/lipki)
+	- new particle gust
+	- Breeze
+	- Wind
+
 Release 1.20.3
 
 Implementation of the “supported_format” and “overlays” system.

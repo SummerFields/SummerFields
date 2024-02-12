@@ -51,8 +51,11 @@ Snapshot
 	- Wolf armor
 	- Vault
 	- Trial Key
+	- Trial Spawner
+	- Spawner redo
 	- Armadillo
 	- Copper Block variante
+	- Crafter
 
 Release 1.20.3
 

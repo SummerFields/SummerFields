@@ -50,6 +50,7 @@ Snapshot
 	- Wind
 	- Wolf armor
 	- Vault
+	- Armadillo
 
 Release 1.20.3
 

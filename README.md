@@ -42,8 +42,10 @@ If you play with mods, then it's recommended that you download the mod support p
 History of Recent Updates
 ------------------------
 
-Release 1.21
+Snapshot
+
   - by [lipki] (https://github.com/lipki)
+	- new particle gust
 	- Breeze
 
 Release 1.20.3

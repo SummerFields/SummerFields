@@ -47,6 +47,7 @@ Snapshot
   - by [lipki] (https://github.com/lipki)
 	- new particle gust
 	- Breeze
+	- Wind
 
 Release 1.20.3
 

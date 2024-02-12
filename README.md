@@ -45,7 +45,7 @@ History of Recent Updates
 Snapshot
 
   - by [lipki] (https://github.com/lipki)
-	- new particle gust
+	- particle gust
 	- Breeze
 	- Wind
 	- Wolf armor
@@ -54,6 +54,7 @@ Snapshot
 	- Trial Spawner
 	- Spawner redo
 	- Armadillo
+	- Copper Block variante
 	- Crafter
 
 Release 1.20.3

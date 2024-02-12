@@ -51,6 +51,7 @@ Snapshot
 	- Wolf armor
 	- Vault
 	- Trial Key
+	- Trial Spawner
 	- Armadillo
 
 Release 1.20.3

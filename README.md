@@ -57,6 +57,7 @@ Snapshot
 	- Copper Block variante
 	- Crafter
 	- correction Dark oak
+	- bogged
 
 Release 1.20.3
 

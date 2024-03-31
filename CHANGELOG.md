@@ -5,6 +5,27 @@ This changelog lists all notable updates and contributions for the SummerFields 
 
 ---
 
+Release 1.20.6
+
+    by [lipki] (https://github.com/lipki)
+        New Wolfs
+        Update gui
+        Update vials
+        Correction Dark oak
+        Armadillo
+        Spawner redo
+        Wolf armor
+
+
+Release 1.20.3
+
+Implementation of the "supported_format" and "overlays" system. The changes are in the overlays folders. The "pack_format" is always the old one.
+
+  - by [lipki] (https://github.com/lipki)
+	- new bat
+	- grass name change
+
+
 Release 1.20
   - by [lipki] (https://github.com/lipki)
 	- cherry wood

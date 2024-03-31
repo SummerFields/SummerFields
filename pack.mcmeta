@@ -1,6 +1,21 @@
 {
     "pack": {
         "pack_format": 18,
-        "description": "SummerFields bêta"
+        "supported_formats": {
+            "min_inclusive": 18,
+            "max_inclusive": 32
+        },
+        "description": "SummerFields bêta 1.20.2 to 1.20.6"
+    },
+    "overlays": {
+        "entries": [
+            {
+                "formats": {
+                    "min_inclusive": 22,
+		    "max_inclusive": 32
+                },
+                "directory": "22p"
+            }
+        ]
     }
 }

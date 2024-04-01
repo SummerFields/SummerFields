@@ -59,6 +59,7 @@ Snapshot
 	- correction Dark oak
 	- New bad effect
 	- Ominous effect
+	- Ominous bottle
 
 Release 1.20.3
 

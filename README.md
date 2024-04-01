@@ -64,6 +64,7 @@ Snapshot
 	- Ominous Vault
 	- Ominous Trial Spawner
 	- Update vials
+	- Slit map decorations
 
 Release 1.20.3
 

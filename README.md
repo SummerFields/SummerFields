@@ -68,6 +68,7 @@ Snapshot
 	- Mace
 	- Update gui
 	- 2 New shields
+	- 2 New pottery pattern
 
 Release 1.20.3
 

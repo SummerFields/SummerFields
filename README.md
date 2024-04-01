@@ -66,6 +66,8 @@ Snapshot
 	- Update vials
 	- Slit map decorations
 	- Mace
+	- Update gui
+	- 2 New shields
 
 Release 1.20.3
 

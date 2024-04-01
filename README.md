@@ -60,6 +60,7 @@ Snapshot
 	- New bad effect
 	- Ominous effect
 	- Ominous bottle
+	- update vials
 
 Release 1.20.3
 

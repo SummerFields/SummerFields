@@ -58,6 +58,7 @@ Snapshot
 	- Crafter
 	- correction Dark oak
 	- New bad effect
+	- bogged
 
 Release 1.20.3
 

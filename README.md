@@ -61,6 +61,7 @@ Snapshot
 	- Ominous effect
 	- Ominous bottle
 	- Ominous Particles
+	- Ominous_Vault
 	- Update vials
 
 Release 1.20.3

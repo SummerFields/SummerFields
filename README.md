@@ -65,6 +65,7 @@ Snapshot
 	- Ominous Trial Spawner
 	- Update vials
 	- Slit map decorations
+	- Mace
 
 Release 1.20.3
 

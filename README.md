@@ -61,7 +61,8 @@ Snapshot
 	- Ominous effect
 	- Ominous bottle
 	- Ominous Particles
-	- Ominous_Vault
+	- Ominous Vault
+	- Ominous Trial Spawner
 	- Update vials
 
 Release 1.20.3

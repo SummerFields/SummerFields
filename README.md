@@ -68,7 +68,8 @@ Snapshot
 	- Mace
 	- Update gui
 	- 2 New shields
-	- 2 New pottery pattern
+	- 2 New banners
+	- 3 New pottery pattern
 	- New Wolfs
 
 Release 1.20.3

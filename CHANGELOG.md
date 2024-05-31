@@ -3,7 +3,33 @@
 
 This changelog lists all notable updates and contributions for the SummerFields texture pack. 
 
----
+---         
+
+Release 1.21
+
+    by [lipki] (https://github.com/lipki)
+        Particle gust
+        Breeze
+        Wind
+        Vault
+        Trial Key
+        Trial Spawner
+        Copper Block variante
+        Crafter
+        New bad effect
+        Ominous effect
+        Ominous bottle
+        Ominous Particles
+        Ominous Vault
+        Ominous Trial Spawner
+        Split map decorations
+        Mace
+        2 New shields
+        2 New banners
+        3 New pottery pattern
+        3 New Music Disc
+        2 New Trims
+
 
 Release 1.20.6
 

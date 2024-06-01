@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block_full/stairs/template_side",
+	"textures": {
+		"back": "minecraft:block/deepslate_bricks",
+		"particle": "#back"
+	}
+}

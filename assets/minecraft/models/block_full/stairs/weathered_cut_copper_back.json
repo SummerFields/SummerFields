@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block_full/stairs/template_back_1",
+	"textures": {
+		"back": "minecraft:block/weathered_cut_copper",
+		"particle": "#back"
+	}
+}

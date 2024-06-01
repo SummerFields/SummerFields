@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block_full/stairs/template_outer_stairs",
+	"textures": {
+		"particle": "minecraft:variant_full/stairs/end_stone_bricks_stair",
+		"bottom": "minecraft:variant_full/stairs/end_stone_bricks_stair"
+	}
+}

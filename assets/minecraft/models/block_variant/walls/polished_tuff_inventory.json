@@ -1,9 +1,9 @@
 {
-	"parent": "minecraft:block_variant/walls/template_inventory",
-	"textures": {
-		"front": "minecraft:block/polished_tuff",
-		"top": "minecraft:textures_variant/walls/polished_tuff_top",
-		"innertop": "minecraft:textures_variant/walls/polished_tuff_inner_top",
-		"other": "minecraft:textures_variant/walls/polished_tuff_other"
-	}
+    "parent": "minecraft:block_variant/walls/template_inventory",
+    "textures": {
+        "front": "minecraft:block/polished_tuff",
+        "top": "minecraft:textures_variant/walls/polished_tuff_top",
+        "innertop": "minecraft:textures_variant/walls/polished_tuff_inner_top",
+        "other": "minecraft:textures_variant/walls/polished_tuff_other"
+    }
 }

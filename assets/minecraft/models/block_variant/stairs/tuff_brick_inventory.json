@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block_variant/stairs/template_stairs_inventory",
+    "textures": {
+        "3": "minecraft:textures_variant/stairs/tuff_bricks_stair",
+        "particle": "minecraft:textures_variant/stairs/tuff_bricks_stair"
+    }
+}

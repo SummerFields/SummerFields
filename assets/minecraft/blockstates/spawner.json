@@ -1,7 +1,7 @@
 {
-  "variants": {
-    "": {
-      "model": "minecraft:block_variant/spawner/spawner"
+    "variants": {
+        "": {
+            "model": "minecraft:block_variant/spawner/spawner"
+        }
     }
-  }
 }

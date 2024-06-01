@@ -42,35 +42,38 @@ If you play with mods, then it's recommended that you download the mod support p
 History of Recent Updates
 ------------------------
 
-Snapshot
-
+Release 1.21
   - by [lipki] (https://github.com/lipki)
 	- particle gust
 	- Breeze
 	- Wind
-	- Wolf armor
 	- Vault
 	- Trial Key
 	- Trial Spawner
-	- Spawner redo
-	- Armadillo
 	- Copper Block variante
 	- Crafter
-	- correction Dark oak
 	- New bad effect
 	- Ominous effect
 	- Ominous bottle
 	- Ominous Particles
 	- Ominous Vault
 	- Ominous Trial Spawner
-	- Update vials
-	- Slit map decorations
+	- Split map decorations
 	- Mace
-	- Update gui
 	- 2 New shields
 	- 2 New banners
 	- 3 New pottery pattern
+	- 3 New Music Disc
+
+Release 1.20.6
+  - by [lipki] (https://github.com/lipki)
 	- New Wolfs
+	- Update gui
+	- Update vials
+	- Correction Dark oak
+	- Armadillo
+	- Spawner redo
+	- Wolf armor
 
 Release 1.20.3
 

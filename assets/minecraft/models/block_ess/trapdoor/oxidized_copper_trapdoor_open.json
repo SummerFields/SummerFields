@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block_ess/trapdoor/acacia_trapdoor_open",
+    "textures": {
+        "texture": "minecraft:block/oxidized_copper_trapdoor",
+        "particle": "minecraft:variant_ess/trapdoor/oxidized_copper_trapdoor_side"
+    }
+}

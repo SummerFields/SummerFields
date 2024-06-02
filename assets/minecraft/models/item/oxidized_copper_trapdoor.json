@@ -1,10 +1,5 @@
 {
-  "parent": "minecraft:block_full/waxed/template_trapdoor_inventory_waxed",
-    "textures": {
-		"particle": "minecraft:block/exposed_copper_trapdoor",
-		"waxed": "minecraft:variant_full/waxed/block_waxed",
-		"side": "minecraft:block/exposed_copper_trapdoor"
-	},
+  "parent": "minecraft:block/oxidized_copper_trapdoor_bottom",
     "display": {
         "thirdperson_righthand": {
             "rotation": [ 0, 0, -90 ],

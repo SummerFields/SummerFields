@@ -1,0 +1,80 @@
+{
+  "multipart": [
+    {
+      "apply": { "model": "minecraft:block_ess/glass/yellow_stained_glass_pane_post" },
+      "when": { "north": "false", "east": "false", "south": "false", "west": "false" }
+    },
+    {
+      "apply": { "model": "minecraft:block_ess/glass/yellow_stained_glass_pane_oneside" },
+      "when": { "north": "false", "east": "false", "south": "true", "west": "false" }
+    },
+    {
+      "apply": { "model": "minecraft:block_ess/glass/yellow_stained_glass_pane_oneside", "y": 90 },
+      "when": { "north": "false", "east": "false", "south": "false", "west": "true" }
+    },
+    {
+      "apply": { "model": "minecraft:block_ess/glass/yellow_stained_glass_pane_oneside", "y": 180 },
+      "when": { "north": "true", "east": "false", "south": "false", "west": "false" }
+    },
+    {
+      "apply": { "model": "minecraft:block_ess/glass/yellow_stained_glass_pane_oneside", "y": 270 },
+      "when": { "north": "false", "east": "true", "south": "false", "west": "false" }
+    },
+    {
+      "apply": { "model": "minecraft:block_ess/glass/yellow_stained_glass_pane_twoside" },
+      "when": { "north": "true", "east": "false", "south": "true", "west": "false" }
+    },
+    {
+      "apply": { "model": "minecraft:block_ess/glass/yellow_stained_glass_pane_twoside", "y": 90 },
+      "when": { "north": "false", "east": "true", "south": "false", "west": "true" }
+    },
+    {
+      "apply": { "model": "minecraft:block_ess/glass/yellow_stained_glass_pane_allside" },
+      "when": { "north": "true", "east": "true" }
+    },
+    {
+      "apply": { "model": "minecraft:block_ess/glass/yellow_stained_glass_pane_allside" },
+      "when": { "south": "true", "west": "true" }
+    },
+    {
+      "apply": { "model": "minecraft:block_ess/glass/yellow_stained_glass_pane_allside" },
+      "when": { "north": "true", "west": "true" }
+    },
+    {
+      "apply": { "model": "minecraft:block_ess/glass/yellow_stained_glass_pane_allside" },
+      "when": { "south": "true", "east": "true" }
+    },
+    {
+      "apply": { "model": "minecraft:block_ess/glass/yellow_stained_glass_pane_moreside" },
+      "when": { "south": "true", "west": "true" }
+    },
+    {
+      "apply": { "model": "minecraft:block_ess/glass/yellow_stained_glass_pane_moreside", "y": 90 },
+      "when": { "south": "true", "west": "true" }
+    },
+    {
+      "apply": { "model": "minecraft:block_ess/glass/yellow_stained_glass_pane_moreside", "y": 90 },
+      "when": { "west": "true", "north": "true" }
+    },
+    {
+      "apply": { "model": "minecraft:block_ess/glass/yellow_stained_glass_pane_moreside", "y": 180 },
+      "when": { "west": "true", "north": "true" }
+    },
+    {
+      "apply": { "model": "minecraft:block_ess/glass/yellow_stained_glass_pane_moreside", "y": 180 },
+      "when": { "north": "true", "east": "true" }
+    },
+    {
+      "apply": { "model": "minecraft:block_ess/glass/yellow_stained_glass_pane_moreside", "y": 270 },
+      "when": { "north": "true", "east": "true" }
+    },
+    {
+      "apply": { "model": "minecraft:block_ess/glass/yellow_stained_glass_pane_moreside", "y": 270 },
+      "when": { "east": "true", "south": "true" }
+    },
+    {
+      "apply": { "model": "minecraft:block_ess/glass/yellow_stained_glass_pane_moreside" },
+      "when": { "east": "true", "south": "true" }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block_ess/glass/template_glass_pane_moreside",
+  "textures": {
+	"edge": "minecraft:block/light_gray_stained_glass_pane_top",
+	"pane": "minecraft:block/light_gray_stained_glass",
+	"particle": "#pane"
+  }
+}

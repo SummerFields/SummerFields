@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block_full/leaves/template_leaves_1",
   "textures": {
-    "0": "minecraft:variant_full/leaves/spruce_leaves"
+    "particle": "minecraft:variant_full/leaves/spruce_leaves"
   }
 }

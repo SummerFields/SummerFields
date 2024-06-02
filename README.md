@@ -44,7 +44,7 @@ History of Recent Updates
 
 Release 1.21
   - by [lipki] (https://github.com/lipki)
-	- particle gust
+	- Particle gust
 	- Breeze
 	- Wind
 	- Vault
@@ -64,6 +64,7 @@ Release 1.21
 	- 2 New banners
 	- 3 New pottery pattern
 	- 3 New Music Disc
+	- 2 New Trims
 
 Release 1.20.6
   - by [lipki] (https://github.com/lipki)

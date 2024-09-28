@@ -1,0 +1,10 @@
+{
+	"cwhiteit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"top": "minecraft:block/white_stained_glass_pane_top",
+		"particle": "minecraft:block/white_stained_glass",
+		"face": "minecraft:block/white_stained_glass"
+	},
+	"parent": "minecraft:block_ess/glass/glass_pane_post"
+}

@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "age=25": { "model": "minecraft:block_ess/kelp/kelp_flower" }
+    }
+}

@@ -1,13 +1,9 @@
 {
-    "variants": {
-        "": [
-            { "model": "minecraft:block/emerald_ore" },
-            { "model": "minecraft:block/random/ore/emerald/emerald_ore1" },
-            { "model": "minecraft:block/random/ore/emerald/emerald_ore2" },
-            { "model": "minecraft:block/random/ore/emerald/emerald_ore3" },
-            { "model": "minecraft:block/random/ore/emerald/emerald_ore4" },
-            { "model": "minecraft:block/random/ore/emerald/emerald_ore5" },
-            { "model": "minecraft:block/random/ore/emerald/emerald_ore6" }
-        ]
-    }
+  "variants": {
+    "": [
+      { "model": "minecraft:block_full/ore/emerald_ore_1" },
+      { "model": "minecraft:block_full/ore/emerald_ore_2" },
+      { "model": "minecraft:block_full/ore/emerald_ore_3" }
+    ]
+  }
 }

@@ -9,6 +9,7 @@
 			"name": "planck",
 			"from": [7, 0.51, 2.5],
 			"to": [9, 1.01, 13],
+			"light_emission":14,
 			"faces": {
 				"up": {"uv": [7, 2.5, 9, 13], "texture": "#1"},
 				"down": {"uv": [5.5, 1, 10, 4], "texture": "#1"}

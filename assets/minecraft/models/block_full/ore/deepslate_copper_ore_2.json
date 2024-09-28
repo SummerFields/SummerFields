@@ -1,0 +1,3 @@
+{"parent":"minecraft:block_full/ore/template_ore",
+"textures":{"base":"minecraft:variant_full/ore/deepslate_copper_ore_2",
+"glow":"minecraft:variant_full/ore/copper_ore_2_emission"}}

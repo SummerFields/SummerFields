@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-        "all": "minecraft:block/variants/ore/redstone_ore6"
-    }
-}

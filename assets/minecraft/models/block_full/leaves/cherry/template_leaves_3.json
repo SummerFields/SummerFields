@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"ambientocclusion": true,
+	"ambientocclusion": false,
 	"textures": {
 		"particle": "variant_full/leaves/cherry_leaves"
 	},

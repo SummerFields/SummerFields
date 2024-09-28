@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block_ess/armor/template_helmet",
   "textures": {
-     "layer0": "minecraft:entity/equipment/humanoid/turtle",
+     "layer0": "minecraft:entity/equipment/humanoid/turtle_scute",
     "layer2": "minecraft:trims/entity/humanoid/shaper_gold"
   }
 }

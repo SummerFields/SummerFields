@@ -1,0 +1,11 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"2": "variant_ess/glass/glass_pane_inner",
+		"top": "block/green_stained_glass_pane_top",
+		"particle": "block/green_stained_glass",
+		"face": "block/green_stained_glass"
+	},
+	"parent": "minecraft:block_ess/glass/glass_pane_twoside"
+}

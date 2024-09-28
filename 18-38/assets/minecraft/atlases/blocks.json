@@ -22,6 +22,11 @@
         },
         {
             "type": "directory",
+            "source": "models",
+            "prefix": "models/"
+        },
+        {
+            "type": "directory",
             "source": "entity",
             "prefix": "entity/"
         },
@@ -37,10 +42,10 @@
                 "trims/items/chestplate_trim",
                 "trims/items/helmet_trim",
                 "trims/items/boots_trim",
-                "trims/entity/humanoid/shaper",
-                "trims/entity/humanoid_leggings/shaper",
-                "trims/entity/humanoid/wayfinder",
-                "trims/entity/humanoid_leggings/wayfinder"
+                "trims/models/armor/shaper",
+                "trims/models/armor/shaper_leggings",
+                "trims/models/armor/wayfinder",
+                "trims/models/armor/wayfinder_leggings"
             ],
             "palette_key": "trims/color_palettes/trim_palette",
             "permutations": {

@@ -1,7 +1,7 @@
 {
   "variants": {
     "facing=east,honey_level=0": {
-      "model": "minecraft:block/beehive",
+      "model": "minecraft:block/beehive_empty",
       "y": 90
     },
     "facing=east,honey_level=1": {
@@ -25,7 +25,7 @@
       "y": 90
     },
     "facing=north,honey_level=0": {
-      "model": "minecraft:block/beehive"
+      "model": "minecraft:block/beehive_empty"
     },
     "facing=north,honey_level=1": {
       "model": "minecraft:block_full/beenest/beehive_1"
@@ -43,7 +43,7 @@
       "model": "minecraft:block_full/beenest/beehive_honey"
     },
     "facing=south,honey_level=0": {
-      "model": "minecraft:block/beehive",
+      "model": "minecraft:block/beehive_empty",
       "y": 180
     },
     "facing=south,honey_level=1": {
@@ -67,7 +67,7 @@
       "y": 180
     },
     "facing=west,honey_level=0": {
-      "model": "minecraft:block/beehive",
+      "model": "minecraft:block/beehive_empty",
       "y": 270
     },
     "facing=west,honey_level=1": {

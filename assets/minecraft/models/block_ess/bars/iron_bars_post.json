@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "minecraft:block/iron_bars",
+		"edge": "minecraft:block/iron_bars"
+	},
+	"elements": [
+		{
+			"from": [7.5, 0, 7.5],
+			"to": [8.5, 16, 8.5],
+			"faces": {
+				"north": {"uv": [13.5, 0, 14.5, 16], "texture": "#edge"},
+				"east": {"uv": [13.5, 0, 14.5, 16], "texture": "#edge"},
+				"south": {"uv": [13.5, 0, 14.5, 16], "texture": "#edge"},
+				"west": {"uv": [13.5, 0, 14.5, 16], "texture": "#edge"},
+				"up": {"uv": [8.5, 6, 9.5, 7], "texture": "#edge"},
+				"down": {"uv": [8.5, 6, 9.5, 7], "texture": "#edge"}
+			}
+		},
+		{
+			"from": [7, 14.5, 7],
+			"to": [9, 15.5, 9],
+			"color": 0,
+			"faces": {
+				"north": {"uv": [8, 5.5, 10, 6.5], "texture": "#edge", "cullface": "up"},
+				"east": {"uv": [8, 6, 10, 7], "rotation": 180, "texture": "#edge", "cullface": "up"},
+				"south": {"uv": [8, 7.5, 10, 8.5], "texture": "#edge", "cullface": "up"},
+				"west": {"uv": [8, 7.5, 10, 8.5], "rotation": 180, "texture": "#edge", "cullface": "up"},
+				"up": {"uv": [8, 5.5, 10, 7.5], "texture": "#edge", "cullface": "up"},
+				"down": {"uv": [5, 5, 7, 7], "texture": "#edge", "cullface": "up"}
+			}
+		}
+	],
+	"__createdwith": "opl's Model Creator"
+}

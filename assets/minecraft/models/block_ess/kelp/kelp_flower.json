@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "minecraft:variant_ess/kelp/kelp_flower"
+  }
+}

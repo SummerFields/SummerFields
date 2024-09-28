@@ -9,6 +9,7 @@
 			"name": "button",
 			"from": [6, 0.5, 5.5],
 			"to": [10, 1.5, 10.5],
+			"light_emission":14,
 			"faces": {
 				"north": {"uv": [6, 9.5, 10, 10.5], "texture": "#1", "rotation": 180},
 				"east": {"uv": [9, 5.5, 10, 10.5], "texture": "#1", "rotation": 270},

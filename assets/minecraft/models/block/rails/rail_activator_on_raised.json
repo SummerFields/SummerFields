@@ -120,6 +120,7 @@
 			"name": "planck",
 			"from": [1, 14, 7.5],
 			"to": [15, 14.5, 11.5],
+			"light_emission":14,
 			"rotation": {"angle": 45, "axis": "x", "origin": [0, 14, 1.5]},
 			"faces": {
 				"up": {"uv": [1, 6, 15, 10], "texture": "#1"},

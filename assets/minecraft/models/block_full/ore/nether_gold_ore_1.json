@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block_full/ore/template_ore",
+  "textures": {
+    "base": "minecraft:block/nether_gold_ore",
+    "glow": "minecraft:variant_full/ore/nether_gold_ore_1_emission"
+  }
+}

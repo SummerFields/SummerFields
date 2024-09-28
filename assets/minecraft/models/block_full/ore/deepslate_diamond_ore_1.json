@@ -1,0 +1,3 @@
+{"parent":"minecraft:block_full/ore/template_ore",
+"textures":{"base":"minecraft:block/deepslate_diamond_ore",
+"glow":"minecraft:variant_full/ore/diamond_ore_1_emission"}}

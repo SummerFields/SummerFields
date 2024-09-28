@@ -120,6 +120,7 @@
 			"name": "planck",
 			"from": [1, 0, 6],
 			"to": [15, 0.5, 10],
+			"light_emission":14,
 			"faces": {
 				"up": {"uv": [1, 6, 15, 10], "texture": "#1"},
 				"down": {"uv": [5.5, 1, 10, 4], "texture": "#1"}

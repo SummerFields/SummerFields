@@ -1,0 +1,7 @@
+{
+	"parent":"minecraft:block_full/ore/template_ore",
+	"textures":{
+		"base":"minecraft:block/coal_ore",
+		"glow":"minecraft:variant_ess/empty"
+	}
+}

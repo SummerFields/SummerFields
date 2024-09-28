@@ -1,8 +1,8 @@
 {
   "parent": "minecraft:block_ess/armor/template_leggings",
   "textures": {
-	"layer0": "minecraft:models/armor/leather_layer_2",
-	"layer1": "minecraft:models/armor/leather_layer_2_overlay",
-    "layer2": "minecraft:trims/models/armor/wayfinder_leggings_redstone"
+	"layer0": "minecraft:entity/equipment/humanoid_leggings/leather",
+	"layer1": "minecraft:entity/equipment/humanoid_leggings/leather_overlay",
+    "layer2": "minecraft:trims/entity/humanoid_leggings/wayfinder_redstone"
   }
 }

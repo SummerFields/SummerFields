@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block_ess/armor/template_leggings",
   "textures": {
-	"layer0": "minecraft:models/armor/gold_layer_2",
-    "layer2": "minecraft:trims/models/armor/wayfinder_leggings_amethyst"
+	"layer0": "minecraft:entity/equipment/humanoid_leggings/gold",
+    "layer2": "minecraft:trims/entity/humanoid_leggings/wayfinder_amethyst"
   }
 }

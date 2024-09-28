@@ -1,0 +1,6 @@
+{
+  "parent":"minecraft:item/generated",
+  "textures": {
+    "layer0":"painting_selector:item/skull_and_roses"
+  }
+}

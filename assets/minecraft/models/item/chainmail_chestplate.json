@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block_ess/armor/template_chestplate",
   "textures": {
-     "layer0": "minecraft:models/armor/chainmail_layer_1"
+     "layer0": "minecraft:entity/equipment/humanoid/chainmail"
   },
   "overrides": [
     {

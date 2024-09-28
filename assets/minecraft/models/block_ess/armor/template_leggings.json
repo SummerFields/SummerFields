@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"layer0": "models/armor/leather_layer_2",
-		"layer1": "trims/models/armor/nop",
-		"layer2": "trims/models/armor/nop"
+		"layer0": "minecraft:entity/equipment/humanoid_leggings/leather",
+		"layer1": "minecraft:trims/entity/humanoid/nop",
+		"layer2": "minecraft:trims/entity/humanoid/nop"
 	},
 	"elements": [
 		{

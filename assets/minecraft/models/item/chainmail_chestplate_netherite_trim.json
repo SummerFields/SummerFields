@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block_ess/armor/template_chestplate",
   "textures": {
-     "layer0": "minecraft:models/armor/chainmail_layer_1",
-    "layer2": "minecraft:trims/models/armor/wayfinder_netherite"
+     "layer0": "minecraft:entity/equipment/humanoid/chainmail",
+    "layer2": "minecraft:trims/entity/humanoid/wayfinder_netherite"
   }
 }

@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block_ess/armor/template_helmet",
   "textures": {
-     "layer0": "minecraft:models/armor/diamond_layer_1",
-    "layer2": "minecraft:trims/models/armor/shaper_iron"
+     "layer0": "minecraft:entity/equipment/humanoid/diamond",
+    "layer2": "minecraft:trims/entity/humanoid/shaper_iron"
   }
 }

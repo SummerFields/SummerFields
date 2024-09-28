@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block_ess/armor/template_leggings",
   "textures": {
-	"layer0": "minecraft:models/armor/iron_layer_2"
+	"layer0": "minecraft:entity/equipment/humanoid_leggings/iron"
   },
   "overrides": [
     {

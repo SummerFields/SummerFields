@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block_ess/armor/template_boots",
   "textures": {
-	"layer0": "minecraft:models/armor/netherite_layer_1",
-	"layer2": "minecraft:trims/models/armor/wayfinder_copper"
+	"layer0": "minecraft:entity/equipment/humanoid/netherite",
+	"layer2": "minecraft:trims/entity/humanoid/wayfinder_copper"
   }
 }

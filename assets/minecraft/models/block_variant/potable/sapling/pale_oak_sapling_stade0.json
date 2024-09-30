@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cross",
+    "textures": {
+        "cross": "minecraft:textures_variant/potable/pale_oak_sapling_stade0"
+    }
+}

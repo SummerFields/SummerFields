@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block_variant/trapdoor/template_trapdoor",
+    "textures": {
+        "texture": "minecraft:block/pale_oak_trapdoor",
+        "particle": "minecraft:textures_variant/trapdoor/pale_oak_trapdoor_side"
+    }
+}

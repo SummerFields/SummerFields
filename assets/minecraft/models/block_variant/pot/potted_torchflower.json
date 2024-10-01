@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:block_variant/pot/pot_cross",
-    "textures": {
-        "plant": "minecraft:block/torchflower"
-    }
-}

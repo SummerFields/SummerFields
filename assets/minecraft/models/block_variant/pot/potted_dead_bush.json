@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:block_variant/pot/pot_cross",
-    "textures": {
-        "plant": "minecraft:textures_variant/potted/dead_bush_pot"
-    }
-}

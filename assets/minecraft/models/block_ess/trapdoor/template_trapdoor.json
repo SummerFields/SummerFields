@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/thin_block",
+	"textures": {
+		"texture": "5cf31552/pale_oak_trapdoor",
+		"particle": "31fa0817/pale_oak_trapdoor_side"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 3, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 3], "texture": "#particle", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 3], "texture": "#particle", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 3], "rotation": 180, "texture": "#particle", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 3], "rotation": 180, "texture": "#particle", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#texture"},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#texture", "cullface": "down"}
+			}
+		}
+	]
+}

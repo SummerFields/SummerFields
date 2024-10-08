@@ -1,6 +1,5 @@
 {
-	"credit": "Made with Blockbench",
-	"parent": "minecraft:block/thin_block",
+	"parent": "minecraft:block_ess/trapdoor/template_trapdoor",
 	"textures": {
 		"texture": "minecraft:block/bamboo_trapdoor",
 		"particle": "minecraft:variant_ess/trapdoor/bamboo_trapdoor_side"

@@ -1,0 +1,27 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/elytra"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "broken": 1
+            },
+            "model": "minecraft:item/broken_elytra"
+        },
+        {
+		"predicate": {
+			"custom_model_data": 1
+		},
+		"model": "minecraft:item/angel_wing"
+	},
+        {
+		"predicate": {
+			"custom_model_data": 1,
+			"broken": 1
+		},
+		"model": "minecraft:item/broken_angel_wing"
+	}
+    ]
+}

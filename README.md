@@ -42,6 +42,18 @@ If you play with mods, then it's recommended that you download the mod support p
 History of Recent Updates
 ------------------------
 
+Release 1.21.2
+  - by [lipki] (https://github.com/lipki)
+	- HUD air empty
+	- Tweaks moss carpet
+	- Tweaks Campfire
+	- Tweaks Iron bars
+	- new Panorama
+	- Bundle
+	- Datapack support - Painting selector
+	- Multiple Interface change
+	- 2 Item banner
+
 Release 1.21
   - by [lipki] (https://github.com/lipki)
 	- Particle gust

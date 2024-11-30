@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "minecraft:block_variant/walls/cobbled_deepslate_inventory"
+  }
+}

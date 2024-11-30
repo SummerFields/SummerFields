@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block_variant/walls/template_post",
+	"textures": {
+		"post": "minecraft:textures_variant/walls/resin_bricks_post",
+		"particle": "#post"
+	}
+}

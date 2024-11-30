@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block/pressure_plate_up",
+    "parent": "minecraft:block_variant/pressure_plate/display_pressure_plate",
     "textures": {
         "texture": "minecraft:textures_variant/pressure_plate/cherry_pressure_plate"
     }

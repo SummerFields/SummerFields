@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/armorstand/armorstand_inventory",
+    "parent": "minecraft:item_variant/armorstand_inventory",
     "display": {
         "thirdperson_righthand": {
             "rotation": [

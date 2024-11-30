@@ -1,0 +1,9 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{ "type": "minecraft:model", "model": "minecraft:block_variant/infested/infested_inventory"},
+			{ "type": "minecraft:model", "model": "minecraft:block_variant/bricks/cobblestone"}
+		]
+	}
+}

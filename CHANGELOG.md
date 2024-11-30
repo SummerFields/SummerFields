@@ -3,44 +3,82 @@
 
 This changelog lists all notable updates and contributions for the SummerFields texture pack. 
 
----         
+---
+
+Release 1.21.4
+
+ - by [Physignatily] (https://github.com/Physignatily) and [lipki] (https://github.com/lipki)
+	- All of Pale oak wooden block
+
+ - by [lipki] (https://github.com/lipki)
+	- rest of Pale block
+	- resin
+	- eyeblossom
+	- creaking
+	- creaking heart
+
+
+ - by [lipki] (https://github.com/lipki)
+	- HUD air empty
+	- Tweaks moss carpet
+	- Tweaks Campfire
+	- Tweaks Iron bars
+	- new Panorama
+	- Bundle
+	- Datapack support - Painting selector
+	- Multiple Interface change
+	- 2 Item banner
+
+Release 1.21.2
+
+- by [lipki] (https://github.com/lipki)
+	- HUD air empty
+	- Tweaks moss carpet
+	- Tweaks Campfire
+	- Tweaks Iron bars
+	- new Panorama
+	- Bundle
+	- Datapack support - Painting selector
+	- Multiple Interface change
+	- 2 Item banner
+
 
 Release 1.21
 
-    by [lipki] (https://github.com/lipki)
-        Particle gust
-        Breeze
-        Wind
-        Vault
-        Trial Key
-        Trial Spawner
-        Copper Block variante
-        Crafter
-        New bad effect
-        Ominous effect
-        Ominous bottle
-        Ominous Particles
-        Ominous Vault
-        Ominous Trial Spawner
-        Split map decorations
-        Mace
-        2 New shields
-        2 New banners
-        3 New pottery pattern
-        3 New Music Disc
-        2 New Trims
+ - by [lipki] (https://github.com/lipki)
+	- Particle gust
+	- Breeze
+	- Wind
+	- Vault
+	- Trial Key
+	- Trial Spawner
+	- Copper Block variante
+	- Crafter
+	- New bad effect
+	- Ominous effect
+	- Ominous bottle
+	- Ominous Particles
+	- Ominous Vault
+	- Ominous Trial Spawner
+	- Split map decorations
+	- Mace
+	- 2 New shields
+	- 2 New banners
+	- 3 New pottery pattern
+	- 3 New Music Disc
+	- 2 New Trims
 
 
 Release 1.20.6
 
-    by [lipki] (https://github.com/lipki)
-        New Wolfs
-        Update gui
-        Update vials
-        Correction Dark oak
-        Armadillo
-        Spawner redo
-        Wolf armor
+- by [lipki] (https://github.com/lipki)
+	- New Wolfs
+	- Update gui
+	- Update vials
+	- Correction Dark oak
+	- Armadillo
+	- Spawner redo
+	- Wolf armor
 
 
 Release 1.20.3

@@ -1,0 +1,19 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:block_variant/stairs/exposed_cut_copper_stairs"
+			},
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:block_variant/stairs/exposed_cut_copper_back"
+			},
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:block_variant/stairs/exposed_cut_copper_side"
+			}
+		]
+	}
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block_full/waxed/template_block_inventory_waxed",
+    "textures": {
+      "particle": "minecraft:block/weathered_copper_bulb",
+      "waxed": "minecraft:variant_full/waxed/block_waxed"
+    }
+}

@@ -2,7 +2,7 @@
   "layers": {
     "wings": [
       {
-        "texture": "minecraft:elytra_ange",
+        "texture": "minecraft:angel_wing",
         "use_player_texture": true
       }
     ]

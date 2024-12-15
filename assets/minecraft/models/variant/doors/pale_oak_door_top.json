@@ -1,0 +1,23 @@
+{
+	"parent": "minecraft:block/block",
+	"textures": {
+		"2": "minecraft:variant/doors/pale_oak_door_side",
+		"particle": "minecraft:variant/doors/pale_oak_door_side",
+		"top": "minecraft:block/pale_oak_door_top"
+	},
+	"elements": [
+		{
+			"name": "Box8",
+			"from": [0, 0, 0],
+			"to": [3, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 3, 16], "texture": "#2"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"south": {"uv": [12, 0, 9, 16], "texture": "#2"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#top"},
+				"up": {"uv": [6, 0, 9, 16], "rotation": 180, "texture": "#2"},
+				"down": {"uv": [6, 0, 9, 16], "rotation": 180, "texture": "#2"}
+			}
+		}
+	]
+}

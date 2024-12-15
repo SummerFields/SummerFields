@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block_full/waxed/template_stairs_inventory_waxed",
-    "textures": {
-      "particle": "minecraft:variant_full/stairs/cut_copper_stair",
-      "waxed": "minecraft:variant_full/waxed/block_waxed"
-    }
-}

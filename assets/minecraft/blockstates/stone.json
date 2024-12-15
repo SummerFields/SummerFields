@@ -2,8 +2,8 @@
     "variants": {
         "": [
             { "model": "minecraft:block/stone" },
-            { "model": "minecraft:block/stone/stone/stone_1" },
-            { "model": "minecraft:block/stone/stone/stone_2" }
+            { "model": "minecraft:variant/stone/stone_1" },
+            { "model": "minecraft:variant/stone/stone_2" }
         ]
     }
 }

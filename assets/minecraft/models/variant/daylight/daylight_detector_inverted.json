@@ -1,0 +1,21 @@
+{   "parent": "minecraft:block/block",
+    "textures": {
+        "particle": "minecraft:block/daylight_detector_inverted_top",
+        "top": "minecraft:block/daylight_detector_inverted_top",
+        "bottom": "minecraft:variant/daylight_detector/daylight_detector_bottom",
+        "side": "minecraft:block/daylight_detector_side"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 6, 16 ],
+            "faces": {
+                "down" : { "texture": "#bottom", "cullface": "down"  },
+                "up"   : { "texture": "#top" },
+                "west" : { "uv": [ 0, 10, 16, 16 ], "texture": "#side", "cullface": "west"  },
+                "north": { "uv": [ 0, 10, 16, 16 ], "texture": "#side", "cullface": "north" },
+                "south": { "uv": [ 0, 10, 16, 16 ], "texture": "#side", "cullface": "south" },
+                "east" : { "uv": [ 0, 10, 16, 16 ], "texture": "#side", "cullface": "east"  }
+            }
+        }
+    ]
+}

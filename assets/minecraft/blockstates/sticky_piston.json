@@ -1,16 +1,16 @@
 {
     "variants": {
-        "extended=false,facing=down": { "model": "minecraft:block/piston/sticky_piston", "x": 90 },
-        "extended=false,facing=up": { "model": "minecraft:block/piston/sticky_piston", "x": 270 },
-        "extended=false,facing=north": { "model": "minecraft:block/piston/sticky_piston" },
-        "extended=false,facing=south": { "model": "minecraft:block/piston/sticky_piston", "y": 180 },
-        "extended=false,facing=west": { "model": "minecraft:block/piston/sticky_piston", "y": 270 },
-        "extended=false,facing=east": { "model": "minecraft:block/piston/sticky_piston", "y": 90 },
-        "extended=true,facing=down": { "model": "minecraft:block/piston/sticky_piston_base", "x": 90 },
-        "extended=true,facing=up": { "model": "minecraft:block/piston/sticky_piston_base", "x": 270 },
-        "extended=true,facing=north": { "model": "minecraft:block/piston/sticky_piston_base" },
-        "extended=true,facing=south": { "model": "minecraft:block/piston/sticky_piston_base", "y": 180 },
-        "extended=true,facing=west": { "model": "minecraft:block/piston/sticky_piston_base", "y": 270 },
-        "extended=true,facing=east": { "model": "minecraft:block/piston/sticky_piston_base", "y": 90 }
+        "extended=false,facing=down": { "model": "minecraft:variant/piston/sticky_piston", "x": 90 },
+        "extended=false,facing=up": { "model": "minecraft:variant/piston/sticky_piston", "x": 270 },
+        "extended=false,facing=north": { "model": "minecraft:variant/piston/sticky_piston" },
+        "extended=false,facing=south": { "model": "minecraft:variant/piston/sticky_piston", "y": 180 },
+        "extended=false,facing=west": { "model": "minecraft:variant/piston/sticky_piston", "y": 270 },
+        "extended=false,facing=east": { "model": "minecraft:variant/piston/sticky_piston", "y": 90 },
+        "extended=true,facing=down": { "model": "minecraft:variant/piston/sticky_piston_base", "x": 90 },
+        "extended=true,facing=up": { "model": "minecraft:variant/piston/sticky_piston_base", "x": 270 },
+        "extended=true,facing=north": { "model": "minecraft:variant/piston/sticky_piston_base" },
+        "extended=true,facing=south": { "model": "minecraft:variant/piston/sticky_piston_base", "y": 180 },
+        "extended=true,facing=west": { "model": "minecraft:variant/piston/sticky_piston_base", "y": 270 },
+        "extended=true,facing=east": { "model": "minecraft:variant/piston/sticky_piston_base", "y": 90 }
     }
 }

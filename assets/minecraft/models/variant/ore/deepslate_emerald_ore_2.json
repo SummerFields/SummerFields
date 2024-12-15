@@ -1,0 +1,3 @@
+{"parent":"minecraft:variant/ore/template_ore",
+"textures":{"base":"minecraft:variant/ore/deepslate_emerald_ore_2",
+"glow":"minecraft:variant/ore/emerald_ore_2_emission"}}

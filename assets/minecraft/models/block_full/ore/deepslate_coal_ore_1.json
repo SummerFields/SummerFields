@@ -1,7 +1,0 @@
-{
-	"parent":"minecraft:block_full/ore/template_ore",
-	"textures":{
-		"base":"minecraft:block/deepslate_coal_ore",
-		"glow":"minecraft:variant_ess/empty"
-	}
-}

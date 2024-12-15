@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-        "all": "minecraft:variant_full/bricks/dark_prismarine_5"
-    }
-}

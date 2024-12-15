@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block_ess/armor/template_chestplate",
+  "parent": "minecraft:variant/armor/template_chestplate",
   "textures": {
      "layer0": "minecraft:entity/equipment/humanoid/netherite",
     "layer2": "minecraft:trims/entity/humanoid/wayfinder_copper"

@@ -1,16 +1,16 @@
 {
   "multipart": [
     {   "apply": [
-        { "model": "minecraft:block_full/pot/potted_dead_bush" },
-        { "model": "minecraft:block_full/pot/potted_dead_bush_1" }
+        { "model": "minecraft:variant/pot/potted_dead_bush" },
+        { "model": "minecraft:variant/pot/potted_dead_bush_1" }
       ]
     },
     {   "apply": [
-        { "model": "minecraft:block_full/pot/pot_0" },
-        { "model": "minecraft:block_full/pot/pot_1" },
-        { "model": "minecraft:block_full/pot/pot_2" },
-        { "model": "minecraft:block_full/pot/pot_3" },
-        { "model": "minecraft:block_full/pot/pot_4" }
+        { "model": "minecraft:variant/pot/pot_0" },
+        { "model": "minecraft:variant/pot/pot_1" },
+        { "model": "minecraft:variant/pot/pot_2" },
+        { "model": "minecraft:variant/pot/pot_3" },
+        { "model": "minecraft:variant/pot/pot_4" }
       ]
     } 
   ]

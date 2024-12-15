@@ -1,11 +1,11 @@
 {
     "variants": {
         "": [
-          { "model": "minecraft:block_full/bricks/tuff_bricks_1" },
-          { "model": "minecraft:block_full/bricks/tuff_bricks_2" },
-          { "model": "minecraft:block_full/bricks/tuff_bricks_3" },
-          { "model": "minecraft:block_full/bricks/tuff_bricks_4" },
-          { "model": "minecraft:block_full/bricks/tuff_bricks_5" }
+          { "model": "minecraft:variant/bricks/tuff_bricks_1" },
+          { "model": "minecraft:variant/bricks/tuff_bricks_2" },
+          { "model": "minecraft:variant/bricks/tuff_bricks_3" },
+          { "model": "minecraft:variant/bricks/tuff_bricks_4" },
+          { "model": "minecraft:variant/bricks/tuff_bricks_5" }
         ]
     }
 }

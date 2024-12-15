@@ -1,6 +1,6 @@
 {
   "multipart": [
-    { "when": { "stage": "0"  }, "apply": { "model": "minecraft:block_full/sapling/acacia_sapling_stade0" }},
+    { "when": { "stage": "0"  }, "apply": { "model": "minecraft:variant/sapling/acacia_sapling_stade0" }},
     { "when": { "stage": "1"  }, "apply": { "model": "minecraft:block/acacia_sapling" }}
   ]
 }

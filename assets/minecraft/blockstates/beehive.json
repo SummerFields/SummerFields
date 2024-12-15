@@ -5,65 +5,65 @@
       "y": 90
     },
     "facing=east,honey_level=1": {
-      "model": "minecraft:block_full/beenest/beehive_1",
+      "model": "minecraft:variant/beenest/beehive_1",
       "y": 90
     },
     "facing=east,honey_level=2": {
-      "model": "minecraft:block_full/beenest/beehive_2",
+      "model": "minecraft:variant/beenest/beehive_2",
       "y": 90
     },
     "facing=east,honey_level=3": {
-      "model": "minecraft:block_full/beenest/beehive_3",
+      "model": "minecraft:variant/beenest/beehive_3",
       "y": 90
     },
     "facing=east,honey_level=4": {
-      "model": "minecraft:block_full/beenest/beehive_4",
+      "model": "minecraft:variant/beenest/beehive_4",
       "y": 90
     },
     "facing=east,honey_level=5": {
-      "model": "minecraft:block_full/beenest/beehive_honey",
+      "model": "minecraft:variant/beenest/beehive_honey",
       "y": 90
     },
     "facing=north,honey_level=0": {
       "model": "minecraft:block/beehive_empty"
     },
     "facing=north,honey_level=1": {
-      "model": "minecraft:block_full/beenest/beehive_1"
+      "model": "minecraft:variant/beenest/beehive_1"
     },
     "facing=north,honey_level=2": {
-      "model": "minecraft:block_full/beenest/beehive_2"
+      "model": "minecraft:variant/beenest/beehive_2"
     },
     "facing=north,honey_level=3": {
-      "model": "minecraft:block_full/beenest/beehive_3"
+      "model": "minecraft:variant/beenest/beehive_3"
     },
     "facing=north,honey_level=4": {
-      "model": "minecraft:block_full/beenest/beehive_4"
+      "model": "minecraft:variant/beenest/beehive_4"
     },
     "facing=north,honey_level=5": {
-      "model": "minecraft:block_full/beenest/beehive_honey"
+      "model": "minecraft:variant/beenest/beehive_honey"
     },
     "facing=south,honey_level=0": {
       "model": "minecraft:block/beehive_empty",
       "y": 180
     },
     "facing=south,honey_level=1": {
-      "model": "minecraft:block_full/beenest/beehive_1",
+      "model": "minecraft:variant/beenest/beehive_1",
       "y": 180
     },
     "facing=south,honey_level=2": {
-      "model": "minecraft:block_full/beenest/beehive_2",
+      "model": "minecraft:variant/beenest/beehive_2",
       "y": 180
     },
     "facing=south,honey_level=3": {
-      "model": "minecraft:block_full/beenest/beehive_3",
+      "model": "minecraft:variant/beenest/beehive_3",
       "y": 180
     },
     "facing=south,honey_level=4": {
-      "model": "minecraft:block_full/beenest/beehive_4",
+      "model": "minecraft:variant/beenest/beehive_4",
       "y": 180
     },
     "facing=south,honey_level=5": {
-      "model": "minecraft:block_full/beenest/beehive_honey",
+      "model": "minecraft:variant/beenest/beehive_honey",
       "y": 180
     },
     "facing=west,honey_level=0": {
@@ -71,23 +71,23 @@
       "y": 270
     },
     "facing=west,honey_level=1": {
-      "model": "minecraft:block_full/beenest/beehive_1",
+      "model": "minecraft:variant/beenest/beehive_1",
       "y": 270
     },
     "facing=west,honey_level=2": {
-      "model": "minecraft:block_full/beenest/beehive_2",
+      "model": "minecraft:variant/beenest/beehive_2",
       "y": 270
     },
     "facing=west,honey_level=3": {
-      "model": "minecraft:block_full/beenest/beehive_3",
+      "model": "minecraft:variant/beenest/beehive_3",
       "y": 270
     },
     "facing=west,honey_level=4": {
-      "model": "minecraft:block_full/beenest/beehive_4",
+      "model": "minecraft:variant/beenest/beehive_4",
       "y": 270
     },
     "facing=west,honey_level=5": {
-      "model": "minecraft:block_full/beenest/beehive_honey",
+      "model": "minecraft:variant/beenest/beehive_honey",
       "y": 270
     }
   }

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:variant/walls/bricks/template_wall_post",
+  "textures": {
+    "top": "minecraft:variant/bricks/mossy_stone_bricks_top_1",
+    "wall": "minecraft:block/mossy_stone_bricks"
+  }
+}

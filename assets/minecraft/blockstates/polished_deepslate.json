@@ -2,10 +2,10 @@
     "variants": {
         "": [
             { "model": "minecraft:block/polished_deepslate" },
-            { "model": "minecraft:block_full/polished/polished_deepslate_2" },
-            { "model": "minecraft:block_full/polished/polished_deepslate_3" },
-            { "model": "minecraft:block_full/polished/polished_deepslate_4" },
-            { "model": "minecraft:block_full/polished/polished_deepslate_5" }
+            { "model": "minecraft:variant/polished/polished_deepslate_2" },
+            { "model": "minecraft:variant/polished/polished_deepslate_3" },
+            { "model": "minecraft:variant/polished/polished_deepslate_4" },
+            { "model": "minecraft:variant/polished/polished_deepslate_5" }
         ]
     }
 }

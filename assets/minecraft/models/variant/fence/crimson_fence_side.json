@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:variant/fence/custom_fence_side",
+    "textures": {
+        "texture": "minecraft:variant/fence/crimson_fence"
+    }
+}

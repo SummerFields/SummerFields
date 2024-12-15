@@ -1,15 +1,15 @@
 {
     "variants": {
         "": [
-            { "model": "minecraft:block/bookshelf" },
-            { "model": "minecraft:block/random/bookshelf/bookshelf1" },
-            { "model": "minecraft:block/random/bookshelf/bookshelf2" },
-            { "model": "minecraft:block/random/bookshelf/bookshelf3" },
-            { "model": "minecraft:block/random/bookshelf/bookshelf4" },
-            { "model": "minecraft:block/random/bookshelf/bookshelf5" },
-            { "model": "minecraft:block/random/bookshelf/bookshelf6" },
-            { "model": "minecraft:block/random/bookshelf/bookshelf7" },
-            { "model": "minecraft:block/random/bookshelf/bookshelf8" }
+            { "model": "minecraft:variant/bookshelf/bookshelf8", "weight": 2 },
+            { "model": "minecraft:variant/bookshelf/bookshelf1", "weight": 4 },
+            { "model": "minecraft:variant/bookshelf/bookshelf2", "weight": 6 },
+            { "model": "minecraft:variant/bookshelf/bookshelf3", "weight": 8 },
+            { "model": "minecraft:variant/bookshelf/bookshelf4", "weight": 10 },
+            { "model": "minecraft:variant/bookshelf/bookshelf5", "weight": 12 },
+            { "model": "minecraft:variant/bookshelf/bookshelf6", "weight": 14 },
+            { "model": "minecraft:variant/bookshelf/bookshelf7", "weight": 16 },
+            { "model": "minecraft:block/bookshelf", "weight": 18 }
         ]
     }
 }

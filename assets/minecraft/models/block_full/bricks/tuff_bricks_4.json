@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block/cube_column",
-    "textures": {
-        "end": "minecraft:variant_full/bricks/tuff_bricks_top_4",
-        "side": "minecraft:block/tuff_bricks"
-    }
-}

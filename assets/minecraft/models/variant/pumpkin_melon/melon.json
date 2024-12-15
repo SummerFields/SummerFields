@@ -1,0 +1,15 @@
+{
+    "parent": "minecraft:variant/pumpkin_melon/orientable_b",
+    "textures": {
+        "top": "minecraft:block/melon_top",
+        "bottom": "minecraft:variant/pumpkin_melon/melon_bottom",
+        "front": "minecraft:block/melon_side",
+        "side": "minecraft:block/melon_side"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 30, 45, 0 ],
+            "scale": [ 0.6, 0.6, 0.6 ]
+        }
+    }
+}

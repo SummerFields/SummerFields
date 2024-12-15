@@ -2,10 +2,10 @@
     "variants": {
         "": [
           { "model": "minecraft:block/smooth_stone" },
-          { "model": "minecraft:block/block/smooth_stone_1" },
-          { "model": "minecraft:block/block/smooth_stone_2" },
-          { "model": "minecraft:block/block/smooth_stone_3" },
-          { "model": "minecraft:block/block/smooth_stone_4" }
+          { "model": "minecraft:variant/bricks/smooth_stone_1" },
+          { "model": "minecraft:variant/bricks/smooth_stone_2" },
+          { "model": "minecraft:variant/bricks/smooth_stone_3" },
+          { "model": "minecraft:variant/bricks/smooth_stone_4" }
         ]
     }
 }

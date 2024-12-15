@@ -1,0 +1,15 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:block/weathered_cut_copper_slab"
+			},
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:variant/waxed/template_slab_inventory_waxed"
+			}
+		]
+	}
+}

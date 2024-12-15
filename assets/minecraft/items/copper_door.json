@@ -1,0 +1,6 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "minecraft:variant/doors/copper_door_inventory"
+	}
+}

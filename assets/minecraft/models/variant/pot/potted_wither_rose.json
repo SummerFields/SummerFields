@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:variant/pot/pot_cross",
+    "textures": {
+        "plant": "minecraft:block/wither_rose"
+    }
+}

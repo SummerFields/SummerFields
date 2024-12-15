@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block_full/walls/bricks/template_wall_side",
-  "textures": {
-	"1": "minecraft:block/polished_blackstone",
-    "wall": "minecraft:block/polished_blackstone"
-  }
-}

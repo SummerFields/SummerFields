@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "tip=false": [
+	{ "model": "minecraft:variant/hanging/pale_hanging_moss", "weight":985 },
+	{ "model": "minecraft:variant/hanging/pale_hanging_moss_fruit",  "weight":15 }
+    ],
+    "tip=true": [
+	{ "model": "minecraft:variant/hanging/pale_hanging_moss_tip", "weight":985 },
+	{ "model": "minecraft:variant/hanging/pale_hanging_moss_tip_fruit", "weight":15 }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:variant/walls/bricks/template_wall_post",
+  "textures": {
+    "top": "minecraft:variant/bricks/deepslate_bricks_wall",
+    "wall": "minecraft:block/deepslate_bricks"
+  }
+}

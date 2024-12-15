@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:block/cube_bottom_top",
+    "textures": {
+        "top": "minecraft:block/pumpkin_top",
+        "bottom": "minecraft:variant/pumpkin_melon/pumpkin_bottom",
+        "side": "minecraft:block/pumpkin_side"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 30, 45, 0 ],
+            "scale": [ 0.6, 0.6, 0.6 ]
+        }
+    }
+}

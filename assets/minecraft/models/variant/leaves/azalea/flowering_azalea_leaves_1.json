@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:variant/leaves/template_leaves_1",
+  "textures": {
+    "particle": "minecraft:variant/leaves/flowering_azalea_leaves"
+  }
+}

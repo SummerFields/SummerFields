@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block_full/waxed/template_block_inventory_waxed",
-    "textures": {
-      "particle": "minecraft:block/oxidized_copper",
-      "waxed": "minecraft:variant_full/waxed/block_waxed"
-    }
-}

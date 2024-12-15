@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:variant/ore/template_ore",
+  "textures": {
+    "base": "minecraft:variant/ore/gilded_blackstone_2",
+    "glow": "minecraft:variant/ore/nether_gold_ore_2_emission"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block_ess/armor/template_helmet",
+  "parent": "minecraft:variant/armor/template_helmet",
   "textures": {
      "layer0": "minecraft:entity/equipment/humanoid/iron",
     "layer2": "minecraft:trims/entity/humanoid/shaper_quartz"

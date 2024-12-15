@@ -1,0 +1,11 @@
+{
+	"cyellowit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"top": "block/yellow_stained_glass_pane_top",
+		"particle": "block/yellow_stained_glass",
+		"face": "block/yellow_stained_glass",
+		"inner": "variant/glass/glass_pane_inner"
+	},
+	"parent": "minecraft:variant/glass/glass_pane_angle"
+}

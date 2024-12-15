@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:block/slab/smooth_stone_slab_top",
-    "textures": {
-        "bottom": "minecraft:block/variants/slab/stone_slab_top_1",
-        "top": "minecraft:block/variants/slab/stone_slab_top_1",
-        "side": "minecraft:block/variants/slab/stone_slab_side"
-    }
-}

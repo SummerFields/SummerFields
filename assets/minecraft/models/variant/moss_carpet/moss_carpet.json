@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/carpet",
+	"textures": {
+		"1": "minecraft:variant/moss_carpet/moss_carpet_side",
+		"2": "minecraft:variant/moss_carpet/moss_block",
+		"wool": "minecraft:block/moss_block",
+		"particle": "minecraft:variant/moss_carpet/moss_carpet_side"
+	},
+	"elements": [
+		{
+			"from": [-0.01, -5, -0.01],
+			"to": [16.01, 1, 16.01],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -5, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 6], "texture": "#1", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 6], "texture": "#1", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 6], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 6], "texture": "#1", "cullface": "west"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [16, 1, 16],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [16, 0, 16],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#wool", "rotation": 180}
+			}
+		}
+	]
+}

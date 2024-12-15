@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+        "end": "minecraft:variant/end_stone/end_stone_bricks_top",
+        "side": "minecraft:block/end_stone_bricks"
+    }
+}

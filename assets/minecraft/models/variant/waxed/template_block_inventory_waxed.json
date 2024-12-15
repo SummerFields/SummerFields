@@ -1,0 +1,20 @@
+{
+	"parent": "minecraft:block/block",
+	"textures": {
+		"waxed": "variant/waxed/block_waxed"
+	},
+	"elements": [
+		{
+			"from": [-0.1, -0.1, -0.1],
+			"to": [16.1, 16.1, 16.1],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#waxed", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#waxed", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#waxed", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#waxed", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#waxed"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#waxed", "cullface": "down"}
+			}
+		}
+	]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:variant/walls/bricks/template_wall_side",
+  "textures": {
+	"1": "minecraft:variant/bricks/end_stone_bricks_wall",
+    "wall": "minecraft:block/end_stone_bricks"
+  }
+}

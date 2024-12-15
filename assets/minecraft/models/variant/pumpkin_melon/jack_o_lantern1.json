@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:variant/pumpkin_melon/orientable_b",
+    "textures": {
+        "top": "minecraft:block/pumpkin_top",
+        "bottom": "minecraft:variant/pumpkin_melon/pumpkin_bottom",
+        "front": "minecraft:variant/pumpkin_melon/jack_o_lantern_1",
+        "side": "minecraft:block/pumpkin_side"
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:variant/stairs/template_inner_stairs",
+	"textures": {
+		"0": "minecraft:variant/stairs/mossy_stone_bricks_stair",
+		"particle": "minecraft:variant/stairs/mossy_stone_bricks_stair"
+	}
+}

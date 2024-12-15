@@ -2,10 +2,10 @@
     "variants": {
         "": [
             { "model": "minecraft:block/polished_blackstone" },
-            { "model": "minecraft:block_full/polished/polished_blackstone_2" },
-            { "model": "minecraft:block_full/polished/polished_blackstone_3" },
-            { "model": "minecraft:block_full/polished/polished_blackstone_4" },
-            { "model": "minecraft:block_full/polished/polished_blackstone_5" }
+            { "model": "minecraft:variant/polished/polished_blackstone_2" },
+            { "model": "minecraft:variant/polished/polished_blackstone_3" },
+            { "model": "minecraft:variant/polished/polished_blackstone_4" },
+            { "model": "minecraft:variant/polished/polished_blackstone_5" }
         ]
     }
 }

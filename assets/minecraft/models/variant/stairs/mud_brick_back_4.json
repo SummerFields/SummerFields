@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:variant/stairs/template_back_4",
+	"textures": {
+		"back": "minecraft:variant/bricks/mud_bricks_top_4",
+		"particle": "#back"
+	}
+}

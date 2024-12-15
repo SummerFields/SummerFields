@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block_ess/trapdoor/template_trapdoor",
-    "textures": {
-        "texture": "minecraft:block/oak_trapdoor",
-        "particle": "minecraft:variant_ess/trapdoor/oak_trapdoor_side"
-    }
-}

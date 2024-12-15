@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:variant/stairs/template_back_1",
+	"textures": {
+		"back": "minecraft:block/cut_copper",
+		"particle": "#back"
+	}
+}

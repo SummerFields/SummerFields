@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:variant/stairs/template_side",
+	"textures": {
+		"back": "minecraft:block/oxidized_cut_copper",
+		"particle": "#back"
+	}
+}

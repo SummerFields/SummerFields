@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:block/cross",
-    "textures": {
-        "cross": "minecraft:variant_ess/sapling/mangrove_propagule_stade0"
-    }
-}

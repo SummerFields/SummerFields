@@ -18,18 +18,18 @@
         },
         {   "when": { "leaves": "small" },
             "apply": [
-                { "model": "minecraft:block_full/bamboo/bamboo_small_leaves1", "y": 0 },
-                { "model": "minecraft:block_full/bamboo/bamboo_small_leaves2", "y": 90 },
-                { "model": "minecraft:block_full/bamboo/bamboo_small_leaves3", "y": 180 },
-                { "model": "minecraft:block_full/bamboo/bamboo_small_leaves4", "y": 270 }
+                { "model": "minecraft:variant/bamboo/bamboo_small_leaves1", "y": 0 },
+                { "model": "minecraft:variant/bamboo/bamboo_small_leaves2", "y": 90 },
+                { "model": "minecraft:variant/bamboo/bamboo_small_leaves3", "y": 180 },
+                { "model": "minecraft:variant/bamboo/bamboo_small_leaves4", "y": 270 }
             ]
         },
         {   "when": { "leaves": "large" },
             "apply": [
-                { "model": "minecraft:block_full/bamboo/bamboo_large_leaves1", "y": 0 },
-                { "model": "minecraft:block_full/bamboo/bamboo_large_leaves2", "y": 90 },
-                { "model": "minecraft:block_full/bamboo/bamboo_large_leaves3", "y": 180 },
-                { "model": "minecraft:block_full/bamboo/bamboo_large_leaves4", "y": 270 }
+                { "model": "minecraft:variant/bamboo/bamboo_large_leaves1", "y": 0 },
+                { "model": "minecraft:variant/bamboo/bamboo_large_leaves2", "y": 90 },
+                { "model": "minecraft:variant/bamboo/bamboo_large_leaves3", "y": 180 },
+                { "model": "minecraft:variant/bamboo/bamboo_large_leaves4", "y": 270 }
             ]
         }
     ]

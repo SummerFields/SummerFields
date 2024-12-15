@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:variant/pot/pot_cross",
+    "textures": {
+        "plant": "minecraft:block/warped_roots_pot"
+    }
+}

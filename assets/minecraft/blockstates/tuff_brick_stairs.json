@@ -2,96 +2,98 @@
   "multipart": [
     {
       "when": { "half": "bottom" }, "apply": [
-	{ "model": "minecraft:block_full/stairs/tuff_brick_back_1" },
-	{ "model": "minecraft:block_full/stairs/tuff_brick_back_2" },
-	{ "model": "minecraft:block_full/stairs/tuff_brick_back_3" },
-	{ "model": "minecraft:block_full/stairs/tuff_brick_back_4" },
-	{ "model": "minecraft:block_full/stairs/tuff_brick_back_5" }
+	{ "model": "minecraft:variant/stairs/tuff_brick_back_1" },
+	{ "model": "minecraft:variant/stairs/tuff_brick_back_2" },
+	{ "model": "minecraft:variant/stairs/tuff_brick_back_3" },
+	{ "model": "minecraft:variant/stairs/tuff_brick_back_4" },
+	{ "model": "minecraft:variant/stairs/tuff_brick_back_5" }
       ]
     },
     {
       "when": { "half": "top" }, "apply": [
-       { "model": "minecraft:block_full/stairs/tuff_brick_back_1", "x": 180 },
-       { "model": "minecraft:block_full/stairs/tuff_brick_back_2", "x": 180 },
-       { "model": "minecraft:block_full/stairs/tuff_brick_back_3", "x": 180 },
-       { "model": "minecraft:block_full/stairs/tuff_brick_back_4", "x": 180 },
-       { "model": "minecraft:block_full/stairs/tuff_brick_back_5", "x": 180 }
+       { "model": "minecraft:variant/stairs/tuff_brick_back_1", "x": 180 },
+       { "model": "minecraft:variant/stairs/tuff_brick_back_2", "x": 180 },
+       { "model": "minecraft:variant/stairs/tuff_brick_back_3", "x": 180 },
+       { "model": "minecraft:variant/stairs/tuff_brick_back_4", "x": 180 },
+       { "model": "minecraft:variant/stairs/tuff_brick_back_5", "x": 180 }
       ]
     },
     
     
-    { "when": { "facing": "east", "shape":"straight" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_side" } },
-    { "when": { "facing": "west", "shape":"straight" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_side", "y": 180 } },
-    { "when": { "facing": "south", "shape":"straight" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_side", "y": 90 } },
-    { "when": { "facing": "north", "shape":"straight" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_side", "y": 270 } },
+    { "when": { "facing": "south", "shape":"straight" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_side", "y": 0 } },
+    { "when": { "facing": "west", "shape":"straight" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_side", "y": 90 } },
+    { "when": { "facing": "north", "shape":"straight" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_side", "y": 180 } },
+    { "when": { "facing": "east", "shape":"straight" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_side", "y": 270 } },
     
-    { "when": { "facing": "east", "shape":"inner_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_side" } },
-    { "when": { "facing": "west", "shape":"inner_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_side", "y": 180 } },
-    { "when": { "facing": "south", "shape":"inner_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_side", "y": 90 } },
-    { "when": { "facing": "north", "shape":"inner_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_side", "y": 270 } },
-    { "when": { "facing": "east", "shape":"inner_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_side", "y": 90 } },
-    { "when": { "facing": "west", "shape":"inner_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_side", "y": 270 } },
-    { "when": { "facing": "south", "shape":"inner_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_side", "y": 180 } },
-    { "when": { "facing": "north", "shape":"inner_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_side" } },
+    { "when": { "facing": "south", "shape":"inner_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_side", "y": 90 } },
+    { "when": { "facing": "west", "shape":"inner_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_side", "y": 180 } },
+    { "when": { "facing": "north", "shape":"inner_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_side", "y": 270 } },
+    { "when": { "facing": "east", "shape":"inner_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_side", "y": 0 } },
     
-    { "when": { "facing": "east", "shape":"inner_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_side" } },
-    { "when": { "facing": "west", "shape":"inner_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_side", "y": 180 } },
-    { "when": { "facing": "south", "shape":"inner_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_side", "y": 90 } },
-    { "when": { "facing": "north", "shape":"inner_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_side", "y": 270 } },
-    { "when": { "facing": "east", "shape":"inner_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_side", "y": 270 } },
-    { "when": { "facing": "west", "shape":"inner_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_side", "y": 90 } },
-    { "when": { "facing": "south", "shape":"inner_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_side" } },
-    { "when": { "facing": "north", "shape":"inner_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_side", "y": 180 } },
+    { "when": { "facing": "south", "shape":"inner_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_side", "y": 0 } },
+    { "when": { "facing": "west", "shape":"inner_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_side", "y": 90 } },
+    { "when": { "facing": "north", "shape":"inner_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_side", "y": 180 } },
+    { "when": { "facing": "east", "shape":"inner_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_side", "y": 270 } },
+    
+    { "when": { "facing": "south", "shape":"inner_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_side", "y": 270 } },
+    { "when": { "facing": "west", "shape":"inner_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_side", "y": 0 } },
+    { "when": { "facing": "north", "shape":"inner_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_side", "y": 90 } },
+    { "when": { "facing": "east", "shape":"inner_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_side", "y": 180 } },
+    
+    { "when": { "facing": "south", "shape":"inner_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_side", "y": 0 } },
+    { "when": { "facing": "west", "shape":"inner_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_side", "y": 90 } },
+    { "when": { "facing": "north", "shape":"inner_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_side", "y": 180 } },
+    { "when": { "facing": "east", "shape":"inner_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_side", "y": 270 } },
     
     
-    { "when": { "facing": "east", "half":"bottom", "shape":"straight" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_stairs" } },
-    { "when": { "facing": "west", "half":"bottom", "shape":"straight" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_stairs", "y": 180 } },
-    { "when": { "facing": "south", "half":"bottom", "shape":"straight" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_stairs", "y": 90 } },
-    { "when": { "facing": "north", "half":"bottom", "shape":"straight" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_stairs", "y": 270 } },
+    { "when": { "facing": "south", "half":"bottom", "shape":"straight" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_stairs", "y": 0 } },
+    { "when": { "facing": "west", "half":"bottom", "shape":"straight" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_stairs", "y": 90 } },
+    { "when": { "facing": "north", "half":"bottom", "shape":"straight" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_stairs", "y": 180 } },
+    { "when": { "facing": "east", "half":"bottom", "shape":"straight" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_stairs", "y": 270 } },
     
-    { "when": { "facing": "west", "half":"bottom", "shape":"outer_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_outer_stairs", "y": 180 } },
-    { "when": { "facing": "east", "half":"bottom", "shape":"outer_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_outer_stairs" } },
-    { "when": { "facing": "south", "half":"bottom", "shape":"outer_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_outer_stairs", "y": 90 } },
-    { "when": { "facing": "north", "half":"bottom", "shape":"outer_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_outer_stairs", "y": 270 } },
+    { "when": { "facing": "south", "half":"bottom", "shape":"outer_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_outer_stairs", "y": 90 } },
+    { "when": { "facing": "west", "half":"bottom", "shape":"outer_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_outer_stairs", "y": 180 } },
+    { "when": { "facing": "north", "half":"bottom", "shape":"outer_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_outer_stairs", "y": 270 } },
+    { "when": { "facing": "east", "half":"bottom", "shape":"outer_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_outer_stairs", "y": 0 } },
     
-    { "when": { "facing": "west", "half":"bottom", "shape":"outer_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_outer_stairs", "y": 90 } },
-    { "when": { "facing": "east", "half":"bottom", "shape":"outer_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_outer_stairs", "y": 270 } },
-    { "when": { "facing": "south", "half":"bottom", "shape":"outer_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_outer_stairs" } },
-    { "when": { "facing": "north", "half":"bottom", "shape":"outer_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_outer_stairs", "y": 180 } },
+    { "when": { "facing": "south", "half":"bottom", "shape":"outer_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_outer_stairs", "y": 0 } },
+    { "when": { "facing": "west", "half":"bottom", "shape":"outer_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_outer_stairs", "y": 90 } },
+    { "when": { "facing": "north", "half":"bottom", "shape":"outer_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_outer_stairs", "y": 180 } },
+    { "when": { "facing": "east", "half":"bottom", "shape":"outer_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_outer_stairs", "y": 270 } },
     
-    { "when": { "facing": "west", "half":"bottom", "shape":"inner_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_inner_stairs", "y": 180 } },
-    { "when": { "facing": "east", "half":"bottom", "shape":"inner_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_inner_stairs" } },
-    { "when": { "facing": "south", "half":"bottom", "shape":"inner_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_inner_stairs", "y": 90 } },
-    { "when": { "facing": "north", "half":"bottom", "shape":"inner_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_inner_stairs", "y": 270 } },
+    { "when": { "facing": "south", "half":"bottom", "shape":"inner_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_inner_stairs", "y": 90 } },
+    { "when": { "facing": "west", "half":"bottom", "shape":"inner_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_inner_stairs", "y": 180 } },
+    { "when": { "facing": "north", "half":"bottom", "shape":"inner_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_inner_stairs", "y": 270 } },
+    { "when": { "facing": "east", "half":"bottom", "shape":"inner_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_inner_stairs", "y": 0 } },
     
-    { "when": { "facing": "east", "half":"bottom", "shape":"inner_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_inner_stairs", "y": 270 } },
-    { "when": { "facing": "west", "half":"bottom", "shape":"inner_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_inner_stairs", "y": 90 } },
-    { "when": { "facing": "south", "half":"bottom", "shape":"inner_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_inner_stairs" } },
-    { "when": { "facing": "north", "half":"bottom", "shape":"inner_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_inner_stairs", "y": 180 } },
+    { "when": { "facing": "south", "half":"bottom", "shape":"inner_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_inner_stairs", "y": 0 } },
+    { "when": { "facing": "east", "half":"bottom", "shape":"inner_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_inner_stairs", "y": 270 } },
+    { "when": { "facing": "north", "half":"bottom", "shape":"inner_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_inner_stairs", "y": 180 } },
+    { "when": { "facing": "west", "half":"bottom", "shape":"inner_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_inner_stairs", "y": 90 } },
     
-    { "when": { "facing": "east", "half":"top", "shape":"straight" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_stairs", "x": 180 } },
-    { "when": { "facing": "west", "half":"top", "shape":"straight" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_stairs", "x": 180, "y": 180 } },
-    { "when": { "facing": "south", "half":"top", "shape":"straight" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_stairs", "x": 180, "y": 90 } },
-    { "when": { "facing": "north", "half":"top", "shape":"straight" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_stairs", "x": 180, "y": 270 } },
+    { "when": { "facing": "north", "half":"top", "shape":"straight" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_stairs", "x": 180, "y": 0 } },
+    { "when": { "facing": "east", "half":"top", "shape":"straight" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_stairs", "x": 180, "y": 90 } },
+    { "when": { "facing": "south", "half":"top", "shape":"straight" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_stairs", "x": 180, "y": 180 } },
+    { "when": { "facing": "west", "half":"top", "shape":"straight" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_stairs", "x": 180, "y": 270 } },
     
-    { "when": { "facing": "east", "half":"top", "shape":"outer_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_outer_stairs", "x": 180, "y": 90 } },
-    { "when": { "facing": "west", "half":"top", "shape":"outer_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_outer_stairs", "x": 180, "y": 270 } },
-    { "when": { "facing": "south", "half":"top", "shape":"outer_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_outer_stairs", "x": 180, "y": 180 } },
-    { "when": { "facing": "north", "half":"top", "shape":"outer_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_outer_stairs", "x": 180 } },
+    { "when": { "facing": "north", "half":"top", "shape":"outer_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_outer_stairs", "x": 180, "y": 0 } },
+    { "when": { "facing": "east", "half":"top", "shape":"outer_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_outer_stairs", "x": 180, "y": 90 } },
+    { "when": { "facing": "south", "half":"top", "shape":"outer_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_outer_stairs", "x": 180, "y": 180 } },
+    { "when": { "facing": "west", "half":"top", "shape":"outer_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_outer_stairs", "x": 180, "y": 270 } },
     
-    { "when": { "facing": "east", "half":"top", "shape":"outer_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_outer_stairs", "x": 180 } },
-    { "when": { "facing": "west", "half":"top", "shape":"outer_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_outer_stairs", "x": 180, "y": 180 } },
-    { "when": { "facing": "south", "half":"top", "shape":"outer_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_outer_stairs", "x": 180, "y": 90 } },
-    { "when": { "facing": "north", "half":"top", "shape":"outer_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_outer_stairs", "x": 180, "y": 270 } },
+    { "when": { "facing": "north", "half":"top", "shape":"outer_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_outer_stairs", "x": 180, "y": 270 } },
+    { "when": { "facing": "east", "half":"top", "shape":"outer_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_outer_stairs", "x": 180, "y": 0 } },
+    { "when": { "facing": "south", "half":"top", "shape":"outer_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_outer_stairs", "x": 180, "y": 90 } },
+    { "when": { "facing": "west", "half":"top", "shape":"outer_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_outer_stairs", "x": 180, "y": 180 } },
     
-    { "when": { "facing": "east", "half":"top", "shape":"inner_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_inner_stairs", "x": 180, "y": 90 } },
-    { "when": { "facing": "west", "half":"top", "shape":"inner_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_inner_stairs", "x": 180, "y": 270 } },
-    { "when": { "facing": "south", "half":"top", "shape":"inner_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_inner_stairs", "x": 180, "y": 180 } },
-    { "when": { "facing": "north", "half":"top", "shape":"inner_right" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_inner_stairs", "x": 180 } },
+    { "when": { "facing": "north", "half":"top", "shape":"inner_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_inner_stairs", "x": 180, "y": 0 } },
+    { "when": { "facing": "east", "half":"top", "shape":"inner_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_inner_stairs", "x": 180, "y": 90 } },
+    { "when": { "facing": "south", "half":"top", "shape":"inner_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_inner_stairs", "x": 180, "y": 180 } },
+    { "when": { "facing": "west", "half":"top", "shape":"inner_right" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_inner_stairs", "x": 180, "y": 270 } },
     
-    { "when": { "facing": "east", "half":"top", "shape":"inner_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_inner_stairs", "x": 180 } },
-    { "when": { "facing": "west", "half":"top", "shape":"inner_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_inner_stairs", "x": 180, "y": 180 } },
-    { "when": { "facing": "south", "half":"top", "shape":"inner_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_inner_stairs", "x": 180, "y": 90 } },
-    { "when": { "facing": "north", "half":"top", "shape":"inner_left" }, "apply": { "model": "minecraft:block_full/stairs/tuff_brick_inner_stairs", "x": 180, "y": 270 } }
+    { "when": { "facing": "north", "half":"top", "shape":"inner_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_inner_stairs", "x": 180, "y": 270 } },
+    { "when": { "facing": "east", "half":"top", "shape":"inner_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_inner_stairs", "x": 180, "y": 0 } },
+    { "when": { "facing": "south", "half":"top", "shape":"inner_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_inner_stairs", "x": 180, "y": 90 } },
+    { "when": { "facing": "west", "half":"top", "shape":"inner_left" }, "apply": { "model": "minecraft:variant/stairs/tuff_brick_inner_stairs", "x": 180, "y": 180 } }
   ]
 }

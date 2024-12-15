@@ -1,9 +1,9 @@
 {
   "variants": {
     "": [
-      { "model": "minecraft:block_full/ore/deepslate_diamond_ore_1" },
-      { "model": "minecraft:block_full/ore/deepslate_diamond_ore_2" },
-      { "model": "minecraft:block_full/ore/deepslate_diamond_ore_3" }
+      { "model": "minecraft:variant/ore/deepslate_diamond_ore_1" },
+      { "model": "minecraft:variant/ore/deepslate_diamond_ore_2" },
+      { "model": "minecraft:variant/ore/deepslate_diamond_ore_3" }
     ]
   }
 }

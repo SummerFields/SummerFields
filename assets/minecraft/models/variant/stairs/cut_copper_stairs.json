@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:variant/stairs/template_stairs",
+	"textures": {
+		"3": "minecraft:variant/stairs/cut_copper_stair",
+		"particle": "minecraft:variant/stairs/cut_copper_stair"
+	}
+}

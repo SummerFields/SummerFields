@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "minecraft:variant/potatoes/potatoes_stage0"
+    },
+    "age=1": {
+      "model": "minecraft:variant/potatoes/potatoes_stage0"
+    },
+    "age=2": {
+      "model": "minecraft:variant/potatoes/potatoes_stage1"
+    },
+    "age=3": {
+      "model": "minecraft:variant/potatoes/potatoes_stage1"
+    },
+    "age=4": {
+      "model": "minecraft:variant/potatoes/potatoes_stage2"
+    },
+    "age=5": {
+      "model": "minecraft:variant/potatoes/potatoes_stage2"
+    },
+    "age=6": {
+      "model": "minecraft:variant/potatoes/potatoes_stage2"
+    },
+    "age=7": {
+      "model": "minecraft:variant/potatoes/potatoes_stage3"
+    }
+  }
+}

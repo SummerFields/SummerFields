@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block_ess/armor/template_leggings",
+  "parent": "minecraft:variant/armor/template_leggings",
   "textures": {
 	"layer0": "minecraft:entity/equipment/humanoid_leggings/chainmail"
   },

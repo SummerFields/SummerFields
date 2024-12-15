@@ -2,17 +2,17 @@
   "variants": {
     "": [
       {
-        "model": "minecraft:block_full/sculk/sculk"
+        "model": "minecraft:variant/sculk/sculk"
       },
       {
-        "model": "minecraft:block_full/sculk/sculk_mirrored"
+        "model": "minecraft:variant/sculk/sculk_mirrored"
       },
       {
-        "model": "minecraft:block_full/sculk/sculk",
+        "model": "minecraft:variant/sculk/sculk",
         "y": 180
       },
       {
-        "model": "minecraft:block_full/sculk/sculk_mirrored",
+        "model": "minecraft:variant/sculk/sculk_mirrored",
         "y": 180
       }
     ]

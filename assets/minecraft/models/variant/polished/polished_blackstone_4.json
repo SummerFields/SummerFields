@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:variant/polished/base_4",
+    "textures": {
+        "one": "minecraft:variant/polished/polished_blackstone_2",
+        "two": "minecraft:variant/polished/polished_blackstone_3",
+        "three": "minecraft:variant/polished/polished_blackstone_4",
+        "for": "minecraft:variant/polished/polished_blackstone_5"
+    }
+}

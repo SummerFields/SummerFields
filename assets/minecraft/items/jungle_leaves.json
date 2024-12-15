@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "minecraft:variant/leaves/jungle/jungle_leaves_1",
+    "tints": [
+      {
+        "type": "minecraft:constant",
+        "value": -12012264
+      }
+    ]
+  }
+}

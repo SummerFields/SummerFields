@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:variant/pot/pot_cross",
+    "textures": {
+        "plant": "minecraft:block/pink_tulip"
+    }
+}

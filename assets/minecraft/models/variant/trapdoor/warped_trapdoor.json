@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:variant/trapdoor/acacia_trapdoor",
+    "textures": {
+        "texture": "minecraft:block/warped_trapdoor",
+        "particle": "minecraft:variant/trapdoor/warped_trapdoor_side"
+    }
+}

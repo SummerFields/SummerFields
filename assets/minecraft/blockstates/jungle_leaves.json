@@ -1,18 +1,18 @@
 {
     "variants": {
         "": [
-            { "model": "minecraft:block_full/leaves/jungle/jungle_leaves_1" },
-            { "model": "minecraft:block_full/leaves/jungle/jungle_leaves_1", "y": 90 },
-            { "model": "minecraft:block_full/leaves/jungle/jungle_leaves_1", "y": 180 },
-            { "model": "minecraft:block_full/leaves/jungle/jungle_leaves_1", "y": 270 },
-            { "model": "minecraft:block_full/leaves/jungle/jungle_leaves_2" },
-            { "model": "minecraft:block_full/leaves/jungle/jungle_leaves_2", "y": 90 },
-            { "model": "minecraft:block_full/leaves/jungle/jungle_leaves_2", "y": 180 },
-            { "model": "minecraft:block_full/leaves/jungle/jungle_leaves_2", "y": 270 },
-            { "model": "minecraft:block_full/leaves/jungle/jungle_leaves_3" },
-            { "model": "minecraft:block_full/leaves/jungle/jungle_leaves_3", "y": 90 },
-            { "model": "minecraft:block_full/leaves/jungle/jungle_leaves_3", "y": 180 },
-            { "model": "minecraft:block_full/leaves/jungle/jungle_leaves_3", "y": 270 }
+            { "model": "minecraft:variant/leaves/jungle/jungle_leaves_1" },
+            { "model": "minecraft:variant/leaves/jungle/jungle_leaves_1", "y": 90 },
+            { "model": "minecraft:variant/leaves/jungle/jungle_leaves_1", "y": 180 },
+            { "model": "minecraft:variant/leaves/jungle/jungle_leaves_1", "y": 270 },
+            { "model": "minecraft:variant/leaves/jungle/jungle_leaves_2" },
+            { "model": "minecraft:variant/leaves/jungle/jungle_leaves_2", "y": 90 },
+            { "model": "minecraft:variant/leaves/jungle/jungle_leaves_2", "y": 180 },
+            { "model": "minecraft:variant/leaves/jungle/jungle_leaves_2", "y": 270 },
+            { "model": "minecraft:variant/leaves/jungle/jungle_leaves_3" },
+            { "model": "minecraft:variant/leaves/jungle/jungle_leaves_3", "y": 90 },
+            { "model": "minecraft:variant/leaves/jungle/jungle_leaves_3", "y": 180 },
+            { "model": "minecraft:variant/leaves/jungle/jungle_leaves_3", "y": 270 }
             
         ]
     }

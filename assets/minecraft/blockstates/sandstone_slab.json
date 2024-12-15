@@ -1,7 +1,7 @@
 {
     "variants": {
-        "type=bottom": { "model": "minecraft:block/slab/sandstone_slab_bottom" },
-        "type=top": { "model": "minecraft:block/slab/sandstone_slab_top" },
-        "type=double": { "model": "minecraft:block/slab/sandstone_slab_double" }
+        "type=bottom": { "model": "minecraft:variant/slabs/sandstone_slab_bottom" },
+        "type=top": { "model": "minecraft:variant/slabs/sandstone_slab_top" },
+        "type=double": { "model": "minecraft:variant/slabs/sandstone_slab_double" }
     }
 }

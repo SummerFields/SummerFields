@@ -1,0 +1,25 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "minecraft:block/glow_lichen",
+        "glow_lichen": "minecraft:block/glow_lichen",
+        "emission": "minecraft:variant/lichen/glow_lichen_emission"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0.1 ],
+            "to": [ 16, 16, 0.1 ],
+            "faces": {
+                "north": { "uv": [ 16, 0, 0, 16 ], "texture": "#glow_lichen" },
+                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#glow_lichen" }
+            }
+        },
+        {   "from": [ 0, 0, 0.1 ],
+            "to": [ 16, 16, 0.1 ],
+	    "light_emission":10,
+            "faces": {
+                "north": { "uv": [ 16, 0, 0, 16 ], "texture": "#emission" },
+                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#emission" }
+            }
+        }
+    ]
+}

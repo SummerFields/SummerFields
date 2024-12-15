@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:variant/leaves/cherry/template_leaves_1",
+  "textures": {
+    "particle": "minecraft:variant/leaves/cherry_leaves"
+  }
+}

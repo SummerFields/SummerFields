@@ -1,9 +1,9 @@
 {
   "variants": {
     "": [
-      { "model": "minecraft:block_full/amethyst/amethyst_block" },
-      { "model": "minecraft:block_full/amethyst/amethyst_block_2" },
-      { "model": "minecraft:block_full/amethyst/amethyst_block_3" }
+      { "model": "minecraft:variant/amethyst/amethyst_block" },
+      { "model": "minecraft:variant/amethyst/amethyst_block_2" },
+      { "model": "minecraft:variant/amethyst/amethyst_block_3" }
     ]
   }
 }

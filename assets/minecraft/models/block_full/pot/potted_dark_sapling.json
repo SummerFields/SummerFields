@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:block_full/pot/pot_cross",
-    "textures": {
-        "plant": "minecraft:variant_full/potted/dark_sapling_pot"
-    }
-}

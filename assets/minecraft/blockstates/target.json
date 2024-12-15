@@ -5,7 +5,7 @@
             { "model": "minecraft:block/target" },
             { "model": "minecraft:block/target" },
             { "model": "minecraft:block/target" },
-            { "model": "minecraft:block/target2" }
+            { "model": "minecraft:variant/target/target2" }
         ]
   }
 }

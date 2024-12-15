@@ -2,17 +2,17 @@
     "variants": {
         "type=bottom": [
           { "model": "minecraft:block/dark_prismarine_slab" },
-          { "model": "minecraft:block_full/slabs/dark_prismarine_slab_bottom_2" },
-          { "model": "minecraft:block_full/slabs/dark_prismarine_slab_bottom_3" },
-          { "model": "minecraft:block_full/slabs/dark_prismarine_slab_bottom_4" },
-          { "model": "minecraft:block_full/slabs/dark_prismarine_slab_bottom_5" }
+          { "model": "minecraft:variant/slabs/dark_prismarine_slab_bottom_2" },
+          { "model": "minecraft:variant/slabs/dark_prismarine_slab_bottom_3" },
+          { "model": "minecraft:variant/slabs/dark_prismarine_slab_bottom_4" },
+          { "model": "minecraft:variant/slabs/dark_prismarine_slab_bottom_5" }
         ],
         "type=top": [
           { "model": "minecraft:block/dark_prismarine_slab_top" },
-          { "model": "minecraft:block_full/slabs/dark_prismarine_slab_top_2" },
-          { "model": "minecraft:block_full/slabs/dark_prismarine_slab_top_3" },
-          { "model": "minecraft:block_full/slabs/dark_prismarine_slab_top_4" },
-          { "model": "minecraft:block_full/slabs/dark_prismarine_slab_top_5" }
+          { "model": "minecraft:variant/slabs/dark_prismarine_slab_top_2" },
+          { "model": "minecraft:variant/slabs/dark_prismarine_slab_top_3" },
+          { "model": "minecraft:variant/slabs/dark_prismarine_slab_top_4" },
+          { "model": "minecraft:variant/slabs/dark_prismarine_slab_top_5" }
         ],
         "type=double": { "model": "minecraft:block/dark_prismarine" }
     }

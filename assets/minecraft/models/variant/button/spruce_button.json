@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:variant/button/template_orientable_button",
+    "textures": {
+        "texture": "minecraft:variant/button/spruce_button"
+    }
+}

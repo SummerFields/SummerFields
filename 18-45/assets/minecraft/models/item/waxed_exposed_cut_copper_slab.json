@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block_full/waxed/template_slab_inventory_waxed",
+    "textures": {
+      "particle": "minecraft:block/exposed_cut_copper",
+      "waxed": "minecraft:variant_full/waxed/block_waxed"
+    }
+}

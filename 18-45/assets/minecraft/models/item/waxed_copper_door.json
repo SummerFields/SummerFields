@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block_full/waxed/template_door_inventory_waxed",
+    "textures": {
+		"waxed": "minecraft:variant_full/waxed/block_waxed",
+	    "top": "minecraft:block/copper_door_top",
+	    "bottom": "minecraft:block/copper_door_bottom",
+        "particle": "minecraft:block/copper_door"
+    }
+}

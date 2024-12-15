@@ -1,0 +1,34 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/stairs",
+	"textures": {
+		"waxed": "variant/waxed/block_waxed",
+		"particle": "block/copper_block"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#particle", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#particle", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#particle", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#particle", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#particle"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#particle", "cullface": "down"}
+			}
+		},
+		{
+			"from": [-0.1, -0.1, -0.1],
+			"to": [16.1, 16.1, 16.1],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#waxed", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#waxed", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#waxed", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#waxed", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#waxed"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#waxed", "cullface": "down"}
+			}
+		}
+	]
+}

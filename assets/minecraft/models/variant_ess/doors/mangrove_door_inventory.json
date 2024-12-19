@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:variant/doors/template_door_inventory",
+    "textures": {
+        "bottom": "minecraft:block/mangrove_door_bottom",
+        "top": "minecraft:block/mangrove_door_top",
+        "side": "minecraft:variant/doors/mangrove_door_side"
+    }
+}

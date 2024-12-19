@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:variant/potable/template_flower_cross",
+	"textures": {
+		"particle": "#side",
+		"side": "minecraft:block/acacia_sapling",
+		"branch": "minecraft:variant/potable/acacia_sapling_branch"
+	}
+}

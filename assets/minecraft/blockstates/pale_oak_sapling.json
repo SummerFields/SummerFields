@@ -1,6 +1,23 @@
 {
   "multipart": [
-    { "when": { "stage": "0"  }, "apply": { "model": "minecraft:variant/sapling/pale_oak_sapling_stade0" }},
-    { "when": { "stage": "1"  }, "apply": { "model": "minecraft:block/pale_oak_sapling" }}
+    { "when": { "stage": "0"  }, "apply": { "model": "minecraft:variant/potable/sapling/pale_oak_sapling_stade0" }},
+    { "when": { "stage": "1"  }, "apply": [
+	{"model": "minecraft:variant/potable/sapling/pale_oak_sapling"         , "y":0},
+	{"model": "minecraft:variant/potable/sapling/pale_oak_sapling_22-5", "y":0},
+	{"model": "minecraft:variant/potable/sapling/pale_oak_sapling_45"    , "y":0},
+	{"model": "minecraft:variant/potable/sapling/pale_oak_sapling_-22-5", "y":0},
+	{"model": "minecraft:variant/potable/sapling/pale_oak_sapling"          , "y":90},
+	{"model": "minecraft:variant/potable/sapling/pale_oak_sapling_22-5" , "y":90},
+	{"model": "minecraft:variant/potable/sapling/pale_oak_sapling_45"     , "y":90},
+	{"model": "minecraft:variant/potable/sapling/pale_oak_sapling_-22-5" , "y":90},
+	{"model": "minecraft:variant/potable/sapling/pale_oak_sapling"           , "y":180},
+	{"model": "minecraft:variant/potable/sapling/pale_oak_sapling_22-5"   , "y":180},
+	{"model": "minecraft:variant/potable/sapling/pale_oak_sapling_45"      , "y":180},
+	{"model": "minecraft:variant/potable/sapling/pale_oak_sapling_-22-5"  , "y":180},
+	{"model": "minecraft:variant/potable/sapling/pale_oak_sapling"            , "y":270},
+	{"model": "minecraft:variant/potable/sapling/pale_oak_sapling_22-5"    , "y":270},
+	{"model": "minecraft:variant/potable/sapling/pale_oak_sapling_45"       , "y":270},
+	{"model": "minecraft:variant/potable/sapling/pale_oak_sapling_-22-5"   , "y":270}
+    ]}
   ]
 }

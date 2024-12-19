@@ -1,15 +1,15 @@
 {
   "multipart": [
     {   "apply": [
-        { "model": "minecraft:variant/pot/potted_cactus" }
+        { "model": "minecraft:variant/potable/potted/cactus" }
       ]
     },
     {   "apply": [
-        { "model": "minecraft:variant/pot/pot_0" },
-        { "model": "minecraft:variant/pot/pot_1" },
-        { "model": "minecraft:variant/pot/pot_2" },
-        { "model": "minecraft:variant/pot/pot_3" },
-        { "model": "minecraft:variant/pot/pot_4" }
+        { "model": "minecraft:variant/potable/pot/pot_0" },
+        { "model": "minecraft:variant/potable/pot/pot_1" },
+        { "model": "minecraft:variant/potable/pot/pot_2" },
+        { "model": "minecraft:variant/potable/pot/pot_3" },
+        { "model": "minecraft:variant/potable/pot/pot_4" }
       ]
     } 
   ]

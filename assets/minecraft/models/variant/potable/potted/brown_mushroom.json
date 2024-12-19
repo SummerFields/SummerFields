@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:variant/potable/template_flower_pot",
+    "textures": {
+	"particle": "#side",
+	"side": "minecraft:variant/potable/brown_mushroom_pot"
+    }
+}

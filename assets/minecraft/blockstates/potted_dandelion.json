@@ -1,15 +1,30 @@
 {
   "multipart": [
     {   "apply": [
-        { "model": "minecraft:variant/pot/potted_dandelion" }
+	{"model": "minecraft:variant/potable/potted/dandelion"         , "y":0},
+	{"model": "minecraft:variant/potable/potted/dandelion_22-5", "y":0},
+	{"model": "minecraft:variant/potable/potted/dandelion_45"    , "y":0},
+	{"model": "minecraft:variant/potable/potted/dandelion_-22-5", "y":0},
+	{"model": "minecraft:variant/potable/potted/dandelion"          , "y":90},
+	{"model": "minecraft:variant/potable/potted/dandelion_22-5" , "y":90},
+	{"model": "minecraft:variant/potable/potted/dandelion_45"     , "y":90},
+	{"model": "minecraft:variant/potable/potted/dandelion_-22-5" , "y":90},
+	{"model": "minecraft:variant/potable/potted/dandelion"           , "y":180},
+	{"model": "minecraft:variant/potable/potted/dandelion_22-5"   , "y":180},
+	{"model": "minecraft:variant/potable/potted/dandelion_45"      , "y":180},
+	{"model": "minecraft:variant/potable/potted/dandelion_-22-5"  , "y":180},
+	{"model": "minecraft:variant/potable/potted/dandelion"            , "y":270},
+	{"model": "minecraft:variant/potable/potted/dandelion_22-5"    , "y":270},
+	{"model": "minecraft:variant/potable/potted/dandelion_45"       , "y":270},
+	{"model": "minecraft:variant/potable/potted/dandelion_-22-5"   , "y":270}
       ]
     },
     {   "apply": [
-        { "model": "minecraft:variant/pot/pot_0" },
-        { "model": "minecraft:variant/pot/pot_1" },
-        { "model": "minecraft:variant/pot/pot_2" },
-        { "model": "minecraft:variant/pot/pot_3" },
-        { "model": "minecraft:variant/pot/pot_4" }
+        { "model": "minecraft:variant/potable/pot/pot_0" },
+        { "model": "minecraft:variant/potable/pot/pot_1" },
+        { "model": "minecraft:variant/potable/pot/pot_2" },
+        { "model": "minecraft:variant/potable/pot/pot_3" },
+        { "model": "minecraft:variant/potable/pot/pot_4" }
       ]
     } 
   ]

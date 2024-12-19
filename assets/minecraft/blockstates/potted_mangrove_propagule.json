@@ -1,15 +1,30 @@
 {
   "multipart": [
     {   "apply": [
-        { "model": "minecraft:variant/pot/potted_mangrove_propagule" }
+	{"model": "minecraft:variant/potable/potted/mangrove_propagule"         , "y":0},
+	{"model": "minecraft:variant/potable/potted/mangrove_propagule_22-5", "y":0},
+	{"model": "minecraft:variant/potable/potted/mangrove_propagule_45"    , "y":0},
+	{"model": "minecraft:variant/potable/potted/mangrove_propagule_-22-5", "y":0},
+	{"model": "minecraft:variant/potable/potted/mangrove_propagule"          , "y":90},
+	{"model": "minecraft:variant/potable/potted/mangrove_propagule_22-5" , "y":90},
+	{"model": "minecraft:variant/potable/potted/mangrove_propagule_45"     , "y":90},
+	{"model": "minecraft:variant/potable/potted/mangrove_propagule_-22-5" , "y":90},
+	{"model": "minecraft:variant/potable/potted/mangrove_propagule"           , "y":180},
+	{"model": "minecraft:variant/potable/potted/mangrove_propagule_22-5"   , "y":180},
+	{"model": "minecraft:variant/potable/potted/mangrove_propagule_45"      , "y":180},
+	{"model": "minecraft:variant/potable/potted/mangrove_propagule_-22-5"  , "y":180},
+	{"model": "minecraft:variant/potable/potted/mangrove_propagule"            , "y":270},
+	{"model": "minecraft:variant/potable/potted/mangrove_propagule_22-5"    , "y":270},
+	{"model": "minecraft:variant/potable/potted/mangrove_propagule_45"       , "y":270},
+	{"model": "minecraft:variant/potable/potted/mangrove_propagule_-22-5"   , "y":270}
       ]
     },
     {   "apply": [
-        { "model": "minecraft:variant/pot/pot_0" },
-        { "model": "minecraft:variant/pot/pot_1" },
-        { "model": "minecraft:variant/pot/pot_2" },
-        { "model": "minecraft:variant/pot/pot_3" },
-        { "model": "minecraft:variant/pot/pot_4" }
+        { "model": "minecraft:variant/potable/pot/pot_0" },
+        { "model": "minecraft:variant/potable/pot/pot_1" },
+        { "model": "minecraft:variant/potable/pot/pot_2" },
+        { "model": "minecraft:variant/potable/pot/pot_3" },
+        { "model": "minecraft:variant/potable/pot/pot_4" }
       ]
     } 
   ]

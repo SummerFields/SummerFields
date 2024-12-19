@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cross",
+    "textures": {
+        "cross": "minecraft:variant/potable/acacia_sapling_stade0"
+    }
+}

@@ -1,7 +1,24 @@
 
 {
   "multipart": [
-    { "when": { "stage": "0"  }, "apply": { "model": "minecraft:variant/sapling/mangrove_propagule_stade0" }},
-    { "when": { "stage": "1"  }, "apply": { "model": "minecraft:variant/sapling/mangrove_propagule_stade1" }}
+    { "when": { "stage": "0"  }, "apply": { "model": "minecraft:variant/potable/sapling/mangrove_propagule_stade0" }},
+    { "when": { "stage": "1"  }, "apply": [
+	{"model": "minecraft:variant/potable/sapling/mangrove_sapling"         , "y":0},
+	{"model": "minecraft:variant/potable/sapling/mangrove_sapling_22-5", "y":0},
+	{"model": "minecraft:variant/potable/sapling/mangrove_sapling_45"    , "y":0},
+	{"model": "minecraft:variant/potable/sapling/mangrove_sapling_-22-5", "y":0},
+	{"model": "minecraft:variant/potable/sapling/mangrove_sapling"          , "y":90},
+	{"model": "minecraft:variant/potable/sapling/mangrove_sapling_22-5" , "y":90},
+	{"model": "minecraft:variant/potable/sapling/mangrove_sapling_45"     , "y":90},
+	{"model": "minecraft:variant/potable/sapling/mangrove_sapling_-22-5" , "y":90},
+	{"model": "minecraft:variant/potable/sapling/mangrove_sapling"           , "y":180},
+	{"model": "minecraft:variant/potable/sapling/mangrove_sapling_22-5"   , "y":180},
+	{"model": "minecraft:variant/potable/sapling/mangrove_sapling_45"      , "y":180},
+	{"model": "minecraft:variant/potable/sapling/mangrove_sapling_-22-5"  , "y":180},
+	{"model": "minecraft:variant/potable/sapling/mangrove_sapling"            , "y":270},
+	{"model": "minecraft:variant/potable/sapling/mangrove_sapling_22-5"    , "y":270},
+	{"model": "minecraft:variant/potable/sapling/mangrove_sapling_45"       , "y":270},
+	{"model": "minecraft:variant/potable/sapling/mangrove_sapling_-22-5"   , "y":270}
+    ]}
   ]
 }

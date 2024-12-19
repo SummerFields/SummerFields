@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:variant/azalea/azalea"
+    "model": "minecraft:variant/potable/azalea/azalea"
   }
 }

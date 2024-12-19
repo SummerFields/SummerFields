@@ -1,8 +1,38 @@
 {
     "variants": {
         "": [
-          { "model": "minecraft:block/dead_bush" },
-          { "model": "minecraft:variant/flower/dead_bush1" }
-        ]
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush"         , "y":0},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_22-5", "y":0},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_45"    , "y":0},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_-22-5", "y":0},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush"          , "y":90},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_22-5" , "y":90},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_45"     , "y":90},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_-22-5" , "y":90},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush"           , "y":180},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_22-5"   , "y":180},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_45"      , "y":180},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_-22-5"  , "y":180},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush"            , "y":270},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_22-5"    , "y":270},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_45"       , "y":270},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_-22-5"   , "y":270},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_1"         , "y":0},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_1_22-5", "y":0},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_1_45"    , "y":0},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_1_-22-5", "y":0},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_1"          , "y":90},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_1_22-5" , "y":90},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_1_45"     , "y":90},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_1_-22-5" , "y":90},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_1"           , "y":180},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_1_22-5"   , "y":180},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_1_45"      , "y":180},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_1_-22-5"  , "y":180},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_1"            , "y":270},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_1_22-5"    , "y":270},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_1_45"       , "y":270},
+		{"model": "minecraft:variant/potable/dead_fern/dead_bush_1_-22-5"   , "y":270}
+	    ]
     }
 }

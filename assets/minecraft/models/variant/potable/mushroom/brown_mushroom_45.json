@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:variant/potable/template_flower_cross_45",
+	"textures": {
+		"particle": "#side",
+		"side": "minecraft:variant/potable/brown_mushroom_branch_1",
+		"branch": "minecraft:block/brown_mushroom"
+	}
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:variant/potable/template_flower_pot_-22-5",
+    "textures": {
+	"particle": "#side",
+	"side": "minecraft:block/lily_of_the_valley"
+    }
+}

@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:variant/azalea/flowering_azalea"
+      "model": "minecraft:variant/potable/azalea/flowering_azalea"
     }
   }
 }

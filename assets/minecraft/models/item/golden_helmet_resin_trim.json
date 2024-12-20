@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:variant/armor/template_helmet",
+  "textures": {
+     "layer0": "minecraft:entity/equipment/humanoid/gold",
+    "layer2": "minecraft:trims/entity/humanoid/shaper_resin"
+  }
+}

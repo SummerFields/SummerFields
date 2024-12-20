@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:variant/armor/template_boots",
+  "textures": {
+	"layer0": "minecraft:entity/equipment/humanoid/leather",
+	"layer1": "minecraft:entity/equipment/humanoid/leather_overlay",
+	"layer2": "minecraft:trims/entity/humanoid/wayfinder_resin"
+  }
+}

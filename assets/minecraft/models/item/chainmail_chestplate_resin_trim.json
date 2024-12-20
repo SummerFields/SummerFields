@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:variant/armor/template_chestplate",
+  "textures": {
+     "layer0": "minecraft:entity/equipment/humanoid/chainmail",
+    "layer2": "minecraft:trims/entity/humanoid/wayfinder_resin"
+  }
+}

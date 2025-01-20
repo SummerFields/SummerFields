@@ -20,12 +20,13 @@
       ]
     },
     {   "apply": [
+	{ "model": "minecraft:block/flower_pot" },
         { "model": "minecraft:variant/potable/pot/pot_0" },
         { "model": "minecraft:variant/potable/pot/pot_1" },
         { "model": "minecraft:variant/potable/pot/pot_2" },
         { "model": "minecraft:variant/potable/pot/pot_3" },
         { "model": "minecraft:variant/potable/pot/pot_4" }
       ]
-    }
+    } 
   ]
 }

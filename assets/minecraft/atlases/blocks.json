@@ -12,11 +12,6 @@
         },
         {
             "type": "directory",
-            "source": "variant",
-            "prefix": "variant/"
-        },
-        {
-            "type": "directory",
             "source": "item",
             "prefix": "item/"
         },

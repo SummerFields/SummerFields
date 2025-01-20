@@ -2,7 +2,8 @@
   "multipart": [
     {
       "apply": {
-        "model": "minecraft:variant/potable/pink_petals/pink_petals_1"
+        "model": "minecraft:variant/potable/pink_petals/pink_petals_1",
+        "y": 0
       },
       "when": {
         "facing": "north",
@@ -41,7 +42,8 @@
     },
     {
       "apply": {
-        "model": "minecraft:variant/potable/pink_petals/pink_petals_2"
+        "model": "minecraft:variant/potable/pink_petals/pink_petals_2",
+        "y": 270
       },
       "when": {
         "facing": "north",
@@ -51,7 +53,7 @@
     {
       "apply": {
         "model": "minecraft:variant/potable/pink_petals/pink_petals_2",
-        "y": 90
+        "y": 0
       },
       "when": {
         "facing": "east",
@@ -61,7 +63,7 @@
     {
       "apply": {
         "model": "minecraft:variant/potable/pink_petals/pink_petals_2",
-        "y": 180
+        "y": 90
       },
       "when": {
         "facing": "south",
@@ -71,7 +73,7 @@
     {
       "apply": {
         "model": "minecraft:variant/potable/pink_petals/pink_petals_2",
-        "y": 270
+        "y": 180
       },
       "when": {
         "facing": "west",
@@ -80,7 +82,8 @@
     },
     {
       "apply": {
-        "model": "minecraft:variant/potable/pink_petals/pink_petals_3"
+        "model": "minecraft:variant/potable/pink_petals/pink_petals_3",
+        "y": 180
       },
       "when": {
         "facing": "north",
@@ -90,7 +93,7 @@
     {
       "apply": {
         "model": "minecraft:variant/potable/pink_petals/pink_petals_3",
-        "y": 90
+        "y": 270
       },
       "when": {
         "facing": "east",
@@ -100,7 +103,7 @@
     {
       "apply": {
         "model": "minecraft:variant/potable/pink_petals/pink_petals_3",
-        "y": 180
+        "y": 0
       },
       "when": {
         "facing": "south",
@@ -110,7 +113,7 @@
     {
       "apply": {
         "model": "minecraft:variant/potable/pink_petals/pink_petals_3",
-        "y": 270
+        "y": 90
       },
       "when": {
         "facing": "west",
@@ -119,7 +122,8 @@
     },
     {
       "apply": {
-        "model": "minecraft:variant/potable/pink_petals/pink_petals_4"
+        "model": "minecraft:variant/potable/pink_petals/pink_petals_4",
+        "y": 90
       },
       "when": {
         "facing": "north",
@@ -129,7 +133,7 @@
     {
       "apply": {
         "model": "minecraft:variant/potable/pink_petals/pink_petals_4",
-        "y": 90
+        "y": 180
       },
       "when": {
         "facing": "east",
@@ -139,7 +143,7 @@
     {
       "apply": {
         "model": "minecraft:variant/potable/pink_petals/pink_petals_4",
-        "y": 180
+        "y": 270
       },
       "when": {
         "facing": "south",
@@ -149,7 +153,7 @@
     {
       "apply": {
         "model": "minecraft:variant/potable/pink_petals/pink_petals_4",
-        "y": 270
+        "y": 0
       },
       "when": {
         "facing": "west",

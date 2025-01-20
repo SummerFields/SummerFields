@@ -1,0 +1,336 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component":"minecraft:custom_name",
+    "cases": [
+      {
+        "when": "Protection",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/protection"
+        }
+      },
+     {
+        "when": "Fire Protection",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/fire_protection"
+        }
+      },
+      {
+        "when": "Feather Falling",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/feather_falling"
+        }
+      },
+      {
+        "when": "Blast Protection",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/blast_protection"
+        }
+      },
+      {
+        "when": "Projectile Protection",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/projectile_protection"
+        }
+      },
+      {
+        "when": "Respiration",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/respiration"
+        }
+      },
+      {
+        "when": "Aqua Affinity",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/aqua_affinity"
+        }
+      },
+      {
+        "when": "Thorns",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/thorns"
+        }
+      },
+      {
+        "when": "Depth Strider",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/depth_strider"
+        }
+      },
+      {
+        "when": "Frost Walker",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/frost_walker"
+        }
+      },
+      {
+        "when": "Curse of Binding",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/binding_curse"
+        }
+      },
+      {
+        "when": "Soul Speed",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/soul_speed"
+        }
+      },
+      {
+        "when": "Swift Sneak",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/swift_sneak"
+        }
+      },
+
+      {
+        "when": "Sharpness",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/sharpness"
+        }
+      },
+
+      {
+        "when": "Smite",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/smite"
+        }
+      },
+
+      {
+        "when": "Bane of Arthropods",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/bane_of_arthropods"
+        }
+      },
+
+      {
+        "when": "Knockback",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/knockback"
+        }
+      },
+
+      {
+        "when": "Fire Aspect",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/fire_aspect"
+        }
+      },
+
+      {
+        "when": "Looting",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/looting"
+        }
+      },
+
+      {
+        "when": "Sweeping Edge",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/sweeping_edge"
+        }
+      },
+
+      {
+        "when": "Power",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/power"
+        }
+      },
+
+      {
+        "when": "Punch",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/punch"
+        }
+      },
+
+      {
+        "when": "Flame",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/flame"
+        }
+      },
+
+      {
+        "when": "Infinity",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/infinity"
+        }
+      },
+
+      {
+        "when": "Efficiency",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/efficiency"
+        }
+      },
+
+      {
+        "when": "Silk Touch",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/silk_touch"
+        }
+      },
+
+      {
+        "when": "Fortune",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/fortune"
+        }
+      },
+
+      {
+        "when": "Luck of the Sea",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/luck_of_the_sea"
+        }
+      },
+
+      {
+        "when": "Lure",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/lure"
+        }
+      },
+
+      {
+        "when": "Unbreaking",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/unbreaking"
+        }
+      },
+
+      {
+        "when": "Mending",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/mending"
+        }
+      },
+
+      {
+        "when": "Curse of Vanishing",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/vanishing_curse"
+        }
+      },
+
+      {
+        "when": "Channeling",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/channeling"
+        }
+      },
+
+      {
+        "when": "Impaling",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/impaling"
+        }
+      },
+
+      {
+        "when": "Loyalty",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/loyalty"
+        }
+      },
+
+      {
+        "when": "Riptide",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/riptide"
+        }
+      },
+
+      {
+        "when": "Multishot",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/multishot"
+        }
+      },
+
+      {
+        "when": "Piercing",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/piercing"
+        }
+      },
+
+      {
+        "when": "Quick Charge",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/quick_charge"
+        }
+      },
+
+      {
+        "when": "Breach",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/breach"
+        }
+      },
+
+      {
+        "when": "Density",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/density"
+        }
+      },
+
+      {
+        "when": "Wind Burst",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:variant/enchanted_book/wind_burst"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/enchanted_book"
+    }
+  }
+}

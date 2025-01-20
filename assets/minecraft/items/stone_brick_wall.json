@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:variant/walls/bricks/stone_brick_wall_post"
+    "model": "minecraft:variant/walls/stone_bricks_inventory"
   }
 }

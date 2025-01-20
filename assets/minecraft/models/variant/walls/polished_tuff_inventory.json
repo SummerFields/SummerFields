@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:variant/walls/template_inventory",
+	"textures": {
+		"front": "block/polished_tuff",
+		"top": "variant/walls/polished_tuff_top",
+		"innertop": "variant/walls/polished_tuff_inner_top",
+		"other": "variant/walls/polished_tuff_other"
+	}
+}

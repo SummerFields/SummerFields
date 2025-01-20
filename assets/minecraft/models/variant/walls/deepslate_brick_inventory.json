@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:variant/walls/template_inventory",
+	"textures": {
+		"front": "block/deepslate_bricks",
+		"top": "variant/walls/deepslate_bricks_top",
+		"innertop": "variant/walls/deepslate_bricks_top",
+		"other": "variant/walls/deepslate_bricks_other"
+	}
+}

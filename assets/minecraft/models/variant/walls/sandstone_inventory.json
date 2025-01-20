@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:variant/walls/template_inventory",
+	"textures": {
+		"front": "block/sandstone",
+		"top": "variant/walls/sandstone_top",
+		"innertop": "variant/walls/sandstone_top",
+		"other": "variant/walls/sandstone_other"
+	}
+}

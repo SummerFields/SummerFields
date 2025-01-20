@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:variant/walls/bricks/polished_blackstone_wall_post"
+    "model": "minecraft:variant/walls/polished_blackstone_inventory"
   }
 }

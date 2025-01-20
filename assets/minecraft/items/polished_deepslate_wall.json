@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:variant/walls/bricks/polished_deepslate_wall_post"
+    "model": "minecraft:variant/walls/polished_deepslate_inventory"
   }
 }

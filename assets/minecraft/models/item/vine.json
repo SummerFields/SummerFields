@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:variant/vine/vine_inventaire"
+    "layer0": "minecraft:variant/vine/vine_inventory"
   }
 }

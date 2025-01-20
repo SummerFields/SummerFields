@@ -1,8 +1,8 @@
 {
   "pack": {
-    "pack_format": 41,
-    "supported_formats": {"min_inclusive": 18, "max_inclusive": 41},
-    "description": "SummerFields bÃªta"
+    "pack_format": 48,
+    "supported_formats": {"min_inclusive": 18, "max_inclusive": 48},
+    "description": "SummerFields bêta"
   },
   "overlays": {
     "entries": [
@@ -12,7 +12,7 @@
       { "formats": {"min_inclusive": 18, "max_inclusive": 28}, "directory": "18-28" },
       { "formats": {"min_inclusive": 18, "max_inclusive": 29}, "directory": "18-29" },
       { "formats": {"min_inclusive": 18, "max_inclusive": 30}, "directory": "18-30" },
-      { "formats": {"min_inclusive": 18, "max_inclusive": 40}, "directory": "18-40" }
+      { "formats": {"min_inclusive": 18, "max_inclusive": 45}, "directory": "18-45" }
     ]
   }
 }

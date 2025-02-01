@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:variant/infested/template_infested_inventory",
-    "textures": {
-      "top": "minecraft:block/cobblestone",
-      "side": "minecraft:block/cobblestone",
-      "infested": "minecraft:variant/infested/template_inventory_infested"
-    }
-}

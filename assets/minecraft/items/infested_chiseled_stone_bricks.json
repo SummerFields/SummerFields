@@ -1,6 +1,9 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:item/infested_chiseled_stone_bricks"
-  }
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{ "type": "minecraft:model", "model": "minecraft:variant/infested/infested_inventory"},
+			{ "type": "minecraft:model", "model": "minecraft:block/chiseled_stone_bricks"}
+		]
+	}
 }

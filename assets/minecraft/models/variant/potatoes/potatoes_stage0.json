@@ -1,7 +1,8 @@
 {
   "parent": "minecraft:block/block",
   "textures": {
-    "cross": "minecraft:block/potatoes_stage0"
+    "cross": "minecraft:block/potatoes_stage0",
+    "particle": "#cross"
   },
     "elements": [
         {   "from": [ 0, -1, 8 ],

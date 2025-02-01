@@ -2,7 +2,7 @@
   "layers": {
     "wings": [
       {
-        "texture": "minecraft:angel_wing",
+        "texture": "summerfieldsdp:angel_wing",
         "use_player_texture": true
       }
     ]

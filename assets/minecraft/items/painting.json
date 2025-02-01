@@ -353,7 +353,21 @@
           "type": "minecraft:model",
           "model": "minecraft:variant/painting/wither"
         }
+      },
+      
+      
+      
+      
+      {
+        "when": "summerfieldsdp:title",
+        "model": {
+          "type": "minecraft:model",
+          "model": "summerfieldsdp:item/title"
+        }
       }
+      
+      
+      
     ],
     "fallback": {
       "type": "minecraft:model",

@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:variant/leaves/template_leaves_2",
-  "textures": {
-    "particle": "minecraft:variant/leaves/oak_leaves"
-  }
-}

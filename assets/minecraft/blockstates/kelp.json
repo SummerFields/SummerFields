@@ -1,5 +1,5 @@
 {
     "variants": {
-        "age=25": { "model": "minecraft:variant/kelp/kelp_flower" }
+        "age=25": { "model": "summerfields:block/kelp/kelp_flower" }
     }
 }

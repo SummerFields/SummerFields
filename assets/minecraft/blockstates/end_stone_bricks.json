@@ -1,5 +1,5 @@
 {
     "variants": {
-        "": { "model": "minecraft:variant/bricks/end_stone_bricks" }
+        "": { "model": "summerfields:block/bricks/end_stone_bricks" }
     }
 }

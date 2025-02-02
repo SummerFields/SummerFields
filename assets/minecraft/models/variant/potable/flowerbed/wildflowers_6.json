@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:variant/potable/flowerbed/flowerbed_2",
-  "textures": {
-    "flowerbed": "minecraft:variant/potable/wildflowers_2",
-    "stem": "minecraft:block/wildflowers_stem"
-  }
-}

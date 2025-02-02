@@ -1,28 +1,28 @@
 {
   "variants": {
     "facing=down": {
-      "model": "minecraft:variant/amethyst/medium_amethyst_bud",
+      "model": "summerfields:block/amethyst/medium_amethyst_bud",
       "x": 180
     },
     "facing=east": {
-      "model": "minecraft:variant/amethyst/medium_amethyst_bud",
+      "model": "summerfields:block/amethyst/medium_amethyst_bud",
       "x": 90,
       "y": 90
     },
     "facing=north": {
-      "model": "minecraft:variant/amethyst/medium_amethyst_bud",
+      "model": "summerfields:block/amethyst/medium_amethyst_bud",
       "x": 90
     },
     "facing=south": {
-      "model": "minecraft:variant/amethyst/medium_amethyst_bud",
+      "model": "summerfields:block/amethyst/medium_amethyst_bud",
       "x": 90,
       "y": 180
     },
     "facing=up": {
-      "model": "minecraft:variant/amethyst/medium_amethyst_bud"
+      "model": "summerfields:block/amethyst/medium_amethyst_bud"
     },
     "facing=west": {
-      "model": "minecraft:variant/amethyst/medium_amethyst_bud",
+      "model": "summerfields:block/amethyst/medium_amethyst_bud",
       "x": 90,
       "y": 270
     }

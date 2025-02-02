@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:variant/vine/weeping_vines"
+    "model": "summerfields:block/vine/weeping_vines"
   }
 }

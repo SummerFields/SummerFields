@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:variant/stairs/bamboo_inventory"
+    "model": "summerfields:block/stairs/bamboo_inventory"
   }
 }

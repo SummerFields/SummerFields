@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:variant/redstone_wire/redstone_dust_side_alt",
-    "textures": {
-        "line": "minecraft:variant/redstone_wire/redstone_dust_line11"
-    }
-}

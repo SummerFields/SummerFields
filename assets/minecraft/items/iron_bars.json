@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:variant/bars/iron_bars_inventory"
+    "model": "summerfields:block/bars/iron_bars_inventory"
   }
 }

@@ -1,0 +1,9 @@
+{
+    "parent": "summerfields:block/polished/base_4",
+    "textures": {
+        "one": "summerfields:block/polished/polished_diorite_2",
+        "two": "summerfields:block/polished/polished_diorite_3",
+        "three": "summerfields:block/polished/polished_diorite_4",
+        "for": "summerfields:block/polished/polished_diorite_5"
+    }
+}

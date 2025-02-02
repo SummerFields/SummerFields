@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cross",
+    "textures": {
+        "cross": "summerfields:block/potable/spruce_sapling_stade0"
+    }
+}

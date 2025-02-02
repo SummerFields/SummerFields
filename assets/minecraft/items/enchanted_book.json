@@ -13,7 +13,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/protection"
+          "model": "summerfields:item/enchanted_book/protection"
         }
       },
      {
@@ -25,7 +25,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/fire_protection"
+          "model": "summerfields:item/enchanted_book/fire_protection"
         }
       },
       {
@@ -37,7 +37,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/feather_falling"
+          "model": "summerfields:item/enchanted_book/feather_falling"
         }
       },
       {
@@ -49,7 +49,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/blast_protection"
+          "model": "summerfields:item/enchanted_book/blast_protection"
         }
       },
       {
@@ -61,7 +61,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/projectile_protection"
+          "model": "summerfields:item/enchanted_book/projectile_protection"
         }
       },
       {
@@ -72,14 +72,14 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/respiration"
+          "model": "summerfields:item/enchanted_book/respiration"
         }
       },
       {
         "when": {"minecraft:aqua_affinity": 1},
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/aqua_affinity"
+          "model": "summerfields:item/enchanted_book/aqua_affinity"
         }
       },
       {
@@ -90,7 +90,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/thorns"
+          "model": "summerfields:item/enchanted_book/thorns"
         }
       },
       {
@@ -101,7 +101,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/depth_strider"
+          "model": "summerfields:item/enchanted_book/depth_strider"
         }
       },
       {
@@ -111,14 +111,14 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/frost_walker"
+          "model": "summerfields:item/enchanted_book/frost_walker"
         }
       },
       {
         "when": {"minecraft:binding_curse": 1},
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/binding_curse"
+          "model": "summerfields:item/enchanted_book/binding_curse"
         }
       },
       {
@@ -129,7 +129,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/soul_speed"
+          "model": "summerfields:item/enchanted_book/soul_speed"
         }
       },
       {
@@ -140,7 +140,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/swift_sneak"
+          "model": "summerfields:item/enchanted_book/swift_sneak"
         }
       },
 
@@ -154,7 +154,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/sharpness"
+          "model": "summerfields:item/enchanted_book/sharpness"
         }
       },
 
@@ -168,7 +168,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/smite"
+          "model": "summerfields:item/enchanted_book/smite"
         }
       },
 
@@ -182,7 +182,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/bane_of_arthropods"
+          "model": "summerfields:item/enchanted_book/bane_of_arthropods"
         }
       },
 
@@ -193,7 +193,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/knockback"
+          "model": "summerfields:item/enchanted_book/knockback"
         }
       },
 
@@ -204,7 +204,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/fire_aspect"
+          "model": "summerfields:item/enchanted_book/fire_aspect"
         }
       },
 
@@ -216,7 +216,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/looting"
+          "model": "summerfields:item/enchanted_book/looting"
         }
       },
 
@@ -228,7 +228,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/sweeping_edge"
+          "model": "summerfields:item/enchanted_book/sweeping_edge"
         }
       },
 
@@ -242,7 +242,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/power"
+          "model": "summerfields:item/enchanted_book/power"
         }
       },
 
@@ -253,7 +253,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/punch"
+          "model": "summerfields:item/enchanted_book/punch"
         }
       },
 
@@ -261,7 +261,7 @@
         "when": {"minecraft:flame": 1},
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/flame"
+          "model": "summerfields:item/enchanted_book/flame"
         }
       },
 
@@ -269,7 +269,7 @@
         "when": {"minecraft:infinity": 1},
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/infinity"
+          "model": "summerfields:item/enchanted_book/infinity"
         }
       },
 
@@ -283,7 +283,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/efficiency"
+          "model": "summerfields:item/enchanted_book/efficiency"
         }
       },
 
@@ -291,7 +291,7 @@
         "when": {"minecraft:silk_touch": 1},
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/silk_touch"
+          "model": "summerfields:item/enchanted_book/silk_touch"
         }
       },
 
@@ -303,7 +303,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/fortune"
+          "model": "summerfields:item/enchanted_book/fortune"
         }
       },
 
@@ -315,7 +315,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/luck_of_the_sea"
+          "model": "summerfields:item/enchanted_book/luck_of_the_sea"
         }
       },
 
@@ -327,7 +327,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/lure"
+          "model": "summerfields:item/enchanted_book/lure"
         }
       },
 
@@ -339,7 +339,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/unbreaking"
+          "model": "summerfields:item/enchanted_book/unbreaking"
         }
       },
 
@@ -347,7 +347,7 @@
         "when": {"minecraft:mending": 1},
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/mending"
+          "model": "summerfields:item/enchanted_book/mending"
         }
       },
 
@@ -355,7 +355,7 @@
         "when": {"minecraft:vanishing_curse": 1},
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/vanishing_curse"
+          "model": "summerfields:item/enchanted_book/vanishing_curse"
         }
       },
 
@@ -363,7 +363,7 @@
         "when": {"minecraft:channeling": 1},
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/channeling"
+          "model": "summerfields:item/enchanted_book/channeling"
         }
       },
 
@@ -377,7 +377,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/impaling"
+          "model": "summerfields:item/enchanted_book/impaling"
         }
       },
 
@@ -389,7 +389,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/loyalty"
+          "model": "summerfields:item/enchanted_book/loyalty"
         }
       },
 
@@ -401,7 +401,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/riptide"
+          "model": "summerfields:item/enchanted_book/riptide"
         }
       },
 
@@ -409,7 +409,7 @@
         "when": {"minecraft:multishot": 1},
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/multishot"
+          "model": "summerfields:item/enchanted_book/multishot"
         }
       },
 
@@ -422,7 +422,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/piercing"
+          "model": "summerfields:item/enchanted_book/piercing"
         }
       },
 
@@ -434,7 +434,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/quick_charge"
+          "model": "summerfields:item/enchanted_book/quick_charge"
         }
       },
 
@@ -447,7 +447,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/breach"
+          "model": "summerfields:item/enchanted_book/breach"
         }
       },
 
@@ -461,7 +461,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/density"
+          "model": "summerfields:item/enchanted_book/density"
         }
       },
 
@@ -473,7 +473,7 @@
 				],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:variant/enchanted_book/wind_burst"
+          "model": "summerfields:item/enchanted_book/wind_burst"
         }
       }
     ],

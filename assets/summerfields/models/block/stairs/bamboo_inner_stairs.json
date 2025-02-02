@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "summerfields:block/stairs/template_inner_stairs",
+	"textures": {
+		"0": "summerfields:block/stairs/bamboo_stair",
+		"particle": "summerfields:block/stairs/bamboo_stair"
+	}
+}

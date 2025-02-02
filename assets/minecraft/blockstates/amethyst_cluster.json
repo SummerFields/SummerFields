@@ -1,28 +1,28 @@
 {
   "variants": {
     "facing=down": {
-      "model": "minecraft:variant/amethyst/amethyst_cluster",
+      "model": "summerfields:block/amethyst/amethyst_cluster",
       "x": 180
     },
     "facing=east": {
-      "model": "minecraft:variant/amethyst/amethyst_cluster",
+      "model": "summerfields:block/amethyst/amethyst_cluster",
       "x": 90,
       "y": 90
     },
     "facing=north": {
-      "model": "minecraft:variant/amethyst/amethyst_cluster",
+      "model": "summerfields:block/amethyst/amethyst_cluster",
       "x": 90
     },
     "facing=south": {
-      "model": "minecraft:variant/amethyst/amethyst_cluster",
+      "model": "summerfields:block/amethyst/amethyst_cluster",
       "x": 90,
       "y": 180
     },
     "facing=up": {
-      "model": "minecraft:variant/amethyst/amethyst_cluster"
+      "model": "summerfields:block/amethyst/amethyst_cluster"
     },
     "facing=west": {
-      "model": "minecraft:variant/amethyst/amethyst_cluster",
+      "model": "summerfields:block/amethyst/amethyst_cluster",
       "x": 90,
       "y": 270
     }

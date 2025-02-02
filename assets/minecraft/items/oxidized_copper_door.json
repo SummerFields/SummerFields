@@ -1,6 +1,6 @@
 {
 	"model": {
 		"type": "minecraft:model",
-		"model": "minecraft:variant/doors/oxidized_copper_door_inventory"
+		"model": "summerfields:block/doors/oxidized_copper_door_inventory"
 	}
 }

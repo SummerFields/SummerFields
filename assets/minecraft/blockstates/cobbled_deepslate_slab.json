@@ -1,7 +1,7 @@
 {
     "variants": {
-        "type=bottom": { "model": "minecraft:variant/slabs/cobbled_deepslate_slab_bottom" },
-        "type=top": { "model": "minecraft:variant/slabs/cobbled_deepslate_slab_top" },
-        "type=double": { "model": "minecraft:variant/bricks/cobbled_deepslate" }
+        "type=bottom": { "model": "summerfields:block/slabs/cobbled_deepslate_slab_bottom" },
+        "type=top": { "model": "summerfields:block/slabs/cobbled_deepslate_slab_top" },
+        "type=double": { "model": "summerfields:block/bricks/cobbled_deepslate" }
     }
 }

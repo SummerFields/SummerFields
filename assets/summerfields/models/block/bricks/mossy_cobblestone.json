@@ -1,0 +1,9 @@
+{
+    "parent": "summerfields:block/bricks/basemossy",
+    "textures": {
+        "down": "summerfields:block/bricks/mossy_cobblestone_top",
+        "up": "summerfields:block/bricks/mossy_cobblestone_top",
+        "side": "minecraft:block/mossy_cobblestone",
+        "crop": "minecraft:block/wheat_stage0"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/trapdoor/template_trapdoor",
+    "textures": {
+        "texture": "minecraft:block/iron_trapdoor",
+        "particle": "summerfields:block/trapdoor/iron_trapdoor_side"
+    }
+}

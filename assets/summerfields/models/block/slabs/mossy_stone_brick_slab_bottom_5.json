@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/slab",
+    "textures": {
+        "bottom": "summerfields:block/bricks/mossy_stone_bricks_top_5",
+        "top": "summerfields:block/bricks/mossy_stone_bricks_top_5",
+        "side": "minecraft:block/mossy_stone_bricks"
+    }
+}

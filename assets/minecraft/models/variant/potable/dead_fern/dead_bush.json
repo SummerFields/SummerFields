@@ -1,8 +1,0 @@
-{
-	"parent": "minecraft:variant/potable/template_flower_cross",
-	"textures": {
-		"particle": "#side",
-		"side": "minecraft:block/dead_bush",
-		"branch": "minecraft:variant/potable/dead_bush_branch"
-	}
-}

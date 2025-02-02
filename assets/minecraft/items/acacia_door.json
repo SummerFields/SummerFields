@@ -1,6 +1,6 @@
 {
 	"model": {
 		"type": "minecraft:model",
-		"model": "minecraft:variant/doors/acacia_door_inventory"
+		"model": "summerfields:block/doors/acacia_door_inventory"
 	}
 }

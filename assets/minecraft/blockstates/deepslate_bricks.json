@@ -1,7 +1,7 @@
 {
     "variants": {
         "": [
-          { "model": "minecraft:variant/bricks/deepslate_bricks_1" }
+          { "model": "summerfields:block/bricks/deepslate_bricks_1" }
         ]
     }
 }

@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:variant/armor/template_chestplate",
+  "parent": "summerfields:block/armor/template_chestplate",
   "textures": {
      "layer0": "minecraft:entity/equipment/humanoid/leather",
      "layer1": "minecraft:entity/equipment/humanoid/leather_overlay",

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:variant/pumpkin_melon/pumpkin"
+    "model": "summerfields:block/pumpkin_melon/pumpkin"
   }
 }

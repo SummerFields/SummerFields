@@ -2,7 +2,7 @@
   "multipart": [
     {
       "apply": {
-        "model": "minecraft:variant/moss_carpet/pale_moss_carpet"
+        "model": "summerfields:block/moss_carpet/pale_moss_carpet"
       },
       "when": {
         "bottom": "true"
@@ -10,7 +10,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:variant/moss_carpet/pale_moss_carpet"
+        "model": "summerfields:block/moss_carpet/pale_moss_carpet"
       },
       "when": {
         "bottom": "false",

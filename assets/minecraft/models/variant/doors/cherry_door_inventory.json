@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:variant/doors/template_door_inventory",
-    "textures": {
-        "bottom": "minecraft:block/cherry_door_bottom",
-        "top": "minecraft:block/cherry_door_top",
-        "side": "minecraft:variant/doors/cherry_door_side"
-    }
-}

@@ -5,7 +5,7 @@
             { "model": "minecraft:block/target" },
             { "model": "minecraft:block/target" },
             { "model": "minecraft:block/target" },
-            { "model": "minecraft:variant/target/target2" }
+            { "model": "summerfields:block/target/target2" }
         ]
   }
 }

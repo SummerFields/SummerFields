@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:variant/button/jungle_button"
+    "model": "summerfields:block/button/jungle_button"
   }
 }

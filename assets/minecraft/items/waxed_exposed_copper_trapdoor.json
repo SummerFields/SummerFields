@@ -4,11 +4,11 @@
 		"models": [
 			{
 				"type": "minecraft:model",
-				"model": "minecraft:variant/trapdoor/exposed_copper_trapdoor"
+				"model": "summerfields:block/trapdoor/exposed_copper_trapdoor"
 			},
 			{
 				"type": "minecraft:model",
-				"model": "minecraft:variant/waxed/template_trapdoor_inventory_waxed"
+				"model": "summerfields:block/waxed/template_trapdoor_inventory_waxed"
 			}
 		]
 	}

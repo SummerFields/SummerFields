@@ -1,9 +1,9 @@
 {
   "variants": {
     "": [
-      { "model": "minecraft:variant/amethyst/budding_amethyst" },
-      { "model": "minecraft:variant/amethyst/budding_amethyst_2" },
-      { "model": "minecraft:variant/amethyst/budding_amethyst_3" }
+      { "model": "summerfields:block/amethyst/budding_amethyst" },
+      { "model": "summerfields:block/amethyst/budding_amethyst_2" },
+      { "model": "summerfields:block/amethyst/budding_amethyst_3" }
     ]
   }
 }

@@ -1,9 +1,0 @@
-{
-	"parent": "minecraft:variant/walls/template_side_tall",
-	"textures": {
-		"particle": "#front",
-		"front": "minecraft:block/polished_blackstone",
-		"innertop": "minecraft:variant/walls/polished_blackstone_inner_top",
-		"other": "minecraft:variant/walls/polished_blackstone_other"
-	}
-}

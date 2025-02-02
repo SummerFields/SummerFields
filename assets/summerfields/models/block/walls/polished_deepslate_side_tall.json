@@ -1,0 +1,9 @@
+{
+	"parent": "summerfields:block/walls/template_side_tall",
+	"textures": {
+		"particle": "#front",
+		"front": "minecraft:block/polished_deepslate",
+		"innertop": "summerfields:block/walls/polished_deepslate_inner_top",
+		"other": "summerfields:block/walls/polished_deepslate_other"
+	}
+}

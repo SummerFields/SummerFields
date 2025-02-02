@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:variant/button/template_orientable_button",
-    "textures": {
-        "texture": "minecraft:variant/button/mangrove_button"
-    }
-}

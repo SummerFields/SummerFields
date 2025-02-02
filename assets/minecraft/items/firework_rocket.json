@@ -8,27 +8,27 @@
         "when": { "flight_duration": 1},
         "model": {
           "type": "model",
-          "model": "variant/firework/firework_rocket_flight_duration_1"
+          "model": "summerfields:item/firework/firework_rocket_flight_duration_1"
         }
       },
       {
         "when": { "flight_duration": 2},
         "model": {
           "type": "model",
-          "model": "variant/firework/firework_rocket_flight_duration_2"
+          "model": "summerfields:item/firework/firework_rocket_flight_duration_2"
         }
       },
       {
         "when": { "flight_duration": 3},
         "model": {
           "type": "model",
-          "model": "variant/firework/firework_rocket_flight_duration_3"
+          "model": "summerfields:item/firework/firework_rocket_flight_duration_3"
         }
       }
     ],
     "fallback": {
       "type": "model",
-      "model": "variant/firework/firework_rocket_flight_duration_2"
+      "model": "summerfields:item/firework/firework_rocket_flight_duration_2"
     }
   }
 }

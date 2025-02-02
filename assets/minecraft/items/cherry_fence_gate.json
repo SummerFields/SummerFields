@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:variant/fence/cherry_fence_gate"
+    "model": "summerfields:block/fence/cherry_fence_gate"
   }
 }

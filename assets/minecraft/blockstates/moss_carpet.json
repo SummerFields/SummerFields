@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:variant/moss_carpet/moss_carpet"
+      "model": "summerfields:block/moss_carpet/moss_carpet"
     }
   }
 }

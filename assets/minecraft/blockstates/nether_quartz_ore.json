@@ -1,9 +1,9 @@
 {
   "variants": {
     "": [
-      { "model": "minecraft:variant/ore/nether_quartz_ore_1" },
-      { "model": "minecraft:variant/ore/nether_quartz_ore_2" },
-      { "model": "minecraft:variant/ore/nether_quartz_ore_3" }
+      { "model": "summerfields:block/ore/nether_quartz_ore_1" },
+      { "model": "summerfields:block/ore/nether_quartz_ore_2" },
+      { "model": "summerfields:block/ore/nether_quartz_ore_3" }
     ]
   }
 }

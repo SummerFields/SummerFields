@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:variant/armorstand/armorstand_inventory"
+    "model": "summerfields:block/armorstand/armorstand_inventory"
   }
 }

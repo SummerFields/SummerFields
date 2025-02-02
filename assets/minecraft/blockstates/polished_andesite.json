@@ -2,10 +2,10 @@
     "variants": {
         "": [
             { "model": "minecraft:block/polished_andesite" },
-            { "model": "minecraft:variant/polished/polished_andesite_2" },
-            { "model": "minecraft:variant/polished/polished_andesite_3" },
-            { "model": "minecraft:variant/polished/polished_andesite_4" },
-            { "model": "minecraft:variant/polished/polished_andesite_5" }
+            { "model": "summerfields:block/polished/polished_andesite_2" },
+            { "model": "summerfields:block/polished/polished_andesite_3" },
+            { "model": "summerfields:block/polished/polished_andesite_4" },
+            { "model": "summerfields:block/polished/polished_andesite_5" }
         ]
     }
 }

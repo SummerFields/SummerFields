@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/slab",
+    "textures": {
+        "bottom": "summerfields:block/bricks/dark_prismarine_2",
+        "top": "summerfields:block/bricks/dark_prismarine_2",
+        "side": "summerfields:block/bricks/dark_prismarine_4"
+    }
+}

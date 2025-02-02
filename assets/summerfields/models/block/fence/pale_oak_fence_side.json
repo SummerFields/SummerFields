@@ -1,0 +1,6 @@
+{
+    "parent": "summerfields:block/fence/custom_fence_side",
+    "textures": {
+        "texture": "summerfields:block/fence/pale_oak_fence"
+    }
+}

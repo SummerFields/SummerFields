@@ -2,13 +2,13 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/block",
 	"textures": {
-		"0": "variant/loom/loom_top",
-		"1": "block/loom_side",
-		"2": "variant/loom/loom_back",
-		"3": "block/loom_front",
-		"5": "block/loom_bottom",
-		"6": "variant/loom/loom_bross",
-		"particle": "variant/loom/loom_top"
+		"0": "summerfields:block/loom/loom_top",
+		"1": "minecraft:block/loom_side",
+		"2": "summerfields:block/loom/loom_back",
+		"3": "minecraft:block/loom_front",
+		"5": "minecraft:block/loom_bottom",
+		"6": "summerfields:block/loom/loom_bross",
+		"particle": "summerfields:block/loom/loom_top"
 	},
 	"elements": [
 		{

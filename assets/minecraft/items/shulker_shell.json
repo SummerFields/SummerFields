@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:variant/shulker_shell/shulker_shell"
+    "model": "summerfields:block/shulker_shell/shulker_shell"
   }
 }

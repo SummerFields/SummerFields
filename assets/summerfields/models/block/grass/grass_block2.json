@@ -1,0 +1,10 @@
+{
+    "parent": "minecraft:block/grass_block",
+    "textures": {
+        "particle": "minecraft:block/dirt",
+        "bottom": "minecraft:block/dirt",
+        "top": "summerfields:block/grass/grass_block_top2",
+        "side": "minecraft:block/grass_block_side",
+        "overlay": "minecraft:block/grass_block_side_overlay"
+    }
+}

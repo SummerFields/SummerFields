@@ -1,7 +1,7 @@
 {
     "variants": {
-        "type=bottom": { "model": "minecraft:variant/slabs/petrified_oak_slab_bottom" },
-        "type=top": { "model": "minecraft:variant/slabs/petrified_oak_slab_top" },
-        "type=double": { "model": "minecraft:variant/slabs/petrified_oak_slab_double" }
+        "type=bottom": { "model": "summerfields:block/slabs/petrified_oak_slab_bottom" },
+        "type=top": { "model": "summerfields:block/slabs/petrified_oak_slab_top" },
+        "type=double": { "model": "summerfields:block/slabs/petrified_oak_slab_double" }
     }
 }

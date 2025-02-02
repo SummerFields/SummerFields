@@ -2,10 +2,10 @@
     "variants": {
         "": [
             { "model": "minecraft:block/polished_diorite" },
-            { "model": "minecraft:variant/polished/polished_diorite_2" },
-            { "model": "minecraft:variant/polished/polished_diorite_3" },
-            { "model": "minecraft:variant/polished/polished_diorite_4" },
-            { "model": "minecraft:variant/polished/polished_diorite_5" }
+            { "model": "summerfields:block/polished/polished_diorite_2" },
+            { "model": "summerfields:block/polished/polished_diorite_3" },
+            { "model": "summerfields:block/polished/polished_diorite_4" },
+            { "model": "summerfields:block/polished/polished_diorite_5" }
         ]
     }
 }

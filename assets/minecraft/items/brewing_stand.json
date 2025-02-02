@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:variant/items/brewing_stand"
+    "model": "summerfields:block/items/brewing_stand"
   }
 }

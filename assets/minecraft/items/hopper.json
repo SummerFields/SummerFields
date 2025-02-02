@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:variant/hopper/hopper"
+    "model": "summerfields:block/hopper/hopper"
   }
 }

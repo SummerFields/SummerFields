@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:variant/composter/composter"
+    "model": "summerfields:block/composter/composter"
   }
 }

@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+        "end": "summerfields:block/slab/stone_slab_top_1",
+        "side": "summerfields:block/slab/stone_slab_top_2"
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "summerfields:block/stairs/template_back_1",
+	"textures": {
+		"back": "summerfields:block/end_stone/end_stone_bricks_top",
+		"particle": "#back"
+	}
+}

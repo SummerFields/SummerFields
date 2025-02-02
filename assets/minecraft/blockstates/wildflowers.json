@@ -2,8 +2,8 @@
   "multipart": [
     {
       "apply": [
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_5", "y": 0},
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_1", "y": 0}
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_5", "y": 0},
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_1", "y": 0}
       ],
       "when": {
         "facing": "north",
@@ -12,8 +12,8 @@
     },
     {
       "apply": [
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_1", "y": 90},
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_5", "y": 90}
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_1", "y": 90},
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_5", "y": 90}
       ],
       "when": {
         "facing": "east",
@@ -22,8 +22,8 @@
     },
     {
       "apply": [
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_5", "y": 180},
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_1", "y": 180}
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_5", "y": 180},
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_1", "y": 180}
       ],
       "when": {
         "facing": "south",
@@ -32,8 +32,8 @@
     },
     {
       "apply": [
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_1", "y": 270},
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_5", "y": 270}
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_1", "y": 270},
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_5", "y": 270}
       ],
       "when": {
         "facing": "west",
@@ -42,8 +42,8 @@
     },
     {
       "apply": [
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_2", "y":270},
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_6", "y":270}
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_2", "y":270},
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_6", "y":270}
       ],
       "when": {
         "facing": "north",
@@ -52,8 +52,8 @@
     },
     {
       "apply": [
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_6", "y": 0},
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_2", "y": 0}
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_6", "y": 0},
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_2", "y": 0}
       ],
       "when": {
         "facing": "east",
@@ -62,8 +62,8 @@
     },
     {
       "apply": [
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_2", "y": 90},
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_6", "y": 90}
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_2", "y": 90},
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_6", "y": 90}
       ],
       "when": {
         "facing": "south",
@@ -72,8 +72,8 @@
     },
     {
       "apply": [
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_6", "y": 180},
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_2", "y": 180}
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_6", "y": 180},
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_2", "y": 180}
       ],
       "when": {
         "facing": "west",
@@ -82,8 +82,8 @@
     },
     {
       "apply": [
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_7", "y": 180},
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_3", "y": 180}
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_7", "y": 180},
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_3", "y": 180}
       ],
       "when": {
         "facing": "north",
@@ -92,8 +92,8 @@
     },
     {
       "apply": [
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_3", "y": 270},
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_7", "y": 270}
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_3", "y": 270},
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_7", "y": 270}
       ],
       "when": {
         "facing": "east",
@@ -102,8 +102,8 @@
     },
     {
       "apply": [
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_7", "y": 0},
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_3", "y": 0}
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_7", "y": 0},
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_3", "y": 0}
       ],
       "when": {
         "facing": "south",
@@ -112,8 +112,8 @@
     },
     {
       "apply": [
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_3", "y": 90},
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_7", "y": 90}
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_3", "y": 90},
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_7", "y": 90}
       ],
       "when": {
         "facing": "west",
@@ -122,8 +122,8 @@
     },
     {
       "apply": [
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_4", "y": 90},
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_8", "y": 90}
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_4", "y": 90},
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_8", "y": 90}
       ],
       "when": {
         "facing": "north",
@@ -132,8 +132,8 @@
     },
     {
       "apply": [
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_8", "y": 180},
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_4", "y": 180}
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_8", "y": 180},
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_4", "y": 180}
       ],
       "when": {
         "facing": "east",
@@ -142,8 +142,8 @@
     },
     {
       "apply": [
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_4", "y": 270},
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_8", "y": 270}
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_4", "y": 270},
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_8", "y": 270}
       ],
       "when": {
         "facing": "south",
@@ -152,8 +152,8 @@
     },
     {
       "apply": [
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_8", "y": 0},
-	      {"model": "minecraft:variant/potable/flowerbed/wildflowers_4", "y": 0}
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_8", "y": 0},
+	      {"model": "summerfields:block/potable/flowerbed/wildflowers_4", "y": 0}
       ],
       "when": {
         "facing": "west",

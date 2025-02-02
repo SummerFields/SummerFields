@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:variant/dripleaf/big_dripleaf"
+    "model": "summerfields:block/dripleaf/big_dripleaf"
   }
 }

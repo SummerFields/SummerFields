@@ -2,8 +2,8 @@
 	"model": {
 		"type": "minecraft:composite",
 		"models": [
-			{ "type": "minecraft:model", "model": "minecraft:variant/infested/infested_inventory"},
-			{ "type": "minecraft:model", "model": "minecraft:variant/bricks/stone_bricks_1"}
+			{ "type": "minecraft:model", "model": "summerfields:block/infested/infested_inventory"},
+			{ "type": "minecraft:model", "model": "summerfields:block/bricks/stone_bricks_1"}
 		]
 	}
 }

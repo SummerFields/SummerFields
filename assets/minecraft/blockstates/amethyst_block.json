@@ -1,9 +1,9 @@
 {
   "variants": {
     "": [
-      { "model": "minecraft:variant/amethyst/amethyst_block" },
-      { "model": "minecraft:variant/amethyst/amethyst_block_2" },
-      { "model": "minecraft:variant/amethyst/amethyst_block_3" }
+      { "model": "summerfields:block/amethyst/amethyst_block" },
+      { "model": "summerfields:block/amethyst/amethyst_block_2" },
+      { "model": "summerfields:block/amethyst/amethyst_block_3" }
     ]
   }
 }

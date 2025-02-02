@@ -1,0 +1,9 @@
+{
+    "parent": "summerfields:block/pumpkin_melon/orientable_b",
+    "textures": {
+        "top": "minecraft:block/pumpkin_top",
+        "bottom": "summerfields:block/pumpkin_melon/pumpkin_bottom",
+        "front": "summerfields:block/pumpkin_melon/jack_o_lantern_1",
+        "side": "minecraft:block/pumpkin_side"
+    }
+}

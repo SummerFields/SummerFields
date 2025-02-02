@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:variant/doors/template_door_inventory",
-    "textures": {
-        "bottom": "minecraft:block/oak_door_bottom",
-        "top": "minecraft:block/oak_door_top",
-        "side": "minecraft:variant/doors/oak_door_side"
-    }
-}

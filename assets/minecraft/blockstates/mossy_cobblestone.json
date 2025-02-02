@@ -1,5 +1,5 @@
 {
     "variants": {
-        "": { "model": "minecraft:variant/bricks/mossy_cobblestone" }
+        "": { "model": "summerfields:block/bricks/mossy_cobblestone" }
     }
 }

@@ -8,7 +8,7 @@
 			},
 			{
 				"type": "minecraft:model",
-				"model": "minecraft:variant/waxed/template_slab_inventory_waxed"
+				"model": "summerfields:block/waxed/template_slab_inventory_waxed"
 			}
 		]
 	}

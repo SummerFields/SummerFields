@@ -1,0 +1,6 @@
+{
+    "parent": "summerfields:block/redstone_wire/redstone_dust_side",
+    "textures": {
+        "line": "summerfields:block/redstone_wire/redstone_dust_line7"
+    }
+}

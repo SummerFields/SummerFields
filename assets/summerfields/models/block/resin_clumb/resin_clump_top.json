@@ -2,7 +2,7 @@
     "ambientocclusion": false,
     "textures": {
         "particle": "minecraft:block/resin_clump",
-        "texture": "minecraft:variant/resin_clumb/resin_clump_top"
+        "texture": "summerfields:block/resin_clumb/resin_clump_top"
     },
     "elements": [
         {   "from": [ 0, 0, 0.1 ],

@@ -8,20 +8,20 @@
         "when": "Filter",
         "model": {
           "type": "minecraft:model",
-          "model": "summerfields:item/filter/filter_64"
+          "model": "summerfields:item/filter/filter"
         }
       },
       {
         "when": "filter",
         "model": {
           "type": "minecraft:model",
-          "model": "summerfields:item/filter/filter_64"
+          "model": "summerfields:item/filter/filter"
         }
       }
     ],
     "fallback": {
           "type": "minecraft:model",
-          "model": "summerfields:block/bricks/cobblestone"
+	  "model": "minecraft:item/wooden_shovel"
     }
   }
 }

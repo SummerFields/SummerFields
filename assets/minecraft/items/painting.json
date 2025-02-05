@@ -364,6 +364,13 @@
           "type": "minecraft:model",
           "model": "summerfieldsdp:item/title"
         }
+      },
+      {
+        "when": "summerfieldsdp:potion_recipes",
+        "model": {
+          "type": "minecraft:model",
+          "model": "summerfieldsdp:item/potion_recipes"
+        }
       }
       
       

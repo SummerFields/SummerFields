@@ -1,0 +1,150 @@
+{
+	"parent": "minecraft:item_variant/spawn_egg/display_middle_small",
+	"textures": {
+		"particle": "#layer0",
+		"layer0": "minecraft:entity/fish/pufferfish"
+	},
+	"elements": [
+		{
+			"name": "body",
+			"from": [4, 4, 4],
+			"to": [12, 12, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3, 8]},
+			"faces": {
+				"north": {"uv": [4, 4, 8, 8], "texture": "#layer0"},
+				"east": {"uv": [0, 4, 4, 8], "texture": "#layer0"},
+				"south": {"uv": [12, 4, 16, 8], "texture": "#layer0"},
+				"west": {"uv": [8, 4, 12, 8], "texture": "#layer0"},
+				"up": {"uv": [8, 4, 4, 0], "texture": "#layer0"},
+				"down": {"uv": [12, 0, 8, 4], "texture": "#layer0"}
+			}
+		},
+		{
+			"name": "fin_left",
+			"from": [2, 10, 5.01],
+			"to": [4, 10, 7.01],
+			"rotation": {"angle": 45, "axis": "z", "origin": [4, 10, 6.01]},
+			"faces": {
+				"up": {"uv": [14, 2.5, 13, 1.5], "texture": "#layer0"},
+				"down": {"uv": [14, 1.5, 13, 2.5], "texture": "#layer0"}
+			}
+		},
+		{
+			"name": "fin_right",
+			"from": [12, 11, 5.01],
+			"to": [14, 11, 7.01],
+			"rotation": {"angle": -45, "axis": "z", "origin": [12, 11, 6.01]},
+			"faces": {
+				"up": {"uv": [14, 1, 13, 0], "texture": "#layer0"},
+				"down": {"uv": [14, 0, 13, 1], "texture": "#layer0"}
+			}
+		},
+		{
+			"name": "spikes_front_top",
+			"from": [4, 12, 4],
+			"to": [12, 13, 4],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 12, 4]},
+			"faces": {
+				"north": {"uv": [7.5, 8.5, 11.5, 9], "texture": "#layer0"},
+				"south": {"uv": [11.5, 8.5, 7.5, 9], "texture": "#layer0"}
+			}
+		},
+		{
+			"name": "spikes_middle_top",
+			"from": [4, 12, 8],
+			"to": [12, 13, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3, 8]},
+			"faces": {
+				"north": {"uv": [7.5, 8.5, 11.5, 9], "texture": "#layer0"},
+				"south": {"uv": [11.5, 8.5, 7.5, 9], "texture": "#layer0"}
+			}
+		},
+		{
+			"name": "spikes_back_top",
+			"from": [4, 12, 12],
+			"to": [12, 13, 12],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 12, 12]},
+			"faces": {
+				"north": {"uv": [11.5, 9, 15.5, 9.5], "texture": "#layer0"},
+				"south": {"uv": [15.5, 9, 11.5, 9.5], "texture": "#layer0"}
+			}
+		},
+		{
+			"name": "spikes_front_left",
+			"from": [3, 4, 4],
+			"to": [4, 12, 4],
+			"rotation": {"angle": -45, "axis": "y", "origin": [4, 8, 4]},
+			"faces": {
+				"north": {"uv": [0.5, 8.5, 1, 12.5], "texture": "#layer0"},
+				"south": {"uv": [1, 8.5, 0.5, 12.5], "texture": "#layer0"}
+			}
+		},
+		{
+			"name": "spikes_front_right",
+			"from": [12, 4, 4],
+			"to": [13, 12, 4],
+			"rotation": {"angle": 45, "axis": "y", "origin": [12, 8, 4]},
+			"faces": {
+				"north": {"uv": [2.5, 8.5, 3, 12.5], "texture": "#layer0"},
+				"south": {"uv": [3, 8.5, 2.5, 12.5], "texture": "#layer0"}
+			}
+		},
+		{
+			"name": "spikes_back_left",
+			"from": [3, 4, 12],
+			"to": [4, 12, 12],
+			"rotation": {"angle": 45, "axis": "y", "origin": [4, 8, 12]},
+			"faces": {
+				"north": {"uv": [4.5, 8.5, 5, 12.5], "texture": "#layer0"},
+				"south": {"uv": [4.5, 8.5, 5, 12.5], "texture": "#layer0"}
+			}
+		},
+		{
+			"name": "spikes_back_right",
+			"from": [12, 4, 12],
+			"to": [13, 12, 12],
+			"rotation": {"angle": -45, "axis": "y", "origin": [12, 8, 12]},
+			"faces": {
+				"north": {"uv": [4.5, 8.5, 5, 12.5], "texture": "#layer0"},
+				"south": {"uv": [4.5, 8.5, 5, 12.5], "texture": "#layer0"}
+			}
+		},
+		{
+			"name": "spikes_front_bottom",
+			"from": [4, 3, 4],
+			"to": [12, 4, 4],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 4, 4]},
+			"faces": {
+				"north": {"uv": [7.5, 10, 11.5, 10.5], "texture": "#layer0"},
+				"south": {"uv": [11.5, 10, 7.5, 10.5], "texture": "#layer0"}
+			}
+		},
+		{
+			"name": "spikes_middle_bottom",
+			"from": [4, 3, 8],
+			"to": [12, 4, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3, 8]},
+			"faces": {
+				"north": {"uv": [7.5, 10, 11.5, 10.5], "texture": "#layer0"},
+				"south": {"uv": [11.5, 10, 7.5, 10.5], "texture": "#layer0"}
+			}
+		},
+		{
+			"name": "spikes_back_bottom",
+			"from": [4, 3, 12],
+			"to": [12, 4, 12],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 4, 12]},
+			"faces": {
+				"north": {"uv": [7.5, 10, 11.5, 10.5], "texture": "#layer0"},
+				"south": {"uv": [11.5, 10, 7.5, 10.5], "texture": "#layer0"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"rotation": [0, 0, 0],
+			"translation": [0, 0, 0],
+			"scale":[ 0.7, 0.7, 0.7 ]
+		}
+	}
+}

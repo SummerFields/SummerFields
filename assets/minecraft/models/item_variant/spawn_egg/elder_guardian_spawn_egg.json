@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item_variant/spawn_egg/shape_guardian",
+  "textures": {
+        "particle": "#layer0",
+		"layer0": "minecraft:entity/guardian_elder"
+  }
+}

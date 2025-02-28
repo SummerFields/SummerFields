@@ -1,0 +1,35 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+	    "type": "minecraft:condition",
+	    "on_false": {
+	      "type": "minecraft:model",
+	      "model": "minecraft:item_variant/angel_wing"
+	    },
+	    "on_true": {
+	      "type": "minecraft:model",
+	      "model": "minecraft:item_variant/broken_angel_wing"
+	    },
+	    "property": "minecraft:broken"
+        },
+        "when": "angel"
+      }
+    ],
+    "fallback": {
+	    "type": "minecraft:condition",
+	    "on_false": {
+	      "type": "minecraft:model",
+	      "model": "minecraft:item/elytra"
+	    },
+	    "on_true": {
+	      "type": "minecraft:model",
+	      "model": "minecraft:item/elytra_broken"
+	    },
+	    "property": "minecraft:broken"
+    },
+    "property": "minecraft:custom_model_data"
+  }
+}

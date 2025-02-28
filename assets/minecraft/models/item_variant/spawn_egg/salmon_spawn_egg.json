@@ -1,0 +1,98 @@
+{
+	"parent": "minecraft:item_variant/spawn_egg/display_middle_small",
+	"textures": {
+		"particle": "#layer0",
+		"layer0": "minecraft:entity/fish/salmon"
+	},
+	"elements": [
+		{
+			"name": "head",
+			"from": [6.975, 5.5, -3.75],
+			"to": [8.975, 9.5, -0.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.975, 8.03806, 8]},
+			"faces": {
+				"north": {"uv": [12.5, 1.5, 13.5, 3.5], "texture": "#layer0"},
+				"east": {"uv": [11, 1.5, 12.5, 3.5], "texture": "#layer0"},
+				"west": {"uv": [13.5, 1.5, 15, 3.5], "texture": "#layer0"},
+				"up": {"uv": [13.5, 1.5, 12.5, 0], "texture": "#layer0"},
+				"down": {"uv": [14.5, 0, 13.5, 1.5], "texture": "#layer0"}
+			}
+		},
+		{
+			"name": "body_front",
+			"from": [6.475, 5, -0.75],
+			"to": [9.475, 10, 7.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.975, 8.03806, 8]},
+			"faces": {
+				"north": {"uv": [4, 4, 5.5, 6.5], "texture": "#layer0"},
+				"east": {"uv": [0, 4, 4, 6.5], "texture": "#layer0"},
+				"west": {"uv": [5.5, 4, 9.5, 6.5], "texture": "#layer0"},
+				"up": {"uv": [5.5, 4, 4, 0], "texture": "#layer0"},
+				"down": {"uv": [7, 0, 5.5, 4], "texture": "#layer0"}
+			}
+		},
+		{
+			"name": "body_back",
+			"from": [6.475, 5, 7.25],
+			"to": [9.475, 10, 15.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.975, 8.03806, 8]},
+			"faces": {
+				"east": {"uv": [0, 10.5, 4, 13], "texture": "#layer0"},
+				"south": {"uv": [9.5, 10.5, 11, 13], "texture": "#layer0"},
+				"west": {"uv": [5.5, 10.5, 9.5, 13], "texture": "#layer0"},
+				"up": {"uv": [5.5, 10.5, 4, 6.5], "texture": "#layer0"},
+				"down": {"uv": [7, 6.5, 5.5, 10.5], "texture": "#layer0"}
+			}
+		},
+		{
+			"name": "fin_left",
+			"from": [7.36911, 3.58111, -0.75],
+			"to": [7.36911, 5.58111, 1.25],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [7.975, 8.03806, 8]},
+			"faces": {
+				"east": {"uv": [3, 0, 2, 1], "rotation": 270, "texture": "#layer0"},
+				"west": {"uv": [3, 1, 2, 0], "rotation": 270, "texture": "#layer0"}
+			}
+		},
+		{
+			"name": "fin_right",
+			"from": [8.58089, 3.58111, -0.75],
+			"to": [8.58089, 5.58111, 1.25],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [7.975, 8.03806, 8]},
+			"faces": {
+				"east": {"uv": [1, 1, 0, 0], "rotation": 90, "texture": "#layer0"},
+				"west": {"uv": [1, 0, 0, 1], "rotation": 90, "texture": "#layer0"}
+			}
+		},
+		{
+			"name": "fin_back_1",
+			"from": [7.975, 10, 4.25],
+			"to": [7.975, 12, 7.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.975, 8.03806, 8]},
+			"faces": {
+				"east": {"uv": [4, 2, 2.5, 3], "texture": "#layer0"},
+				"west": {"uv": [2.5, 2, 4, 3], "texture": "#layer0"}
+			}
+		},
+		{
+			"name": "fin_back_2",
+			"from": [7.975, 10, 6.25],
+			"to": [7.975, 12, 10.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.975, 8.03806, 8]},
+			"faces": {
+				"east": {"uv": [4, 3, 2, 4], "texture": "#layer0"},
+				"west": {"uv": [2, 3, 4, 4], "texture": "#layer0"}
+			}
+		},
+		{
+			"name": "tail",
+			"from": [7.975, 5, 15.25],
+			"to": [7.975, 10, 21.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.975, 8.03806, 8]},
+			"faces": {
+				"east": {"uv": [16, 8, 13, 10.5], "texture": "#layer0"},
+				"west": {"uv": [13, 8, 16, 10.5], "texture": "#layer0"}
+			}
+		}
+	]
+}

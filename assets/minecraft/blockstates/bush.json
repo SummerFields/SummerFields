@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+        { "model": "minecraft:block_variant/potable/bush/bush", "y":0 },
+        { "model": "minecraft:block_variant/potable/bush/bush", "y":90 },
+        { "model": "minecraft:block_variant/potable/bush/bush_22-5", "y":0 },
+        { "model": "minecraft:block_variant/potable/bush/bush_22-5", "y":90 },
+        { "model": "minecraft:block_variant/potable/bush/bush_45", "y":0 },
+        { "model": "minecraft:block_variant/potable/bush/bush_45", "y":90 },
+        { "model": "minecraft:block_variant/potable/bush/bush_-22-5", "y":0 },
+        { "model": "minecraft:block_variant/potable/bush/bush_-22-5", "y":90 }
+    ]
+  }
+}

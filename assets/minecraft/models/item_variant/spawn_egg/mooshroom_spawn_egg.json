@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item_variant/spawn_egg/shape_cow",
+	"textures": {
+		"particle": "#0",
+		"0": "minecraft:entity/cow/red_mooshroom"
+	}
+}

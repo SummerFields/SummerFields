@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "minecraft:item_variant/spawn_egg/ender_dragon_spawn_egg"
+  }
+}

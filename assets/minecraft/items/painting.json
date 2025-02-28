@@ -1,0 +1,391 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component":"minecraft:painting/variant",
+    "cases": [
+      {
+        "when": "minecraft:alban",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/alban"
+        }
+      },
+      {
+        "when": "minecraft:aztec",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/aztec"
+        }
+      },
+      {
+        "when": "minecraft:aztec2",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/aztec2"
+        }
+      },
+      {
+        "when": "minecraft:backyard",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/backyard"
+        }
+      },
+      {
+        "when": "minecraft:baroque",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/baroque"
+        }
+      },
+      {
+        "when": "minecraft:bomb",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/bomb"
+        }
+      },
+      {
+        "when": "minecraft:bouquet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/bouquet"
+        }
+      },
+      {
+        "when": "minecraft:burning_skull",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/burning_skull"
+        }
+      },
+      {
+        "when": "minecraft:bust",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/bust"
+        }
+      },
+      {
+        "when": "minecraft:cavebird",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/cavebird"
+        }
+      },
+      {
+        "when": "minecraft:changing",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/changing"
+        }
+      },
+      {
+        "when": "minecraft:cotan",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/cotan"
+        }
+      },
+      {
+        "when": "minecraft:courbet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/courbet"
+        }
+      },
+      {
+        "when": "minecraft:creebet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/creebet"
+        }
+      },
+      {
+        "when": "minecraft:dennis",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/dennis"
+        }
+      },
+      {
+        "when": "minecraft:donkey_kong",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/donkey_kong"
+        }
+      },
+      {
+        "when": "minecraft:earth",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/earth"
+        }
+      },
+      {
+        "when": "minecraft:endboss",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/endboss"
+        }
+      },
+      {
+        "when": "minecraft:fern",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/fern"
+        }
+      },
+      {
+        "when": "minecraft:fighters",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/fighters"
+        }
+      },
+      {
+        "when": "minecraft:finding",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/finding"
+        }
+      },
+      {
+        "when": "minecraft:fire",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/fire"
+        }
+      },
+      {
+        "when": "minecraft:graham",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/graham"
+        }
+      },
+      {
+        "when": "minecraft:humble",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/humble"
+        }
+      },
+      {
+        "when": "minecraft:kebab",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/kebab"
+        }
+      },
+      {
+        "when": "minecraft:lowmist",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/lowmist"
+        }
+      },
+      {
+        "when": "minecraft:match",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/match"
+        }
+      },
+      {
+        "when": "minecraft:meditative",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/meditative"
+        }
+      },
+      {
+        "when": "minecraft:orb",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/orb"
+        }
+      },
+      {
+        "when": "minecraft:owlemons",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/owlemons"
+        }
+      },
+      {
+        "when": "minecraft:passage",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/passage"
+        }
+      },
+      {
+        "when": "minecraft:pigscene",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/pigscene"
+        }
+      },
+      {
+        "when": "minecraft:plant",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/plant"
+        }
+      },
+      {
+        "when": "minecraft:pointer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/pointer"
+        }
+      },
+      {
+        "when": "minecraft:pond",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/pond"
+        }
+      },
+      {
+        "when": "minecraft:pool",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/pool"
+        }
+      },
+      {
+        "when": "minecraft:prairie_ride",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/prairie_ride"
+        }
+      },
+      {
+        "when": "minecraft:sea",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/sea"
+        }
+      },
+      {
+        "when": "minecraft:skeleton",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/skeleton"
+        }
+      },
+      {
+        "when": "minecraft:skull_and_roses",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/skull_and_roses"
+        }
+      },
+      {
+        "when": "minecraft:stage",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/stage"
+        }
+      },
+      {
+        "when": "minecraft:sunflowers",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/sunflowers"
+        }
+      },
+      {
+        "when": "minecraft:sunset",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/sunset"
+        }
+      },
+      {
+        "when": "minecraft:tides",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/tides"
+        }
+      },
+      {
+        "when": "minecraft:unpacked",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/unpacked"
+        }
+      },
+      {
+        "when": "minecraft:void",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/void"
+        }
+      },
+      {
+        "when": "minecraft:wanderer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/wanderer"
+        }
+      },
+      {
+        "when": "minecraft:wasteland",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/wasteland"
+        }
+      },
+      {
+        "when": "minecraft:water",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/water"
+        }
+      },
+      {
+        "when": "minecraft:wind",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/wind"
+        }
+      },
+      {
+        "when": "minecraft:wither",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item_variant/painting/wither"
+        }
+      },
+      
+      
+      
+      
+      {
+        "when": "summerfieldsdp:title",
+        "model": {
+          "type": "minecraft:model",
+          "model": "summerfieldsdp:item/title"
+        }
+      },
+      {
+        "when": "summerfieldsdp:potion_recipes",
+        "model": {
+          "type": "minecraft:model",
+          "model": "summerfieldsdp:item/potion_recipes"
+        }
+      }
+      
+      
+      
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/painting"
+    }
+  }
+}

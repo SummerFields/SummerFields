@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "minecraft:item_variant/spawn_egg/ghast_spawn_egg"
+  }
+}

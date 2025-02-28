@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item_variant/spawn_egg/shape_allay",
+	"textures": {
+		"particle": "#layer0",
+		"layer0": "minecraft:entity/allay/allay"
+	}
+}

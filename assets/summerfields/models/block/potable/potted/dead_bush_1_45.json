@@ -1,7 +1,0 @@
-{
-    "parent": "summerfields:block/potable/template_flower_pot_45",
-    "textures": {
-	"particle": "#side",
-	"side": "minecraft:block/dead_bush"
-    }
-}

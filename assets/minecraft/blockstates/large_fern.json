@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "half=lower": [
+		{"model": "summerfields:block/potable/flowers_16/large_fern", "y": 0},
+		{"model": "summerfields:block/potable/flowers_16/large_fern", "y": 90},
+		{"model": "summerfields:block/potable/flowers_16/large_fern", "y": 180},
+		{"model": "summerfields:block/potable/flowers_16/large_fern", "y": 270}
+	    ],
+    "half=upper": {
+      "model": "summerfields:block/empty"
+    }
+  }
+}

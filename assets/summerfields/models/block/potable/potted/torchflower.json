@@ -1,7 +1,7 @@
 {
-    "parent": "summerfields:block/potable/template_flower_cross_pot",
+    "parent": "summerfields:block/potable/template_flower_16_pot",
     "textures": {
 	"particle": "#side",
-	"side": "minecraft:block/torchflower"
+	"side": "summerfields:block/potable/torchflower"
     }
 }

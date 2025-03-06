@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+        { "model": "summerfields:block/potable/bush/bush", "y":0 },
+        { "model": "summerfields:block/potable/bush/bush", "y":90 },
+        { "model": "summerfields:block/potable/bush/bush_22-5", "y":0 },
+        { "model": "summerfields:block/potable/bush/bush_22-5", "y":90 },
+        { "model": "summerfields:block/potable/bush/bush_45", "y":0 },
+        { "model": "summerfields:block/potable/bush/bush_45", "y":90 },
+        { "model": "summerfields:block/potable/bush/bush_-22-5", "y":0 },
+        { "model": "summerfields:block/potable/bush/bush_-22-5", "y":90 }
+    ]
+  }
+}

@@ -2,6 +2,6 @@
     "parent": "summerfields:block/potable/template_flower_cross_pot",
     "textures": {
 	"particle": "#side",
-	"side": "summerfields:block/potable/wither_rose"
+	"side": "summerfields:block/potable/wither_rose_pot"
     }
 }

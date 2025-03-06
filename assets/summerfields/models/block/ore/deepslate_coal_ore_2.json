@@ -1,7 +1,6 @@
 {
-	"parent":"summerfields:block/ore/template_ore",
+	"parent":"minecraft:block/cube_all",
 	"textures":{
-		"base":"summerfields:block/ore/deepslate_coal_ore_2",
-		"glow":"summerfields:block/empty"
+		"all":"summerfields:block/ore/deepslate_coal_ore_2"
 	}
 }

@@ -6,6 +6,13 @@
         {   "when": { "shape": "ascending_west"  }, "apply": { "model": "summerfields:block/rails/rail_raised_ne", "y": -90 }},
         {   "when": { "shape": "ascending_north" }, "apply": { "model": "summerfields:block/rails/rail_raised_ne" }},
         {   "when": { "shape": "ascending_south" }, "apply": { "model": "summerfields:block/rails/rail_raised_ne", "y": 180 }},
+	
+        {   "when": { "shape": "north_south"     }, "apply": { "model": "summerfields:block/rails/rail_base" }},
+        {   "when": { "shape": "east_west"       }, "apply": { "model": "summerfields:block/rails/rail_base", "y": 90 }},
+        {   "when": { "shape": "ascending_east"  }, "apply": { "model": "summerfields:block/rails/rail_base_raised", "y": 90 }},
+        {   "when": { "shape": "ascending_west"  }, "apply": { "model": "summerfields:block/rails/rail_base_raised", "y": -90 }},
+        {   "when": { "shape": "ascending_north" }, "apply": { "model": "summerfields:block/rails/rail_base_raised" }},
+        {   "when": { "shape": "ascending_south" }, "apply": { "model": "summerfields:block/rails/rail_base_raised", "y": 180 }},
         
         {   "when": { "shape": "north_south"     }, "apply": { "model": "summerfields:block/rails/rail_planck_top" }},
         {   "when": { "shape": "east_west"       }, "apply": { "model": "summerfields:block/rails/rail_planck_top", "y": 90 }},

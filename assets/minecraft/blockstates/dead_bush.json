@@ -16,23 +16,7 @@
 		{"model": "summerfields:block/potable/dead_fern/dead_bush"            , "y":270, "weight":2},
 		{"model": "summerfields:block/potable/dead_fern/dead_bush_22-5"    , "y":270, "weight":2},
 		{"model": "summerfields:block/potable/dead_fern/dead_bush_45"       , "y":270, "weight":2},
-		{"model": "summerfields:block/potable/dead_fern/dead_bush_-22-5"   , "y":270, "weight":2},
-		{"model": "summerfields:block/potable/dead_fern/dead_bush_1"         , "y":0, "weight":1},
-		{"model": "summerfields:block/potable/dead_fern/dead_bush_1_22-5", "y":0, "weight":1},
-		{"model": "summerfields:block/potable/dead_fern/dead_bush_1_45"    , "y":0, "weight":1},
-		{"model": "summerfields:block/potable/dead_fern/dead_bush_1_-22-5", "y":0, "weight":1},
-		{"model": "summerfields:block/potable/dead_fern/dead_bush_1"          , "y":90, "weight":1},
-		{"model": "summerfields:block/potable/dead_fern/dead_bush_1_22-5" , "y":90, "weight":1},
-		{"model": "summerfields:block/potable/dead_fern/dead_bush_1_45"     , "y":90, "weight":1},
-		{"model": "summerfields:block/potable/dead_fern/dead_bush_1_-22-5" , "y":90, "weight":1},
-		{"model": "summerfields:block/potable/dead_fern/dead_bush_1"           , "y":180, "weight":1},
-		{"model": "summerfields:block/potable/dead_fern/dead_bush_1_22-5"   , "y":180, "weight":1},
-		{"model": "summerfields:block/potable/dead_fern/dead_bush_1_45"      , "y":180, "weight":1},
-		{"model": "summerfields:block/potable/dead_fern/dead_bush_1_-22-5"  , "y":180, "weight":1},
-		{"model": "summerfields:block/potable/dead_fern/dead_bush_1"            , "y":270, "weight":1},
-		{"model": "summerfields:block/potable/dead_fern/dead_bush_1_22-5"    , "y":270, "weight":1},
-		{"model": "summerfields:block/potable/dead_fern/dead_bush_1_45"       , "y":270, "weight":1},
-		{"model": "summerfields:block/potable/dead_fern/dead_bush_1_-22-5"   , "y":270, "weight":1}
+		{"model": "summerfields:block/potable/dead_fern/dead_bush_-22-5"   , "y":270, "weight":2}
 	    ]
     }
 }

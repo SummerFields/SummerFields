@@ -1,1 +1,0 @@
-rendertype_solid.json for emissive layer By Ewan Howell

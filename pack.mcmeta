@@ -1,32 +1,33 @@
 {
     "pack": {
+	"datapack_format": 80,
         "pack_format": 18,
         "supported_formats": {
             "min_inclusive": 18,
-            "max_inclusive": 55
+            "max_inclusive": 63
         },
-        "description": "SummerFields bêta 1.20.2 to 1.21.5"
+        "description": "1.20.2 to 1.21.6 SummerFields"
     },
     "overlays": {
         "entries": [
             {
                 "formats": {
                     "min_inclusive": 22,
-                    "max_inclusive": 55
+                    "max_inclusive": 63
                 },
                 "directory": "22p"
             },
             {
                 "formats": {
                     "min_inclusive": 32,
-                    "max_inclusive": 55
+                    "max_inclusive": 63
                 },
                 "directory": "32p"
             },
             {
                 "formats": {
                     "min_inclusive": 46,
-                    "max_inclusive": 55
+                    "max_inclusive": 63
                 },
                 "directory": "46p"
             }

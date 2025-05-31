@@ -5,6 +5,14 @@ This changelog lists all notable updates and contributions for the SummerFields 
 
 ---
 
+Release 1.21.6
+
+  - by [lipki] (https://github.com/lipki)
+	- dried ghast
+	- happy ghast
+	- harness
+	- music disc tears
+
 Release 1.21.5
 
   - by [lipki] (https://github.com/lipki)

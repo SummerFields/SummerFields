@@ -1,0 +1,13 @@
+{
+    "asset_id": "summerfieldsdp:potion_recipes",
+    "height": 2,
+    "width": 2,
+    "author": {
+        "color": "gray",
+        "text": "Summerfields Team"
+    },
+    "title": {
+        "color": "yellow",
+        "text": "Potion recipes"
+    }
+}

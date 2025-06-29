@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:stonecutting",
+    "group": "armorstand",
+    "ingredient": "minecraft:armor_stand",
+    "result": {
+        "id": "minecraft:armor_stand",
+        "count": 1,
+        "components": {
+            "minecraft:entity_data": {
+                "id": "minecraft:armor_stand",
+                "ShowArms": 1,
+                "Small": 1
+            },
+            "minecraft:item_name": "Armor Stand (Small, Arms)",
+            "minecraft:item_model": "minecraft:armor_stand"
+        }
+    }
+}

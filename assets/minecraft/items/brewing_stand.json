@@ -1,6 +1,6 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:item_variant/brewing_stand"
-  }
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item_variant/brewing_stand"
+    }
 }

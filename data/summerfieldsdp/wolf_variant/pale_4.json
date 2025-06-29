@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "angry": "summerfieldsdp:entity/wolf/pale_angry_4",
+        "tame": "summerfieldsdp:entity/wolf/pale_tame_4",
+        "wild": "summerfieldsdp:entity/wolf/pale_4"
+    },
+    "spawn_conditions": [
+        {
+            "priority": 0
+        }
+    ]
+}

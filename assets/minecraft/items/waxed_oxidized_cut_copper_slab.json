@@ -1,15 +1,15 @@
 {
-	"model": {
-		"type": "minecraft:composite",
-		"models": [
-			{
-				"type": "minecraft:model",
-				"model": "minecraft:block/oxidized_cut_copper_slab"
-			},
-			{
-				"type": "minecraft:model",
-				"model": "minecraft:block_variant/waxed/template_slab_inventory_waxed"
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:composite",
+        "models": [
+            {
+                "type": "minecraft:model",
+                "model": "minecraft:block/oxidized_cut_copper_slab"
+            },
+            {
+                "type": "minecraft:model",
+                "model": "minecraft:block_variant/waxed/template_slab_inventory_waxed"
+            }
+        ]
+    }
 }

@@ -1,7 +1,7 @@
 {
-	"parent": "minecraft:block_variant/potable/template_flower_bush_45",
-	"textures": {
-		"side": "minecraft:block/short_dry_grass",
-		"side2": "minecraft:textures_variant/potable/short_dry_grass"
-	}
+    "parent": "minecraft:block_variant/potable/template_flower_bush_45",
+    "textures": {
+        "side": "minecraft:block/short_dry_grass",
+        "side2": "minecraft:textures_variant/potable/short_dry_grass"
+    }
 }

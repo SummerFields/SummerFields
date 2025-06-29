@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "minecraft:item/elytra_angel"
+        "layer0": "summerfieldsdp:item/angel_wing_broken"
     }
 }

@@ -1,6 +1,6 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:item/pale_moss_carpet"
-  }
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/pale_moss_carpet"
+    }
 }

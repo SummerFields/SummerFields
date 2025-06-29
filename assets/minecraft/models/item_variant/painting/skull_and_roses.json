@@ -1,7 +1,6 @@
-
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:textures_variant/painting/skull_and_roses"
-  }
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:textures_variant/painting/skull_and_roses"
+    }
 }

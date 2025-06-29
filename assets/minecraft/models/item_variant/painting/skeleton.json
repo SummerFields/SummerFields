@@ -1,7 +1,6 @@
-
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:textures_variant/painting/skeleton"
-  }
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:textures_variant/painting/skeleton"
+    }
 }

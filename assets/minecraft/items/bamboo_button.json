@@ -1,6 +1,6 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:block_variant/button/bamboo_button"
-  }
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:block_variant/button/bamboo_button"
+    }
 }

@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:textures_variant/enchanted_book/luck_of_the_sea"
-  }
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:textures_variant/enchanted_book/luck_of_the_sea"
+    }
 }

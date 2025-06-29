@@ -1,6 +1,6 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:block_variant/leaves/azalea/flowering_azalea_leaves_1"
-  }
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:block_variant/leaves/azalea/flowering_azalea_leaves_1"
+    }
 }

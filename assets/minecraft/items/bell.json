@@ -1,6 +1,6 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:item_variant/bell_item"
-  }
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item_variant/bell_item"
+    }
 }

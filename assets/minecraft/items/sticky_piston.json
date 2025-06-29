@@ -1,6 +1,6 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:item/sticky_piston"
-  }
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/sticky_piston"
+    }
 }

@@ -1,0 +1,25 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_elytra": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:elytra"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "requirements": [
+        [
+            "has_elytra"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "summerfieldsdp:angel_wing"
+        ]
+    }
+}

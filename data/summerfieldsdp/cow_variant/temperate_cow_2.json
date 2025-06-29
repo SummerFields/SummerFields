@@ -1,0 +1,8 @@
+{
+    "asset_id": "summerfieldsdp:entity/cow/temperate_cow_2",
+    "spawn_conditions": [
+        {
+            "priority": 1
+        }
+    ]
+}

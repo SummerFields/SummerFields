@@ -1,166 +1,850 @@
 {
-	"parent": "minecraft:item_variant/spawn_egg/display_spawn_egg",
-	"textures": {
-		"particle": "#layer0",
-		"layer0": "minecraft:entity/ghast/ghast"
-	},
-	"elements": [
-		{
-			"name": "body",
-			"from": [0, 0, 0],
-			"to": [16, 16, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, -12, 8]},
-			"faces": {
-				"north": {"uv": [4, 8, 8, 16], "texture": "#layer0"},
-				"east": {"uv": [0, 8, 4, 16], "texture": "#layer0"},
-				"south": {"uv": [12, 8, 16, 16], "texture": "#layer0"},
-				"west": {"uv": [8, 8, 12, 16], "texture": "#layer0"},
-				"up": {"uv": [8, 8, 4, 0], "texture": "#layer0"},
-				"down": {"uv": [12, 0, 8, 8], "texture": "#layer0"}
-			}
-		},
-		{
-			"name": "tentacle1",
-			"from": [10.7, -6, 1],
-			"to": [12.7, 2, 3],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [11.7, 1, 2]},
-			"faces": {
-				"north": {"uv": [0.5, 1, 1, 5], "texture": "#layer0"},
-				"east": {"uv": [0, 1, 0.5, 5], "texture": "#layer0"},
-				"south": {"uv": [1.5, 1, 2, 5], "texture": "#layer0"},
-				"west": {"uv": [1, 1, 1.5, 5], "texture": "#layer0"},
-				"up": {"uv": [1, 1, 0.5, 0], "texture": "#layer0"},
-				"down": {"uv": [1.5, 0, 1, 1], "texture": "#layer0"}
-			}
-		},
-		{
-			"name": "tentacle2",
-			"from": [0.7, -7, 1],
-			"to": [2.7, 2, 3],
-			"rotation": {"angle": -45, "axis": "x", "origin": [1.7, 1, 2]},
-			"faces": {
-				"north": {"uv": [0.5, 1, 1, 5.5], "texture": "#layer0"},
-				"east": {"uv": [0, 1, 0.5, 5.5], "texture": "#layer0"},
-				"south": {"uv": [1.5, 1, 2, 5.5], "texture": "#layer0"},
-				"west": {"uv": [1, 1, 1.5, 5.5], "texture": "#layer0"},
-				"up": {"uv": [1, 1, 0.5, 0], "texture": "#layer0"},
-				"down": {"uv": [1.5, 0, 1, 1], "texture": "#layer0"}
-			}
-		},
-		{
-			"name": "tentacle3",
-			"from": [5.7, -11, 1],
-			"to": [7.7, 2, 3],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [6.7, 1, 2]},
-			"faces": {
-				"north": {"uv": [0.5, 1, 1, 7.5], "texture": "#layer0"},
-				"east": {"uv": [0, 1, 0.5, 7.5], "texture": "#layer0"},
-				"south": {"uv": [1.5, 1, 2, 7.5], "texture": "#layer0"},
-				"west": {"uv": [1, 1, 1.5, 7.5], "texture": "#layer0"},
-				"up": {"uv": [1, 1, 0.5, 0], "texture": "#layer0"},
-				"down": {"uv": [1.5, 0, 1, 1], "texture": "#layer0"}
-			}
-		},
-		{
-			"name": "tentacle4",
-			"from": [13.3, -9, 6],
-			"to": [15.3, 2, 8],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [14.3, 1, 7]},
-			"faces": {
-				"north": {"uv": [0.5, 1, 1, 6.5], "texture": "#layer0"},
-				"east": {"uv": [0, 1, 0.5, 6.5], "texture": "#layer0"},
-				"south": {"uv": [1.5, 1, 2, 6.5], "texture": "#layer0"},
-				"west": {"uv": [1, 1, 1.5, 6.5], "texture": "#layer0"},
-				"up": {"uv": [1, 1, 0.5, 0], "texture": "#layer0"},
-				"down": {"uv": [1.5, 0, 1, 1], "texture": "#layer0"}
-			}
-		},
-		{
-			"name": "tentacle5",
-			"from": [8.3, -9, 6],
-			"to": [10.3, 2, 8],
-			"rotation": {"angle": -45, "axis": "x", "origin": [9.3, 1, 7]},
-			"faces": {
-				"north": {"uv": [0.5, 1, 1, 6.5], "texture": "#layer0"},
-				"east": {"uv": [0, 1, 0.5, 6.5], "texture": "#layer0"},
-				"south": {"uv": [1.5, 1, 2, 6.5], "texture": "#layer0"},
-				"west": {"uv": [1, 1, 1.5, 6.5], "texture": "#layer0"},
-				"up": {"uv": [1, 1, 0.5, 0], "texture": "#layer0"},
-				"down": {"uv": [1.5, 0, 1, 1], "texture": "#layer0"}
-			}
-		},
-		{
-			"name": "tentacle6",
-			"from": [3.3, -8, 6],
-			"to": [5.3, 2, 8],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [4.3, 1, 7]},
-			"faces": {
-				"north": {"uv": [0.5, 1, 1, 6], "texture": "#layer0"},
-				"east": {"uv": [0, 1, 0.5, 6], "texture": "#layer0"},
-				"south": {"uv": [1.5, 1, 2, 6], "texture": "#layer0"},
-				"west": {"uv": [1, 1, 1.5, 6], "texture": "#layer0"},
-				"up": {"uv": [1, 1, 0.5, 0], "texture": "#layer0"},
-				"down": {"uv": [1.5, 0, 1, 1], "texture": "#layer0"}
-			}
-		},
-		{
-			"name": "tentacle7",
-			"from": [10.7, -10, 11],
-			"to": [12.7, 2, 13],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [11.7, 1, 12]},
-			"faces": {
-				"north": {"uv": [0.5, 1, 1, 7], "texture": "#layer0"},
-				"east": {"uv": [0, 1, 0.5, 7], "texture": "#layer0"},
-				"south": {"uv": [1.5, 1, 2, 7], "texture": "#layer0"},
-				"west": {"uv": [1, 1, 1.5, 7], "texture": "#layer0"},
-				"up": {"uv": [1, 1, 0.5, 0], "texture": "#layer0"},
-				"down": {"uv": [1.5, 0, 1, 1], "texture": "#layer0"}
-			}
-		},
-		{
-			"name": "tentacle8",
-			"from": [0.7, 0, 11],
-			"to": [2.7, 2, 23],
-			"rotation": {"angle": 45, "axis": "x", "origin": [1.7, 1, 12]},
-			"faces": {
-				"north": {"uv": [1, 1, 0.5, 0], "rotation": 180, "texture": "#layer0"},
-				"east": {"uv": [0, 1, 0.5, 7], "rotation": 90, "texture": "#layer0"},
-				"south": {"uv": [1.5, 0, 1, 1], "texture": "#layer0"},
-				"west": {"uv": [1, 1, 1.5, 7], "rotation": 270, "texture": "#layer0"},
-				"up": {"uv": [1.5, 1, 2, 7], "texture": "#layer0"},
-				"down": {"uv": [0.5, 1, 1, 7], "rotation": 180, "texture": "#layer0"}
-			}
-		},
-		{
-			"name": "tentacle9",
-			"from": [5.7, 0, 11],
-			"to": [7.7, 2, 20],
-			"rotation": {"angle": 22.5, "axis": "x", "origin": [6.7, 1, 12]},
-			"faces": {
-				"north": {"uv": [1, 1, 0.5, 0], "rotation": 180, "texture": "#layer0"},
-				"east": {"uv": [0, 1, 0.5, 5.5], "rotation": 90, "texture": "#layer0"},
-				"south": {"uv": [1.5, 0, 1, 1], "texture": "#layer0"},
-				"west": {"uv": [1, 1, 1.5, 5.5], "rotation": 270, "texture": "#layer0"},
-				"up": {"uv": [1.5, 1, 2, 5.5], "texture": "#layer0"},
-				"down": {"uv": [0.5, 1, 1, 5.5], "rotation": 180, "texture": "#layer0"}
-			}
-		}
-	],
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [0, 0, 0],
-			"translation": [0, 0, 0],
-			"scale": [ 0.25, 0.25, 0.25 ]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [0, 0, 0],
-			"translation": [0, 0, 0],
-			"scale": [ 0.25, 0.25, 0.25 ]
-		},
-		"fixed": {
-			"rotation": [0, 0, 0],
-			"translation": [0, 0, 0],
-			"scale": [0.5, 0.5, 0.5]
-		}
-	}
+    "parent": "minecraft:item_variant/spawn_egg/display_spawn_egg",
+    "textures": {
+        "particle": "#layer0",
+        "layer0": "minecraft:entity/ghast/ghast"
+    },
+    "elements": [
+        {
+            "name": "body",
+            "from": [
+                0,
+                0,
+                0
+            ],
+            "to": [
+                16,
+                16,
+                16
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    8,
+                    -12,
+                    8
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        4,
+                        8,
+                        8,
+                        16
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        8,
+                        4,
+                        16
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        12,
+                        8,
+                        16,
+                        16
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        8,
+                        8,
+                        12,
+                        16
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        8,
+                        8,
+                        4,
+                        0
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        12,
+                        0,
+                        8,
+                        8
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "tentacle1",
+            "from": [
+                10.7,
+                -6,
+                1
+            ],
+            "to": [
+                12.7,
+                2,
+                3
+            ],
+            "rotation": {
+                "angle": -22.5,
+                "axis": "x",
+                "origin": [
+                    11.7,
+                    1,
+                    2
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        0.5,
+                        1,
+                        1,
+                        5
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        1,
+                        0.5,
+                        5
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        1.5,
+                        1,
+                        2,
+                        5
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        1,
+                        1,
+                        1.5,
+                        5
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        1,
+                        1,
+                        0.5,
+                        0
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        1.5,
+                        0,
+                        1,
+                        1
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "tentacle2",
+            "from": [
+                0.7,
+                -7,
+                1
+            ],
+            "to": [
+                2.7,
+                2,
+                3
+            ],
+            "rotation": {
+                "angle": -45,
+                "axis": "x",
+                "origin": [
+                    1.7,
+                    1,
+                    2
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        0.5,
+                        1,
+                        1,
+                        5.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        1,
+                        0.5,
+                        5.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        1.5,
+                        1,
+                        2,
+                        5.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        1,
+                        1,
+                        1.5,
+                        5.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        1,
+                        1,
+                        0.5,
+                        0
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        1.5,
+                        0,
+                        1,
+                        1
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "tentacle3",
+            "from": [
+                5.7,
+                -11,
+                1
+            ],
+            "to": [
+                7.7,
+                2,
+                3
+            ],
+            "rotation": {
+                "angle": -22.5,
+                "axis": "x",
+                "origin": [
+                    6.7,
+                    1,
+                    2
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        0.5,
+                        1,
+                        1,
+                        7.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        1,
+                        0.5,
+                        7.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        1.5,
+                        1,
+                        2,
+                        7.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        1,
+                        1,
+                        1.5,
+                        7.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        1,
+                        1,
+                        0.5,
+                        0
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        1.5,
+                        0,
+                        1,
+                        1
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "tentacle4",
+            "from": [
+                13.3,
+                -9,
+                6
+            ],
+            "to": [
+                15.3,
+                2,
+                8
+            ],
+            "rotation": {
+                "angle": -22.5,
+                "axis": "x",
+                "origin": [
+                    14.3,
+                    1,
+                    7
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        0.5,
+                        1,
+                        1,
+                        6.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        1,
+                        0.5,
+                        6.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        1.5,
+                        1,
+                        2,
+                        6.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        1,
+                        1,
+                        1.5,
+                        6.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        1,
+                        1,
+                        0.5,
+                        0
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        1.5,
+                        0,
+                        1,
+                        1
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "tentacle5",
+            "from": [
+                8.3,
+                -9,
+                6
+            ],
+            "to": [
+                10.3,
+                2,
+                8
+            ],
+            "rotation": {
+                "angle": -45,
+                "axis": "x",
+                "origin": [
+                    9.3,
+                    1,
+                    7
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        0.5,
+                        1,
+                        1,
+                        6.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        1,
+                        0.5,
+                        6.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        1.5,
+                        1,
+                        2,
+                        6.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        1,
+                        1,
+                        1.5,
+                        6.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        1,
+                        1,
+                        0.5,
+                        0
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        1.5,
+                        0,
+                        1,
+                        1
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "tentacle6",
+            "from": [
+                3.3,
+                -8,
+                6
+            ],
+            "to": [
+                5.3,
+                2,
+                8
+            ],
+            "rotation": {
+                "angle": -22.5,
+                "axis": "x",
+                "origin": [
+                    4.3,
+                    1,
+                    7
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        0.5,
+                        1,
+                        1,
+                        6
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        1,
+                        0.5,
+                        6
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        1.5,
+                        1,
+                        2,
+                        6
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        1,
+                        1,
+                        1.5,
+                        6
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        1,
+                        1,
+                        0.5,
+                        0
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        1.5,
+                        0,
+                        1,
+                        1
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "tentacle7",
+            "from": [
+                10.7,
+                -10,
+                11
+            ],
+            "to": [
+                12.7,
+                2,
+                13
+            ],
+            "rotation": {
+                "angle": -22.5,
+                "axis": "x",
+                "origin": [
+                    11.7,
+                    1,
+                    12
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        0.5,
+                        1,
+                        1,
+                        7
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        1,
+                        0.5,
+                        7
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        1.5,
+                        1,
+                        2,
+                        7
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        1,
+                        1,
+                        1.5,
+                        7
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        1,
+                        1,
+                        0.5,
+                        0
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        1.5,
+                        0,
+                        1,
+                        1
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "tentacle8",
+            "from": [
+                0.7,
+                0,
+                11
+            ],
+            "to": [
+                2.7,
+                2,
+                23
+            ],
+            "rotation": {
+                "angle": 45,
+                "axis": "x",
+                "origin": [
+                    1.7,
+                    1,
+                    12
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        1,
+                        1,
+                        0.5,
+                        0
+                    ],
+                    "rotation": 180,
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        1,
+                        0.5,
+                        7
+                    ],
+                    "rotation": 90,
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        1.5,
+                        0,
+                        1,
+                        1
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        1,
+                        1,
+                        1.5,
+                        7
+                    ],
+                    "rotation": 270,
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        1.5,
+                        1,
+                        2,
+                        7
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        0.5,
+                        1,
+                        1,
+                        7
+                    ],
+                    "rotation": 180,
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "tentacle9",
+            "from": [
+                5.7,
+                0,
+                11
+            ],
+            "to": [
+                7.7,
+                2,
+                20
+            ],
+            "rotation": {
+                "angle": 22.5,
+                "axis": "x",
+                "origin": [
+                    6.7,
+                    1,
+                    12
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        1,
+                        1,
+                        0.5,
+                        0
+                    ],
+                    "rotation": 180,
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        1,
+                        0.5,
+                        5.5
+                    ],
+                    "rotation": 90,
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        1.5,
+                        0,
+                        1,
+                        1
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        1,
+                        1,
+                        1.5,
+                        5.5
+                    ],
+                    "rotation": 270,
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        1.5,
+                        1,
+                        2,
+                        5.5
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        0.5,
+                        1,
+                        1,
+                        5.5
+                    ],
+                    "rotation": 180,
+                    "texture": "#layer0"
+                }
+            }
+        }
+    ],
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "translation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.25,
+                0.25,
+                0.25
+            ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "translation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.25,
+                0.25,
+                0.25
+            ]
+        },
+        "fixed": {
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "translation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        }
+    }
 }

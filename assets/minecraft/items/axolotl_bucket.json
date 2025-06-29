@@ -1,42 +1,41 @@
 {
-  "model": {
-    "type": "minecraft:select",
-    "property": "minecraft:component",
-    "component":"minecraft:axolotl/variant",
-    "cases": [
-      {
-        "when": "wild",
-        "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item_variant/axolotl_bucket/axolotl_bucket_wild"
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:axolotl/variant",
+        "cases": [
+            {
+                "when": "wild",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item_variant/axolotl_bucket/axolotl_bucket_wild"
+                }
+            },
+            {
+                "when": "gold",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item_variant/axolotl_bucket/axolotl_bucket_gold"
+                }
+            },
+            {
+                "when": "cyan",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item_variant/axolotl_bucket/axolotl_bucket_cyan"
+                }
+            },
+            {
+                "when": "blue",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item_variant/axolotl_bucket/axolotl_bucket_blue"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/axolotl_bucket"
         }
-      },
-      {
-        "when": "gold",
-        "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item_variant/axolotl_bucket/axolotl_bucket_gold"
-        }
-      },
-      {
-        "when": "cyan",
-        "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item_variant/axolotl_bucket/axolotl_bucket_cyan"
-        }
-      },
-      {
-        "when": "blue",
-        "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item_variant/axolotl_bucket/axolotl_bucket_blue"
-        }
-      }
-
-    ],
-    "fallback": {
-      "type": "minecraft:model",
-    "model": "minecraft:item/axolotl_bucket"
     }
-  }
 }

@@ -1,8 +1,8 @@
 {
-	"parent": "minecraft:item_variant/spawn_egg/shape_llama",
-	"textures": {
-		"particle": "#layer0",
-		"layer0": "minecraft:entity/llama/brown",
-		"layer1": "minecraft:entity/equipment/llama_body/trader_llama"
-	}
+    "parent": "minecraft:item_variant/spawn_egg/shape_llama",
+    "textures": {
+        "particle": "#layer0",
+        "layer0": "minecraft:entity/llama/brown",
+        "layer1": "minecraft:entity/equipment/llama_body/trader_llama"
+    }
 }

@@ -1,6 +1,6 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:block_variant/walls/mossy_cobblestone_inventory"
-  }
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:block_variant/walls/mossy_cobblestone_inventory"
+    }
 }

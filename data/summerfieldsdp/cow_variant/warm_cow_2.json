@@ -1,0 +1,13 @@
+{
+    "asset_id": "summerfieldsdp:entity/cow/warm_cow_2",
+    "model": "warm",
+    "spawn_conditions": [
+        {
+            "condition": {
+                "type": "minecraft:biome",
+                "biomes": "#minecraft:spawns_warm_variant_farm_animals"
+            },
+            "priority": 1
+        }
+    ]
+}

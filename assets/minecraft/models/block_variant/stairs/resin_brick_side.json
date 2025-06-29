@@ -1,7 +1,7 @@
 {
-	"parent": "minecraft:block_variant/stairs/template_side",
-	"textures": {
-		"back": "minecraft:block/resin_bricks",
-		"particle": "#back"
-	}
+    "parent": "minecraft:block_variant/stairs/template_side",
+    "textures": {
+        "back": "minecraft:block/resin_bricks",
+        "particle": "#back"
+    }
 }

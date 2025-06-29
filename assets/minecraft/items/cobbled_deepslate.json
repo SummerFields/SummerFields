@@ -1,6 +1,6 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:block_variant/bricks/cobbled_deepslate"
-  }
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:block_variant/bricks/cobbled_deepslate"
+    }
 }

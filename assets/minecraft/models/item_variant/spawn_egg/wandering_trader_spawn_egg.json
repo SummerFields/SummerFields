@@ -1,7 +1,7 @@
 {
-  "parent": "minecraft:item_variant/spawn_egg/shape_villager",
-  "textures": {
-		"particle": "#layer0",
-		"layer0": "minecraft:entity/wandering_trader"
-  }
+    "parent": "minecraft:item_variant/spawn_egg/shape_villager",
+    "textures": {
+        "particle": "#layer0",
+        "layer0": "minecraft:entity/wandering_trader"
+    }
 }

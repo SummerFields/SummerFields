@@ -1,119 +1,519 @@
 {
-	"parent": "minecraft:item_variant/spawn_egg/display_small",
-	"textures": {
-		"particle": "#layer0",
-		"layer0": "minecraft:entity/slime/slime"
-	},
-	"elements": [
-		{
-			"name": "body",
-			"from": [5, 5, 5],
-			"to": [11, 11, 11],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
-			"faces": {
-				"north": {"uv": [1.5, 11, 3, 14], "texture": "#layer0"},
-				"east": {"uv": [0, 11, 1.5, 14], "texture": "#layer0"},
-				"south": {"uv": [4.5, 11, 6, 14], "texture": "#layer0"},
-				"west": {"uv": [3, 11, 4.5, 14], "texture": "#layer0"},
-				"up": {"uv": [3, 11, 1.5, 8], "texture": "#layer0"},
-				"down": {"uv": [4.5, 8, 3, 11], "texture": "#layer0"}
-			}
-		},
-		{
-			"name": "body",
-			"from": [4, 4, 4],
-			"to": [4, 12, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
-			"faces": {
-				"east": {"uv": [0, 4, 2, 8], "texture": "#layer0"}
-			}
-		},
-		{
-			"name": "body",
-			"from": [4, 4, 12],
-			"to": [12, 12, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 16]},
-			"faces": {
-				"north": {"uv": [2, 4, 4, 8], "texture": "#layer0"}
-			}
-		},
-		{
-			"name": "body",
-			"from": [4, 12, 4],
-			"to": [12, 12, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 12, 8]},
-			"faces": {
-				"down": {"uv": [6, 0, 4, 4], "texture": "#layer0"}
-			}
-		},
-		{
-			"name": "body",
-			"from": [4, 4, 4],
-			"to": [12, 4, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
-			"faces": {
-				"up": {"uv": [4, 4, 2, 0], "texture": "#layer0"}
-			}
-		},
-		{
-			"name": "body",
-			"from": [4, 4, 4],
-			"to": [12, 12, 4],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
-			"faces": {
-				"south": {"uv": [6, 4, 8, 8], "texture": "#layer0"}
-			}
-		},
-		{
-			"name": "body",
-			"from": [12, 4, 4],
-			"to": [12, 12, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [16, 4, 8]},
-			"faces": {
-				"west": {"uv": [4, 4, 6, 8], "texture": "#layer0"}
-			}
-		},
-		{
-			"name": "mouth",
-			"from": [8, 6, 4.5],
-			"to": [9, 7, 5.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
-			"faces": {
-				"north": {"uv": [8.25, 4.5, 8.5, 5], "texture": "#layer0"},
-				"east": {"uv": [8, 4.5, 8.25, 5], "texture": "#layer0"},
-				"south": {"uv": [8.75, 4.5, 9, 5], "texture": "#layer0"},
-				"west": {"uv": [8.5, 4.5, 8.75, 5], "texture": "#layer0"},
-				"up": {"uv": [8.5, 4.5, 8.25, 4], "texture": "#layer0"},
-				"down": {"uv": [8.75, 4, 8.5, 4.5], "texture": "#layer0"}
-			}
-		},
-		{
-			"name": "left_eye",
-			"from": [9.3, 8, 4.5],
-			"to": [11.3, 10, 6.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
-			"faces": {
-				"north": {"uv": [8.5, 1, 9, 2], "texture": "#layer0"},
-				"east": {"uv": [8, 1, 8.5, 2], "texture": "#layer0"},
-				"south": {"uv": [9.5, 1, 10, 2], "texture": "#layer0"},
-				"west": {"uv": [9, 1, 9.5, 2], "texture": "#layer0"},
-				"up": {"uv": [9, 1, 8.5, 0], "texture": "#layer0"},
-				"down": {"uv": [9.5, 0, 9, 1], "texture": "#layer0"}
-			}
-		},
-		{
-			"name": "right_eye",
-			"from": [4.7, 8, 4.5],
-			"to": [6.7, 10, 6.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
-			"faces": {
-				"north": {"uv": [8.5, 3, 9, 4], "texture": "#layer0"},
-				"east": {"uv": [8, 3, 8.5, 4], "texture": "#layer0"},
-				"south": {"uv": [9.5, 3, 10, 4], "texture": "#layer0"},
-				"west": {"uv": [9, 3, 9.5, 4], "texture": "#layer0"},
-				"up": {"uv": [9, 3, 8.5, 2], "texture": "#layer0"},
-				"down": {"uv": [9.5, 2, 9, 3], "texture": "#layer0"}
-			}
-		}
-	]
+    "parent": "minecraft:item_variant/spawn_egg/display_small",
+    "textures": {
+        "particle": "#layer0",
+        "layer0": "minecraft:entity/slime/slime"
+    },
+    "elements": [
+        {
+            "name": "body",
+            "from": [
+                5,
+                5,
+                5
+            ],
+            "to": [
+                11,
+                11,
+                11
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    8,
+                    4,
+                    8
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        1.5,
+                        11,
+                        3,
+                        14
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        11,
+                        1.5,
+                        14
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        4.5,
+                        11,
+                        6,
+                        14
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        3,
+                        11,
+                        4.5,
+                        14
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        3,
+                        11,
+                        1.5,
+                        8
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        4.5,
+                        8,
+                        3,
+                        11
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "body",
+            "from": [
+                4,
+                4,
+                4
+            ],
+            "to": [
+                4,
+                12,
+                12
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    8,
+                    4,
+                    8
+                ]
+            },
+            "faces": {
+                "east": {
+                    "uv": [
+                        0,
+                        4,
+                        2,
+                        8
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "body",
+            "from": [
+                4,
+                4,
+                12
+            ],
+            "to": [
+                12,
+                12,
+                12
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    8,
+                    4,
+                    16
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        2,
+                        4,
+                        4,
+                        8
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "body",
+            "from": [
+                4,
+                12,
+                4
+            ],
+            "to": [
+                12,
+                12,
+                12
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    8,
+                    12,
+                    8
+                ]
+            },
+            "faces": {
+                "down": {
+                    "uv": [
+                        6,
+                        0,
+                        4,
+                        4
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "body",
+            "from": [
+                4,
+                4,
+                4
+            ],
+            "to": [
+                12,
+                4,
+                12
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    8,
+                    4,
+                    8
+                ]
+            },
+            "faces": {
+                "up": {
+                    "uv": [
+                        4,
+                        4,
+                        2,
+                        0
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "body",
+            "from": [
+                4,
+                4,
+                4
+            ],
+            "to": [
+                12,
+                12,
+                4
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    8,
+                    4,
+                    8
+                ]
+            },
+            "faces": {
+                "south": {
+                    "uv": [
+                        6,
+                        4,
+                        8,
+                        8
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "body",
+            "from": [
+                12,
+                4,
+                4
+            ],
+            "to": [
+                12,
+                12,
+                12
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    16,
+                    4,
+                    8
+                ]
+            },
+            "faces": {
+                "west": {
+                    "uv": [
+                        4,
+                        4,
+                        6,
+                        8
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "mouth",
+            "from": [
+                8,
+                6,
+                4.5
+            ],
+            "to": [
+                9,
+                7,
+                5.5
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    8,
+                    4,
+                    8
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        8.25,
+                        4.5,
+                        8.5,
+                        5
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        8,
+                        4.5,
+                        8.25,
+                        5
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        8.75,
+                        4.5,
+                        9,
+                        5
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        8.5,
+                        4.5,
+                        8.75,
+                        5
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        8.5,
+                        4.5,
+                        8.25,
+                        4
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        8.75,
+                        4,
+                        8.5,
+                        4.5
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "left_eye",
+            "from": [
+                9.3,
+                8,
+                4.5
+            ],
+            "to": [
+                11.3,
+                10,
+                6.5
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    8,
+                    4,
+                    8
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        8.5,
+                        1,
+                        9,
+                        2
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        8,
+                        1,
+                        8.5,
+                        2
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        9.5,
+                        1,
+                        10,
+                        2
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        9,
+                        1,
+                        9.5,
+                        2
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        9,
+                        1,
+                        8.5,
+                        0
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        9.5,
+                        0,
+                        9,
+                        1
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "name": "right_eye",
+            "from": [
+                4.7,
+                8,
+                4.5
+            ],
+            "to": [
+                6.7,
+                10,
+                6.5
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    8,
+                    4,
+                    8
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        8.5,
+                        3,
+                        9,
+                        4
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        8,
+                        3,
+                        8.5,
+                        4
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        9.5,
+                        3,
+                        10,
+                        4
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        9,
+                        3,
+                        9.5,
+                        4
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        9,
+                        3,
+                        8.5,
+                        2
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        9.5,
+                        2,
+                        9,
+                        3
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        }
+    ]
 }

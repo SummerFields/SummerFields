@@ -1,7 +1,7 @@
 {
-	"parent": "minecraft:item_variant/spawn_egg/shape_squid",
-	"textures": {
-		"particle": "#0",
-		"0": "minecraft:entity/squid/glow_squid"
-	}
+    "parent": "minecraft:item_variant/spawn_egg/shape_squid",
+    "textures": {
+        "0": "minecraft:entity/squid/glow_squid",
+        "particle": "#0"
+    }
 }

@@ -1,62 +1,88 @@
 {
-  "model": {
-    "type": "minecraft:select",
-    "property": "minecraft:component",
-    "component":"minecraft:entity_data",
-    "cases": [
-      {
-        "when": {"id":"minecraft:armor_stand", "Small":1},
-        "model": {
-          "type": "minecraft:model",
-          "model": "summerfieldsdp:block/armorstand_small_inventory"
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:entity_data",
+        "cases": [
+            {
+                "when": {
+                    "id": "minecraft:armor_stand",
+                    "Small": 1
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "summerfieldsdp:block/armorstand_small_inventory"
+                }
+            },
+            {
+                "when": {
+                    "id": "minecraft:armor_stand",
+                    "Small": 1,
+                    "ShowArms": 1
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "summerfieldsdp:block/armorstand_small_arms_inventory"
+                }
+            },
+            {
+                "when": {
+                    "id": "minecraft:armor_stand",
+                    "ShowArms": 1
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "summerfieldsdp:block/armorstand_arms_inventory"
+                }
+            },
+            {
+                "when": {
+                    "id": "minecraft:armor_stand",
+                    "Small": 1,
+                    "NoBasePlate": 1
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "summerfieldsdp:block/armorstand_small_noplate_inventory"
+                }
+            },
+            {
+                "when": {
+                    "id": "minecraft:armor_stand",
+                    "Small": 1,
+                    "ShowArms": 1,
+                    "NoBasePlate": 1
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "summerfieldsdp:block/armorstand_small_arms_noplate_inventory"
+                }
+            },
+            {
+                "when": {
+                    "id": "minecraft:armor_stand",
+                    "ShowArms": 1,
+                    "NoBasePlate": 1
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "summerfieldsdp:block/armorstand_arms_noplate_inventory"
+                }
+            },
+            {
+                "when": {
+                    "id": "minecraft:armor_stand",
+                    "NoBasePlate": 1
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "summerfieldsdp:block/armorstand_noplate_inventory"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item_variant/armorstand_inventory"
         }
-      },
-      {
-        "when": {"id":"minecraft:armor_stand", "Small":1, "ShowArms":1},
-        "model": {
-          "type": "minecraft:model",
-          "model": "summerfieldsdp:block/armorstand_small_arms_inventory"
-        }
-      },
-      {
-        "when": {"id":"minecraft:armor_stand", "ShowArms":1},
-        "model": {
-          "type": "minecraft:model",
-          "model": "summerfieldsdp:block/armorstand_arms_inventory"
-        }
-      },
-      {
-        "when": {"id":"minecraft:armor_stand", "Small":1, "NoBasePlate":1},
-        "model": {
-          "type": "minecraft:model",
-          "model": "summerfieldsdp:block/armorstand_small_noplate_inventory"
-        }
-      },
-      {
-        "when": {"id":"minecraft:armor_stand", "Small":1, "ShowArms":1, "NoBasePlate":1},
-        "model": {
-          "type": "minecraft:model",
-          "model": "summerfieldsdp:block/armorstand_small_arms_noplate_inventory"
-        }
-      },
-      {
-        "when": {"id":"minecraft:armor_stand", "ShowArms":1, "NoBasePlate":1},
-        "model": {
-          "type": "minecraft:model",
-          "model": "summerfieldsdp:block/armorstand_arms_noplate_inventory"
-        }
-      },
-      {
-        "when": {"id":"minecraft:armor_stand", "NoBasePlate":1},
-        "model": {
-          "type": "minecraft:model",
-          "model": "summerfieldsdp:block/armorstand_noplate_inventory"
-        }
-      }
-    ],
-    "fallback": {
-      "type": "minecraft:model",
-      "model": "minecraft:item_variant/armorstand_inventory"
     }
-  }
 }

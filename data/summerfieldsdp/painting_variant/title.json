@@ -1,0 +1,13 @@
+{
+    "asset_id": "summerfieldsdp:title",
+    "height": 3,
+    "width": 8,
+    "author": {
+        "color": "gray",
+        "text": "Summerfields Team"
+    },
+    "title": {
+        "color": "yellow",
+        "text": "Title"
+    }
+}

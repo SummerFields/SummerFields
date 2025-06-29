@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "elytra",
+    "pattern": [
+        "###",
+        "#W#",
+        "###"
+    ],
+    "key": {
+        "#": [
+            "minecraft:feather"
+        ],
+        "W": [
+            "minecraft:elytra"
+        ]
+    },
+    "result": {
+        "components": {
+            "minecraft:item_name": "Angel Wing",
+            "minecraft:item_model": "summerfieldsdp:angel_wing",
+            "minecraft:equippable": {
+                "slot": "chest",
+                "equip_sound": "minecraft:item.armor.equip_elytra",
+                "asset_id": "summerfieldsdp:angel_wing"
+            }
+        },
+        "count": 1,
+        "id": "minecraft:elytra"
+    }
+}

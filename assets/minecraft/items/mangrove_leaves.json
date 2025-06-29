@@ -1,12 +1,12 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:block_variant/leaves/mangrove/mangrove_leaves_1",
-    "tints": [
-      {
-        "type": "minecraft:constant",
-        "value": -7158200
-      }
-    ]
-  }
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:block_variant/leaves/mangrove/mangrove_leaves_1",
+        "tints": [
+            {
+                "type": "minecraft:constant",
+                "value": -7158200
+            }
+        ]
+    }
 }

@@ -5,6 +5,12 @@ This changelog lists all notable updates and contributions for the SummerFields 
 
 ---
 
+Release 1.21.7
+
+  - by [lipki] (https://github.com/lipki)
+	- new painting "dennis" credit Fool (pixeljoint.com)
+	- music disc lava
+
 Release 1.21.6
 
   - by [lipki] (https://github.com/lipki)

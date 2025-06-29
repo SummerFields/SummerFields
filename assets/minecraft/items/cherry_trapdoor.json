@@ -1,6 +1,6 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:block_variant/trapdoor/cherry_trapdoor"
-  }
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:block_variant/trapdoor/cherry_trapdoor"
+    }
 }

@@ -1,23 +1,23 @@
 {
-	"model": {
-		"type": "minecraft:composite",
-		"models": [
-			{
-				"type": "minecraft:model",
-				"model": "minecraft:block_variant/stairs/oxidized_cut_copper_stairs"
-			},
-			{
-				"type": "minecraft:model",
-				"model": "minecraft:block_variant/stairs/oxidized_cut_copper_back"
-			},
-			{
-				"type": "minecraft:model",
-				"model": "minecraft:block_variant/stairs/oxidized_cut_copper_side"
-			},
-			{
-				"type": "minecraft:model",
-				"model": "minecraft:block_variant/waxed/template_stairs_inventory_waxed"
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:composite",
+        "models": [
+            {
+                "type": "minecraft:model",
+                "model": "minecraft:block_variant/stairs/oxidized_cut_copper_stairs"
+            },
+            {
+                "type": "minecraft:model",
+                "model": "minecraft:block_variant/stairs/oxidized_cut_copper_back"
+            },
+            {
+                "type": "minecraft:model",
+                "model": "minecraft:block_variant/stairs/oxidized_cut_copper_side"
+            },
+            {
+                "type": "minecraft:model",
+                "model": "minecraft:block_variant/waxed/template_stairs_inventory_waxed"
+            }
+        ]
+    }
 }

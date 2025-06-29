@@ -1,6 +1,6 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:block_variant/pressure_plate/light_weighted_pressure_plate"
-  }
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:block_variant/pressure_plate/light_weighted_pressure_plate"
+    }
 }

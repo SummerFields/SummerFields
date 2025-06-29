@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:stonecutting",
+    "group": "armorstand",
+    "ingredient": "minecraft:armor_stand",
+    "result": {
+        "id": "minecraft:armor_stand",
+        "count": 1,
+        "components": {
+            "minecraft:entity_data": {
+                "id": "minecraft:armor_stand",
+                "NoBasePlate": 1
+            },
+            "minecraft:item_name": "Armor Stand  (Noplate)",
+            "minecraft:item_model": "minecraft:armor_stand"
+        }
+    }
+}

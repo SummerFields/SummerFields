@@ -1,6 +1,6 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:block_variant/walls/end_stone_brick_inventory"
-  }
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:block_variant/walls/end_stone_brick_inventory"
+    }
 }

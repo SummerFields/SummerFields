@@ -1,7 +1,7 @@
 {
-	"parent": "minecraft:item_variant/spawn_egg/shape_cow",
-	"textures": {
-		"particle": "#0",
-		"0": "minecraft:entity/cow/temperate_cow"
-	}
+    "parent": "minecraft:item_variant/spawn_egg/shape_cow",
+    "textures": {
+        "0": "minecraft:entity/cow/temperate_cow",
+        "particle": "#0"
+    }
 }

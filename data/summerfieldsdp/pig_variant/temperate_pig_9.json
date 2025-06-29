@@ -1,0 +1,8 @@
+{
+    "asset_id": "summerfieldsdp:entity/pig/temperate_pig_9",
+    "spawn_conditions": [
+        {
+            "priority": 1
+        }
+    ]
+}

@@ -1,786 +1,1699 @@
 {
-  "model": {
-    "type": "minecraft:select",
-    "property": "minecraft:component",
-    "component":"minecraft:potion_contents",
-    "cases": [
-      {
-        "when": { "potion": "minecraft:night_vision" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/night_vision" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-      {
-        "when": { "potion": "minecraft:long_night_vision" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion_long",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/night_vision" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-			
-      {
-        "when": { "potion": "minecraft:invisibility" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/invisibility" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-      {
-        "when": { "potion": "minecraft:long_invisibility" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion_long",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/invisibility" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-			
-      {
-        "when": { "potion": "minecraft:leaping" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/leaping" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-      {
-        "when": { "potion": "minecraft:long_leaping" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion_long",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/leaping" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-      {
-        "when": { "potion": "minecraft:strong_leaping" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion_strong",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/leaping" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-			
-      {
-        "when": { "potion": "minecraft:fire_resistance" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/fire_resistance" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-      {
-        "when": { "potion": "minecraft:long_fire_resistance" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion_long",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/fire_resistance" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-
-      {
-        "when": { "potion": "minecraft:swiftness" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/swiftness" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-      {
-        "when": { "potion": "minecraft:long_swiftness" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion_long",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/swiftness" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-      {
-        "when": { "potion": "minecraft:strong_swiftness" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion_strong",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/swiftness" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-
-      {
-        "when": { "potion": "minecraft:slowness" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/slowness" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-      {
-        "when": { "potion": "minecraft:long_slowness" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion_long",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/slowness" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-      {
-        "when": { "potion": "minecraft:strong_slowness" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion_strong",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/slowness" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-
-      {
-        "when": { "potion": "minecraft:turtle_master" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/turtle_master" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-      {
-        "when": { "potion": "minecraft:long_turtle_master" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion_long",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/turtle_master" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-      {
-        "when": { "potion": "minecraft:strong_turtle_master" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion_strong",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/turtle_master" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-
-      {
-        "when": { "potion": "minecraft:water_breathing" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/water_breathing" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-      {
-        "when": { "potion": "minecraft:long_water_breathing" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion_long",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/water_breathing" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-
-      {
-        "when": { "potion": "minecraft:healing" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/healing" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-      {
-        "when": { "potion": "minecraft:strong_healing" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion_strong",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/healing" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-
-      {
-        "when": { "potion": "minecraft:harming" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/harming" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-      {
-        "when": { "potion": "minecraft:strong_harming" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion_strong",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/harming" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-
-      {
-        "when": { "potion": "minecraft:poison" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/poison" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-      {
-        "when": { "potion": "minecraft:long_poison" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion_long",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/poison" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-      {
-        "when": { "potion": "minecraft:strong_poison" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion_strong",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/poison" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-
-      {
-        "when": { "potion": "minecraft:regeneration" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/regeneration" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-      {
-        "when": { "potion": "minecraft:long_regeneration" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion_long",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/regeneration" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-      {
-        "when": { "potion": "minecraft:strong_regeneration" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion_strong",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/regeneration" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-
-      {
-        "when": { "potion": "minecraft:strength" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/strength" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-      {
-        "when": { "potion": "minecraft:long_strength" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion_long",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/strength" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-      {
-        "when": { "potion": "minecraft:strong_strength" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion_strong",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/strength" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-
-      {
-        "when": { "potion": "minecraft:weakness" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/weakness" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-      {
-        "when": { "potion": "minecraft:long_weakness" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion_long",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/weakness" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-
-      {
-        "when": { "potion": "minecraft:luck" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/luck" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-			
-      {
-        "when": { "potion": "minecraft:slow_falling" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/slow_falling" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-      {
-        "when": { "potion": "minecraft:long_slow_falling" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion_long",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/slow_falling" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-
-      {
-        "when": { "potion": "minecraft:wind_charged" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/wind_charged" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-
-      {
-        "when": { "potion": "minecraft:weaving" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/weaving" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-
-      {
-        "when": { "potion": "minecraft:oozing" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/oozing" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      },
-
-      {
-        "when": { "potion": "minecraft:infested" },
-				"model": {
-					"type": "minecraft:composite",
-					"models": [
-						{ "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion",
-							 "tints": [{ "type": "minecraft:potion", "default": -13083194 }]},
-						{
-							"type": "minecraft:select",
-							"property": "minecraft:display_context",
-							"cases": [{
-									"when": ["fixed", "gui"],
-									"model": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/infested" }
-							}],"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/effect/nothing"}
-						}
-					]
-				}
-      }
-    ],
-		"fallback": { "type": "minecraft:model", "model": "minecraft:item_variant/potion/type/lingering_potion",
-												"tints": [{ "type": "minecraft:potion", "default": -13083194 }]}
-  }
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:potion_contents",
+        "cases": [
+            {
+                "when": {
+                    "potion": "minecraft:night_vision"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/night_vision"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:long_night_vision"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion_long",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/night_vision"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:invisibility"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/invisibility"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:long_invisibility"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion_long",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/invisibility"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:leaping"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/leaping"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:long_leaping"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion_long",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/leaping"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:strong_leaping"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion_strong",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/leaping"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:fire_resistance"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/fire_resistance"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:long_fire_resistance"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion_long",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/fire_resistance"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:swiftness"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/swiftness"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:long_swiftness"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion_long",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/swiftness"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:strong_swiftness"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion_strong",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/swiftness"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:slowness"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/slowness"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:long_slowness"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion_long",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/slowness"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:strong_slowness"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion_strong",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/slowness"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:turtle_master"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/turtle_master"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:long_turtle_master"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion_long",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/turtle_master"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:strong_turtle_master"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion_strong",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/turtle_master"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:water_breathing"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/water_breathing"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:long_water_breathing"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion_long",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/water_breathing"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:healing"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/healing"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:strong_healing"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion_strong",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/healing"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:harming"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/harming"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:strong_harming"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion_strong",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/harming"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:poison"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/poison"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:long_poison"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion_long",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/poison"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:strong_poison"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion_strong",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/poison"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:regeneration"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/regeneration"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:long_regeneration"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion_long",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/regeneration"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:strong_regeneration"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion_strong",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/regeneration"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:strength"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/strength"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:long_strength"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion_long",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/strength"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:strong_strength"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion_strong",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/strength"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:weakness"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/weakness"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:long_weakness"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion_long",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/weakness"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:luck"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/luck"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:slow_falling"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/slow_falling"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:long_slow_falling"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion_long",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/slow_falling"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:wind_charged"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/wind_charged"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:weaving"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/weaving"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:oozing"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/oozing"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "when": {
+                    "potion": "minecraft:infested"
+                },
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item_variant/potion/type/lingering_potion",
+                            "tints": [
+                                {
+                                    "type": "minecraft:potion",
+                                    "default": -13083194
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:select",
+                            "property": "minecraft:display_context",
+                            "cases": [
+                                {
+                                    "when": [
+                                        "fixed",
+                                        "gui"
+                                    ],
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item_variant/potion/effect/infested"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item_variant/potion/effect/nothing"
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item_variant/potion/type/lingering_potion",
+            "tints": [
+                {
+                    "type": "minecraft:potion",
+                    "default": -13083194
+                }
+            ]
+        }
+    }
 }

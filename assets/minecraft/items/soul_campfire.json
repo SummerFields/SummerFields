@@ -1,6 +1,6 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:item/soul_campfire"
-  }
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/soul_campfire"
+    }
 }

@@ -1,12 +1,12 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:block_variant/leaves/spruce/spruce_leaves_1",
-    "tints": [
-      {
-        "type": "minecraft:constant",
-        "value": -10380959
-      }
-    ]
-  }
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:block_variant/leaves/spruce/spruce_leaves_1",
+        "tints": [
+            {
+                "type": "minecraft:constant",
+                "value": -10380959
+            }
+        ]
+    }
 }

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:stonecutting",
+    "group": "painting",
+    "ingredient": "minecraft:painting",
+    "result": {
+        "id": "minecraft:painting",
+        "components": {
+            "minecraft:painting/variant": "summerfieldsdp:potion_recipes"
+        },
+        "count": 1
+    }
+}

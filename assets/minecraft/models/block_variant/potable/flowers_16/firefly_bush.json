@@ -1,7 +1,7 @@
 {
-	"parent": "minecraft:block_variant/potable/template_flower_16",
-	"textures": {
-		"particle": "#side",
-		"side": "minecraft:textures_variant/potable/firefly_bush"
-	}
+    "parent": "minecraft:block_variant/potable/template_flower_16",
+    "textures": {
+        "particle": "#side",
+        "side": "minecraft:textures_variant/potable/firefly_bush"
+    }
 }

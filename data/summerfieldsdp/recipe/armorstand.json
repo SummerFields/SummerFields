@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "group": "armorstand",
+    "ingredient": "minecraft:armor_stand",
+    "result": {
+        "id": "minecraft:armor_stand",
+        "count": 1
+    }
+}

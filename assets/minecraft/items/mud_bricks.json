@@ -1,6 +1,6 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:block_variant/bricks/mud_bricks_1"
-  }
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:block_variant/bricks/mud_bricks_1"
+    }
 }

@@ -1,6 +1,6 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:block_variant/slabs/tuff_bricks_slab_bottom_1"
-  }
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:block_variant/slabs/tuff_bricks_slab_bottom_1"
+    }
 }

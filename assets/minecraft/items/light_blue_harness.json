@@ -1,6 +1,6 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:item_variant/harness/light_blue_harness"
-  }
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item_variant/harness/light_blue_harness"
+    }
 }

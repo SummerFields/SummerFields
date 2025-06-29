@@ -1,25 +1,65 @@
 {
-	"parent": "summerfieldsdp:block/armorstand_arms_inventory",
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [0, 90, 0],
-			"scale": [0.75, 0.75, 0.75]
-		},
-		"firstperson_righthand": {
-			"rotation": [-45, 90, 0],
-			"translation": [0, -3, -6],
-			"scale": [0.75, 0.75, 0.75]
-		},
-		"gui": {
-		    "rotation": [ 30, 225, 0 ],
-		    "scale":[ 0.35, 0.35, 0.35 ]
-		},
-		"ground": {
-		    "translation": [ 0, 3, 0],
-		    "scale":[ 0.13, 0.13, 0.13 ]
-		},
-		"fixed": {
-		    "scale":[ 0.3, 0.3, 0.3 ]
-		}
-	}
+    "parent": "summerfieldsdp:block/armorstand_arms_inventory",
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "scale": [
+                0.75,
+                0.75,
+                0.75
+            ]
+        },
+        "firstperson_righthand": {
+            "rotation": [
+                -45,
+                90,
+                0
+            ],
+            "translation": [
+                0,
+                -3,
+                -6
+            ],
+            "scale": [
+                0.75,
+                0.75,
+                0.75
+            ]
+        },
+        "gui": {
+            "rotation": [
+                30,
+                225,
+                0
+            ],
+            "scale": [
+                0.35,
+                0.35,
+                0.35
+            ]
+        },
+        "ground": {
+            "translation": [
+                0,
+                3,
+                0
+            ],
+            "scale": [
+                0.13,
+                0.13,
+                0.13
+            ]
+        },
+        "fixed": {
+            "scale": [
+                0.3,
+                0.3,
+                0.3
+            ]
+        }
+    }
 }

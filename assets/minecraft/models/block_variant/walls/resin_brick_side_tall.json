@@ -1,9 +1,9 @@
 {
-	"parent": "minecraft:block_variant/walls/template_side_tall",
-	"textures": {
-		"particle": "#front",
-		"front": "minecraft:block/resin_bricks",
-		"innertop": "minecraft:textures_variant/walls/resin_bricks_inner_top",
-		"other": "minecraft:textures_variant/walls/resin_bricks_other"
-	}
+    "parent": "minecraft:block_variant/walls/template_side_tall",
+    "textures": {
+        "particle": "#front",
+        "front": "minecraft:block/resin_bricks",
+        "innertop": "minecraft:textures_variant/walls/resin_bricks_inner_top",
+        "other": "minecraft:textures_variant/walls/resin_bricks_other"
+    }
 }

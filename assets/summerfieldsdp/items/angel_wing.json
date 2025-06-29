@@ -1,0 +1,14 @@
+{
+    "model": {
+        "type": "minecraft:condition",
+        "property": "minecraft:broken",
+        "on_true": {
+            "type": "minecraft:model",
+            "model": "summerfieldsdp:item/angel_wing_broken"
+        },
+        "on_false": {
+            "type": "minecraft:model",
+            "model": "summerfieldsdp:item/angel_wing"
+        }
+    }
+}

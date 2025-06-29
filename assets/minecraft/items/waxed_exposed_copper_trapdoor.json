@@ -1,15 +1,15 @@
 {
-	"model": {
-		"type": "minecraft:composite",
-		"models": [
-			{
-				"type": "minecraft:model",
-				"model": "minecraft:block_variant/trapdoor/exposed_copper_trapdoor"
-			},
-			{
-				"type": "minecraft:model",
-				"model": "minecraft:block_variant/waxed/template_trapdoor_inventory_waxed"
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:composite",
+        "models": [
+            {
+                "type": "minecraft:model",
+                "model": "minecraft:block_variant/trapdoor/exposed_copper_trapdoor"
+            },
+            {
+                "type": "minecraft:model",
+                "model": "minecraft:block_variant/waxed/template_trapdoor_inventory_waxed"
+            }
+        ]
+    }
 }

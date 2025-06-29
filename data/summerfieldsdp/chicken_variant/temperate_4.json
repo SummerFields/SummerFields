@@ -1,0 +1,9 @@
+{
+    "asset_id": "summerfieldsdp:entity/chicken/temperate_chicken_4",
+    "model": "cold",
+    "spawn_conditions": [
+        {
+            "priority": 0
+        }
+    ]
+}

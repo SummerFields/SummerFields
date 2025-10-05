@@ -1,9 +1,0 @@
-{
-    "parent": "minecraft:block_variant/doors/template_door_inventory",
-    "textures": {
-        "particle": "#bottom",
-        "bottom": "minecraft:block/copper_door_bottom",
-        "top": "minecraft:block/copper_door_top",
-        "side": "minecraft:block_variant/doors/copper_door_side"
-    }
-}

@@ -7,67 +7,31 @@
     },
     "elements": [
         {
-            "from": [
-                0,
-                0,
-                0.1
-            ],
-            "to": [
-                16,
-                16,
-                0.1
-            ],
+            "from": [0, 0, 0.1],
+            "to": [16, 16, 0.1],
             "light_emission": 2,
             "faces": {
                 "north": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#sculk_vein"
                 },
                 "south": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#sculk_vein"
                 }
             }
         },
         {
-            "from": [
-                0,
-                0,
-                0.15
-            ],
-            "to": [
-                16,
-                16,
-                0.15
-            ],
+            "from": [0, 0, 0.15],
+            "to": [16, 16, 0.15],
             "light_emission": 10,
             "faces": {
                 "north": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#emission"
                 },
                 "south": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#emission"
                 }
             }

@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/template_copper_bars",
+    "textures": {
+        "particle": "minecraft:block/oxidized_copper_bars",
+        "edge": "minecraft:block/oxidized_copper_bars"
+    }
+}

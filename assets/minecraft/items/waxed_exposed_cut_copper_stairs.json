@@ -16,7 +16,7 @@
             },
             {
                 "type": "minecraft:model",
-                "model": "minecraft:block_variant/waxed/template_stairs_inventory_waxed"
+                "model": "minecraft:item_variant/waxed/template_stairs_inventory_waxed"
             }
         ]
     }

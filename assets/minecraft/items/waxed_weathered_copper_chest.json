@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "minecraft:composite",
+        "models": [
+            {
+                "type": "minecraft:special",
+                "base": "minecraft:item/weathered_copper_chest",
+                "model": {
+                    "type": "minecraft:chest",
+                    "texture": "minecraft:copper_weathered"
+                }
+            },
+            {
+                "type": "minecraft:model",
+                "model": "minecraft:item_variant/waxed/template_chest_inventory_waxed"
+            }
+        ]
+    }
+}

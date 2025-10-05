@@ -1,6 +1,27 @@
 {
     "model": {
-        "type": "minecraft:model",
-        "model": "minecraft:block_variant/bricks/cobblestone"
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": "Filter",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item_variant/filter/filter_64"
+                }
+            },
+            {
+                "when": "filter",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item_variant/filter/filter_64"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block_variant/bricks/cobblestone"
+        }
     }
 }

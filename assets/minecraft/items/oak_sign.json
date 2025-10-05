@@ -1,0 +1,27 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": "Filter",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item_variant/filter/filter_16"
+                }
+            },
+            {
+                "when": "filter",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item_variant/filter/filter_16"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/oak_sign"
+        }
+    }
+}

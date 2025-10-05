@@ -1,0 +1,15 @@
+{
+    "model": {
+        "type": "minecraft:composite",
+        "models": [
+            {
+                "type": "minecraft:model",
+                "model": "minecraft:item/exposed_copper_chain"
+            },
+            {
+                "type": "minecraft:model",
+                "model": "minecraft:item_variant/waxed/template_item_waxed"
+            }
+        ]
+    }
+}

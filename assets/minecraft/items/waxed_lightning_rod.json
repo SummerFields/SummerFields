@@ -1,0 +1,15 @@
+{
+    "model": {
+        "type": "minecraft:composite",
+        "models": [
+            {
+                "type": "minecraft:model",
+                "model": "minecraft:block/lightning_rod"
+            },
+            {
+                "type": "minecraft:model",
+                "model": "minecraft:item_variant/waxed/template_lightning_rod_inventory_waxed"
+            }
+        ]
+    }
+}

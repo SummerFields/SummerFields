@@ -12,14 +12,8 @@
             "trigger": "minecraft:inventory_changed"
         }
     },
-    "requirements": [
-        [
-            "has_elytra"
-        ]
-    ],
+    "requirements": [["has_elytra"]],
     "rewards": {
-        "recipes": [
-            "summerfieldsdp:angel_wing"
-        ]
+        "recipes": ["summerfieldsdp:angel_wing"]
     }
 }

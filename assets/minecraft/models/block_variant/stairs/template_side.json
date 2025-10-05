@@ -6,33 +6,16 @@
     },
     "elements": [
         {
-            "from": [
-                0,
-                0,
-                0
-            ],
-            "to": [
-                16,
-                16,
-                16
-            ],
+            "from": [0, 0, 0],
+            "to": [16, 16, 16],
             "rotation": {
                 "angle": 0,
                 "axis": "y",
-                "origin": [
-                    16,
-                    0,
-                    16
-                ]
+                "origin": [16, 0, 16]
             },
             "faces": {
                 "south": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#back",
                     "cullface": "south"
                 }
@@ -41,16 +24,8 @@
     ],
     "display": {
         "fixed": {
-            "rotation": [
-                0,
-                90,
-                0
-            ],
-            "scale": [
-                0.5,
-                0.5,
-                0.5
-            ]
+            "rotation": [0, 90, 0],
+            "scale": [0.5, 0.5, 0.5]
         }
     }
 }

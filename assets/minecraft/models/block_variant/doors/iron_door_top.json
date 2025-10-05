@@ -6,1380 +6,620 @@
     },
     "elements": [
         {
-            "from": [
-                1,
-                1.5,
-                1
-            ],
-            "to": [
-                2,
-                14,
-                5.5
-            ],
+            "from": [1, 1.5, 1],
+            "to": [2, 14, 5.5],
             "faces": {
                 "north": {
-                    "uv": [
-                        8,
-                        0,
-                        12.5,
-                        16
-                    ],
+                    "uv": [8, 0, 12.5, 16],
                     "texture": "#door_iron_upper"
                 },
                 "east": {
-                    "uv": [
-                        10.5,
-                        2,
-                        15,
-                        14.5
-                    ],
+                    "uv": [10.5, 2, 15, 14.5],
                     "texture": "#door_iron_upper"
                 },
                 "south": {
-                    "uv": [
-                        0,
-                        0,
-                        6.5,
-                        16
-                    ],
+                    "uv": [0, 0, 6.5, 16],
                     "texture": "#door_iron_upper"
                 },
                 "west": {
-                    "uv": [
-                        1,
-                        2,
-                        5.5,
-                        14.5
-                    ],
+                    "uv": [1, 2, 5.5, 14.5],
                     "texture": "#door_iron_upper"
                 },
                 "up": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        2.5
-                    ],
+                    "uv": [0, 0, 16, 2.5],
                     "rotation": 270,
                     "texture": "#door_iron_upper"
                 },
                 "down": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "rotation": 90,
                     "texture": "#door_iron_upper"
                 }
             }
         },
         {
-            "from": [
-                1,
-                1.5,
-                10.5
-            ],
-            "to": [
-                2,
-                14,
-                15
-            ],
+            "from": [1, 1.5, 10.5],
+            "to": [2, 14, 15],
             "faces": {
                 "north": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#door_iron_upper"
                 },
                 "east": {
-                    "uv": [
-                        1,
-                        2,
-                        5.5,
-                        14.5
-                    ],
+                    "uv": [1, 2, 5.5, 14.5],
                     "texture": "#door_iron_upper"
                 },
                 "south": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#door_iron_upper"
                 },
                 "west": {
-                    "uv": [
-                        10.5,
-                        2,
-                        15,
-                        14.5
-                    ],
+                    "uv": [10.5, 2, 15, 14.5],
                     "texture": "#door_iron_upper"
                 },
                 "up": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "rotation": 270,
                     "texture": "#door_iron_upper"
                 },
                 "down": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "rotation": 90,
                     "texture": "#door_iron_upper"
                 }
             }
         },
         {
-            "from": [
-                1,
-                9,
-                5.5
-            ],
-            "to": [
-                2,
-                14,
-                10.5
-            ],
+            "from": [1, 9, 5.5],
+            "to": [2, 14, 10.5],
             "faces": {
                 "north": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#door_iron_upper"
                 },
                 "east": {
-                    "uv": [
-                        5.5,
-                        2,
-                        10.5,
-                        7
-                    ],
+                    "uv": [5.5, 2, 10.5, 7],
                     "texture": "#door_iron_upper"
                 },
                 "south": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#door_iron_upper"
                 },
                 "west": {
-                    "uv": [
-                        5.5,
-                        2,
-                        10.5,
-                        7
-                    ],
+                    "uv": [5.5, 2, 10.5, 7],
                     "texture": "#door_iron_upper"
                 },
                 "up": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "rotation": 270,
                     "texture": "#door_iron_upper"
                 },
                 "down": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "rotation": 90,
                     "texture": "#door_iron_upper"
                 }
             }
         },
         {
-            "from": [
-                1,
-                1.5,
-                5.5
-            ],
-            "to": [
-                2,
-                5.5,
-                10.5
-            ],
+            "from": [1, 1.5, 5.5],
+            "to": [2, 5.5, 10.5],
             "faces": {
                 "north": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#door_iron_upper"
                 },
                 "east": {
-                    "uv": [
-                        5.5,
-                        10.5,
-                        10.5,
-                        14.5
-                    ],
+                    "uv": [5.5, 10.5, 10.5, 14.5],
                     "texture": "#door_iron_upper"
                 },
                 "south": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#door_iron_upper"
                 },
                 "west": {
-                    "uv": [
-                        5.5,
-                        10.5,
-                        10.5,
-                        14.5
-                    ],
+                    "uv": [5.5, 10.5, 10.5, 14.5],
                     "texture": "#door_iron_upper"
                 },
                 "up": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "rotation": 270,
                     "texture": "#door_iron_upper"
                 },
                 "down": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "rotation": 90,
                     "texture": "#door_iron_upper"
                 }
             }
         },
         {
-            "from": [
-                0,
-                0,
-                0
-            ],
-            "to": [
-                3,
-                16,
-                1
-            ],
+            "from": [0, 0, 0],
+            "to": [3, 16, 1],
             "faces": {
                 "north": {
-                    "uv": [
-                        0,
-                        0,
-                        3,
-                        16
-                    ],
+                    "uv": [0, 0, 3, 16],
                     "texture": "#particle"
                 },
                 "east": {
-                    "uv": [
-                        15,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [15, 0, 16, 16],
                     "texture": "#door_iron_upper"
                 },
                 "south": {
-                    "uv": [
-                        12,
-                        0,
-                        15,
-                        16
-                    ],
+                    "uv": [12, 0, 15, 16],
                     "texture": "#particle"
                 },
                 "west": {
-                    "uv": [
-                        0,
-                        0,
-                        1,
-                        16
-                    ],
+                    "uv": [0, 0, 1, 16],
                     "texture": "#door_iron_upper"
                 },
                 "up": {
-                    "uv": [
-                        15,
-                        8,
-                        16,
-                        10.5
-                    ],
+                    "uv": [15, 8, 16, 10.5],
                     "rotation": 270,
                     "texture": "#door_iron_upper"
                 },
                 "down": {
-                    "uv": [
-                        6,
-                        15,
-                        9,
-                        16
-                    ],
+                    "uv": [6, 15, 9, 16],
                     "texture": "#particle"
                 }
             }
         },
         {
-            "from": [
-                0,
-                0,
-                15
-            ],
-            "to": [
-                3,
-                16,
-                16
-            ],
+            "from": [0, 0, 15],
+            "to": [3, 16, 16],
             "faces": {
                 "north": {
-                    "uv": [
-                        12,
-                        0,
-                        15,
-                        16
-                    ],
+                    "uv": [12, 0, 15, 16],
                     "texture": "#particle"
                 },
                 "east": {
-                    "uv": [
-                        0,
-                        0,
-                        1,
-                        16
-                    ],
+                    "uv": [0, 0, 1, 16],
                     "texture": "#door_iron_upper"
                 },
                 "south": {
-                    "uv": [
-                        0,
-                        0,
-                        3,
-                        16
-                    ],
+                    "uv": [0, 0, 3, 16],
                     "texture": "#particle"
                 },
                 "west": {
-                    "uv": [
-                        15,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [15, 0, 16, 16],
                     "texture": "#door_iron_upper"
                 },
                 "up": {
-                    "uv": [
-                        15,
-                        13.5,
-                        16,
-                        16
-                    ],
+                    "uv": [15, 13.5, 16, 16],
                     "rotation": 270,
                     "texture": "#door_iron_upper"
                 },
                 "down": {
-                    "uv": [
-                        6,
-                        0,
-                        9,
-                        1
-                    ],
+                    "uv": [6, 0, 9, 1],
                     "texture": "#particle"
                 }
             }
         },
         {
-            "from": [
-                0,
-                14,
-                1
-            ],
-            "to": [
-                3,
-                16,
-                15
-            ],
+            "from": [0, 14, 1],
+            "to": [3, 16, 15],
             "faces": {
                 "north": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#door_iron_upper"
                 },
                 "east": {
-                    "uv": [
-                        1,
-                        0,
-                        15,
-                        2
-                    ],
+                    "uv": [1, 0, 15, 2],
                     "texture": "#door_iron_upper"
                 },
                 "south": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#door_iron_upper"
                 },
                 "west": {
-                    "uv": [
-                        1,
-                        0,
-                        15,
-                        2
-                    ],
+                    "uv": [1, 0, 15, 2],
                     "texture": "#door_iron_upper"
                 },
                 "up": {
-                    "uv": [
-                        6,
-                        1,
-                        9,
-                        15
-                    ],
+                    "uv": [6, 1, 9, 15],
                     "texture": "#particle"
                 },
                 "down": {
-                    "uv": [
-                        12,
-                        1,
-                        15,
-                        15
-                    ],
+                    "uv": [12, 1, 15, 15],
                     "rotation": 180,
                     "texture": "#particle"
                 }
             }
         },
         {
-            "from": [
-                0,
-                5.5,
-                5
-            ],
-            "to": [
-                3,
-                9.5,
-                6
-            ],
+            "from": [0, 5.5, 5],
+            "to": [3, 9.5, 6],
             "faces": {
                 "north": {
-                    "uv": [
-                        6,
-                        3,
-                        10,
-                        5.5
-                    ],
+                    "uv": [6, 3, 10, 5.5],
                     "texture": "#door_iron_upper"
                 },
                 "east": {
-                    "uv": [
-                        10,
-                        6.5,
-                        11,
-                        10.5
-                    ],
+                    "uv": [10, 6.5, 11, 10.5],
                     "texture": "#door_iron_upper"
                 },
                 "south": {
-                    "uv": [
-                        6,
-                        3,
-                        10,
-                        5.5
-                    ],
+                    "uv": [6, 3, 10, 5.5],
                     "texture": "#door_iron_upper"
                 },
                 "west": {
-                    "uv": [
-                        5,
-                        6.5,
-                        6,
-                        10.5
-                    ],
+                    "uv": [5, 6.5, 6, 10.5],
                     "texture": "#door_iron_upper"
                 },
                 "up": {
-                    "uv": [
-                        15,
-                        5,
-                        16,
-                        11
-                    ],
+                    "uv": [15, 5, 16, 11],
                     "rotation": 270,
                     "texture": "#door_iron_upper"
                 },
                 "down": {
-                    "uv": [
-                        15,
-                        5.5,
-                        16,
-                        11
-                    ],
+                    "uv": [15, 5.5, 16, 11],
                     "rotation": 90,
                     "texture": "#door_iron_upper"
                 }
             }
         },
         {
-            "from": [
-                0,
-                5.5,
-                10
-            ],
-            "to": [
-                3,
-                9.5,
-                11
-            ],
+            "from": [0, 5.5, 10],
+            "to": [3, 9.5, 11],
             "faces": {
                 "north": {
-                    "uv": [
-                        6,
-                        2.5,
-                        10,
-                        5.5
-                    ],
+                    "uv": [6, 2.5, 10, 5.5],
                     "texture": "#door_iron_upper"
                 },
                 "east": {
-                    "uv": [
-                        5,
-                        6.5,
-                        6,
-                        10.5
-                    ],
+                    "uv": [5, 6.5, 6, 10.5],
                     "texture": "#door_iron_upper"
                 },
                 "south": {
-                    "uv": [
-                        6,
-                        3,
-                        10,
-                        5.5
-                    ],
+                    "uv": [6, 3, 10, 5.5],
                     "texture": "#door_iron_upper"
                 },
                 "west": {
-                    "uv": [
-                        10,
-                        6.5,
-                        11,
-                        10.5
-                    ],
+                    "uv": [10, 6.5, 11, 10.5],
                     "texture": "#door_iron_upper"
                 },
                 "up": {
-                    "uv": [
-                        15,
-                        8,
-                        16,
-                        12.5
-                    ],
+                    "uv": [15, 8, 16, 12.5],
                     "rotation": 270,
                     "texture": "#door_iron_upper"
                 },
                 "down": {
-                    "uv": [
-                        15,
-                        6,
-                        16,
-                        11
-                    ],
+                    "uv": [15, 6, 16, 11],
                     "rotation": 90,
                     "texture": "#door_iron_upper"
                 }
             }
         },
         {
-            "from": [
-                0,
-                8.5,
-                6
-            ],
-            "to": [
-                3,
-                9.5,
-                10
-            ],
+            "from": [0, 8.5, 6],
+            "to": [3, 9.5, 10],
             "faces": {
                 "north": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#door_iron_upper"
                 },
                 "east": {
-                    "uv": [
-                        6,
-                        6.5,
-                        10,
-                        7.5
-                    ],
+                    "uv": [6, 6.5, 10, 7.5],
                     "texture": "#door_iron_upper"
                 },
                 "south": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#door_iron_upper"
                 },
                 "west": {
-                    "uv": [
-                        6,
-                        6.5,
-                        10,
-                        7.5
-                    ],
+                    "uv": [6, 6.5, 10, 7.5],
                     "texture": "#door_iron_upper"
                 },
                 "up": {
-                    "uv": [
-                        6,
-                        3,
-                        10,
-                        5.5
-                    ],
+                    "uv": [6, 3, 10, 5.5],
                     "rotation": 270,
                     "texture": "#door_iron_upper"
                 },
                 "down": {
-                    "uv": [
-                        6,
-                        3,
-                        10,
-                        5.5
-                    ],
+                    "uv": [6, 3, 10, 5.5],
                     "rotation": 90,
                     "texture": "#door_iron_upper"
                 }
             }
         },
         {
-            "from": [
-                0,
-                5.5,
-                6
-            ],
-            "to": [
-                3,
-                6.5,
-                10
-            ],
+            "from": [0, 5.5, 6],
+            "to": [3, 6.5, 10],
             "faces": {
                 "north": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#door_iron_upper"
                 },
                 "east": {
-                    "uv": [
-                        6,
-                        9.5,
-                        10,
-                        10.5
-                    ],
+                    "uv": [6, 9.5, 10, 10.5],
                     "texture": "#door_iron_upper"
                 },
                 "south": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#door_iron_upper"
                 },
                 "west": {
-                    "uv": [
-                        6,
-                        9.5,
-                        10,
-                        10.5
-                    ],
+                    "uv": [6, 9.5, 10, 10.5],
                     "texture": "#door_iron_upper"
                 },
                 "up": {
-                    "uv": [
-                        6,
-                        3,
-                        10,
-                        5.5
-                    ],
+                    "uv": [6, 3, 10, 5.5],
                     "rotation": 270,
                     "texture": "#door_iron_upper"
                 },
                 "down": {
-                    "uv": [
-                        6,
-                        3,
-                        10,
-                        5.5
-                    ],
+                    "uv": [6, 3, 10, 5.5],
                     "rotation": 90,
                     "texture": "#door_iron_upper"
                 }
             }
         },
         {
-            "from": [
-                2,
-                2,
-                1.5
-            ],
-            "to": [
-                2.5,
-                5,
-                14.5
-            ],
+            "from": [2, 2, 1.5],
+            "to": [2.5, 5, 14.5],
             "faces": {
                 "north": {
-                    "uv": [
-                        13.5,
-                        11,
-                        14,
-                        14
-                    ],
+                    "uv": [13.5, 11, 14, 14],
                     "texture": "#door_iron_upper"
                 },
                 "east": {
-                    "uv": [
-                        1.5,
-                        11,
-                        14.5,
-                        14
-                    ],
+                    "uv": [1.5, 11, 14.5, 14],
                     "texture": "#door_iron_upper"
                 },
                 "south": {
-                    "uv": [
-                        2,
-                        11,
-                        2.5,
-                        14
-                    ],
+                    "uv": [2, 11, 2.5, 14],
                     "texture": "#door_iron_upper"
                 },
                 "west": {
-                    "uv": [
-                        1.5,
-                        11,
-                        14.5,
-                        14
-                    ],
+                    "uv": [1.5, 11, 14.5, 14],
                     "texture": "#door_iron_upper"
                 },
                 "up": {
-                    "uv": [
-                        0.5,
-                        3,
-                        1,
-                        16
-                    ],
+                    "uv": [0.5, 3, 1, 16],
                     "texture": "#door_iron_upper"
                 },
                 "down": {
-                    "uv": [
-                        0.5,
-                        3,
-                        1,
-                        16
-                    ],
+                    "uv": [0.5, 3, 1, 16],
                     "texture": "#door_iron_upper"
                 }
             }
         },
         {
-            "from": [
-                2,
-                6,
-                1.5
-            ],
-            "to": [
-                2.5,
-                9,
-                5
-            ],
+            "from": [2, 6, 1.5],
+            "to": [2.5, 9, 5],
             "faces": {
                 "north": {
-                    "uv": [
-                        13.5,
-                        7,
-                        14,
-                        10
-                    ],
+                    "uv": [13.5, 7, 14, 10],
                     "texture": "#door_iron_upper"
                 },
                 "east": {
-                    "uv": [
-                        11,
-                        7,
-                        14.5,
-                        10
-                    ],
+                    "uv": [11, 7, 14.5, 10],
                     "texture": "#door_iron_upper"
                 },
                 "south": {
-                    "uv": [
-                        2,
-                        7,
-                        2.5,
-                        10
-                    ],
+                    "uv": [2, 7, 2.5, 10],
                     "texture": "#door_iron_upper"
                 },
                 "west": {
-                    "uv": [
-                        1.5,
-                        7,
-                        5,
-                        10
-                    ],
+                    "uv": [1.5, 7, 5, 10],
                     "texture": "#door_iron_upper"
                 },
                 "up": {
-                    "uv": [
-                        0.5,
-                        5,
-                        1,
-                        8.5
-                    ],
+                    "uv": [0.5, 5, 1, 8.5],
                     "texture": "#door_iron_upper"
                 },
                 "down": {
-                    "uv": [
-                        0.5,
-                        10.5,
-                        1,
-                        14
-                    ],
+                    "uv": [0.5, 10.5, 1, 14],
                     "texture": "#door_iron_upper"
                 }
             }
         },
         {
-            "from": [
-                2,
-                6,
-                11
-            ],
-            "to": [
-                2.5,
-                9,
-                14.5
-            ],
+            "from": [2, 6, 11],
+            "to": [2.5, 9, 14.5],
             "faces": {
                 "north": {
-                    "uv": [
-                        13.5,
-                        7,
-                        14,
-                        10
-                    ],
+                    "uv": [13.5, 7, 14, 10],
                     "texture": "#door_iron_upper"
                 },
                 "east": {
-                    "uv": [
-                        1.5,
-                        7,
-                        5,
-                        10
-                    ],
+                    "uv": [1.5, 7, 5, 10],
                     "texture": "#door_iron_upper"
                 },
                 "south": {
-                    "uv": [
-                        2,
-                        7,
-                        2.5,
-                        10
-                    ],
+                    "uv": [2, 7, 2.5, 10],
                     "texture": "#door_iron_upper"
                 },
                 "west": {
-                    "uv": [
-                        11,
-                        7,
-                        14.5,
-                        10
-                    ],
+                    "uv": [11, 7, 14.5, 10],
                     "texture": "#door_iron_upper"
                 },
                 "up": {
-                    "uv": [
-                        0.5,
-                        9.5,
-                        1,
-                        13
-                    ],
+                    "uv": [0.5, 9.5, 1, 13],
                     "texture": "#door_iron_upper"
                 },
                 "down": {
-                    "uv": [
-                        0.5,
-                        6,
-                        1,
-                        9.5
-                    ],
+                    "uv": [0.5, 6, 1, 9.5],
                     "texture": "#door_iron_upper"
                 }
             }
         },
         {
-            "from": [
-                2,
-                10,
-                1.5
-            ],
-            "to": [
-                2.5,
-                13.5,
-                14.5
-            ],
+            "from": [2, 10, 1.5],
+            "to": [2.5, 13.5, 14.5],
             "faces": {
                 "north": {
-                    "uv": [
-                        13.5,
-                        2.5,
-                        14,
-                        6
-                    ],
+                    "uv": [13.5, 2.5, 14, 6],
                     "texture": "#door_iron_upper"
                 },
                 "east": {
-                    "uv": [
-                        1.5,
-                        2.5,
-                        14.5,
-                        6
-                    ],
+                    "uv": [1.5, 2.5, 14.5, 6],
                     "texture": "#door_iron_upper"
                 },
                 "south": {
-                    "uv": [
-                        2,
-                        2.5,
-                        2.5,
-                        6
-                    ],
+                    "uv": [2, 2.5, 2.5, 6],
                     "texture": "#door_iron_upper"
                 },
                 "west": {
-                    "uv": [
-                        1.5,
-                        2.5,
-                        14.5,
-                        6
-                    ],
+                    "uv": [1.5, 2.5, 14.5, 6],
                     "texture": "#door_iron_upper"
                 },
                 "up": {
-                    "uv": [
-                        0.5,
-                        3,
-                        1,
-                        16
-                    ],
+                    "uv": [0.5, 3, 1, 16],
                     "texture": "#door_iron_upper"
                 },
                 "down": {
-                    "uv": [
-                        0.5,
-                        3,
-                        1,
-                        16
-                    ],
+                    "uv": [0.5, 3, 1, 16],
                     "texture": "#door_iron_upper"
                 }
             }
         },
         {
-            "from": [
-                0.5,
-                2,
-                1.5
-            ],
-            "to": [
-                1,
-                5,
-                14.5
-            ],
+            "from": [0.5, 2, 1.5],
+            "to": [1, 5, 14.5],
             "faces": {
                 "north": {
-                    "uv": [
-                        15,
-                        11,
-                        15.5,
-                        14
-                    ],
+                    "uv": [15, 11, 15.5, 14],
                     "texture": "#door_iron_upper"
                 },
                 "east": {
-                    "uv": [
-                        1.5,
-                        11,
-                        14.5,
-                        14
-                    ],
+                    "uv": [1.5, 11, 14.5, 14],
                     "texture": "#door_iron_upper"
                 },
                 "south": {
-                    "uv": [
-                        0.5,
-                        11,
-                        1,
-                        14
-                    ],
+                    "uv": [0.5, 11, 1, 14],
                     "texture": "#door_iron_upper"
                 },
                 "west": {
-                    "uv": [
-                        1.5,
-                        11,
-                        14.5,
-                        14
-                    ],
+                    "uv": [1.5, 11, 14.5, 14],
                     "texture": "#door_iron_upper"
                 },
                 "up": {
-                    "uv": [
-                        0.5,
-                        3,
-                        1,
-                        16
-                    ],
+                    "uv": [0.5, 3, 1, 16],
                     "texture": "#door_iron_upper"
                 },
                 "down": {
-                    "uv": [
-                        0.5,
-                        3,
-                        1,
-                        16
-                    ],
+                    "uv": [0.5, 3, 1, 16],
                     "texture": "#door_iron_upper"
                 }
             }
         },
         {
-            "from": [
-                0.5,
-                6,
-                1.5
-            ],
-            "to": [
-                1,
-                9,
-                5
-            ],
+            "from": [0.5, 6, 1.5],
+            "to": [1, 9, 5],
             "faces": {
                 "north": {
-                    "uv": [
-                        15,
-                        7,
-                        15.5,
-                        10
-                    ],
+                    "uv": [15, 7, 15.5, 10],
                     "texture": "#door_iron_upper"
                 },
                 "east": {
-                    "uv": [
-                        11,
-                        7,
-                        14.5,
-                        10
-                    ],
+                    "uv": [11, 7, 14.5, 10],
                     "texture": "#door_iron_upper"
                 },
                 "south": {
-                    "uv": [
-                        0.5,
-                        7,
-                        1,
-                        10
-                    ],
+                    "uv": [0.5, 7, 1, 10],
                     "texture": "#door_iron_upper"
                 },
                 "west": {
-                    "uv": [
-                        1.5,
-                        7,
-                        5,
-                        10
-                    ],
+                    "uv": [1.5, 7, 5, 10],
                     "texture": "#door_iron_upper"
                 },
                 "up": {
-                    "uv": [
-                        0.5,
-                        5.5,
-                        1,
-                        9
-                    ],
+                    "uv": [0.5, 5.5, 1, 9],
                     "texture": "#door_iron_upper"
                 },
                 "down": {
-                    "uv": [
-                        0.5,
-                        11,
-                        1,
-                        14.5
-                    ],
+                    "uv": [0.5, 11, 1, 14.5],
                     "texture": "#door_iron_upper"
                 }
             }
         },
         {
-            "from": [
-                0.5,
-                6,
-                11
-            ],
-            "to": [
-                1,
-                9,
-                14.5
-            ],
+            "from": [0.5, 6, 11],
+            "to": [1, 9, 14.5],
             "faces": {
                 "north": {
-                    "uv": [
-                        15,
-                        7,
-                        15.5,
-                        10
-                    ],
+                    "uv": [15, 7, 15.5, 10],
                     "texture": "#door_iron_upper"
                 },
                 "east": {
-                    "uv": [
-                        1.5,
-                        7,
-                        5,
-                        10
-                    ],
+                    "uv": [1.5, 7, 5, 10],
                     "texture": "#door_iron_upper"
                 },
                 "south": {
-                    "uv": [
-                        0.5,
-                        7,
-                        1,
-                        10
-                    ],
+                    "uv": [0.5, 7, 1, 10],
                     "texture": "#door_iron_upper"
                 },
                 "west": {
-                    "uv": [
-                        11,
-                        7,
-                        14.5,
-                        10
-                    ],
+                    "uv": [11, 7, 14.5, 10],
                     "texture": "#door_iron_upper"
                 },
                 "up": {
-                    "uv": [
-                        0.5,
-                        11,
-                        1,
-                        14.5
-                    ],
+                    "uv": [0.5, 11, 1, 14.5],
                     "texture": "#door_iron_upper"
                 },
                 "down": {
-                    "uv": [
-                        0.5,
-                        4,
-                        1,
-                        7.5
-                    ],
+                    "uv": [0.5, 4, 1, 7.5],
                     "texture": "#door_iron_upper"
                 }
             }
         },
         {
-            "from": [
-                0.5,
-                10,
-                1.5
-            ],
-            "to": [
-                1,
-                13.5,
-                14.5
-            ],
+            "from": [0.5, 10, 1.5],
+            "to": [1, 13.5, 14.5],
             "faces": {
                 "north": {
-                    "uv": [
-                        15,
-                        4.5,
-                        15.5,
-                        8
-                    ],
+                    "uv": [15, 4.5, 15.5, 8],
                     "texture": "#door_iron_upper"
                 },
                 "east": {
-                    "uv": [
-                        1.5,
-                        2.5,
-                        14.5,
-                        6
-                    ],
+                    "uv": [1.5, 2.5, 14.5, 6],
                     "texture": "#door_iron_upper"
                 },
                 "south": {
-                    "uv": [
-                        0.5,
-                        5,
-                        1,
-                        8.5
-                    ],
+                    "uv": [0.5, 5, 1, 8.5],
                     "texture": "#door_iron_upper"
                 },
                 "west": {
-                    "uv": [
-                        1.5,
-                        2.5,
-                        14.5,
-                        6
-                    ],
+                    "uv": [1.5, 2.5, 14.5, 6],
                     "texture": "#door_iron_upper"
                 },
                 "up": {
-                    "uv": [
-                        0.5,
-                        3,
-                        1,
-                        16
-                    ],
+                    "uv": [0.5, 3, 1, 16],
                     "texture": "#door_iron_upper"
                 },
                 "down": {
-                    "uv": [
-                        0.5,
-                        3,
-                        1,
-                        16
-                    ],
+                    "uv": [0.5, 3, 1, 16],
                     "texture": "#door_iron_upper"
                 }
             }
         },
         {
-            "from": [
-                0,
-                0,
-                1
-            ],
-            "to": [
-                3,
-                1.5,
-                15
-            ],
+            "from": [0, 0, 1],
+            "to": [3, 1.5, 15],
             "faces": {
                 "north": {
-                    "uv": [
-                        13,
-                        14.5,
-                        16,
-                        16
-                    ],
+                    "uv": [13, 14.5, 16, 16],
                     "texture": "#door_iron_upper"
                 },
                 "east": {
-                    "uv": [
-                        1,
-                        14.5,
-                        15,
-                        16
-                    ],
+                    "uv": [1, 14.5, 15, 16],
                     "texture": "#door_iron_upper"
                 },
                 "south": {
-                    "uv": [
-                        8,
-                        14.5,
-                        11,
-                        16
-                    ],
+                    "uv": [8, 14.5, 11, 16],
                     "texture": "#door_iron_upper"
                 },
                 "west": {
-                    "uv": [
-                        1,
-                        14.5,
-                        15,
-                        16
-                    ],
+                    "uv": [1, 14.5, 15, 16],
                     "texture": "#door_iron_upper"
                 },
                 "up": {
-                    "uv": [
-                        12,
-                        1,
-                        15,
-                        15
-                    ],
+                    "uv": [12, 1, 15, 15],
                     "texture": "#particle"
                 },
                 "down": {
-                    "uv": [
-                        6,
-                        1,
-                        9,
-                        15
-                    ],
+                    "uv": [6, 1, 9, 15],
                     "texture": "#particle"
                 }
             }
@@ -1387,16 +627,8 @@
     ],
     "display": {
         "ground": {
-            "translation": [
-                0,
-                2,
-                0
-            ],
-            "scale": [
-                0.5,
-                0.5,
-                0.5
-            ]
+            "translation": [0, 2, 0],
+            "scale": [0.5, 0.5, 0.5]
         }
     }
 }

@@ -5,6 +5,26 @@ This changelog lists all notable updates and contributions for the SummerFields 
 
 ---
 
+Release 1.21.9
+
+  - by [lipki] (https://github.com/lipki)
+	- copper bars
+	- copper chain
+	- copper chest
+	- copper chain
+	- copper golem statue
+	- copper lantern
+	- copper torch
+	- lightning rod variants
+	- shelf
+	- copper nugget
+	- copper tools
+	- copper Golem and spawn egg
+	- end flash
+	- copper armor
+	- copper horse armor
+	- change leather horse armor
+
 Release 1.21.7
 
   - by [lipki] (https://github.com/lipki)

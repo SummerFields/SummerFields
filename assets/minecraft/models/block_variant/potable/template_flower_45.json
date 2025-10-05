@@ -6,44 +6,22 @@
     },
     "elements": [
         {
-            "from": [
-                0,
-                0,
-                8
-            ],
-            "to": [
-                16,
-                16,
-                8
-            ],
+            "from": [0, 0, 8],
+            "to": [16, 16, 8],
             "rotation": {
                 "angle": 45,
                 "axis": "y",
-                "origin": [
-                    8,
-                    8,
-                    8
-                ]
+                "origin": [8, 8, 8]
             },
             "light_emission": 3,
             "shade": false,
             "faces": {
                 "north": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#side"
                 },
                 "south": {
-                    "uv": [
-                        16,
-                        0,
-                        0,
-                        16
-                    ],
+                    "uv": [16, 0, 0, 16],
                     "texture": "#side"
                 }
             }

@@ -2,21 +2,9 @@
     "parent": "minecraft:block/daylight_detector",
     "display": {
         "gui": {
-            "rotation": [
-                30,
-                225,
-                0
-            ],
-            "translation": [
-                0,
-                3,
-                0
-            ],
-            "scale": [
-                0.625,
-                0.625,
-                0.625
-            ]
+            "rotation": [30, 225, 0],
+            "translation": [0, 3, 0],
+            "scale": [0.625, 0.625, 0.625]
         }
     }
 }

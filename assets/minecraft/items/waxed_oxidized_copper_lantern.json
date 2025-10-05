@@ -2,14 +2,14 @@
     "model": {
         "type": "minecraft:composite",
         "models": [
-		{
-			"type": "minecraft:model",
-			"model": "minecraft:item_variant/lantern/oxidized_copper_lantern"
-		},
-		{
-			"type": "minecraft:model",
-			"model": "minecraft:item_variant/waxed/template_lantern_inventory_waxed"
-		}
+            {
+                "type": "minecraft:model",
+                "model": "minecraft:item_variant/lantern/oxidized_copper_lantern"
+            },
+            {
+                "type": "minecraft:model",
+                "model": "minecraft:item_variant/waxed/template_lantern_inventory_waxed"
+            }
         ]
     }
 }

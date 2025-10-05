@@ -2,18 +2,10 @@
     "type": "minecraft:crafting_shaped",
     "category": "equipment",
     "group": "elytra",
-    "pattern": [
-        "###",
-        "#W#",
-        "###"
-    ],
+    "pattern": ["###", "#W#", "###"],
     "key": {
-        "#": [
-            "minecraft:feather"
-        ],
-        "W": [
-            "minecraft:elytra"
-        ]
+        "#": ["minecraft:feather"],
+        "W": ["minecraft:elytra"]
     },
     "result": {
         "components": {

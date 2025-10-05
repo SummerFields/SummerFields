@@ -5,18 +5,14 @@
             "file": "minecraft:gui/container/brewing_guide_left.png",
             "ascent": 13,
             "height": 128,
-            "chars": [
-                ""
-            ]
+            "chars": [""]
         },
         {
             "type": "bitmap",
             "file": "minecraft:gui/container/brewing_guide_right.png",
             "ascent": 13,
             "height": 128,
-            "chars": [
-                ""
-            ]
+            "chars": [""]
         }
     ]
 }

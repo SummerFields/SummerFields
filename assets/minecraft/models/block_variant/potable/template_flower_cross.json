@@ -7,88 +7,44 @@
     },
     "elements": [
         {
-            "from": [
-                8,
-                0,
-                0
-            ],
-            "to": [
-                8,
-                16,
-                16
-            ],
+            "from": [8, 0, 0],
+            "to": [8, 16, 16],
             "shade": false,
             "rotation": {
                 "angle": -45,
                 "axis": "y",
-                "origin": [
-                    8,
-                    10,
-                    8
-                ]
+                "origin": [8, 10, 8]
             },
             "faces": {
                 "east": {
-                    "uv": [
-                        16,
-                        0,
-                        0,
-                        16
-                    ],
+                    "uv": [16, 0, 0, 16],
                     "texture": "#side",
                     "tintindex": 0
                 },
                 "west": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#side",
                     "tintindex": 0
                 }
             }
         },
         {
-            "from": [
-                0,
-                0,
-                8
-            ],
-            "to": [
-                16,
-                16,
-                8
-            ],
+            "from": [0, 0, 8],
+            "to": [16, 16, 8],
             "shade": false,
             "rotation": {
                 "angle": -45,
                 "axis": "y",
-                "origin": [
-                    8,
-                    10,
-                    8
-                ]
+                "origin": [8, 10, 8]
             },
             "faces": {
                 "north": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#branch",
                     "tintindex": 0
                 },
                 "south": {
-                    "uv": [
-                        16,
-                        0,
-                        0,
-                        16
-                    ],
+                    "uv": [16, 0, 0, 16],
                     "texture": "#branch",
                     "tintindex": 0
                 }

@@ -4,70 +4,32 @@
     },
     "elements": [
         {
-            "from": [
-                5,
-                0,
-                6
-            ],
-            "to": [
-                11,
-                2,
-                10
-            ],
+            "from": [5, 0, 6],
+            "to": [11, 2, 10],
             "faces": {
                 "down": {
-                    "uv": [
-                        2,
-                        2,
-                        8,
-                        6
-                    ],
+                    "uv": [2, 2, 8, 6],
                     "texture": "#texture",
                     "cullface": "down"
                 },
                 "up": {
-                    "uv": [
-                        2,
-                        2,
-                        8,
-                        6
-                    ],
+                    "uv": [2, 2, 8, 6],
                     "texture": "#texture"
                 },
                 "north": {
-                    "uv": [
-                        2,
-                        0,
-                        8,
-                        2
-                    ],
+                    "uv": [2, 0, 8, 2],
                     "texture": "#texture"
                 },
                 "south": {
-                    "uv": [
-                        2,
-                        6,
-                        8,
-                        8
-                    ],
+                    "uv": [2, 6, 8, 8],
                     "texture": "#texture"
                 },
                 "west": {
-                    "uv": [
-                        10,
-                        2,
-                        14,
-                        4
-                    ],
+                    "uv": [10, 2, 14, 4],
                     "texture": "#texture"
                 },
                 "east": {
-                    "uv": [
-                        10,
-                        4,
-                        14,
-                        6
-                    ],
+                    "uv": [10, 4, 14, 6],
                     "texture": "#texture"
                 }
             }
@@ -75,89 +37,29 @@
     ],
     "display": {
         "thirdperson_righthand": {
-            "rotation": [
-                0,
-                0,
-                -90
-            ],
-            "translation": [
-                5,
-                0,
-                0
-            ],
-            "scale": [
-                1,
-                1,
-                1
-            ]
+            "rotation": [0, 0, -90],
+            "translation": [5, 0, 0],
+            "scale": [1, 1, 1]
         },
         "firstperson_righthand": {
-            "rotation": [
-                -45,
-                0,
-                -90
-            ],
-            "translation": [
-                5,
-                -8,
-                -2
-            ],
-            "scale": [
-                1,
-                1,
-                1
-            ]
+            "rotation": [-45, 0, -90],
+            "translation": [5, -8, -2],
+            "scale": [1, 1, 1]
         },
         "gui": {
-            "rotation": [
-                30,
-                225,
-                0
-            ],
-            "translation": [
-                0,
-                3,
-                0
-            ],
-            "scale": [
-                0.625,
-                0.625,
-                0.625
-            ]
+            "rotation": [30, 225, 0],
+            "translation": [0, 3, 0],
+            "scale": [0.625, 0.625, 0.625]
         },
         "ground": {
-            "rotation": [
-                0,
-                0,
-                0
-            ],
-            "translation": [
-                0,
-                3,
-                0
-            ],
-            "scale": [
-                0.75,
-                0.75,
-                0.75
-            ]
+            "rotation": [0, 0, 0],
+            "translation": [0, 3, 0],
+            "scale": [0.75, 0.75, 0.75]
         },
         "fixed": {
-            "rotation": [
-                90,
-                0,
-                0
-            ],
-            "translation": [
-                0,
-                0,
-                7
-            ],
-            "scale": [
-                1,
-                1,
-                1
-            ]
+            "rotation": [90, 0, 0],
+            "translation": [0, 0, 7],
+            "scale": [1, 1, 1]
         }
     }
 }

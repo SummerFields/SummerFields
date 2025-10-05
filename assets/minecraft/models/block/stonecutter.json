@@ -9,73 +9,35 @@
     },
     "elements": [
         {
-            "from": [
-                0,
-                0,
-                0
-            ],
-            "to": [
-                16,
-                9,
-                16
-            ],
+            "from": [0, 0, 0],
+            "to": [16, 9, 16],
             "faces": {
                 "north": {
-                    "uv": [
-                        0,
-                        7,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 7, 16, 16],
                     "texture": "#side",
                     "cullface": "north"
                 },
                 "east": {
-                    "uv": [
-                        0,
-                        7,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 7, 16, 16],
                     "texture": "#side",
                     "cullface": "east"
                 },
                 "south": {
-                    "uv": [
-                        0,
-                        7,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 7, 16, 16],
                     "texture": "#side",
                     "cullface": "south"
                 },
                 "west": {
-                    "uv": [
-                        0,
-                        7,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 7, 16, 16],
                     "texture": "#side",
                     "cullface": "west"
                 },
                 "up": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#top"
                 },
                 "down": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#bottom",
                     "cullface": "down"
                 }
@@ -83,34 +45,16 @@
         },
         {
             "name": "lame",
-            "from": [
-                1,
-                9,
-                7.5
-            ],
-            "to": [
-                15,
-                16,
-                7.5
-            ],
+            "from": [1, 9, 7.5],
+            "to": [15, 16, 7.5],
             "faces": {
                 "north": {
-                    "uv": [
-                        1,
-                        8,
-                        15,
-                        16
-                    ],
+                    "uv": [1, 8, 15, 16],
                     "texture": "#saw",
                     "tintindex": 0
                 },
                 "south": {
-                    "uv": [
-                        1,
-                        8.5,
-                        15,
-                        16
-                    ],
+                    "uv": [1, 8.5, 15, 16],
                     "texture": "#saw",
                     "tintindex": 0
                 }
@@ -118,34 +62,16 @@
         },
         {
             "name": "lame",
-            "from": [
-                1,
-                9,
-                8.5
-            ],
-            "to": [
-                15,
-                16,
-                8.5
-            ],
+            "from": [1, 9, 8.5],
+            "to": [15, 16, 8.5],
             "faces": {
                 "north": {
-                    "uv": [
-                        1,
-                        8,
-                        15,
-                        16
-                    ],
+                    "uv": [1, 8, 15, 16],
                     "texture": "#saw",
                     "tintindex": 0
                 },
                 "south": {
-                    "uv": [
-                        1,
-                        8.5,
-                        15,
-                        16
-                    ],
+                    "uv": [1, 8.5, 15, 16],
                     "texture": "#saw",
                     "tintindex": 0
                 }
@@ -153,34 +79,16 @@
         },
         {
             "name": "lame",
-            "from": [
-                1,
-                9,
-                8
-            ],
-            "to": [
-                15,
-                16,
-                8
-            ],
+            "from": [1, 9, 8],
+            "to": [15, 16, 8],
             "faces": {
                 "north": {
-                    "uv": [
-                        1,
-                        8,
-                        15,
-                        16
-                    ],
+                    "uv": [1, 8, 15, 16],
                     "texture": "#saw",
                     "tintindex": 0
                 },
                 "south": {
-                    "uv": [
-                        1,
-                        8.5,
-                        15,
-                        16
-                    ],
+                    "uv": [1, 8.5, 15, 16],
                     "texture": "#saw",
                     "tintindex": 0
                 }

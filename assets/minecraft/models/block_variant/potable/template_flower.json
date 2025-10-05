@@ -6,35 +6,17 @@
     },
     "elements": [
         {
-            "from": [
-                0,
-                0,
-                8
-            ],
-            "to": [
-                16,
-                16,
-                8
-            ],
+            "from": [0, 0, 8],
+            "to": [16, 16, 8],
             "light_emission": 1,
             "shade": false,
             "faces": {
                 "north": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "texture": "#side"
                 },
                 "south": {
-                    "uv": [
-                        16,
-                        0,
-                        0,
-                        16
-                    ],
+                    "uv": [16, 0, 0, 16],
                     "texture": "#side"
                 }
             }

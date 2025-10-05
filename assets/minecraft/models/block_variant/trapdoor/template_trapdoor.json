@@ -6,78 +6,40 @@
     },
     "elements": [
         {
-            "from": [
-                0,
-                0,
-                0
-            ],
-            "to": [
-                16,
-                3,
-                16
-            ],
+            "from": [0, 0, 0],
+            "to": [16, 3, 16],
             "faces": {
                 "north": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        3
-                    ],
+                    "uv": [0, 0, 16, 3],
                     "rotation": 180,
                     "texture": "#particle",
                     "cullface": "north"
                 },
                 "east": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        3
-                    ],
+                    "uv": [0, 0, 16, 3],
                     "rotation": 180,
                     "texture": "#particle",
                     "cullface": "east"
                 },
                 "south": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        3
-                    ],
+                    "uv": [0, 0, 16, 3],
                     "rotation": 180,
                     "texture": "#particle",
                     "cullface": "south"
                 },
                 "west": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        3
-                    ],
+                    "uv": [0, 0, 16, 3],
                     "rotation": 180,
                     "texture": "#particle",
                     "cullface": "west"
                 },
                 "up": {
-                    "uv": [
-                        0,
-                        0,
-                        16,
-                        16
-                    ],
+                    "uv": [0, 0, 16, 16],
                     "rotation": 180,
                     "texture": "#texture"
                 },
                 "down": {
-                    "uv": [
-                        16,
-                        0,
-                        0,
-                        16
-                    ],
+                    "uv": [16, 0, 0, 16],
                     "texture": "#texture",
                     "cullface": "down"
                 }
@@ -86,62 +48,22 @@
     ],
     "display": {
         "thirdperson_righthand": {
-            "rotation": [
-                0,
-                0,
-                -90
-            ],
-            "translation": [
-                5,
-                0,
-                0
-            ]
+            "rotation": [0, 0, -90],
+            "translation": [5, 0, 0]
         },
         "firstperson_righthand": {
-            "rotation": [
-                -45,
-                0,
-                -90
-            ],
-            "translation": [
-                5,
-                -8,
-                -2
-            ]
+            "rotation": [-45, 0, -90],
+            "translation": [5, -8, -2]
         },
         "gui": {
-            "rotation": [
-                30,
-                225,
-                0
-            ],
-            "translation": [
-                0,
-                3,
-                0
-            ],
-            "scale": [
-                0.625,
-                0.625,
-                0.625
-            ]
+            "rotation": [30, 225, 0],
+            "translation": [0, 3, 0],
+            "scale": [0.625, 0.625, 0.625]
         },
         "fixed": {
-            "rotation": [
-                90,
-                0,
-                0
-            ],
-            "translation": [
-                0,
-                0,
-                4
-            ],
-            "scale": [
-                0.7,
-                0.7,
-                0.7
-            ]
+            "rotation": [90, 0, 0],
+            "translation": [0, 0, 4],
+            "scale": [0.7, 0.7, 0.7]
         }
     }
 }

@@ -6,70 +6,32 @@
     },
     "elements": [
         {
-            "from": [
-                7,
-                0,
-                7
-            ],
-            "to": [
-                9,
-                16,
-                9
-            ],
+            "from": [7, 0, 7],
+            "to": [9, 16, 9],
             "faces": {
                 "north": {
-                    "uv": [
-                        0,
-                        0,
-                        2,
-                        16
-                    ],
+                    "uv": [0, 0, 2, 16],
                     "texture": "#end_rod"
                 },
                 "east": {
-                    "uv": [
-                        0,
-                        0,
-                        2,
-                        16
-                    ],
+                    "uv": [0, 0, 2, 16],
                     "texture": "#end_rod"
                 },
                 "south": {
-                    "uv": [
-                        0,
-                        0,
-                        2,
-                        16
-                    ],
+                    "uv": [0, 0, 2, 16],
                     "texture": "#end_rod"
                 },
                 "west": {
-                    "uv": [
-                        0,
-                        0,
-                        2,
-                        16
-                    ],
+                    "uv": [0, 0, 2, 16],
                     "texture": "#end_rod"
                 },
                 "up": {
-                    "uv": [
-                        2,
-                        0,
-                        4,
-                        2
-                    ],
+                    "uv": [2, 0, 4, 2],
                     "texture": "#end_rod",
                     "cullface": "up"
                 },
                 "down": {
-                    "uv": [
-                        2,
-                        0,
-                        4,
-                        2
-                    ],
+                    "uv": [2, 0, 4, 2],
                     "texture": "#end_rod"
                 }
             }
@@ -77,33 +39,13 @@
     ],
     "display": {
         "head": {
-            "rotation": [
-                -60,
-                0,
-                0
-            ],
-            "translation": [
-                0,
-                5,
-                -9
-            ]
+            "rotation": [-60, 0, 0],
+            "translation": [0, 5, -9]
         },
         "thirdperson_righthand": {
-            "rotation": [
-                0,
-                0,
-                0
-            ],
-            "translation": [
-                0,
-                0,
-                0
-            ],
-            "scale": [
-                0.375,
-                0.375,
-                0.375
-            ]
+            "rotation": [0, 0, 0],
+            "translation": [0, 0, 0],
+            "scale": [0.375, 0.375, 0.375]
         }
     }
 }

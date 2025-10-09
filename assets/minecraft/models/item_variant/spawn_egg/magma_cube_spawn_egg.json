@@ -2,7 +2,7 @@
     "parent": "minecraft:item_variant/spawn_egg/display_small",
     "textures": {
         "particle": "#layer0",
-        "layer0": "minecraft:entity/slime/magmacube"
+        "layer0": "minecraft:entity/slime/magmacube_spawn_egg"
     },
     "elements": [
         {

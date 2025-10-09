@@ -2,7 +2,7 @@
     "parent": "minecraft:item_variant/spawn_egg/display_middle_small",
     "textures": {
         "particle": "#layer0",
-        "layer0": "entity/bat"
+        "layer0": "minecraft:entity/bat_spawn_egg"
     },
     "elements": [
         {

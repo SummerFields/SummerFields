@@ -23,6 +23,7 @@ Release 1.21.9
 	- end flash
 	- copper armor
 	- copper horse armor
+	- change leather horse armor
 
 Release 1.21.7
 

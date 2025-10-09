@@ -8,7 +8,7 @@
         },
         "min_format": 18,
         "max_format": 69,
-        "description": "1.20.2 to 1.21.9 SummerFields"
+        "description": "1.20.2 to 1.21.10 SummerFields"
     },
     "overlays": {
         "entries": [

@@ -21,6 +21,8 @@ Release 1.21.9
 	- copper tools
 	- copper Golem and spawn egg
 	- end flash
+	- copper armor
+	- copper horse armor
 
 Release 1.21.7
 

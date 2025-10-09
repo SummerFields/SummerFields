@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block_variant/armor/template_helmet",
+    "textures": {
+        "layer0": "minecraft:entity/equipment/humanoid/copper",
+        "layer2": "minecraft:trims/models/armor/shaper_copper"
+    }
+}

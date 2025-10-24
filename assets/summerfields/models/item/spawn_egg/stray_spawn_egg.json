@@ -1,0 +1,8 @@
+{
+    "parent": "summerfields:item/spawn_egg/shape_skeleton",
+    "textures": {
+        "particle": "#layer0",
+        "layer0": "minecraft:entity/skeleton/stray",
+        "layer1": "minecraft:entity/skeleton/stray_overlay"
+    }
+}

@@ -2,19 +2,19 @@
     "variants": {
         "": [
             {
-                "model": "minecraft:block_variant/bricks/deepslate_tiles_1"
+                "model": "summerfields:block/bricks/deepslate_tiles_1"
             },
             {
-                "model": "minecraft:block_variant/bricks/deepslate_tiles_2"
+                "model": "summerfields:block/bricks/deepslate_tiles_2"
             },
             {
-                "model": "minecraft:block_variant/bricks/deepslate_tiles_3"
+                "model": "summerfields:block/bricks/deepslate_tiles_3"
             },
             {
-                "model": "minecraft:block_variant/bricks/deepslate_tiles_4"
+                "model": "summerfields:block/bricks/deepslate_tiles_4"
             },
             {
-                "model": "minecraft:block_variant/bricks/deepslate_tiles_5"
+                "model": "summerfields:block/bricks/deepslate_tiles_5"
             }
         ]
     }

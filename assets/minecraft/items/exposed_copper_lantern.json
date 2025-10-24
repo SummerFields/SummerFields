@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:item_variant/lantern/exposed_copper_lantern"
+        "model": "summerfields:item/lantern/exposed_copper_lantern"
     }
 }

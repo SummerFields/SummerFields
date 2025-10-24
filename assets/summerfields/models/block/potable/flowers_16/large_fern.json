@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/potable/template_flower_16_large",
+    "textures": {
+        "particle": "#side",
+        "side": "summerfields:block/potable/large_fern"
+    }
+}

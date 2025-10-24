@@ -5,31 +5,31 @@
                 "model": "minecraft:block/mycelium"
             },
             {
-                "model": "minecraft:block_variant/mycelium/mycelium1"
+                "model": "summerfields:block/mycelium/mycelium1"
             },
             {
-                "model": "minecraft:block_variant/mycelium/mycelium2"
+                "model": "summerfields:block/mycelium/mycelium2"
             },
             {
-                "model": "minecraft:block_variant/mycelium/mycelium3"
+                "model": "summerfields:block/mycelium/mycelium3"
             },
             {
-                "model": "minecraft:block_variant/mycelium/mycelium4"
+                "model": "summerfields:block/mycelium/mycelium4"
             },
             {
-                "model": "minecraft:block_variant/mycelium/mycelium5"
+                "model": "summerfields:block/mycelium/mycelium5"
             },
             {
-                "model": "minecraft:block_variant/mycelium/mycelium6"
+                "model": "summerfields:block/mycelium/mycelium6"
             },
             {
-                "model": "minecraft:block_variant/mycelium/mycelium7"
+                "model": "summerfields:block/mycelium/mycelium7"
             },
             {
-                "model": "minecraft:block_variant/mycelium/mycelium8"
+                "model": "summerfields:block/mycelium/mycelium8"
             },
             {
-                "model": "minecraft:block_variant/mycelium/mycelium9"
+                "model": "summerfields:block/mycelium/mycelium9"
             }
         ],
         "snowy=true": {

@@ -1,28 +1,28 @@
 {
     "variants": {
         "bottom=true,distance=0": {
-            "model": "minecraft:block_variant/scaffolding/scaffolding_stable"
+            "model": "summerfields:block/scaffolding/scaffolding_stable"
         },
         "bottom=true,distance=1": {
-            "model": "minecraft:block_variant/scaffolding/scaffolding_unstable_1"
+            "model": "summerfields:block/scaffolding/scaffolding_unstable_1"
         },
         "bottom=true,distance=2": {
-            "model": "minecraft:block_variant/scaffolding/scaffolding_unstable_2"
+            "model": "summerfields:block/scaffolding/scaffolding_unstable_2"
         },
         "bottom=true,distance=3": {
-            "model": "minecraft:block_variant/scaffolding/scaffolding_unstable_3"
+            "model": "summerfields:block/scaffolding/scaffolding_unstable_3"
         },
         "bottom=true,distance=4": {
-            "model": "minecraft:block_variant/scaffolding/scaffolding_unstable_4"
+            "model": "summerfields:block/scaffolding/scaffolding_unstable_4"
         },
         "bottom=true,distance=5": {
-            "model": "minecraft:block_variant/scaffolding/scaffolding_unstable_5"
+            "model": "summerfields:block/scaffolding/scaffolding_unstable_5"
         },
         "bottom=true,distance=6": {
-            "model": "minecraft:block_variant/scaffolding/scaffolding_unstable_6"
+            "model": "summerfields:block/scaffolding/scaffolding_unstable_6"
         },
         "bottom=false": {
-            "model": "minecraft:block_variant/scaffolding/scaffolding_stable"
+            "model": "summerfields:block/scaffolding/scaffolding_stable"
         }
     }
 }

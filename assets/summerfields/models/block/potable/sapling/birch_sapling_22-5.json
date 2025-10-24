@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/potable/template_flower_cross_22-5",
+    "textures": {
+        "particle": "#side",
+        "side": "minecraft:block/birch_sapling"
+    }
+}

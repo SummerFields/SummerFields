@@ -4,11 +4,11 @@
         "models": [
             {
                 "type": "minecraft:model",
-                "model": "minecraft:item_variant/lantern/weathered_copper_lantern"
+                "model": "summerfields:item/lantern/weathered_copper_lantern"
             },
             {
                 "type": "minecraft:model",
-                "model": "minecraft:item_variant/waxed/template_lantern_inventory_waxed"
+                "model": "summerfields:item/waxed/template_lantern_inventory_waxed"
             }
         ]
     }

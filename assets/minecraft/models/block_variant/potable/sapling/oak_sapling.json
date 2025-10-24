@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block_variant/potable/template_flower_cross",
-    "textures": {
-        "particle": "#side",
-        "side": "minecraft:block/oak_sapling"
-    }
-}

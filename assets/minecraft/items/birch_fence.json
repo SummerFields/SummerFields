@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:block_variant/fence/birch_fence_post"
+        "model": "summerfields:block/fence/birch_fence_post"
     }
 }

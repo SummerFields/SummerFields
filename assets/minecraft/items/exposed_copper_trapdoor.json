@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:block_variant/trapdoor/exposed_copper_trapdoor"
+        "model": "summerfields:block/trapdoor/exposed_copper_trapdoor"
     }
 }

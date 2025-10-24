@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/trapdoor/birch_trapdoor",
+    "textures": {
+        "texture": "minecraft:block/mangrove_trapdoor",
+        "particle": "summerfields:block/trapdoor/mangrove_trapdoor_side"
+    }
+}

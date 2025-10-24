@@ -1,0 +1,6 @@
+{
+    "parent": "summerfields:block/chain/template_chain",
+    "textures": {
+        "texture": "minecraft:block/iron_chain"
+    }
+}

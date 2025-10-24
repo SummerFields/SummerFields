@@ -2,7 +2,7 @@
     "multipart": [
         {
             "apply": {
-                "model": "minecraft:block_variant/bars/iron_bars_post"
+                "model": "summerfields:block/bars/iron_bars_post"
             }
         },
         {
@@ -10,7 +10,7 @@
                 "north": "true"
             },
             "apply": {
-                "model": "minecraft:block_variant/bars/iron_bars_side"
+                "model": "summerfields:block/bars/iron_bars_side"
             }
         },
         {
@@ -18,7 +18,7 @@
                 "east": "true"
             },
             "apply": {
-                "model": "minecraft:block_variant/bars/iron_bars_side",
+                "model": "summerfields:block/bars/iron_bars_side",
                 "y": 90
             }
         },
@@ -27,7 +27,7 @@
                 "south": "true"
             },
             "apply": {
-                "model": "minecraft:block_variant/bars/iron_bars_side",
+                "model": "summerfields:block/bars/iron_bars_side",
                 "y": 180
             }
         },
@@ -36,7 +36,7 @@
                 "west": "true"
             },
             "apply": {
-                "model": "minecraft:block_variant/bars/iron_bars_side",
+                "model": "summerfields:block/bars/iron_bars_side",
                 "y": 270
             }
         }

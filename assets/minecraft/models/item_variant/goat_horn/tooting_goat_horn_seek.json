@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item_variant/goat_horn/tooting_goat_horn",
-    "textures": {
-        "layer0": "minecraft:textures_variant/goat_horn/goat_horn_seek"
-    }
-}

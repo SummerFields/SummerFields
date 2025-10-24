@@ -1,0 +1,8 @@
+{
+    "parent": "summerfields:block/doors/dark_oak_door_inventory",
+    "textures": {
+        "2": "summerfields:block/doors/warped_door_side",
+        "3": "minecraft:block/warped_door_bottom",
+        "top": "minecraft:block/warped_door_top"
+    }
+}

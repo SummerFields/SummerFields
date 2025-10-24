@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/potable/template_flower_cross",
+    "textures": {
+        "particle": "#side",
+        "side": "summerfields:block/potable/mangrove_propagule_stade1"
+    }
+}

@@ -4,11 +4,11 @@
         "models": [
             {
                 "type": "minecraft:model",
-                "model": "minecraft:block_variant/doors/weathered_copper_door_inventory"
+                "model": "summerfields:block/doors/weathered_copper_door_inventory"
             },
             {
                 "type": "minecraft:model",
-                "model": "minecraft:item_variant/waxed/template_door_inventory_waxed"
+                "model": "summerfields:item/waxed/template_door_inventory_waxed"
             }
         ]
     }

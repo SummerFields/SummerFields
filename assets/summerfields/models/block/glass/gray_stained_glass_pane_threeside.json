@@ -1,0 +1,10 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "top": "minecraft:block/gray_stained_glass_pane_top",
+        "particle": "minecraft:block/gray_stained_glass",
+        "face": "minecraft:block/gray_stained_glass",
+        "inner": "summerfields:block/glass/glass_pane_inner"
+    },
+    "parent": "summerfields:block/glass/glass_pane_threeside"
+}

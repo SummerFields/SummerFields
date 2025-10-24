@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:block_variant/stairs/end_stone_brick_inventory"
+        "model": "summerfields:block/stairs/end_stone_brick_inventory"
     }
 }

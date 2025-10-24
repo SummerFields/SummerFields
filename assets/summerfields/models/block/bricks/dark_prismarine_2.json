@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "summerfields:block/bricks/dark_prismarine_2"
+    }
+}

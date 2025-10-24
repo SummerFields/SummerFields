@@ -1,0 +1,6 @@
+{
+    "parent": "summerfields:block/slabs/planks_slab_top",
+    "textures": {
+        "all": "minecraft:block/warped_planks"
+    }
+}

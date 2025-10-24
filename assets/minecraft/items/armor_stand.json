@@ -82,7 +82,7 @@
         ],
         "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item_variant/armorstand_inventory"
+            "model": "summerfields:item/armorstand_inventory"
         }
     }
 }

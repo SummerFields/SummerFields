@@ -2,12 +2,12 @@
     "multipart": [
         {
             "apply": {
-                "model": "minecraft:block_variant/composter/composter"
+                "model": "summerfields:block/composter/composter"
             }
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/composter/composter_contents1"
+                "model": "summerfields:block/composter/composter_contents1"
             },
             "when": {
                 "level": "1"
@@ -15,7 +15,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/composter/composter_contents2"
+                "model": "summerfields:block/composter/composter_contents2"
             },
             "when": {
                 "level": "2"
@@ -23,7 +23,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/composter/composter_contents3"
+                "model": "summerfields:block/composter/composter_contents3"
             },
             "when": {
                 "level": "3"
@@ -31,7 +31,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/composter/composter_contents4"
+                "model": "summerfields:block/composter/composter_contents4"
             },
             "when": {
                 "level": "4"
@@ -39,7 +39,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/composter/composter_contents5"
+                "model": "summerfields:block/composter/composter_contents5"
             },
             "when": {
                 "level": "5"
@@ -47,7 +47,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/composter/composter_contents6"
+                "model": "summerfields:block/composter/composter_contents6"
             },
             "when": {
                 "level": "6"
@@ -55,7 +55,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/composter/composter_contents7"
+                "model": "summerfields:block/composter/composter_contents7"
             },
             "when": {
                 "level": "7"
@@ -63,7 +63,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/composter/composter_contents_ready"
+                "model": "summerfields:block/composter/composter_contents_ready"
             },
             "when": {
                 "level": "8"

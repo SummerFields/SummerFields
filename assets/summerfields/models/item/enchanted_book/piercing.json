@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "summerfields:block/enchanted_book/piercing"
+    }
+}

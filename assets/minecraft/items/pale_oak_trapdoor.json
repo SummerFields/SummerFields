@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:block_variant/trapdoor/pale_oak_trapdoor"
+        "model": "summerfields:block/trapdoor/pale_oak_trapdoor"
     }
 }

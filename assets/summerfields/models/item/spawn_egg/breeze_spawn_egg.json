@@ -1,0 +1,61 @@
+{
+    "format_version": "1.21.6",
+    "credit": "Made with Blockbench",
+    "parent": "summerfields:item/spawn_egg/display_spawn_egg",
+    "textures": {
+        "particle": "entity/breeze/breeze",
+        "layer0": "entity/breeze/breeze"
+    },
+    "elements": [
+        {
+            "name": "head",
+            "from": [4, 4, 4],
+            "to": [12, 12, 12],
+            "rotation": { "angle": 0, "axis": "y", "origin": [8, -16, 8] },
+            "faces": {
+                "north": { "uv": [4, 4, 8, 8], "texture": "#layer0" },
+                "east": { "uv": [0, 4, 4, 8], "texture": "#layer0" },
+                "south": { "uv": [12, 4, 16, 8], "texture": "#layer0" },
+                "west": { "uv": [8, 4, 12, 8], "texture": "#layer0" },
+                "down": { "uv": [12, 0, 8, 4], "texture": "#layer0" }
+            }
+        },
+        {
+            "name": "head",
+            "from": [4, 4, 12],
+            "to": [12, 12, 4],
+            "rotation": { "angle": 0, "axis": "y", "origin": [8, -16, 0] },
+            "faces": {
+                "north": { "uv": [16, 4, 12, 8], "texture": "#layer0" },
+                "east": { "uv": [12, 4, 8, 8], "texture": "#layer0" },
+                "south": { "uv": [8, 4, 4, 8], "texture": "#layer0" },
+                "west": { "uv": [4, 4, 0, 8], "texture": "#layer0" },
+                "down": { "uv": [8, 0, 12, 4], "rotation": 180, "texture": "#layer0" }
+            }
+        },
+        {
+            "name": "head",
+            "from": [3, 6, 3.75],
+            "to": [13, 9, 7.75],
+            "rotation": { "angle": 0, "axis": "y", "origin": [8, -16, 8] },
+            "faces": {
+                "north": { "uv": [4, 14, 9, 15.375], "texture": "#layer0" },
+                "east": { "uv": [2, 14, 4, 15.375], "texture": "#layer0" },
+                "west": { "uv": [9, 14, 11, 15.375], "texture": "#layer0" },
+                "up": { "uv": [9, 14, 4, 12.5], "texture": "#layer0" },
+                "down": { "uv": [14, 12.5, 9, 14], "texture": "#layer0" }
+            }
+        }
+    ],
+    "display": {
+        "thirdperson_righthand": {
+            "scale": [0.25, 0.25, 0.25]
+        },
+        "thirdperson_lefthand": {
+            "scale": [0.25, 0.25, 0.25]
+        },
+        "fixed": {
+            "scale": [0.5, 0.5, 0.5]
+        }
+    }
+}

@@ -5,16 +5,16 @@
                 "model": "minecraft:block/tuff_bricks"
             },
             {
-                "model": "minecraft:block_variant/bricks/tuff_bricks_2"
+                "model": "summerfields:block/bricks/tuff_bricks_2"
             },
             {
-                "model": "minecraft:block_variant/bricks/tuff_bricks_3"
+                "model": "summerfields:block/bricks/tuff_bricks_3"
             },
             {
-                "model": "minecraft:block_variant/bricks/tuff_bricks_4"
+                "model": "summerfields:block/bricks/tuff_bricks_4"
             },
             {
-                "model": "minecraft:block_variant/bricks/tuff_bricks_5"
+                "model": "summerfields:block/bricks/tuff_bricks_5"
             }
         ]
     }

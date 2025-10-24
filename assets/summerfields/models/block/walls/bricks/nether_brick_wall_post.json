@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/walls/bricks/template_wall_post",
+    "textures": {
+        "top": "minecraft:block/nether_bricks",
+        "wall": "minecraft:block/nether_bricks"
+    }
+}

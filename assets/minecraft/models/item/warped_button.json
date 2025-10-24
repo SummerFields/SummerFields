@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/button/warped_button",
+    "parent": "summerfields:block/button/warped_button",
     "display": {
         "thirdperson_righthand": {
             "rotation": [0, 0, -90],

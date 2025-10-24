@@ -1,0 +1,9 @@
+{
+    "parent": "summerfields:block/bricks/innertop",
+    "textures": {
+        "particle": "#front",
+        "front": "minecraft:block/bricks",
+        "innertop": "summerfields:block/bricks/bricks_inner_top",
+        "other": "summerfields:block/bricks/bricks_other"
+    }
+}

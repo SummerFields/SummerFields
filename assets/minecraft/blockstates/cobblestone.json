@@ -1,7 +1,7 @@
 {
     "variants": {
         "": {
-            "model": "minecraft:block_variant/bricks/cobblestone"
+            "model": "summerfields:block/bricks/cobblestone"
         }
     }
 }

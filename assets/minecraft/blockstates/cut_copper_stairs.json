@@ -5,7 +5,7 @@
                 "half": "bottom"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_back"
+                "model": "summerfields:block/stairs/cut_copper_back"
             }
         },
         {
@@ -13,7 +13,7 @@
                 "half": "top"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_back",
+                "model": "summerfields:block/stairs/cut_copper_back",
                 "x": 180
             }
         },
@@ -23,7 +23,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_side"
+                "model": "summerfields:block/stairs/cut_copper_side"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_side",
+                "model": "summerfields:block/stairs/cut_copper_side",
                 "y": 180
             }
         },
@@ -42,7 +42,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_side",
+                "model": "summerfields:block/stairs/cut_copper_side",
                 "y": 90
             }
         },
@@ -52,7 +52,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_side",
+                "model": "summerfields:block/stairs/cut_copper_side",
                 "y": 270
             }
         },
@@ -62,7 +62,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_side"
+                "model": "summerfields:block/stairs/cut_copper_side"
             }
         },
         {
@@ -71,7 +71,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_side",
+                "model": "summerfields:block/stairs/cut_copper_side",
                 "y": 180
             }
         },
@@ -81,7 +81,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_side",
+                "model": "summerfields:block/stairs/cut_copper_side",
                 "y": 90
             }
         },
@@ -91,7 +91,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_side",
+                "model": "summerfields:block/stairs/cut_copper_side",
                 "y": 270
             }
         },
@@ -101,7 +101,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_side",
+                "model": "summerfields:block/stairs/cut_copper_side",
                 "y": 90
             }
         },
@@ -111,7 +111,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_side",
+                "model": "summerfields:block/stairs/cut_copper_side",
                 "y": 270
             }
         },
@@ -121,7 +121,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_side",
+                "model": "summerfields:block/stairs/cut_copper_side",
                 "y": 180
             }
         },
@@ -131,7 +131,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_side"
+                "model": "summerfields:block/stairs/cut_copper_side"
             }
         },
         {
@@ -140,7 +140,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_side"
+                "model": "summerfields:block/stairs/cut_copper_side"
             }
         },
         {
@@ -149,7 +149,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_side",
+                "model": "summerfields:block/stairs/cut_copper_side",
                 "y": 180
             }
         },
@@ -159,7 +159,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_side",
+                "model": "summerfields:block/stairs/cut_copper_side",
                 "y": 90
             }
         },
@@ -169,7 +169,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_side",
+                "model": "summerfields:block/stairs/cut_copper_side",
                 "y": 270
             }
         },
@@ -179,7 +179,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_side",
+                "model": "summerfields:block/stairs/cut_copper_side",
                 "y": 270
             }
         },
@@ -189,7 +189,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_side",
+                "model": "summerfields:block/stairs/cut_copper_side",
                 "y": 90
             }
         },
@@ -199,7 +199,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_side"
+                "model": "summerfields:block/stairs/cut_copper_side"
             }
         },
         {
@@ -208,7 +208,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_side",
+                "model": "summerfields:block/stairs/cut_copper_side",
                 "y": 180
             }
         },
@@ -219,7 +219,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_stairs",
+                "model": "summerfields:block/stairs/cut_copper_stairs",
                 "y": 180
             }
         },
@@ -230,7 +230,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_stairs",
+                "model": "summerfields:block/stairs/cut_copper_stairs",
                 "y": 270
             }
         },
@@ -241,7 +241,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_stairs",
+                "model": "summerfields:block/stairs/cut_copper_stairs",
                 "y": 0
             }
         },
@@ -252,7 +252,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_stairs",
+                "model": "summerfields:block/stairs/cut_copper_stairs",
                 "y": 90
             }
         },
@@ -263,7 +263,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_outer_stairs",
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
                 "y": 180
             }
         },
@@ -274,7 +274,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_outer_stairs"
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs"
             }
         },
         {
@@ -284,7 +284,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_outer_stairs",
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
                 "y": 90
             }
         },
@@ -295,7 +295,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_outer_stairs",
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
                 "y": 270
             }
         },
@@ -306,7 +306,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_outer_stairs",
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
                 "y": 90
             }
         },
@@ -317,7 +317,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_outer_stairs",
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
                 "y": 270
             }
         },
@@ -328,7 +328,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_outer_stairs"
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs"
             }
         },
         {
@@ -338,7 +338,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_outer_stairs",
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
                 "y": 180
             }
         },
@@ -349,7 +349,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_inner_stairs",
+                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
                 "y": 180
             }
         },
@@ -360,7 +360,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_inner_stairs"
+                "model": "summerfields:block/stairs/cut_copper_inner_stairs"
             }
         },
         {
@@ -370,7 +370,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_inner_stairs",
+                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
                 "y": 90
             }
         },
@@ -381,7 +381,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_inner_stairs",
+                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
                 "y": 270
             }
         },
@@ -392,7 +392,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_inner_stairs",
+                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
                 "y": 270
             }
         },
@@ -403,7 +403,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_inner_stairs",
+                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
                 "y": 90
             }
         },
@@ -414,7 +414,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_inner_stairs"
+                "model": "summerfields:block/stairs/cut_copper_inner_stairs"
             }
         },
         {
@@ -424,7 +424,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_inner_stairs",
+                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
                 "y": 180
             }
         },
@@ -435,7 +435,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_stairs",
+                "model": "summerfields:block/stairs/cut_copper_stairs",
                 "x": 180
             }
         },
@@ -446,7 +446,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_stairs",
+                "model": "summerfields:block/stairs/cut_copper_stairs",
                 "x": 180,
                 "y": 180
             }
@@ -458,7 +458,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_stairs",
+                "model": "summerfields:block/stairs/cut_copper_stairs",
                 "x": 180,
                 "y": 90
             }
@@ -470,7 +470,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_stairs",
+                "model": "summerfields:block/stairs/cut_copper_stairs",
                 "x": 180,
                 "y": 270
             }
@@ -482,7 +482,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_outer_stairs",
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
                 "x": 180,
                 "y": 90
             }
@@ -494,7 +494,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_outer_stairs",
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
                 "x": 180,
                 "y": 270
             }
@@ -506,7 +506,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_outer_stairs",
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
                 "x": 180,
                 "y": 180
             }
@@ -518,7 +518,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_outer_stairs",
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
                 "x": 180
             }
         },
@@ -529,7 +529,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_outer_stairs",
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
                 "x": 180
             }
         },
@@ -540,7 +540,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_outer_stairs",
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
                 "x": 180,
                 "y": 180
             }
@@ -552,7 +552,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_outer_stairs",
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
                 "x": 180,
                 "y": 90
             }
@@ -564,7 +564,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_outer_stairs",
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
                 "x": 180,
                 "y": 270
             }
@@ -576,7 +576,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_inner_stairs",
+                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
                 "x": 180,
                 "y": 90
             }
@@ -588,7 +588,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_inner_stairs",
+                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
                 "x": 180,
                 "y": 270
             }
@@ -600,7 +600,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_inner_stairs",
+                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
                 "x": 180,
                 "y": 180
             }
@@ -612,7 +612,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_inner_stairs",
+                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
                 "x": 180
             }
         },
@@ -623,7 +623,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_inner_stairs",
+                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
                 "x": 180
             }
         },
@@ -634,7 +634,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_inner_stairs",
+                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
                 "x": 180,
                 "y": 180
             }
@@ -646,7 +646,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_inner_stairs",
+                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
                 "x": 180,
                 "y": 90
             }
@@ -658,7 +658,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/cut_copper_inner_stairs",
+                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
                 "x": 180,
                 "y": 270
             }

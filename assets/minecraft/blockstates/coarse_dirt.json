@@ -5,7 +5,7 @@
                 "model": "minecraft:block/coarse_dirt"
             },
             {
-                "model": "minecraft:block_variant/coarse_dirt/coarse_dirt1"
+                "model": "summerfields:block/coarse_dirt/coarse_dirt1"
             }
         ]
     }

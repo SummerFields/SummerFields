@@ -1,0 +1,359 @@
+{
+    "parent": "summerfields:item/spawn_egg/display_middle_big",
+    "textures": {
+        "particle": "#layer0",
+        "layer0": "minecraft:entity/squid/squid"
+    },
+    "elements": [
+        {
+            "name": "body",
+            "from": [2, 8, 2],
+            "to": [14, 24, 14],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [8, -8, 8]
+            },
+            "faces": {
+                "north": {
+                    "uv": [0, 6, 3, 14],
+                    "texture": "#0"
+                },
+                "east": {
+                    "uv": [9, 6, 12, 14],
+                    "texture": "#0"
+                },
+                "south": {
+                    "uv": [6, 6, 9, 14],
+                    "texture": "#0"
+                },
+                "west": {
+                    "uv": [3, 6, 6, 14],
+                    "texture": "#0"
+                },
+                "up": {
+                    "uv": [6, 6, 3, 0],
+                    "rotation": 270,
+                    "texture": "#0"
+                },
+                "down": {
+                    "uv": [9, 0, 6, 6],
+                    "rotation": 90,
+                    "texture": "#0"
+                }
+            }
+        },
+        {
+            "name": "tentacle1",
+            "from": [2, -8, 7],
+            "to": [4, 10, 9],
+            "rotation": {
+                "angle": -22.5,
+                "axis": "z",
+                "origin": [3, 9, 8]
+            },
+            "faces": {
+                "north": {
+                    "uv": [13, 1, 13.5, 10],
+                    "texture": "#0"
+                },
+                "east": {
+                    "uv": [12.5, 1, 13, 10],
+                    "texture": "#0"
+                },
+                "south": {
+                    "uv": [12, 1, 12.5, 10],
+                    "texture": "#0"
+                },
+                "west": {
+                    "uv": [13.5, 1, 14, 10],
+                    "texture": "#0"
+                },
+                "up": {
+                    "uv": [13, 1, 12.5, 0],
+                    "rotation": 90,
+                    "texture": "#0"
+                },
+                "down": {
+                    "uv": [13.5, 0, 13, 1],
+                    "rotation": 270,
+                    "texture": "#0"
+                }
+            }
+        },
+        {
+            "name": "tentacle2",
+            "from": [3.5, -8, 10.5],
+            "to": [5.5, 10, 12.5],
+            "rotation": {
+                "angle": -45,
+                "axis": "y",
+                "origin": [4.5, 1, 11.5]
+            },
+            "faces": {
+                "north": {
+                    "uv": [12.5, 1, 13, 10],
+                    "texture": "#0"
+                },
+                "east": {
+                    "uv": [12, 1, 12.5, 10],
+                    "texture": "#0"
+                },
+                "south": {
+                    "uv": [13.5, 1, 14, 10],
+                    "texture": "#0"
+                },
+                "west": {
+                    "uv": [13, 1, 13.5, 10],
+                    "texture": "#0"
+                },
+                "up": {
+                    "uv": [13, 1, 12.5, 0],
+                    "texture": "#0"
+                },
+                "down": {
+                    "uv": [13.5, 0, 13, 1],
+                    "texture": "#0"
+                }
+            }
+        },
+        {
+            "name": "tentacle3",
+            "from": [7, -8, 12],
+            "to": [9, 10, 14],
+            "rotation": {
+                "angle": -22.5,
+                "axis": "x",
+                "origin": [8, 9, 13]
+            },
+            "faces": {
+                "north": {
+                    "uv": [12.5, 1, 13, 10],
+                    "texture": "#0"
+                },
+                "east": {
+                    "uv": [12, 1, 12.5, 10],
+                    "texture": "#0"
+                },
+                "south": {
+                    "uv": [13.5, 1, 14, 10],
+                    "texture": "#0"
+                },
+                "west": {
+                    "uv": [13, 1, 13.5, 10],
+                    "texture": "#0"
+                },
+                "up": {
+                    "uv": [13, 1, 12.5, 0],
+                    "texture": "#0"
+                },
+                "down": {
+                    "uv": [13.5, 0, 13, 1],
+                    "texture": "#0"
+                }
+            }
+        },
+        {
+            "name": "tentacle4",
+            "from": [10.5, -8, 10.5],
+            "to": [12.5, 10, 12.5],
+            "rotation": {
+                "angle": -45,
+                "axis": "y",
+                "origin": [11.5, 1, 11.5]
+            },
+            "faces": {
+                "north": {
+                    "uv": [12, 1, 12.5, 10],
+                    "texture": "#0"
+                },
+                "east": {
+                    "uv": [13.5, 1, 14, 10],
+                    "texture": "#0"
+                },
+                "south": {
+                    "uv": [13, 1, 13.5, 10],
+                    "texture": "#0"
+                },
+                "west": {
+                    "uv": [12.5, 1, 13, 10],
+                    "texture": "#0"
+                },
+                "up": {
+                    "uv": [13, 1, 12.5, 0],
+                    "rotation": 270,
+                    "texture": "#0"
+                },
+                "down": {
+                    "uv": [13.5, 0, 13, 1],
+                    "rotation": 90,
+                    "texture": "#0"
+                }
+            }
+        },
+        {
+            "name": "tentacle5",
+            "from": [12, -8, 7],
+            "to": [14, 10, 9],
+            "rotation": {
+                "angle": 22.5,
+                "axis": "z",
+                "origin": [13, 9, 8]
+            },
+            "faces": {
+                "north": {
+                    "uv": [12, 1, 12.5, 10],
+                    "texture": "#0"
+                },
+                "east": {
+                    "uv": [13.5, 1, 14, 10],
+                    "texture": "#0"
+                },
+                "south": {
+                    "uv": [13, 1, 13.5, 10],
+                    "texture": "#0"
+                },
+                "west": {
+                    "uv": [12.5, 1, 13, 10],
+                    "texture": "#0"
+                },
+                "up": {
+                    "uv": [13, 1, 12.5, 0],
+                    "rotation": 270,
+                    "texture": "#0"
+                },
+                "down": {
+                    "uv": [13.5, 0, 13, 1],
+                    "rotation": 90,
+                    "texture": "#0"
+                }
+            }
+        },
+        {
+            "name": "tentacle6",
+            "from": [10.5, -8, 3.5],
+            "to": [12.5, 10, 5.5],
+            "rotation": {
+                "angle": -45,
+                "axis": "y",
+                "origin": [11.5, 1, 4.5]
+            },
+            "faces": {
+                "north": {
+                    "uv": [13.5, 1, 14, 10],
+                    "texture": "#0"
+                },
+                "east": {
+                    "uv": [13, 1, 13.5, 10],
+                    "texture": "#0"
+                },
+                "south": {
+                    "uv": [12.5, 1, 13, 10],
+                    "texture": "#0"
+                },
+                "west": {
+                    "uv": [12, 1, 12.5, 10],
+                    "texture": "#0"
+                },
+                "up": {
+                    "uv": [13, 1, 12.5, 0],
+                    "rotation": 180,
+                    "texture": "#0"
+                },
+                "down": {
+                    "uv": [13.5, 0, 13, 1],
+                    "rotation": 180,
+                    "texture": "#0"
+                }
+            }
+        },
+        {
+            "name": "tentacle7",
+            "from": [7, -8, 2],
+            "to": [9, 10, 4],
+            "rotation": {
+                "angle": 22.5,
+                "axis": "x",
+                "origin": [8, 9, 3]
+            },
+            "faces": {
+                "north": {
+                    "uv": [13.5, 1, 14, 10],
+                    "texture": "#0"
+                },
+                "east": {
+                    "uv": [13, 1, 13.5, 10],
+                    "texture": "#0"
+                },
+                "south": {
+                    "uv": [12.5, 1, 13, 10],
+                    "texture": "#0"
+                },
+                "west": {
+                    "uv": [12, 1, 12.5, 10],
+                    "texture": "#0"
+                },
+                "up": {
+                    "uv": [13, 1, 12.5, 0],
+                    "rotation": 180,
+                    "texture": "#0"
+                },
+                "down": {
+                    "uv": [13.5, 0, 13, 1],
+                    "rotation": 180,
+                    "texture": "#0"
+                }
+            }
+        },
+        {
+            "name": "tentacle8",
+            "from": [3.5, -8, 3.5],
+            "to": [5.5, 10, 5.5],
+            "rotation": {
+                "angle": -45,
+                "axis": "y",
+                "origin": [4.5, 1, 4.5]
+            },
+            "faces": {
+                "north": {
+                    "uv": [13, 1, 13.5, 10],
+                    "texture": "#0"
+                },
+                "east": {
+                    "uv": [12.5, 1, 13, 10],
+                    "texture": "#0"
+                },
+                "south": {
+                    "uv": [12, 1, 12.5, 10],
+                    "texture": "#0"
+                },
+                "west": {
+                    "uv": [13.5, 1, 14, 10],
+                    "texture": "#0"
+                },
+                "up": {
+                    "uv": [13, 1, 12.5, 0],
+                    "rotation": 90,
+                    "texture": "#0"
+                },
+                "down": {
+                    "uv": [13.5, 0, 13, 1],
+                    "rotation": 270,
+                    "texture": "#0"
+                }
+            }
+        }
+    ],
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [0, 0, 0],
+            "translation": [0, 0, 0],
+            "scale": [0.215, 0.215, 0.215]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [0, 0, 0],
+            "translation": [0, 0, 0],
+            "scale": [0.215, 0.215, 0.215]
+        }
+    }
+}

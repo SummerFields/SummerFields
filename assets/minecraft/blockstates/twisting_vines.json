@@ -2,10 +2,10 @@
     "variants": {
         "": [
             {
-                "model": "minecraft:block_variant/vine/twisting_vines_1"
+                "model": "summerfields:block/vine/twisting_vines_1"
             },
             {
-                "model": "minecraft:block_variant/vine/twisting_vines_2"
+                "model": "summerfields:block/vine/twisting_vines_2"
             }
         ]
     }

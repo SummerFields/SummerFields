@@ -5,16 +5,16 @@
                 "model": "minecraft:block/purpur_block"
             },
             {
-                "model": "minecraft:block_variant/polished/purpur_block_2"
+                "model": "summerfields:block/polished/purpur_block_2"
             },
             {
-                "model": "minecraft:block_variant/polished/purpur_block_3"
+                "model": "summerfields:block/polished/purpur_block_3"
             },
             {
-                "model": "minecraft:block_variant/polished/purpur_block_4"
+                "model": "summerfields:block/polished/purpur_block_4"
             },
             {
-                "model": "minecraft:block_variant/polished/purpur_block_5"
+                "model": "summerfields:block/polished/purpur_block_5"
             }
         ]
     }

@@ -2,7 +2,7 @@
     "variants": {
         "": [
             {
-                "model": "minecraft:block_variant/bricks/cracked_deepslate_bricks_1"
+                "model": "summerfields:block/bricks/cracked_deepslate_bricks_1"
             }
         ]
     }

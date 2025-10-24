@@ -18,7 +18,7 @@
                         },
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/waxed/template_copper_golem_sitting_inventory_waxed"
+                            "model": "summerfields:item/waxed/template_copper_golem_sitting_inventory_waxed"
                         }
                     ]
                 },
@@ -39,7 +39,7 @@
                         },
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/waxed/template_copper_golem_walk_inventory_waxed"
+                            "model": "summerfields:item/waxed/template_copper_golem_walk_inventory_waxed"
                         }
                     ]
                 },
@@ -60,7 +60,7 @@
                         },
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/waxed/template_copper_golem_stand_inventory_waxed"
+                            "model": "summerfields:item/waxed/template_copper_golem_stand_inventory_waxed"
                         }
                     ]
                 },
@@ -81,7 +81,7 @@
                 },
                 {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/waxed/template_copper_golem_stand_inventory_waxed"
+                    "model": "summerfields:item/waxed/template_copper_golem_stand_inventory_waxed"
                 }
             ]
         },

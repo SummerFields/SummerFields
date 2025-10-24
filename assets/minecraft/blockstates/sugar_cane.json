@@ -1,7 +1,7 @@
 {
     "variants": {
         "": {
-            "model": "minecraft:block_variant/sugar_cane/sugar_cane"
+            "model": "summerfields:block/sugar_cane/sugar_cane"
         }
     }
 }

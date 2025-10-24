@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/stairs/template_stairs_inventory",
+    "textures": {
+        "3": "minecraft:block/quartz_block_top",
+        "particle": "minecraft:block/quartz_block_top"
+    }
+}

@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block_variant/ore/template_ore",
-    "textures": {
-        "base": "minecraft:block/deepslate_diamond_ore",
-        "glow": "minecraft:textures_variant/ore/diamond_ore_1_emission"
-    }
-}

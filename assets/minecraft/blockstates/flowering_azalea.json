@@ -1,7 +1,7 @@
 {
     "variants": {
         "": {
-            "model": "minecraft:block_variant/potable/azalea/flowering_azalea"
+            "model": "summerfields:block/potable/azalea/flowering_azalea"
         }
     }
 }

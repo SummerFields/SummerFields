@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:block_variant/stairs/resin_brick_inventory"
+        "model": "summerfields:block/stairs/resin_brick_inventory"
     }
 }

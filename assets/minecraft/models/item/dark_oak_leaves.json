@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/leaves/dark_oak/dark_oak_leaves_1",
+    "parent": "summerfields:block/leaves/dark_oak/dark_oak_leaves_1",
     "display": {
         "gui": {
             "rotation": [30, 225, 0],

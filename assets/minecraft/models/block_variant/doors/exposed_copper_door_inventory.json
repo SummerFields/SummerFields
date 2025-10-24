@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:block_variant/doors/copper_door_inventory",
-    "textures": {
-        "door_lower": "minecraft:block/exposed_copper_door_bottom",
-        "door_upper": "minecraft:block/exposed_copper_door_top",
-        "side": "minecraft:textures_variant/doors/exposed_copper_door_side"
-    }
-}

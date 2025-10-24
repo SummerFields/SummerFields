@@ -1,13 +1,13 @@
 {
     "variants": {
         "type=bottom": {
-            "model": "minecraft:block_variant/slabs/mossy_cobblestone_slab_bottom"
+            "model": "summerfields:block/slabs/mossy_cobblestone_slab_bottom"
         },
         "type=top": {
-            "model": "minecraft:block_variant/slabs/mossy_cobblestone_slab_top"
+            "model": "summerfields:block/slabs/mossy_cobblestone_slab_top"
         },
         "type=double": {
-            "model": "minecraft:block_variant/bricks/mossy_cobblestone"
+            "model": "summerfields:block/bricks/mossy_cobblestone"
         }
     }
 }

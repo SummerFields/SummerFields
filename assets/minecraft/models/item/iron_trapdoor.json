@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/trapdoor/iron_trapdoor",
+    "parent": "summerfields:block/trapdoor/iron_trapdoor",
     "display": {
         "thirdperson_righthand": {
             "rotation": [0, 0, -90],

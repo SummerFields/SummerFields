@@ -5,31 +5,31 @@
                 "model": "minecraft:block/dirt"
             },
             {
-                "model": "minecraft:block_variant/dirt/dirt1"
+                "model": "summerfields:block/dirt/dirt1"
             },
             {
-                "model": "minecraft:block_variant/dirt/dirt2"
+                "model": "summerfields:block/dirt/dirt2"
             },
             {
-                "model": "minecraft:block_variant/dirt/dirt3"
+                "model": "summerfields:block/dirt/dirt3"
             },
             {
-                "model": "minecraft:block_variant/dirt/dirt4"
+                "model": "summerfields:block/dirt/dirt4"
             },
             {
-                "model": "minecraft:block_variant/dirt/dirt5"
+                "model": "summerfields:block/dirt/dirt5"
             },
             {
-                "model": "minecraft:block_variant/dirt/dirt6"
+                "model": "summerfields:block/dirt/dirt6"
             },
             {
-                "model": "minecraft:block_variant/dirt/dirt7"
+                "model": "summerfields:block/dirt/dirt7"
             },
             {
-                "model": "minecraft:block_variant/dirt/dirt8"
+                "model": "summerfields:block/dirt/dirt8"
             },
             {
-                "model": "minecraft:block_variant/dirt/dirt9"
+                "model": "summerfields:block/dirt/dirt9"
             }
         ]
     }

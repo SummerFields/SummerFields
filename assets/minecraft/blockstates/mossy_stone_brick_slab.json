@@ -2,40 +2,40 @@
     "variants": {
         "type=bottom": [
             {
-                "model": "minecraft:block_variant/slabs/mossy_stone_brick_slab_bottom_1"
+                "model": "summerfields:block/slabs/mossy_stone_brick_slab_bottom_1"
             },
             {
-                "model": "minecraft:block_variant/slabs/mossy_stone_brick_slab_bottom_2"
+                "model": "summerfields:block/slabs/mossy_stone_brick_slab_bottom_2"
             },
             {
-                "model": "minecraft:block_variant/slabs/mossy_stone_brick_slab_bottom_3"
+                "model": "summerfields:block/slabs/mossy_stone_brick_slab_bottom_3"
             },
             {
-                "model": "minecraft:block_variant/slabs/mossy_stone_brick_slab_bottom_4"
+                "model": "summerfields:block/slabs/mossy_stone_brick_slab_bottom_4"
             },
             {
-                "model": "minecraft:block_variant/slabs/mossy_stone_brick_slab_bottom_5"
+                "model": "summerfields:block/slabs/mossy_stone_brick_slab_bottom_5"
             }
         ],
         "type=top": [
             {
-                "model": "minecraft:block_variant/slabs/mossy_stone_brick_slab_top_1"
+                "model": "summerfields:block/slabs/mossy_stone_brick_slab_top_1"
             },
             {
-                "model": "minecraft:block_variant/slabs/mossy_stone_brick_slab_top_2"
+                "model": "summerfields:block/slabs/mossy_stone_brick_slab_top_2"
             },
             {
-                "model": "minecraft:block_variant/slabs/mossy_stone_brick_slab_top_3"
+                "model": "summerfields:block/slabs/mossy_stone_brick_slab_top_3"
             },
             {
-                "model": "minecraft:block_variant/slabs/mossy_stone_brick_slab_top_4"
+                "model": "summerfields:block/slabs/mossy_stone_brick_slab_top_4"
             },
             {
-                "model": "minecraft:block_variant/slabs/mossy_stone_brick_slab_top_5"
+                "model": "summerfields:block/slabs/mossy_stone_brick_slab_top_5"
             }
         ],
         "type=double": {
-            "model": "minecraft:block_variant/bricks/mossy_stone_bricks_1"
+            "model": "summerfields:block/bricks/mossy_stone_bricks_1"
         }
     }
 }

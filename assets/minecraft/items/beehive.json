@@ -6,35 +6,35 @@
             {
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:block_variant/beenest/beehive_honey"
+                    "model": "summerfields:block/beenest/beehive_honey"
                 },
                 "when": "5"
             },
             {
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:block_variant/beenest/beehive_4"
+                    "model": "summerfields:block/beenest/beehive_4"
                 },
                 "when": "4"
             },
             {
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:block_variant/beenest/beehive_3"
+                    "model": "summerfields:block/beenest/beehive_3"
                 },
                 "when": "3"
             },
             {
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:block_variant/beenest/beehive_2"
+                    "model": "summerfields:block/beenest/beehive_2"
                 },
                 "when": "2"
             },
             {
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:block_variant/beenest/beehive_1"
+                    "model": "summerfields:block/beenest/beehive_1"
                 },
                 "when": "1"
             }

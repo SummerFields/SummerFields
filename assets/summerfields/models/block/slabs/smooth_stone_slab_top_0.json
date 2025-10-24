@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/slabs/smooth_stone_slab_top",
+    "textures": {
+        "top": "summerfields:block/slab/stone_slab_top",
+        "side": "summerfields:block/slab/stone_slab_side"
+    }
+}

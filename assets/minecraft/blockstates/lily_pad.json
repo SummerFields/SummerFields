@@ -17,18 +17,18 @@
                 "y": 270
             },
             {
-                "model": "minecraft:block_variant/lily_pad/lily_pad1"
+                "model": "summerfields:block/lily_pad/lily_pad1"
             },
             {
-                "model": "minecraft:block_variant/lily_pad/lily_pad1",
+                "model": "summerfields:block/lily_pad/lily_pad1",
                 "y": 90
             },
             {
-                "model": "minecraft:block_variant/lily_pad/lily_pad1",
+                "model": "summerfields:block/lily_pad/lily_pad1",
                 "y": 180
             },
             {
-                "model": "minecraft:block_variant/lily_pad/lily_pad1",
+                "model": "summerfields:block/lily_pad/lily_pad1",
                 "y": 270
             }
         ]

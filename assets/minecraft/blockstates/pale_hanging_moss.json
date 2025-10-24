@@ -2,21 +2,21 @@
     "variants": {
         "tip=false": [
             {
-                "model": "minecraft:block_variant/hanging/pale_hanging_moss",
+                "model": "summerfields:block/hanging/pale_hanging_moss",
                 "weight": 985
             },
             {
-                "model": "minecraft:block_variant/hanging/pale_hanging_moss_fruit",
+                "model": "summerfields:block/hanging/pale_hanging_moss_fruit",
                 "weight": 15
             }
         ],
         "tip=true": [
             {
-                "model": "minecraft:block_variant/hanging/pale_hanging_moss_tip",
+                "model": "summerfields:block/hanging/pale_hanging_moss_tip",
                 "weight": 985
             },
             {
-                "model": "minecraft:block_variant/hanging/pale_hanging_moss_tip_fruit",
+                "model": "summerfields:block/hanging/pale_hanging_moss_tip_fruit",
                 "weight": 15
             }
         ]

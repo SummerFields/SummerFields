@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:item_variant/moss_carpet"
+        "model": "summerfields:item/moss_carpet"
     }
 }

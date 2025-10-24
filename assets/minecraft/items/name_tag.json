@@ -8,35 +8,35 @@
                 "when": "Grumm",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/name_tag/name_tag_dinnerbone"
+                    "model": "summerfields:item/name_tag/name_tag_dinnerbone"
                 }
             },
             {
                 "when": "Dinnerbone",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/name_tag/name_tag_dinnerbone"
+                    "model": "summerfields:item/name_tag/name_tag_dinnerbone"
                 }
             },
             {
                 "when": "jeb_",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/name_tag/name_tag_jeb"
+                    "model": "summerfields:item/name_tag/name_tag_jeb"
                 }
             },
             {
                 "when": "Johnny",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/name_tag/name_tag_johnny"
+                    "model": "summerfields:item/name_tag/name_tag_johnny"
                 }
             },
             {
                 "when": "Toast",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/name_tag/name_tag_toast"
+                    "model": "summerfields:item/name_tag/name_tag_toast"
                 }
             }
         ],

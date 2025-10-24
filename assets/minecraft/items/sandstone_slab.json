@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:block_variant/slabs/sandstone_slab_bottom"
+        "model": "summerfields:block/slabs/sandstone_slab_bottom"
     }
 }

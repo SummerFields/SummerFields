@@ -2,7 +2,7 @@
     "multipart": [
         {
             "apply": {
-                "model": "minecraft:block_variant/vine/vine"
+                "model": "summerfields:block/vine/vine"
             },
             "when": {
                 "north": "true"
@@ -10,7 +10,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/vine/vine"
+                "model": "summerfields:block/vine/vine"
             },
             "when": {
                 "east": "false",
@@ -22,7 +22,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/vine/vine",
+                "model": "summerfields:block/vine/vine",
                 "uvlock": true,
                 "y": 90
             },
@@ -32,7 +32,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/vine/vine",
+                "model": "summerfields:block/vine/vine",
                 "uvlock": true,
                 "y": 90
             },
@@ -46,7 +46,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/vine/vine",
+                "model": "summerfields:block/vine/vine",
                 "uvlock": true,
                 "y": 180
             },
@@ -56,7 +56,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/vine/vine",
+                "model": "summerfields:block/vine/vine",
                 "uvlock": true,
                 "y": 180
             },
@@ -70,7 +70,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/vine/vine",
+                "model": "summerfields:block/vine/vine",
                 "uvlock": true,
                 "y": 270
             },
@@ -80,7 +80,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/vine/vine",
+                "model": "summerfields:block/vine/vine",
                 "uvlock": true,
                 "y": 270
             },
@@ -94,7 +94,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/vine/vine",
+                "model": "summerfields:block/vine/vine",
                 "uvlock": true,
                 "x": 270
             },
@@ -104,7 +104,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/vine/vine",
+                "model": "summerfields:block/vine/vine",
                 "uvlock": true,
                 "x": 270
             },

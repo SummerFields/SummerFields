@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/fence/nether_brick_fence_post",
+    "parent": "summerfields:block/fence/nether_brick_fence_post",
     "display": {
         "gui": {
             "rotation": [30, 135, 0],

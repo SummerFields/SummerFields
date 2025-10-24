@@ -1,3 +1,3 @@
 {
-    "parent": "minecraft:block_variant/trapdoor/weathered_copper_trapdoor"
+    "parent": "summerfields:block/trapdoor/weathered_copper_trapdoor"
 }

@@ -1,13 +1,13 @@
 {
     "variants": {
         "type=bottom": {
-            "model": "minecraft:block_variant/slabs/prismarine_brick_slab_bottom"
+            "model": "summerfields:block/slabs/prismarine_brick_slab_bottom"
         },
         "type=double": {
-            "model": "minecraft:block_variant/bricks/prismarine_bricks_1"
+            "model": "summerfields:block/bricks/prismarine_bricks_1"
         },
         "type=top": {
-            "model": "minecraft:block_variant/slabs/prismarine_brick_slab_top"
+            "model": "summerfields:block/slabs/prismarine_brick_slab_top"
         }
     }
 }

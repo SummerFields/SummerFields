@@ -2,7 +2,7 @@
     "format_version": "1.21.6",
     "parent": "minecraft:block/block",
     "textures": {
-        "1": "textures_variant/waxed/block_waxed",
+        "1": "summerfields:block/waxed/block_waxed",
         "particle": "block/lantern"
     },
     "elements": [

@@ -3,18 +3,18 @@
         {
             "apply": [
                 {
-                    "model": "minecraft:block_variant/potable/potted/bamboo"
+                    "model": "summerfields:block/potable/potted/bamboo"
                 },
                 {
-                    "model": "minecraft:block_variant/potable/potted/bamboo",
+                    "model": "summerfields:block/potable/potted/bamboo",
                     "y": 90
                 },
                 {
-                    "model": "minecraft:block_variant/potable/potted/bamboo",
+                    "model": "summerfields:block/potable/potted/bamboo",
                     "y": 180
                 },
                 {
-                    "model": "minecraft:block_variant/potable/potted/bamboo",
+                    "model": "summerfields:block/potable/potted/bamboo",
                     "y": 270
                 }
             ]
@@ -25,19 +25,19 @@
                     "model": "minecraft:block/flower_pot"
                 },
                 {
-                    "model": "minecraft:block_variant/potable/pot/pot_0"
+                    "model": "summerfields:block/potable/pot/pot_0"
                 },
                 {
-                    "model": "minecraft:block_variant/potable/pot/pot_1"
+                    "model": "summerfields:block/potable/pot/pot_1"
                 },
                 {
-                    "model": "minecraft:block_variant/potable/pot/pot_2"
+                    "model": "summerfields:block/potable/pot/pot_2"
                 },
                 {
-                    "model": "minecraft:block_variant/potable/pot/pot_3"
+                    "model": "summerfields:block/potable/pot/pot_3"
                 },
                 {
-                    "model": "minecraft:block_variant/potable/pot/pot_4"
+                    "model": "summerfields:block/potable/pot/pot_4"
                 }
             ]
         }

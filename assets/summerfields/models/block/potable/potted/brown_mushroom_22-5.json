@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/potable/template_flower_pot_22-5",
+    "textures": {
+        "particle": "#side",
+        "side": "summerfields:block/potable/brown_mushroom_pot"
+    }
+}

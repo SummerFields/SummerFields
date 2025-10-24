@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:item/spawn_egg/shape_cat",
+    "textures": {
+        "particle": "#layer0",
+        "layer0": "minecraft:entity/cat/calico"
+    }
+}

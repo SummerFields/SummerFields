@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/walls/template_post",
+    "textures": {
+        "post": "summerfields:block/walls/sandstone_post",
+        "particle": "#post"
+    }
+}

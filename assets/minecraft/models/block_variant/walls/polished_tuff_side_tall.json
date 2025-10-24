@@ -1,9 +1,0 @@
-{
-    "parent": "minecraft:block_variant/walls/template_side_tall",
-    "textures": {
-        "particle": "#front",
-        "front": "minecraft:block/polished_tuff",
-        "innertop": "minecraft:textures_variant/walls/polished_tuff_inner_top",
-        "other": "minecraft:textures_variant/walls/polished_tuff_other"
-    }
-}

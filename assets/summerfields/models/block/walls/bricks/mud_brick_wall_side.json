@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/walls/bricks/template_wall_side",
+    "textures": {
+        "1": "summerfields:block/bricks/mud_bricks_top_1",
+        "wall": "minecraft:block/mud_bricks"
+    }
+}

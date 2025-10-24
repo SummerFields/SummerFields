@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:block_variant/slabs/planks_slab_top",
-    "textures": {
-        "all": "minecraft:block/acacia_planks"
-    }
-}

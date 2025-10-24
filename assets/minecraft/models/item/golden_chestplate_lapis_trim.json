@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/armor/template_chestplate",
+    "parent": "summerfields:block/armor/template_chestplate",
     "textures": {
         "layer0": "minecraft:models/armor/gold_layer_1",
         "layer2": "minecraft:trims/models/armor/wayfinder_lapis"

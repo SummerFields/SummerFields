@@ -1,0 +1,10 @@
+{
+    "parent": "minecraft:block/orientable_with_bottom",
+    "textures": {
+        "bottom": "minecraft:block/beehive_end",
+        "front": "summerfields:block/beenest/beehive_front_4",
+        "particle": "summerfields:block/beenest/beehive_side_4",
+        "side": "summerfields:block/beenest/beehive_side_4",
+        "top": "minecraft:block/beehive_end"
+    }
+}

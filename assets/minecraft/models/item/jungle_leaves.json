@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/leaves/jungle/jungle_leaves_1",
+    "parent": "summerfields:block/leaves/jungle/jungle_leaves_1",
     "display": {
         "gui": {
             "rotation": [30, 225, 0],

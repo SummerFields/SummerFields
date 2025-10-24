@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/walls/template_simple_side",
+    "textures": {
+        "1": "summerfields:block/bricks/cobbled_deepslate_top",
+        "wall": "minecraft:block/cobbled_deepslate"
+    }
+}

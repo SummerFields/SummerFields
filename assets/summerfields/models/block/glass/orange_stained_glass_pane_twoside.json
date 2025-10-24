@@ -1,0 +1,10 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "2": "summerfields:block/glass/glass_pane_inner",
+        "top": "minecraft:block/orange_stained_glass_pane_top",
+        "particle": "minecraft:block/orange_stained_glass",
+        "face": "minecraft:block/orange_stained_glass"
+    },
+    "parent": "summerfields:block/glass/glass_pane_twoside"
+}

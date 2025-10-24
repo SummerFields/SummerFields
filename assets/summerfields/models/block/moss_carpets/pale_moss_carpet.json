@@ -1,0 +1,48 @@
+{
+    "parent": "minecraft:block/carpet",
+    "textures": {
+        "1": "summerfields:block/moss_carpets/pale_moss_carpet_side",
+        "2": "summerfields:block/moss_carpets/pale_moss_block",
+        "wool": "minecraft:block/pale_moss_block",
+        "particle": "#2"
+    },
+    "elements": [
+        {
+            "from": [-0.01, -5, -0.01],
+            "to": [16.01, 1, 16.01],
+            "rotation": { "angle": 0, "axis": "y", "origin": [0, -5, 0] },
+            "faces": {
+                "north": { "uv": [0, 0, 16, 6], "texture": "#1", "cullface": "north" },
+                "east": { "uv": [0, 0, 16, 6], "texture": "#1", "cullface": "east" },
+                "south": { "uv": [0, 0, 16, 6], "texture": "#1", "cullface": "south" },
+                "west": { "uv": [0, 0, 16, 6], "texture": "#1", "cullface": "west" }
+            }
+        },
+        {
+            "from": [0, 0, 0],
+            "to": [16, 1, 16],
+            "faces": {
+                "up": { "uv": [0, 0, 16, 16], "texture": "#2" }
+            }
+        },
+        {
+            "from": [0, 0, 0],
+            "to": [16, 0, 16],
+            "faces": {
+                "up": { "uv": [0, 0, 16, 16], "texture": "#wool", "rotation": 180 }
+            }
+        }
+    ],
+    "display": {
+        "gui": {
+            "rotation": [30, 225, 0],
+            "translation": [0, 3, 0],
+            "scale": [0.625, 0.625, 0.625]
+        },
+        "fixed": {
+            "rotation": [90, 0, 180],
+            "translation": [0, 0, -5],
+            "scale": [0.7, 0.7, 0.7]
+        }
+    }
+}

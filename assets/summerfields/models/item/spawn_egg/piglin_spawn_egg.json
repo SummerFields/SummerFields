@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:item/spawn_egg/shape_piglin",
+    "textures": {
+        "0": "minecraft:entity/piglin/piglin",
+        "particle": "#0"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/slab_top",
+    "textures": {
+        "bottom": "summerfields:block/bricks/cobbled_deepslate_top",
+        "top": "summerfields:block/bricks/cobbled_deepslate_top",
+        "side": "minecraft:block/cobbled_deepslate"
+    }
+}

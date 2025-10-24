@@ -5,7 +5,7 @@
                 "shape": "north_south"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_flat"
+                "model": "summerfields:block/rails/rail_flat"
             }
         },
         {
@@ -13,7 +13,7 @@
                 "shape": "east_west"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_flat",
+                "model": "summerfields:block/rails/rail_flat",
                 "y": 90
             }
         },
@@ -22,7 +22,7 @@
                 "shape": "ascending_east"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_raised_ne",
+                "model": "summerfields:block/rails/rail_raised_ne",
                 "y": 90
             }
         },
@@ -31,7 +31,7 @@
                 "shape": "ascending_west"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_raised_ne",
+                "model": "summerfields:block/rails/rail_raised_ne",
                 "y": -90
             }
         },
@@ -40,7 +40,7 @@
                 "shape": "ascending_north"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_raised_ne"
+                "model": "summerfields:block/rails/rail_raised_ne"
             }
         },
         {
@@ -48,7 +48,7 @@
                 "shape": "ascending_south"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_raised_ne",
+                "model": "summerfields:block/rails/rail_raised_ne",
                 "y": 180
             }
         },
@@ -58,7 +58,7 @@
                 "shape": "north_south"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_base"
+                "model": "summerfields:block/rails/rail_base"
             }
         },
         {
@@ -67,7 +67,7 @@
                 "shape": "east_west"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_base",
+                "model": "summerfields:block/rails/rail_base",
                 "y": 90
             }
         },
@@ -77,7 +77,7 @@
                 "shape": "ascending_east"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_base_raised",
+                "model": "summerfields:block/rails/rail_base_raised",
                 "y": 90
             }
         },
@@ -87,7 +87,7 @@
                 "shape": "ascending_west"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_base_raised",
+                "model": "summerfields:block/rails/rail_base_raised",
                 "y": -90
             }
         },
@@ -97,7 +97,7 @@
                 "shape": "ascending_north"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_base_raised"
+                "model": "summerfields:block/rails/rail_base_raised"
             }
         },
         {
@@ -106,7 +106,7 @@
                 "shape": "ascending_south"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_base_raised",
+                "model": "summerfields:block/rails/rail_base_raised",
                 "y": 180
             }
         },
@@ -116,7 +116,7 @@
                 "shape": "north_south"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_base_on"
+                "model": "summerfields:block/rails/rail_base_on"
             }
         },
         {
@@ -125,7 +125,7 @@
                 "shape": "east_west"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_base_on",
+                "model": "summerfields:block/rails/rail_base_on",
                 "y": 90
             }
         },
@@ -135,7 +135,7 @@
                 "shape": "ascending_east"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_base_raised_on",
+                "model": "summerfields:block/rails/rail_base_raised_on",
                 "y": 90
             }
         },
@@ -145,7 +145,7 @@
                 "shape": "ascending_west"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_base_raised_on",
+                "model": "summerfields:block/rails/rail_base_raised_on",
                 "y": -90
             }
         },
@@ -155,7 +155,7 @@
                 "shape": "ascending_north"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_base_raised_on"
+                "model": "summerfields:block/rails/rail_base_raised_on"
             }
         },
         {
@@ -164,7 +164,7 @@
                 "shape": "ascending_south"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_base_raised_on",
+                "model": "summerfields:block/rails/rail_base_raised_on",
                 "y": 180
             }
         },
@@ -173,7 +173,7 @@
                 "shape": "north_south"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_planck_top"
+                "model": "summerfields:block/rails/rail_planck_top"
             }
         },
         {
@@ -181,7 +181,7 @@
                 "shape": "east_west"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_planck_top",
+                "model": "summerfields:block/rails/rail_planck_top",
                 "y": 90
             }
         },
@@ -190,7 +190,7 @@
                 "shape": "north_south"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_planck_bottom"
+                "model": "summerfields:block/rails/rail_planck_bottom"
             }
         },
         {
@@ -198,7 +198,7 @@
                 "shape": "east_west"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_planck_bottom",
+                "model": "summerfields:block/rails/rail_planck_bottom",
                 "y": 90
             }
         },
@@ -208,7 +208,7 @@
                 "shape": "north_south"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_activator_off"
+                "model": "summerfields:block/rails/rail_activator_off"
             }
         },
         {
@@ -217,7 +217,7 @@
                 "shape": "east_west"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_activator_off",
+                "model": "summerfields:block/rails/rail_activator_off",
                 "y": 90
             }
         },
@@ -227,7 +227,7 @@
                 "shape": "ascending_east"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_activator_off_raised",
+                "model": "summerfields:block/rails/rail_activator_off_raised",
                 "y": 90
             }
         },
@@ -237,7 +237,7 @@
                 "shape": "ascending_west"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_activator_off_raised",
+                "model": "summerfields:block/rails/rail_activator_off_raised",
                 "y": -90
             }
         },
@@ -247,7 +247,7 @@
                 "shape": "ascending_north"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_activator_off_raised"
+                "model": "summerfields:block/rails/rail_activator_off_raised"
             }
         },
         {
@@ -256,7 +256,7 @@
                 "shape": "ascending_south"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_activator_off_raised",
+                "model": "summerfields:block/rails/rail_activator_off_raised",
                 "y": 180
             }
         },
@@ -266,7 +266,7 @@
                 "shape": "north_south"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_activator_on"
+                "model": "summerfields:block/rails/rail_activator_on"
             }
         },
         {
@@ -275,7 +275,7 @@
                 "shape": "east_west"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_activator_on",
+                "model": "summerfields:block/rails/rail_activator_on",
                 "y": 90
             }
         },
@@ -285,7 +285,7 @@
                 "shape": "ascending_east"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_activator_on_raised",
+                "model": "summerfields:block/rails/rail_activator_on_raised",
                 "y": 90
             }
         },
@@ -295,7 +295,7 @@
                 "shape": "ascending_west"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_activator_on_raised",
+                "model": "summerfields:block/rails/rail_activator_on_raised",
                 "y": -90
             }
         },
@@ -305,7 +305,7 @@
                 "shape": "ascending_north"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_activator_on_raised"
+                "model": "summerfields:block/rails/rail_activator_on_raised"
             }
         },
         {
@@ -314,7 +314,7 @@
                 "shape": "ascending_south"
             },
             "apply": {
-                "model": "minecraft:block_variant/rails/rail_activator_on_raised",
+                "model": "summerfields:block/rails/rail_activator_on_raised",
                 "y": 180
             }
         }

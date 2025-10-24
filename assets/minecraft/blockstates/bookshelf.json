@@ -2,35 +2,35 @@
     "variants": {
         "": [
             {
-                "model": "minecraft:block_variant/bookshelf/bookshelf8",
+                "model": "summerfields:block/bookshelf/bookshelf8",
                 "weight": 2
             },
             {
-                "model": "minecraft:block_variant/bookshelf/bookshelf1",
+                "model": "summerfields:block/bookshelf/bookshelf1",
                 "weight": 4
             },
             {
-                "model": "minecraft:block_variant/bookshelf/bookshelf2",
+                "model": "summerfields:block/bookshelf/bookshelf2",
                 "weight": 6
             },
             {
-                "model": "minecraft:block_variant/bookshelf/bookshelf3",
+                "model": "summerfields:block/bookshelf/bookshelf3",
                 "weight": 8
             },
             {
-                "model": "minecraft:block_variant/bookshelf/bookshelf4",
+                "model": "summerfields:block/bookshelf/bookshelf4",
                 "weight": 10
             },
             {
-                "model": "minecraft:block_variant/bookshelf/bookshelf5",
+                "model": "summerfields:block/bookshelf/bookshelf5",
                 "weight": 12
             },
             {
-                "model": "minecraft:block_variant/bookshelf/bookshelf6",
+                "model": "summerfields:block/bookshelf/bookshelf6",
                 "weight": 14
             },
             {
-                "model": "minecraft:block_variant/bookshelf/bookshelf7",
+                "model": "summerfields:block/bookshelf/bookshelf7",
                 "weight": 16
             },
             {

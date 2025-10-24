@@ -14,7 +14,7 @@
                 "model": "minecraft:block/target"
             },
             {
-                "model": "minecraft:block_variant/target/target2"
+                "model": "summerfields:block/target/target2"
             }
         ]
     }

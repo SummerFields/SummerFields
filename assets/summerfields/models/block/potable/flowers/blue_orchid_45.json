@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/potable/template_flower_45",
+    "textures": {
+        "particle": "#side",
+        "side": "minecraft:block/blue_orchid"
+    }
+}

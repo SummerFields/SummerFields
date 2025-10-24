@@ -1,0 +1,38 @@
+{
+    "parent": "minecraft:block/block",
+    "textures": {
+        "particle": "#post",
+        "front": "minecraft:block/stone_bricks",
+        "innertop": "summerfields:block/bricks/stone_bricks_inner_top",
+        "other": "summerfields:block/bricks/stone_bricks_other"
+    },
+    "elements": [
+        {
+            "from": [5, 0, 0],
+            "to": [11, 16, 8],
+            "faces": {
+                "north": {
+                    "uv": [0, 10, 16, 16],
+                    "rotation": 90,
+                    "texture": "#other"
+                },
+                "east": {
+                    "uv": [8, 0, 16, 16],
+                    "texture": "#front"
+                },
+                "west": {
+                    "uv": [0, 0, 8, 16],
+                    "texture": "#front"
+                },
+                "up": {
+                    "uv": [5, 0, 11, 8],
+                    "texture": "#innertop"
+                },
+                "down": {
+                    "uv": [5, 8, 11, 16],
+                    "texture": "#innertop"
+                }
+            }
+        }
+    ]
+}

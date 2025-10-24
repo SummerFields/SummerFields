@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block_variant/potable/template_flower_16_large",
-    "textures": {
-        "particle": "#side",
-        "side": "minecraft:textures_variant/potable/large_fern"
-    }
-}

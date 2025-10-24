@@ -1,13 +1,13 @@
 {
     "variants": {
         "type=bottom": {
-            "model": "minecraft:block_variant/slabs/cherry_slab_bottom"
+            "model": "summerfields:block/slabs/cherry_slab_bottom"
         },
         "type=top": {
-            "model": "minecraft:block_variant/slabs/cherry_slab_top"
+            "model": "summerfields:block/slabs/cherry_slab_top"
         },
         "type=double": {
-            "model": "minecraft:block_variant/planks/cherry_planks"
+            "model": "summerfields:block/planks/cherry_planks"
         }
     }
 }

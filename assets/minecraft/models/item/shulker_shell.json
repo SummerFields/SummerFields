@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/shulker_shell/shulker_shell",
+    "parent": "summerfields:block/shulker_shell/shulker_shell",
     "display": {
         "gui": {
             "rotation": [30, 225, 0],

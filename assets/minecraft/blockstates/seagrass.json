@@ -5,7 +5,7 @@
                 "model": "minecraft:block/seagrass"
             },
             {
-                "model": "minecraft:block_variant/seagrass/seagrass2"
+                "model": "summerfields:block/seagrass/seagrass2"
             }
         ]
     }

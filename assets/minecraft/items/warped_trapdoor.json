@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:block_variant/trapdoor/warped_trapdoor"
+        "model": "summerfields:block/trapdoor/warped_trapdoor"
     }
 }

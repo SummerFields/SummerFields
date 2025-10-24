@@ -1,0 +1,20 @@
+{
+    "textures": {
+        "back": "summerfields:block/bricks/stone_bricks_top_5",
+        "particle": "#back"
+    },
+    "elements": [
+        {
+            "name": "back",
+            "from": [0, 0, 0],
+            "to": [16, 0, 16],
+            "faces": {
+                "down": {
+                    "uv": [0, 0, 16, 16],
+                    "texture": "#back",
+                    "cullface": "down"
+                }
+            }
+        }
+    ]
+}

@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/armor/template_helmet",
+    "parent": "summerfields:block/armor/template_helmet",
     "textures": {
         "layer0": "minecraft:entity/equipment/humanoid/copper"
     },

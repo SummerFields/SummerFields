@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:block_variant/walls/nether_brick_inventory"
+        "model": "summerfields:block/walls/nether_brick_inventory"
     }
 }

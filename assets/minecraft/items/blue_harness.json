@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:item_variant/harness/blue_harness"
+        "model": "summerfields:item/harness/blue_harness"
     }
 }

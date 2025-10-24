@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block_variant/trapdoor/birch_trapdoor",
-    "textures": {
-        "texture": "minecraft:block/mangrove_trapdoor",
-        "particle": "minecraft:textures_variant/trapdoor/mangrove_trapdoor_side"
-    }
-}

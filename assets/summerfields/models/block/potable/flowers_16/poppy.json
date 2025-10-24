@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/potable/template_flower_16",
+    "textures": {
+        "particle": "#side",
+        "side": "summerfields:block/potable/poppy"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/ore/template_ore",
+    "textures": {
+        "base": "minecraft:block/gold_ore",
+        "glow": "summerfields:block/ore/gold_ore_1_emission"
+    }
+}

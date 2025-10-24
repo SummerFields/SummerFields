@@ -1,0 +1,6 @@
+{
+    "parent": "summerfields:block/lantern/template_hanging_lantern",
+    "textures": {
+        "lantern": "minecraft:block/lantern"
+    }
+}

@@ -1,13 +1,13 @@
 {
     "variants": {
         "type=bottom": {
-            "model": "minecraft:block_variant/slabs/warped_slab_bottom"
+            "model": "summerfields:block/slabs/warped_slab_bottom"
         },
         "type=top": {
-            "model": "minecraft:block_variant/slabs/warped_slab_top"
+            "model": "summerfields:block/slabs/warped_slab_top"
         },
         "type=double": {
-            "model": "minecraft:block_variant/planks/warped_planks"
+            "model": "summerfields:block/planks/warped_planks"
         }
     }
 }

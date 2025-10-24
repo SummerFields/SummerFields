@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block_variant/walls/bricks/template_wall_post",
-    "textures": {
-        "top": "minecraft:block/red_nether_bricks",
-        "wall": "minecraft:block/red_nether_bricks"
-    }
-}

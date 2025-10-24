@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/button/polished_blackstone_button",
+    "parent": "summerfields:block/button/polished_blackstone_button",
     "display": {
         "thirdperson_righthand": {
             "rotation": [0, 0, -90],

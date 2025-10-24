@@ -1,7 +1,7 @@
 {
     "variants": {
         "": {
-            "model": "minecraft:block_variant/planks/mangrove_planks"
+            "model": "summerfields:block/planks/mangrove_planks"
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/button/stone_button",
+    "parent": "summerfields:block/button/stone_button",
     "display": {
         "thirdperson_righthand": {
             "rotation": [0, 0, -90],

@@ -2,7 +2,7 @@
     "multipart": [
         {
             "apply": {
-                "model": "minecraft:block_variant/potable/pink_petals/pink_petals_1",
+                "model": "summerfields:block/potable/pink_petals/pink_petals_1",
                 "y": 0
             },
             "when": {
@@ -11,7 +11,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/potable/pink_petals/pink_petals_1",
+                "model": "summerfields:block/potable/pink_petals/pink_petals_1",
                 "y": 90
             },
             "when": {
@@ -20,7 +20,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/potable/pink_petals/pink_petals_1",
+                "model": "summerfields:block/potable/pink_petals/pink_petals_1",
                 "y": 180
             },
             "when": {
@@ -29,7 +29,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/potable/pink_petals/pink_petals_1",
+                "model": "summerfields:block/potable/pink_petals/pink_petals_1",
                 "y": 270
             },
             "when": {
@@ -38,7 +38,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/potable/pink_petals/pink_petals_2",
+                "model": "summerfields:block/potable/pink_petals/pink_petals_2",
                 "y": 270
             },
             "when": {
@@ -48,7 +48,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/potable/pink_petals/pink_petals_2",
+                "model": "summerfields:block/potable/pink_petals/pink_petals_2",
                 "y": 0
             },
             "when": {
@@ -58,7 +58,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/potable/pink_petals/pink_petals_2",
+                "model": "summerfields:block/potable/pink_petals/pink_petals_2",
                 "y": 90
             },
             "when": {
@@ -68,7 +68,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/potable/pink_petals/pink_petals_2",
+                "model": "summerfields:block/potable/pink_petals/pink_petals_2",
                 "y": 180
             },
             "when": {
@@ -78,7 +78,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/potable/pink_petals/pink_petals_3",
+                "model": "summerfields:block/potable/pink_petals/pink_petals_3",
                 "y": 180
             },
             "when": {
@@ -88,7 +88,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/potable/pink_petals/pink_petals_3",
+                "model": "summerfields:block/potable/pink_petals/pink_petals_3",
                 "y": 270
             },
             "when": {
@@ -98,7 +98,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/potable/pink_petals/pink_petals_3",
+                "model": "summerfields:block/potable/pink_petals/pink_petals_3",
                 "y": 0
             },
             "when": {
@@ -108,7 +108,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/potable/pink_petals/pink_petals_3",
+                "model": "summerfields:block/potable/pink_petals/pink_petals_3",
                 "y": 90
             },
             "when": {
@@ -118,7 +118,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/potable/pink_petals/pink_petals_4",
+                "model": "summerfields:block/potable/pink_petals/pink_petals_4",
                 "y": 90
             },
             "when": {
@@ -128,7 +128,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/potable/pink_petals/pink_petals_4",
+                "model": "summerfields:block/potable/pink_petals/pink_petals_4",
                 "y": 180
             },
             "when": {
@@ -138,7 +138,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/potable/pink_petals/pink_petals_4",
+                "model": "summerfields:block/potable/pink_petals/pink_petals_4",
                 "y": 270
             },
             "when": {
@@ -148,7 +148,7 @@
         },
         {
             "apply": {
-                "model": "minecraft:block_variant/potable/pink_petals/pink_petals_4",
+                "model": "summerfields:block/potable/pink_petals/pink_petals_4",
                 "y": 0
             },
             "when": {

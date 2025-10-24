@@ -4,15 +4,15 @@
         "models": [
             {
                 "type": "minecraft:model",
-                "model": "minecraft:block_variant/stairs/exposed_cut_copper_stairs"
+                "model": "summerfields:block/stairs/exposed_cut_copper_stairs"
             },
             {
                 "type": "minecraft:model",
-                "model": "minecraft:block_variant/stairs/exposed_cut_copper_back"
+                "model": "summerfields:block/stairs/exposed_cut_copper_back"
             },
             {
                 "type": "minecraft:model",
-                "model": "minecraft:block_variant/stairs/exposed_cut_copper_side"
+                "model": "summerfields:block/stairs/exposed_cut_copper_side"
             }
         ]
     }

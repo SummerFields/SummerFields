@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:block_variant/leaves/pale_oak/pale_oak_leaves_1"
+        "model": "summerfields:block/leaves/pale_oak/pale_oak_leaves_1"
     }
 }

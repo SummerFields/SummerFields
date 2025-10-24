@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/fence/custom_fence_side",
+    "textures": {
+        "particle": "#texture",
+        "texture": "summerfields:block/fence/spruce_fence"
+    }
+}

@@ -8,357 +8,357 @@
                 "when": "minecraft:alban",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/alban"
+                    "model": "summerfields:item/painting/alban"
                 }
             },
             {
                 "when": "minecraft:aztec",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/aztec"
+                    "model": "summerfields:item/painting/aztec"
                 }
             },
             {
                 "when": "minecraft:aztec2",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/aztec2"
+                    "model": "summerfields:item/painting/aztec2"
                 }
             },
             {
                 "when": "minecraft:backyard",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/backyard"
+                    "model": "summerfields:item/painting/backyard"
                 }
             },
             {
                 "when": "minecraft:baroque",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/baroque"
+                    "model": "summerfields:item/painting/baroque"
                 }
             },
             {
                 "when": "minecraft:bomb",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/bomb"
+                    "model": "summerfields:item/painting/bomb"
                 }
             },
             {
                 "when": "minecraft:bouquet",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/bouquet"
+                    "model": "summerfields:item/painting/bouquet"
                 }
             },
             {
                 "when": "minecraft:burning_skull",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/burning_skull"
+                    "model": "summerfields:item/painting/burning_skull"
                 }
             },
             {
                 "when": "minecraft:bust",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/bust"
+                    "model": "summerfields:item/painting/bust"
                 }
             },
             {
                 "when": "minecraft:cavebird",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/cavebird"
+                    "model": "summerfields:item/painting/cavebird"
                 }
             },
             {
                 "when": "minecraft:changing",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/changing"
+                    "model": "summerfields:item/painting/changing"
                 }
             },
             {
                 "when": "minecraft:cotan",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/cotan"
+                    "model": "summerfields:item/painting/cotan"
                 }
             },
             {
                 "when": "minecraft:courbet",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/courbet"
+                    "model": "summerfields:item/painting/courbet"
                 }
             },
             {
                 "when": "minecraft:creebet",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/creebet"
+                    "model": "summerfields:item/painting/creebet"
                 }
             },
             {
                 "when": "minecraft:dennis",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/dennis"
+                    "model": "summerfields:item/painting/dennis"
                 }
             },
             {
                 "when": "minecraft:donkey_kong",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/donkey_kong"
+                    "model": "summerfields:item/painting/donkey_kong"
                 }
             },
             {
                 "when": "minecraft:earth",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/earth"
+                    "model": "summerfields:item/painting/earth"
                 }
             },
             {
                 "when": "minecraft:endboss",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/endboss"
+                    "model": "summerfields:item/painting/endboss"
                 }
             },
             {
                 "when": "minecraft:fern",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/fern"
+                    "model": "summerfields:item/painting/fern"
                 }
             },
             {
                 "when": "minecraft:fighters",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/fighters"
+                    "model": "summerfields:item/painting/fighters"
                 }
             },
             {
                 "when": "minecraft:finding",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/finding"
+                    "model": "summerfields:item/painting/finding"
                 }
             },
             {
                 "when": "minecraft:fire",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/fire"
+                    "model": "summerfields:item/painting/fire"
                 }
             },
             {
                 "when": "minecraft:graham",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/graham"
+                    "model": "summerfields:item/painting/graham"
                 }
             },
             {
                 "when": "minecraft:humble",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/humble"
+                    "model": "summerfields:item/painting/humble"
                 }
             },
             {
                 "when": "minecraft:kebab",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/kebab"
+                    "model": "summerfields:item/painting/kebab"
                 }
             },
             {
                 "when": "minecraft:lowmist",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/lowmist"
+                    "model": "summerfields:item/painting/lowmist"
                 }
             },
             {
                 "when": "minecraft:match",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/match"
+                    "model": "summerfields:item/painting/match"
                 }
             },
             {
                 "when": "minecraft:meditative",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/meditative"
+                    "model": "summerfields:item/painting/meditative"
                 }
             },
             {
                 "when": "minecraft:orb",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/orb"
+                    "model": "summerfields:item/painting/orb"
                 }
             },
             {
                 "when": "minecraft:owlemons",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/owlemons"
+                    "model": "summerfields:item/painting/owlemons"
                 }
             },
             {
                 "when": "minecraft:passage",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/passage"
+                    "model": "summerfields:item/painting/passage"
                 }
             },
             {
                 "when": "minecraft:pigscene",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/pigscene"
+                    "model": "summerfields:item/painting/pigscene"
                 }
             },
             {
                 "when": "minecraft:plant",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/plant"
+                    "model": "summerfields:item/painting/plant"
                 }
             },
             {
                 "when": "minecraft:pointer",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/pointer"
+                    "model": "summerfields:item/painting/pointer"
                 }
             },
             {
                 "when": "minecraft:pond",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/pond"
+                    "model": "summerfields:item/painting/pond"
                 }
             },
             {
                 "when": "minecraft:pool",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/pool"
+                    "model": "summerfields:item/painting/pool"
                 }
             },
             {
                 "when": "minecraft:prairie_ride",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/prairie_ride"
+                    "model": "summerfields:item/painting/prairie_ride"
                 }
             },
             {
                 "when": "minecraft:sea",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/sea"
+                    "model": "summerfields:item/painting/sea"
                 }
             },
             {
                 "when": "minecraft:skeleton",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/skeleton"
+                    "model": "summerfields:item/painting/skeleton"
                 }
             },
             {
                 "when": "minecraft:skull_and_roses",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/skull_and_roses"
+                    "model": "summerfields:item/painting/skull_and_roses"
                 }
             },
             {
                 "when": "minecraft:stage",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/stage"
+                    "model": "summerfields:item/painting/stage"
                 }
             },
             {
                 "when": "minecraft:sunflowers",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/sunflowers"
+                    "model": "summerfields:item/painting/sunflowers"
                 }
             },
             {
                 "when": "minecraft:sunset",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/sunset"
+                    "model": "summerfields:item/painting/sunset"
                 }
             },
             {
                 "when": "minecraft:tides",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/tides"
+                    "model": "summerfields:item/painting/tides"
                 }
             },
             {
                 "when": "minecraft:unpacked",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/unpacked"
+                    "model": "summerfields:item/painting/unpacked"
                 }
             },
             {
                 "when": "minecraft:void",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/void"
+                    "model": "summerfields:item/painting/void"
                 }
             },
             {
                 "when": "minecraft:wanderer",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/wanderer"
+                    "model": "summerfields:item/painting/wanderer"
                 }
             },
             {
                 "when": "minecraft:wasteland",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/wasteland"
+                    "model": "summerfields:item/painting/wasteland"
                 }
             },
             {
                 "when": "minecraft:water",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/water"
+                    "model": "summerfields:item/painting/water"
                 }
             },
             {
                 "when": "minecraft:wind",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/wind"
+                    "model": "summerfields:item/painting/wind"
                 }
             },
             {
                 "when": "minecraft:wither",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/painting/wither"
+                    "model": "summerfields:item/painting/wither"
                 }
             },
             {

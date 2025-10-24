@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:item_variant/harness/magenta_harness"
+        "model": "summerfields:item/harness/magenta_harness"
     }
 }

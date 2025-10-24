@@ -1,0 +1,336 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "1": "block/powered_rail_on",
+        "2": "summerfields:block/rails/powered_rail_emission",
+        "3": "summerfields:block/rails/base",
+        "particle": "minecraft:block/powered_rail_on"
+    },
+    "elements": [
+        {
+            "from": [2, 0.5, 6.5],
+            "to": [3, 1.5, 9.5],
+            "light_emission": 7,
+            "faces": {
+                "north": {
+                    "uv": [13, 6.5, 14, 7.5],
+                    "texture": "#1"
+                },
+                "east": {
+                    "uv": [2, 6.5, 3, 9.5],
+                    "rotation": 90,
+                    "texture": "#1"
+                },
+                "south": {
+                    "uv": [13, 8.5, 14, 9.5],
+                    "texture": "#1"
+                },
+                "west": {
+                    "uv": [13, 6.5, 14, 9.5],
+                    "rotation": 90,
+                    "texture": "#1"
+                },
+                "up": {
+                    "uv": [2, 6.5, 3, 9.5],
+                    "texture": "#1"
+                }
+            }
+        },
+        {
+            "from": [13, 0.5, 6.5],
+            "to": [14, 1.5, 9.5],
+            "light_emission": 7,
+            "faces": {
+                "north": {
+                    "uv": [13, 6.5, 14, 7.5],
+                    "texture": "#1"
+                },
+                "east": {
+                    "uv": [2, 6.5, 3, 9.5],
+                    "rotation": 90,
+                    "texture": "#1"
+                },
+                "south": {
+                    "uv": [13, 8.5, 14, 9.5],
+                    "texture": "#1"
+                },
+                "west": {
+                    "uv": [13, 6.5, 14, 9.5],
+                    "rotation": 90,
+                    "texture": "#1"
+                },
+                "up": {
+                    "uv": [13, 6.5, 14, 9.5],
+                    "texture": "#1"
+                }
+            }
+        },
+        {
+            "name": "planck",
+            "from": [1, 0.51, 6],
+            "to": [15, 0.51, 10],
+            "light_emission": 7,
+            "faces": {
+                "up": {
+                    "uv": [1, 6, 15, 10],
+                    "texture": "#1"
+                }
+            }
+        },
+        {
+            "from": [9, 0.5, 2],
+            "to": [10, 1.5, 14],
+            "light_emission": 7,
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [0, 0, 1]
+            },
+            "faces": {
+                "north": {
+                    "uv": [9, 2, 10, 3],
+                    "rotation": 180,
+                    "texture": "#1"
+                },
+                "east": {
+                    "uv": [9, 2, 10, 14],
+                    "rotation": 270,
+                    "texture": "#1"
+                },
+                "south": {
+                    "uv": [9, 13, 10, 14],
+                    "texture": "#1"
+                },
+                "west": {
+                    "uv": [9.5, 2, 9, 14],
+                    "rotation": 90,
+                    "texture": "#1"
+                },
+                "up": {
+                    "uv": [9, 2, 10, 14],
+                    "texture": "#1"
+                },
+                "down": {
+                    "uv": [9, 2, 10, 14],
+                    "texture": "#1"
+                }
+            }
+        },
+        {
+            "from": [6, 0.5, 2],
+            "to": [7, 1.5, 14],
+            "light_emission": 7,
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [0, 0, 1]
+            },
+            "faces": {
+                "north": {
+                    "uv": [6, 2, 7, 3],
+                    "rotation": 180,
+                    "texture": "#1"
+                },
+                "east": {
+                    "uv": [6.5, 2, 7, 14],
+                    "texture": "#1"
+                },
+                "south": {
+                    "uv": [6, 13, 7, 14],
+                    "texture": "#1"
+                },
+                "west": {
+                    "uv": [6, 2, 7, 14],
+                    "rotation": 90,
+                    "texture": "#1"
+                },
+                "up": {
+                    "uv": [6, 2, 7, 14],
+                    "texture": "#1"
+                },
+                "down": {
+                    "uv": [6, 2, 7, 14],
+                    "texture": "#1"
+                }
+            }
+        },
+        {
+            "from": [7, 0.5, 13],
+            "to": [9, 1.5, 14],
+            "light_emission": 7,
+            "faces": {
+                "north": {
+                    "uv": [7, 13, 9, 13.5],
+                    "texture": "#1"
+                },
+                "south": {
+                    "uv": [7, 13, 9, 14],
+                    "rotation": 180,
+                    "texture": "#1"
+                },
+                "up": {
+                    "uv": [7, 13, 9, 14],
+                    "texture": "#1"
+                },
+                "down": {
+                    "uv": [7, 13, 9, 14],
+                    "texture": "#1"
+                }
+            }
+        },
+        {
+            "from": [7, 0.5, 2],
+            "to": [9, 1.5, 3],
+            "light_emission": 7,
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [0, 0, 1]
+            },
+            "faces": {
+                "north": {
+                    "uv": [7, 1.5, 9, 2.5],
+                    "rotation": 180,
+                    "texture": "#1"
+                },
+                "south": {
+                    "uv": [7, 2, 9, 2.5],
+                    "texture": "#1"
+                },
+                "up": {
+                    "uv": [7, 1.5, 9, 2.5],
+                    "texture": "#1"
+                },
+                "down": {
+                    "uv": [7, 1.5, 9, 2.5],
+                    "texture": "#1"
+                }
+            }
+        },
+        {
+            "name": "planck",
+            "from": [7, 0.52, 3],
+            "to": [9, 1.02, 13],
+            "light_emission": 7,
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [0, 0, 1]
+            },
+            "faces": {
+                "up": {
+                    "uv": [7, 3, 9, 13],
+                    "texture": "#1"
+                },
+                "down": {
+                    "uv": [3, 6, 13, 8],
+                    "rotation": 90,
+                    "texture": "#3"
+                }
+            }
+        },
+        {
+            "name": "planck",
+            "from": [1, 0.52, 6],
+            "to": [15, 0.52, 10],
+            "light_emission": 14,
+            "faces": {
+                "up": {
+                    "uv": [1, 6, 15, 10],
+                    "texture": "#2"
+                }
+            }
+        },
+        {
+            "from": [9, 0.51, 2],
+            "to": [10, 1.51, 14],
+            "light_emission": 14,
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [0, 0, 1]
+            },
+            "faces": {
+                "up": {
+                    "uv": [9, 2, 10, 14],
+                    "texture": "#2"
+                }
+            }
+        },
+        {
+            "from": [6, 0.51, 2],
+            "to": [7, 1.51, 14],
+            "light_emission": 14,
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [0, 0, 1]
+            },
+            "faces": {
+                "up": {
+                    "uv": [6, 2, 7, 14],
+                    "texture": "#2"
+                }
+            }
+        },
+        {
+            "from": [7, 0.51, 13],
+            "to": [9, 1.51, 14],
+            "faces": {
+                "up": {
+                    "uv": [7, 13, 9, 14],
+                    "texture": "#2"
+                }
+            }
+        },
+        {
+            "from": [7, 0.51, 2],
+            "to": [9, 1.51, 3],
+            "light_emission": 14,
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [0, 0, 1]
+            },
+            "faces": {
+                "up": {
+                    "uv": [7, 1.5, 9, 2.5],
+                    "texture": "#2"
+                }
+            }
+        },
+        {
+            "name": "planck",
+            "from": [7, 0.53, 3],
+            "to": [9, 1.03, 13],
+            "light_emission": 14,
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [0, 0, 1]
+            },
+            "faces": {
+                "up": {
+                    "uv": [7, 3, 9, 13],
+                    "texture": "#2"
+                }
+            }
+        }
+    ],
+    "groups": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        {
+            "name": "group",
+            "origin": [8, 8, 8],
+            "color": 0,
+            "children": [8, 9, 10, 11, 12, 13]
+        }
+    ]
+}

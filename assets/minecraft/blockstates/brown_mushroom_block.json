@@ -9,7 +9,7 @@
                     "model": "minecraft:block/brown_mushroom_block"
                 },
                 {
-                    "model": "minecraft:block_variant/mushroom_block/brown_mushroom_block1"
+                    "model": "summerfields:block/mushroom_block/brown_mushroom_block1"
                 }
             ]
         },
@@ -24,7 +24,7 @@
                     "uvlock": true
                 },
                 {
-                    "model": "minecraft:block_variant/mushroom_block/brown_mushroom_block1",
+                    "model": "summerfields:block/mushroom_block/brown_mushroom_block1",
                     "y": 90,
                     "uvlock": true
                 }
@@ -41,7 +41,7 @@
                     "uvlock": true
                 },
                 {
-                    "model": "minecraft:block_variant/mushroom_block/brown_mushroom_block1",
+                    "model": "summerfields:block/mushroom_block/brown_mushroom_block1",
                     "y": 180,
                     "uvlock": true
                 }
@@ -58,7 +58,7 @@
                     "uvlock": true
                 },
                 {
-                    "model": "minecraft:block_variant/mushroom_block/brown_mushroom_block1",
+                    "model": "summerfields:block/mushroom_block/brown_mushroom_block1",
                     "y": 270,
                     "uvlock": true
                 }
@@ -75,7 +75,7 @@
                     "uvlock": true
                 },
                 {
-                    "model": "minecraft:block_variant/mushroom_block/brown_mushroom_block1",
+                    "model": "summerfields:block/mushroom_block/brown_mushroom_block1",
                     "x": 270,
                     "uvlock": true
                 }
@@ -92,7 +92,7 @@
                     "uvlock": true
                 },
                 {
-                    "model": "minecraft:block_variant/mushroom_block/brown_mushroom_block1",
+                    "model": "summerfields:block/mushroom_block/brown_mushroom_block1",
                     "x": 90,
                     "uvlock": true
                 }
@@ -107,7 +107,7 @@
                     "model": "minecraft:block/mushroom_block_inside"
                 },
                 {
-                    "model": "minecraft:block_variant/mushroom_block/block_mushroom_inside1"
+                    "model": "summerfields:block/mushroom_block/block_mushroom_inside1"
                 }
             ]
         },
@@ -122,7 +122,7 @@
                     "uvlock": false
                 },
                 {
-                    "model": "minecraft:block_variant/mushroom_block/block_mushroom_inside1",
+                    "model": "summerfields:block/mushroom_block/block_mushroom_inside1",
                     "y": 90,
                     "uvlock": false
                 }
@@ -139,7 +139,7 @@
                     "uvlock": false
                 },
                 {
-                    "model": "minecraft:block_variant/mushroom_block/block_mushroom_inside1",
+                    "model": "summerfields:block/mushroom_block/block_mushroom_inside1",
                     "y": 180,
                     "uvlock": false
                 }
@@ -156,7 +156,7 @@
                     "uvlock": false
                 },
                 {
-                    "model": "minecraft:block_variant/mushroom_block/block_mushroom_inside1",
+                    "model": "summerfields:block/mushroom_block/block_mushroom_inside1",
                     "y": 270,
                     "uvlock": false
                 }
@@ -173,7 +173,7 @@
                     "uvlock": false
                 },
                 {
-                    "model": "minecraft:block_variant/mushroom_block/block_mushroom_inside1",
+                    "model": "summerfields:block/mushroom_block/block_mushroom_inside1",
                     "x": 270,
                     "uvlock": false
                 }
@@ -190,7 +190,7 @@
                     "uvlock": false
                 },
                 {
-                    "model": "minecraft:block_variant/mushroom_block/block_mushroom_inside1",
+                    "model": "summerfields:block/mushroom_block/block_mushroom_inside1",
                     "x": 90,
                     "uvlock": false
                 }

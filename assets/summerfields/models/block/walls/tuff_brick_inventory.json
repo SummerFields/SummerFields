@@ -1,0 +1,9 @@
+{
+    "parent": "summerfields:block/walls/template_inventory",
+    "textures": {
+        "front": "minecraft:block/tuff_bricks",
+        "top": "summerfields:block/walls/tuff_bricks_top",
+        "innertop": "summerfields:block/walls/tuff_bricks_top",
+        "other": "summerfields:block/walls/tuff_bricks_other"
+    }
+}

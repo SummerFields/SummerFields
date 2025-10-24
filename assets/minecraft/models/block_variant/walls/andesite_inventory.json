@@ -1,9 +1,0 @@
-{
-    "parent": "minecraft:block_variant/walls/template_inventory",
-    "textures": {
-        "front": "minecraft:block/andesite",
-        "top": "#front",
-        "innertop": "#front",
-        "other": "#front"
-    }
-}

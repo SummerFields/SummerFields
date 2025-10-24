@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:block/slab_top",
-    "textures": {
-        "bottom": "minecraft:textures_variant/end_stone/end_stone_bricks_top",
-        "top": "minecraft:textures_variant/end_stone/end_stone_bricks_top",
-        "side": "minecraft:block/end_stone_bricks"
-    }
-}

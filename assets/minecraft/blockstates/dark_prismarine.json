@@ -5,16 +5,16 @@
                 "model": "minecraft:block/dark_prismarine"
             },
             {
-                "model": "minecraft:block_variant/bricks/dark_prismarine_2"
+                "model": "summerfields:block/bricks/dark_prismarine_2"
             },
             {
-                "model": "minecraft:block_variant/bricks/dark_prismarine_3"
+                "model": "summerfields:block/bricks/dark_prismarine_3"
             },
             {
-                "model": "minecraft:block_variant/bricks/dark_prismarine_4"
+                "model": "summerfields:block/bricks/dark_prismarine_4"
             },
             {
-                "model": "minecraft:block_variant/bricks/dark_prismarine_5"
+                "model": "summerfields:block/bricks/dark_prismarine_5"
             }
         ]
     }

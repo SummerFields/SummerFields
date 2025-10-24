@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:block_variant/spawner/spawner",
-    "textures": {
-        "side": "minecraft:block/trial_spawner_side_inactive_ominous",
-        "botttom": "minecraft:block/trial_spawner_bottom",
-        "top": "minecraft:block/trial_spawner_top_inactive_ominous"
-    }
-}

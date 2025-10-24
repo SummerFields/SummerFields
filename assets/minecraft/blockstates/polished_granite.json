@@ -5,16 +5,16 @@
                 "model": "minecraft:block/polished_granite"
             },
             {
-                "model": "minecraft:block_variant/polished/polished_granite_2"
+                "model": "summerfields:block/polished/polished_granite_2"
             },
             {
-                "model": "minecraft:block_variant/polished/polished_granite_3"
+                "model": "summerfields:block/polished/polished_granite_3"
             },
             {
-                "model": "minecraft:block_variant/polished/polished_granite_4"
+                "model": "summerfields:block/polished/polished_granite_4"
             },
             {
-                "model": "minecraft:block_variant/polished/polished_granite_5"
+                "model": "summerfields:block/polished/polished_granite_5"
             }
         ]
     }

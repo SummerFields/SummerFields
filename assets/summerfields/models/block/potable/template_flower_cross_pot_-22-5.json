@@ -1,0 +1,54 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "#side",
+        "side": "summerfields:block/potable/fern_pot",
+        "branch": "#side"
+    },
+    "elements": [
+        {
+            "from": [8, 4, 2.6],
+            "to": [8, 16, 13.4],
+            "shade": false,
+            "rotation": {
+                "angle": 22.5,
+                "axis": "y",
+                "origin": [8, 10, 8]
+            },
+            "faces": {
+                "east": {
+                    "uv": [0, 0, 16, 16],
+                    "texture": "#side",
+                    "tintindex": 0
+                },
+                "west": {
+                    "uv": [16, 0, 0, 16],
+                    "texture": "#side",
+                    "tintindex": 0
+                }
+            }
+        },
+        {
+            "from": [2.6, 4, 8],
+            "to": [13.4, 16, 8],
+            "shade": false,
+            "rotation": {
+                "angle": 22.5,
+                "axis": "y",
+                "origin": [8, 10, 8]
+            },
+            "faces": {
+                "north": {
+                    "uv": [0, 0, 16, 16],
+                    "texture": "#branch",
+                    "tintindex": 0
+                },
+                "south": {
+                    "uv": [16, 0, 0, 16],
+                    "texture": "#branch",
+                    "tintindex": 0
+                }
+            }
+        }
+    ]
+}

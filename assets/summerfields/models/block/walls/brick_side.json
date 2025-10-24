@@ -1,0 +1,10 @@
+{
+    "parent": "summerfields:block/bricks/template_side",
+    "textures": {
+        "particle": "#front",
+        "front": "minecraft:block/bricks",
+        "top": "summerfields:block/bricks/bricks_top",
+        "innertop": "summerfields:block/bricks/bricks_inner_top",
+        "other": "summerfields:block/bricks/bricks_other"
+    }
+}

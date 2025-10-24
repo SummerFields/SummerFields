@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/stairs",
+    "textures": {
+        "bottom": "summerfields:block/bricks/cobblestone_top",
+        "top": "summerfields:block/bricks/cobblestone_top",
+        "side": "minecraft:block/cobblestone"
+    }
+}

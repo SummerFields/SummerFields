@@ -8,14 +8,14 @@
                 "when": "Filter",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/filter/filter_16"
+                    "model": "summerfields:item/filter/filter_16"
                 }
             },
             {
                 "when": "filter",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/filter/filter_16"
+                    "model": "summerfields:item/filter/filter_16"
                 }
             }
         ],

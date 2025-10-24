@@ -1,0 +1,6 @@
+{
+    "parent": "summerfields:block/button/template_orientable_button_pressed",
+    "textures": {
+        "texture": "summerfields:block/button/birch_button"
+    }
+}

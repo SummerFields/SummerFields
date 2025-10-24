@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:item/spawn_egg/shape_cow",
+    "textures": {
+        "0": "minecraft:entity/cow/temperate_cow",
+        "particle": "#0"
+    }
+}

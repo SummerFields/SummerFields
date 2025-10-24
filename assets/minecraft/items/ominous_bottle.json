@@ -8,35 +8,35 @@
                 "when": 0,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/ominous_bottle/ominous_bottle_1"
+                    "model": "summerfields:item/ominous_bottle/ominous_bottle_1"
                 }
             },
             {
                 "when": 1,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/ominous_bottle/ominous_bottle_2"
+                    "model": "summerfields:item/ominous_bottle/ominous_bottle_2"
                 }
             },
             {
                 "when": 2,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/ominous_bottle/ominous_bottle_3"
+                    "model": "summerfields:item/ominous_bottle/ominous_bottle_3"
                 }
             },
             {
                 "when": 3,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/ominous_bottle/ominous_bottle_4"
+                    "model": "summerfields:item/ominous_bottle/ominous_bottle_4"
                 }
             },
             {
                 "when": 4,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/ominous_bottle/ominous_bottle_5"
+                    "model": "summerfields:item/ominous_bottle/ominous_bottle_5"
                 }
             }
         ],

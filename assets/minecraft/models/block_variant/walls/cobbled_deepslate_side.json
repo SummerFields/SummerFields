@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block_variant/walls/template_simple_side",
-    "textures": {
-        "1": "minecraft:textures_variant/bricks/cobbled_deepslate_top",
-        "wall": "minecraft:block/cobbled_deepslate"
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block_variant/walls/bricks/template_wall_side_tall",
-    "textures": {
-        "1": "minecraft:textures_variant/bricks/mossy_stone_bricks_top_1",
-        "wall": "minecraft:block/mossy_stone_bricks"
-    }
-}

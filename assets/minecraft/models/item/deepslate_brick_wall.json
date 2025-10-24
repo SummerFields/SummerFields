@@ -1,3 +1,3 @@
 {
-    "parent": "minecraft:block_variant/walls/deepslate_brick_inventory"
+    "parent": "summerfields:block/walls/deepslate_brick_inventory"
 }

@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block_variant/walls/template_post",
-    "textures": {
-        "post": "minecraft:textures_variant/walls/polished_tuff_post",
-        "particle": "#post"
-    }
-}

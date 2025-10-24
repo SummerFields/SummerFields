@@ -5,7 +5,7 @@
                 "half": "bottom"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_back"
+                "model": "summerfields:block/stairs/end_stone_brick_back"
             }
         },
         {
@@ -13,7 +13,7 @@
                 "half": "top"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_back",
+                "model": "summerfields:block/stairs/end_stone_brick_back",
                 "x": 180
             }
         },
@@ -23,7 +23,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_side",
+                "model": "summerfields:block/stairs/end_stone_brick_side",
                 "y": 0
             }
         },
@@ -33,7 +33,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_side",
+                "model": "summerfields:block/stairs/end_stone_brick_side",
                 "y": 90
             }
         },
@@ -43,7 +43,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_side",
+                "model": "summerfields:block/stairs/end_stone_brick_side",
                 "y": 180
             }
         },
@@ -53,7 +53,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_side",
+                "model": "summerfields:block/stairs/end_stone_brick_side",
                 "y": 270
             }
         },
@@ -63,7 +63,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_side",
+                "model": "summerfields:block/stairs/end_stone_brick_side",
                 "y": 90
             }
         },
@@ -73,7 +73,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_side",
+                "model": "summerfields:block/stairs/end_stone_brick_side",
                 "y": 180
             }
         },
@@ -83,7 +83,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_side",
+                "model": "summerfields:block/stairs/end_stone_brick_side",
                 "y": 270
             }
         },
@@ -93,7 +93,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_side",
+                "model": "summerfields:block/stairs/end_stone_brick_side",
                 "y": 0
             }
         },
@@ -103,7 +103,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_side",
+                "model": "summerfields:block/stairs/end_stone_brick_side",
                 "y": 0
             }
         },
@@ -113,7 +113,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_side",
+                "model": "summerfields:block/stairs/end_stone_brick_side",
                 "y": 90
             }
         },
@@ -123,7 +123,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_side",
+                "model": "summerfields:block/stairs/end_stone_brick_side",
                 "y": 180
             }
         },
@@ -133,7 +133,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_side",
+                "model": "summerfields:block/stairs/end_stone_brick_side",
                 "y": 270
             }
         },
@@ -143,7 +143,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_side",
+                "model": "summerfields:block/stairs/end_stone_brick_side",
                 "y": 270
             }
         },
@@ -153,7 +153,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_side",
+                "model": "summerfields:block/stairs/end_stone_brick_side",
                 "y": 0
             }
         },
@@ -163,7 +163,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_side",
+                "model": "summerfields:block/stairs/end_stone_brick_side",
                 "y": 90
             }
         },
@@ -173,7 +173,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_side",
+                "model": "summerfields:block/stairs/end_stone_brick_side",
                 "y": 180
             }
         },
@@ -183,7 +183,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_side",
+                "model": "summerfields:block/stairs/end_stone_brick_side",
                 "y": 0
             }
         },
@@ -193,7 +193,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_side",
+                "model": "summerfields:block/stairs/end_stone_brick_side",
                 "y": 90
             }
         },
@@ -203,7 +203,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_side",
+                "model": "summerfields:block/stairs/end_stone_brick_side",
                 "y": 180
             }
         },
@@ -213,7 +213,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_side",
+                "model": "summerfields:block/stairs/end_stone_brick_side",
                 "y": 270
             }
         },
@@ -224,7 +224,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_stairs",
                 "y": 0
             }
         },
@@ -235,7 +235,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_stairs",
                 "y": 90
             }
         },
@@ -246,7 +246,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_stairs",
                 "y": 180
             }
         },
@@ -257,7 +257,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_stairs",
                 "y": 270
             }
         },
@@ -268,7 +268,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_outer_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_outer_stairs",
                 "y": 90
             }
         },
@@ -279,7 +279,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_outer_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_outer_stairs",
                 "y": 180
             }
         },
@@ -290,7 +290,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_outer_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_outer_stairs",
                 "y": 270
             }
         },
@@ -301,7 +301,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_outer_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_outer_stairs",
                 "y": 0
             }
         },
@@ -312,7 +312,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_outer_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_outer_stairs",
                 "y": 0
             }
         },
@@ -323,7 +323,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_outer_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_outer_stairs",
                 "y": 90
             }
         },
@@ -334,7 +334,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_outer_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_outer_stairs",
                 "y": 180
             }
         },
@@ -345,7 +345,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_outer_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_outer_stairs",
                 "y": 270
             }
         },
@@ -356,7 +356,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_inner_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_inner_stairs",
                 "y": 90
             }
         },
@@ -367,7 +367,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_inner_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_inner_stairs",
                 "y": 180
             }
         },
@@ -378,7 +378,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_inner_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_inner_stairs",
                 "y": 270
             }
         },
@@ -389,7 +389,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_inner_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_inner_stairs",
                 "y": 0
             }
         },
@@ -400,7 +400,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_inner_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_inner_stairs",
                 "y": 0
             }
         },
@@ -411,7 +411,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_inner_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_inner_stairs",
                 "y": 270
             }
         },
@@ -422,7 +422,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_inner_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_inner_stairs",
                 "y": 180
             }
         },
@@ -433,7 +433,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_inner_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_inner_stairs",
                 "y": 90
             }
         },
@@ -444,7 +444,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_stairs",
                 "x": 180,
                 "y": 0
             }
@@ -456,7 +456,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_stairs",
                 "x": 180,
                 "y": 90
             }
@@ -468,7 +468,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_stairs",
                 "x": 180,
                 "y": 180
             }
@@ -480,7 +480,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_stairs",
                 "x": 180,
                 "y": 270
             }
@@ -492,7 +492,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_outer_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_outer_stairs",
                 "x": 180,
                 "y": 0
             }
@@ -504,7 +504,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_outer_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_outer_stairs",
                 "x": 180,
                 "y": 90
             }
@@ -516,7 +516,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_outer_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_outer_stairs",
                 "x": 180,
                 "y": 180
             }
@@ -528,7 +528,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_outer_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_outer_stairs",
                 "x": 180,
                 "y": 270
             }
@@ -540,7 +540,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_outer_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_outer_stairs",
                 "x": 180,
                 "y": 270
             }
@@ -552,7 +552,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_outer_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_outer_stairs",
                 "x": 180,
                 "y": 0
             }
@@ -564,7 +564,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_outer_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_outer_stairs",
                 "x": 180,
                 "y": 90
             }
@@ -576,7 +576,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_outer_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_outer_stairs",
                 "x": 180,
                 "y": 180
             }
@@ -588,7 +588,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_inner_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_inner_stairs",
                 "x": 180,
                 "y": 0
             }
@@ -600,7 +600,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_inner_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_inner_stairs",
                 "x": 180,
                 "y": 90
             }
@@ -612,7 +612,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_inner_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_inner_stairs",
                 "x": 180,
                 "y": 180
             }
@@ -624,7 +624,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_inner_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_inner_stairs",
                 "x": 180,
                 "y": 270
             }
@@ -636,7 +636,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_inner_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_inner_stairs",
                 "x": 180,
                 "y": 270
             }
@@ -648,7 +648,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_inner_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_inner_stairs",
                 "x": 180,
                 "y": 0
             }
@@ -660,7 +660,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_inner_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_inner_stairs",
                 "x": 180,
                 "y": 90
             }
@@ -672,7 +672,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/end_stone_brick_inner_stairs",
+                "model": "summerfields:block/stairs/end_stone_brick_inner_stairs",
                 "x": 180,
                 "y": 180
             }

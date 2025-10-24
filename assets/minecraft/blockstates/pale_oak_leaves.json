@@ -2,48 +2,48 @@
     "variants": {
         "": [
             {
-                "model": "minecraft:block_variant/leaves/pale_oak/pale_oak_leaves_1"
+                "model": "summerfields:block/leaves/pale_oak/pale_oak_leaves_1"
             },
             {
-                "model": "minecraft:block_variant/leaves/pale_oak/pale_oak_leaves_1",
+                "model": "summerfields:block/leaves/pale_oak/pale_oak_leaves_1",
                 "y": 90
             },
             {
-                "model": "minecraft:block_variant/leaves/pale_oak/pale_oak_leaves_1",
+                "model": "summerfields:block/leaves/pale_oak/pale_oak_leaves_1",
                 "y": 180
             },
             {
-                "model": "minecraft:block_variant/leaves/pale_oak/pale_oak_leaves_1",
+                "model": "summerfields:block/leaves/pale_oak/pale_oak_leaves_1",
                 "y": 270
             },
             {
-                "model": "minecraft:block_variant/leaves/pale_oak/pale_oak_leaves_2"
+                "model": "summerfields:block/leaves/pale_oak/pale_oak_leaves_2"
             },
             {
-                "model": "minecraft:block_variant/leaves/pale_oak/pale_oak_leaves_2",
+                "model": "summerfields:block/leaves/pale_oak/pale_oak_leaves_2",
                 "y": 90
             },
             {
-                "model": "minecraft:block_variant/leaves/pale_oak/pale_oak_leaves_2",
+                "model": "summerfields:block/leaves/pale_oak/pale_oak_leaves_2",
                 "y": 180
             },
             {
-                "model": "minecraft:block_variant/leaves/pale_oak/pale_oak_leaves_2",
+                "model": "summerfields:block/leaves/pale_oak/pale_oak_leaves_2",
                 "y": 270
             },
             {
-                "model": "minecraft:block_variant/leaves/pale_oak/pale_oak_leaves_3"
+                "model": "summerfields:block/leaves/pale_oak/pale_oak_leaves_3"
             },
             {
-                "model": "minecraft:block_variant/leaves/pale_oak/pale_oak_leaves_3",
+                "model": "summerfields:block/leaves/pale_oak/pale_oak_leaves_3",
                 "y": 90
             },
             {
-                "model": "minecraft:block_variant/leaves/pale_oak/pale_oak_leaves_3",
+                "model": "summerfields:block/leaves/pale_oak/pale_oak_leaves_3",
                 "y": 180
             },
             {
-                "model": "minecraft:block_variant/leaves/pale_oak/pale_oak_leaves_3",
+                "model": "summerfields:block/leaves/pale_oak/pale_oak_leaves_3",
                 "y": 270
             }
         ]

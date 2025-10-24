@@ -1,35 +1,35 @@
 {
     "pack": {
-        "datapack_format": 88,
+        "datapack_format": 94,
         "pack_format": 18,
         "supported_formats": {
             "min_inclusive": 18,
-            "max_inclusive": 69
+            "max_inclusive": 75
         },
         "min_format": 18,
-        "max_format": 69,
-        "description": "1.20.2 to 1.21.10 SummerFields"
+        "max_format": 75,
+        "description": "1.20.2 to 1.21.11 SummerFields"
     },
     "overlays": {
         "entries": [
             {
                 "formats": {
                     "min_inclusive": 22,
-                    "max_inclusive": 69
+                    "max_inclusive": 75
                 },
                 "directory": "22p"
             },
             {
                 "formats": {
                     "min_inclusive": 32,
-                    "max_inclusive": 69
+                    "max_inclusive": 75
                 },
                 "directory": "32p"
             },
             {
                 "formats": {
                     "min_inclusive": 46,
-                    "max_inclusive": 69
+                    "max_inclusive": 75
                 },
                 "directory": "46p"
             }

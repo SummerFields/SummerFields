@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:block_variant/bricks/mossy_stone_bricks_1"
+        "model": "summerfields:block/bricks/mossy_stone_bricks_1"
     }
 }

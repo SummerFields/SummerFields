@@ -1,0 +1,6 @@
+{
+    "parent": "summerfields:block/pressure_plate/display_pressure_plate",
+    "textures": {
+        "texture": "summerfields:block/pressure_plate/iron_pressure_plate"
+    }
+}

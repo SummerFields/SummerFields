@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/potable/template_flower_pot_-22-5",
+    "textures": {
+        "particle": "#side",
+        "side": "summerfields:block/potable/warped_fungus_pot"
+    }
+}

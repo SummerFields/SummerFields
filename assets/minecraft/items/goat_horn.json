@@ -10,56 +10,56 @@
                     "when": "minecraft:ponder_goat_horn",
                     "model": {
                         "type": "minecraft:model",
-                        "model": "minecraft:item_variant/goat_horn/goat_horn_ponder"
+                        "model": "summerfields:item/goat_horn/goat_horn_ponder"
                     }
                 },
                 {
                     "when": "minecraft:sing_goat_horn",
                     "model": {
                         "type": "minecraft:model",
-                        "model": "minecraft:item_variant/goat_horn/goat_horn_sing"
+                        "model": "summerfields:item/goat_horn/goat_horn_sing"
                     }
                 },
                 {
                     "when": "minecraft:seek_goat_horn",
                     "model": {
                         "type": "minecraft:model",
-                        "model": "minecraft:item_variant/goat_horn/goat_horn_seek"
+                        "model": "summerfields:item/goat_horn/goat_horn_seek"
                     }
                 },
                 {
                     "when": "minecraft:feel_goat_horn",
                     "model": {
                         "type": "minecraft:model",
-                        "model": "minecraft:item_variant/goat_horn/goat_horn_feel"
+                        "model": "summerfields:item/goat_horn/goat_horn_feel"
                     }
                 },
                 {
                     "when": "minecraft:admire_goat_horn",
                     "model": {
                         "type": "minecraft:model",
-                        "model": "minecraft:item_variant/goat_horn/goat_horn_admire"
+                        "model": "summerfields:item/goat_horn/goat_horn_admire"
                     }
                 },
                 {
                     "when": "minecraft:call_goat_horn",
                     "model": {
                         "type": "minecraft:model",
-                        "model": "minecraft:item_variant/goat_horn/goat_horn_call"
+                        "model": "summerfields:item/goat_horn/goat_horn_call"
                     }
                 },
                 {
                     "when": "minecraft:yearn_goat_horn",
                     "model": {
                         "type": "minecraft:model",
-                        "model": "minecraft:item_variant/goat_horn/goat_horn_yearn"
+                        "model": "summerfields:item/goat_horn/goat_horn_yearn"
                     }
                 },
                 {
                     "when": "minecraft:dream_goat_horn",
                     "model": {
                         "type": "minecraft:model",
-                        "model": "minecraft:item_variant/goat_horn/goat_horn_dream"
+                        "model": "summerfields:item/goat_horn/goat_horn_dream"
                     }
                 }
             ],
@@ -77,56 +77,56 @@
                     "when": "minecraft:ponder_goat_horn",
                     "model": {
                         "type": "minecraft:model",
-                        "model": "minecraft:item_variant/goat_horn/tooting_goat_horn_ponder"
+                        "model": "summerfields:item/goat_horn/tooting_goat_horn_ponder"
                     }
                 },
                 {
                     "when": "minecraft:sing_goat_horn",
                     "model": {
                         "type": "minecraft:model",
-                        "model": "minecraft:item_variant/goat_horn/tooting_goat_horn_sing"
+                        "model": "summerfields:item/goat_horn/tooting_goat_horn_sing"
                     }
                 },
                 {
                     "when": "minecraft:seek_goat_horn",
                     "model": {
                         "type": "minecraft:model",
-                        "model": "minecraft:item_variant/goat_horn/tooting_goat_horn_seek"
+                        "model": "summerfields:item/goat_horn/tooting_goat_horn_seek"
                     }
                 },
                 {
                     "when": "minecraft:feel_goat_horn",
                     "model": {
                         "type": "minecraft:model",
-                        "model": "minecraft:item_variant/goat_horn/tooting_goat_horn_feel"
+                        "model": "summerfields:item/goat_horn/tooting_goat_horn_feel"
                     }
                 },
                 {
                     "when": "minecraft:admire_goat_horn",
                     "model": {
                         "type": "minecraft:model",
-                        "model": "minecraft:item_variant/goat_horn/tooting_goat_horn_admire"
+                        "model": "summerfields:item/goat_horn/tooting_goat_horn_admire"
                     }
                 },
                 {
                     "when": "minecraft:call_goat_horn",
                     "model": {
                         "type": "minecraft:model",
-                        "model": "minecraft:item_variant/goat_horn/tooting_goat_horn_call"
+                        "model": "summerfields:item/goat_horn/tooting_goat_horn_call"
                     }
                 },
                 {
                     "when": "minecraft:yearn_goat_horn",
                     "model": {
                         "type": "minecraft:model",
-                        "model": "minecraft:item_variant/goat_horn/tooting_goat_horn_yearn"
+                        "model": "summerfields:item/goat_horn/tooting_goat_horn_yearn"
                     }
                 },
                 {
                     "when": "minecraft:dream_goat_horn",
                     "model": {
                         "type": "minecraft:model",
-                        "model": "minecraft:item_variant/goat_horn/tooting_goat_horn_dream"
+                        "model": "summerfields:item/goat_horn/tooting_goat_horn_dream"
                     }
                 }
             ],

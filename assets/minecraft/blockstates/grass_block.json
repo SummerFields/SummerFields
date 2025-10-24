@@ -5,34 +5,34 @@
                 "model": "minecraft:block/grass_block"
             },
             {
-                "model": "minecraft:block_variant/grass/grass_block1"
+                "model": "summerfields:block/grass/grass_block1"
             },
             {
-                "model": "minecraft:block_variant/grass/grass_block2"
+                "model": "summerfields:block/grass/grass_block2"
             },
             {
-                "model": "minecraft:block_variant/grass/grass_block3"
+                "model": "summerfields:block/grass/grass_block3"
             },
             {
-                "model": "minecraft:block_variant/grass/grass_block4"
+                "model": "summerfields:block/grass/grass_block4"
             },
             {
-                "model": "minecraft:block_variant/grass/grass_block5"
+                "model": "summerfields:block/grass/grass_block5"
             },
             {
-                "model": "minecraft:block_variant/grass/grass_block6"
+                "model": "summerfields:block/grass/grass_block6"
             },
             {
-                "model": "minecraft:block_variant/grass/grass_block7"
+                "model": "summerfields:block/grass/grass_block7"
             },
             {
-                "model": "minecraft:block_variant/grass/grass_block8"
+                "model": "summerfields:block/grass/grass_block8"
             },
             {
-                "model": "minecraft:block_variant/grass/grass_block9"
+                "model": "summerfields:block/grass/grass_block9"
             },
             {
-                "model": "minecraft:block_variant/grass/grass_block10"
+                "model": "summerfields:block/grass/grass_block10"
             }
         ],
         "snowy=true": {

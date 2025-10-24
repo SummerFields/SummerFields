@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/pumpkin_melon/pumpkin",
+    "parent": "summerfields:block/pumpkin_melon/pumpkin",
     "display": {
         "gui": {
             "rotation": [30, 45, 0],

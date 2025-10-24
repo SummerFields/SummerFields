@@ -2,82 +2,82 @@
     "variants": {
         "": [
             {
-                "model": "minecraft:block_variant/potable/dead_fern/dead_bush",
+                "model": "summerfields:block/potable/dead_fern/dead_bush",
                 "y": 0,
                 "weight": 2
             },
             {
-                "model": "minecraft:block_variant/potable/dead_fern/dead_bush_22-5",
+                "model": "summerfields:block/potable/dead_fern/dead_bush_22-5",
                 "y": 0,
                 "weight": 2
             },
             {
-                "model": "minecraft:block_variant/potable/dead_fern/dead_bush_45",
+                "model": "summerfields:block/potable/dead_fern/dead_bush_45",
                 "y": 0,
                 "weight": 2
             },
             {
-                "model": "minecraft:block_variant/potable/dead_fern/dead_bush_-22-5",
+                "model": "summerfields:block/potable/dead_fern/dead_bush_-22-5",
                 "y": 0,
                 "weight": 2
             },
             {
-                "model": "minecraft:block_variant/potable/dead_fern/dead_bush",
+                "model": "summerfields:block/potable/dead_fern/dead_bush",
                 "y": 90,
                 "weight": 2
             },
             {
-                "model": "minecraft:block_variant/potable/dead_fern/dead_bush_22-5",
+                "model": "summerfields:block/potable/dead_fern/dead_bush_22-5",
                 "y": 90,
                 "weight": 2
             },
             {
-                "model": "minecraft:block_variant/potable/dead_fern/dead_bush_45",
+                "model": "summerfields:block/potable/dead_fern/dead_bush_45",
                 "y": 90,
                 "weight": 2
             },
             {
-                "model": "minecraft:block_variant/potable/dead_fern/dead_bush_-22-5",
+                "model": "summerfields:block/potable/dead_fern/dead_bush_-22-5",
                 "y": 90,
                 "weight": 2
             },
             {
-                "model": "minecraft:block_variant/potable/dead_fern/dead_bush",
+                "model": "summerfields:block/potable/dead_fern/dead_bush",
                 "y": 180,
                 "weight": 2
             },
             {
-                "model": "minecraft:block_variant/potable/dead_fern/dead_bush_22-5",
+                "model": "summerfields:block/potable/dead_fern/dead_bush_22-5",
                 "y": 180,
                 "weight": 2
             },
             {
-                "model": "minecraft:block_variant/potable/dead_fern/dead_bush_45",
+                "model": "summerfields:block/potable/dead_fern/dead_bush_45",
                 "y": 180,
                 "weight": 2
             },
             {
-                "model": "minecraft:block_variant/potable/dead_fern/dead_bush_-22-5",
+                "model": "summerfields:block/potable/dead_fern/dead_bush_-22-5",
                 "y": 180,
                 "weight": 2
             },
             {
-                "model": "minecraft:block_variant/potable/dead_fern/dead_bush",
+                "model": "summerfields:block/potable/dead_fern/dead_bush",
                 "y": 270,
                 "weight": 2
             },
             {
-                "model": "minecraft:block_variant/potable/dead_fern/dead_bush_22-5",
+                "model": "summerfields:block/potable/dead_fern/dead_bush_22-5",
                 "y": 270,
                 "weight": 2
             },
             {
-                "model": "minecraft:block_variant/potable/dead_fern/dead_bush_45",
+                "model": "summerfields:block/potable/dead_fern/dead_bush_45",
                 "y": 270,
                 "weight": 2
             },
             {
-                "model": "minecraft:block_variant/potable/dead_fern/dead_bush_-22-5",
+                "model": "summerfields:block/potable/dead_fern/dead_bush_-22-5",
                 "y": 270,
                 "weight": 2
             }

@@ -5,16 +5,16 @@
                 "model": "minecraft:block/polished_blackstone"
             },
             {
-                "model": "minecraft:block_variant/polished/polished_blackstone_2"
+                "model": "summerfields:block/polished/polished_blackstone_2"
             },
             {
-                "model": "minecraft:block_variant/polished/polished_blackstone_3"
+                "model": "summerfields:block/polished/polished_blackstone_3"
             },
             {
-                "model": "minecraft:block_variant/polished/polished_blackstone_4"
+                "model": "summerfields:block/polished/polished_blackstone_4"
             },
             {
-                "model": "minecraft:block_variant/polished/polished_blackstone_5"
+                "model": "summerfields:block/polished/polished_blackstone_5"
             }
         ]
     }

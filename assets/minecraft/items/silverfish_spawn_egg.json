@@ -1,6 +1,28 @@
 {
     "model": {
-        "type": "minecraft:model",
-        "model": "minecraft:item_variant/spawn_egg/silverfish_spawn_egg"
+        "type": "minecraft:composite",
+        "models": [
+            {
+                "type": "minecraft:model",
+                "model": "summerfields:item/spawn_egg/silverfish_spawn_egg"
+            },
+            {
+                "type": "minecraft:select",
+                "property": "minecraft:display_context",
+                "cases": [
+                    {
+                        "when": ["gui"],
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "summerfields:item/spawn_egg/cage_hostile"
+                        }
+                    }
+                ],
+                "fallback": {
+                    "type": "minecraft:model",
+                    "model": "summerfields:item/nothing"
+                }
+            }
+        ]
     }
 }

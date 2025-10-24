@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/bars/template_copper_bars_side",
+    "textures": {
+        "particle": "block/oxidized_copper_bars",
+        "edge": "block/oxidized_copper_bars"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "summerfields:item/goat_horn/tooting_goat_horn",
+    "textures": {
+        "layer0": "summerfields:block/goat_horn/goat_horn_sing"
+    }
+}

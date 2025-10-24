@@ -1,3 +1,3 @@
 {
-    "parent": "minecraft:block_variant/walls/granite_inventory"
+    "parent": "summerfields:block/walls/granite_inventory"
 }

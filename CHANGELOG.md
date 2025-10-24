@@ -5,6 +5,22 @@ This changelog lists all notable updates and contributions for the SummerFields 
 
 ---
 
+Release 1.21.11
+
+  - by [lipki] (https://github.com/lipki)
+	- Nautilus
+	- Nautilus Gui
+	- Zombie Nautilus
+	- Zombie Nautilus Coral
+	- Nautilus Armor
+	- Breath of the Nautilus
+	- Spear
+	- Spear Enchant
+	- Camel husk
+	- Parched
+	- Zombie horse Spawn Egg
+	- Netherite horse armor
+
 Release 1.21.9
 
   - by [lipki] (https://github.com/lipki)

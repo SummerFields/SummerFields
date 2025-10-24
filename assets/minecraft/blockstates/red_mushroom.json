@@ -2,67 +2,67 @@
     "variants": {
         "": [
             {
-                "model": "minecraft:block_variant/potable/mushroom/red_mushroom",
+                "model": "summerfields:block/potable/mushroom/red_mushroom",
                 "y": 0
             },
             {
-                "model": "minecraft:block_variant/potable/mushroom/red_mushroom_22-5",
+                "model": "summerfields:block/potable/mushroom/red_mushroom_22-5",
                 "y": 0
             },
             {
-                "model": "minecraft:block_variant/potable/mushroom/red_mushroom_45",
+                "model": "summerfields:block/potable/mushroom/red_mushroom_45",
                 "y": 0
             },
             {
-                "model": "minecraft:block_variant/potable/mushroom/red_mushroom_-22-5",
+                "model": "summerfields:block/potable/mushroom/red_mushroom_-22-5",
                 "y": 0
             },
             {
-                "model": "minecraft:block_variant/potable/mushroom/red_mushroom",
+                "model": "summerfields:block/potable/mushroom/red_mushroom",
                 "y": 90
             },
             {
-                "model": "minecraft:block_variant/potable/mushroom/red_mushroom_22-5",
+                "model": "summerfields:block/potable/mushroom/red_mushroom_22-5",
                 "y": 90
             },
             {
-                "model": "minecraft:block_variant/potable/mushroom/red_mushroom_45",
+                "model": "summerfields:block/potable/mushroom/red_mushroom_45",
                 "y": 90
             },
             {
-                "model": "minecraft:block_variant/potable/mushroom/red_mushroom_-22-5",
+                "model": "summerfields:block/potable/mushroom/red_mushroom_-22-5",
                 "y": 90
             },
             {
-                "model": "minecraft:block_variant/potable/mushroom/red_mushroom",
+                "model": "summerfields:block/potable/mushroom/red_mushroom",
                 "y": 180
             },
             {
-                "model": "minecraft:block_variant/potable/mushroom/red_mushroom_22-5",
+                "model": "summerfields:block/potable/mushroom/red_mushroom_22-5",
                 "y": 180
             },
             {
-                "model": "minecraft:block_variant/potable/mushroom/red_mushroom_45",
+                "model": "summerfields:block/potable/mushroom/red_mushroom_45",
                 "y": 180
             },
             {
-                "model": "minecraft:block_variant/potable/mushroom/red_mushroom_-22-5",
+                "model": "summerfields:block/potable/mushroom/red_mushroom_-22-5",
                 "y": 180
             },
             {
-                "model": "minecraft:block_variant/potable/mushroom/red_mushroom",
+                "model": "summerfields:block/potable/mushroom/red_mushroom",
                 "y": 270
             },
             {
-                "model": "minecraft:block_variant/potable/mushroom/red_mushroom_22-5",
+                "model": "summerfields:block/potable/mushroom/red_mushroom_22-5",
                 "y": 270
             },
             {
-                "model": "minecraft:block_variant/potable/mushroom/red_mushroom_45",
+                "model": "summerfields:block/potable/mushroom/red_mushroom_45",
                 "y": 270
             },
             {
-                "model": "minecraft:block_variant/potable/mushroom/red_mushroom_-22-5",
+                "model": "summerfields:block/potable/mushroom/red_mushroom_-22-5",
                 "y": 270
             }
         ]

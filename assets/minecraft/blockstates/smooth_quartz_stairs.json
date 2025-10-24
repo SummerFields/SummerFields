@@ -7,7 +7,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_stairs",
                 "uvlock": true
             }
         },
@@ -18,7 +18,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_stairs",
                 "uvlock": true,
                 "y": 180
             }
@@ -30,7 +30,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_stairs",
                 "uvlock": true,
                 "y": 90
             }
@@ -42,7 +42,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_stairs",
                 "uvlock": true,
                 "y": 270
             }
@@ -54,7 +54,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_outer_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_outer_stairs",
                 "uvlock": true,
                 "y": 180
             }
@@ -66,7 +66,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_outer_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_outer_stairs",
                 "uvlock": true
             }
         },
@@ -77,7 +77,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_outer_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_outer_stairs",
                 "uvlock": true,
                 "y": 90
             }
@@ -89,7 +89,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_outer_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_outer_stairs",
                 "uvlock": true,
                 "y": 270
             }
@@ -101,7 +101,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_outer_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_outer_stairs",
                 "uvlock": true,
                 "y": 90
             }
@@ -113,7 +113,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_outer_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_outer_stairs",
                 "uvlock": true,
                 "y": 270
             }
@@ -125,7 +125,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_outer_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_outer_stairs",
                 "uvlock": true
             }
         },
@@ -136,7 +136,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_outer_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_outer_stairs",
                 "uvlock": true,
                 "y": 180
             }
@@ -148,7 +148,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_inner_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_inner_stairs",
                 "uvlock": true,
                 "y": 180
             }
@@ -160,7 +160,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_inner_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_inner_stairs",
                 "uvlock": true
             }
         },
@@ -171,7 +171,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_inner_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_inner_stairs",
                 "uvlock": true,
                 "y": 90
             }
@@ -183,7 +183,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_inner_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_inner_stairs",
                 "uvlock": true,
                 "y": 270
             }
@@ -195,7 +195,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_inner_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_inner_stairs",
                 "uvlock": true,
                 "y": 270
             }
@@ -207,7 +207,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_inner_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_inner_stairs",
                 "uvlock": true,
                 "y": 90
             }
@@ -219,7 +219,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_inner_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_inner_stairs",
                 "uvlock": true
             }
         },
@@ -230,7 +230,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_inner_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_inner_stairs",
                 "uvlock": true,
                 "y": 180
             }
@@ -242,7 +242,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_stairs",
                 "uvlock": true,
                 "x": 180
             }
@@ -254,7 +254,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_stairs",
                 "uvlock": true,
                 "x": 180,
                 "y": 180
@@ -267,7 +267,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_stairs",
                 "uvlock": true,
                 "x": 180,
                 "y": 90
@@ -280,7 +280,7 @@
                 "shape": "straight"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_stairs",
                 "uvlock": true,
                 "x": 180,
                 "y": 270
@@ -293,7 +293,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_outer_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_outer_stairs",
                 "uvlock": true,
                 "x": 180,
                 "y": 90
@@ -306,7 +306,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_outer_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_outer_stairs",
                 "uvlock": true,
                 "x": 180,
                 "y": 270
@@ -319,7 +319,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_outer_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_outer_stairs",
                 "uvlock": true,
                 "x": 180,
                 "y": 180
@@ -332,7 +332,7 @@
                 "shape": "outer_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_outer_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_outer_stairs",
                 "uvlock": true,
                 "x": 180
             }
@@ -344,7 +344,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_outer_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_outer_stairs",
                 "uvlock": true,
                 "x": 180
             }
@@ -356,7 +356,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_outer_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_outer_stairs",
                 "uvlock": true,
                 "x": 180,
                 "y": 180
@@ -369,7 +369,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_outer_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_outer_stairs",
                 "uvlock": true,
                 "x": 180,
                 "y": 90
@@ -382,7 +382,7 @@
                 "shape": "outer_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_outer_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_outer_stairs",
                 "uvlock": true,
                 "x": 180,
                 "y": 270
@@ -395,7 +395,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_inner_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_inner_stairs",
                 "uvlock": true,
                 "x": 180,
                 "y": 90
@@ -408,7 +408,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_inner_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_inner_stairs",
                 "uvlock": true,
                 "x": 180,
                 "y": 270
@@ -421,7 +421,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_inner_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_inner_stairs",
                 "uvlock": true,
                 "x": 180,
                 "y": 180
@@ -434,7 +434,7 @@
                 "shape": "inner_right"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_inner_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_inner_stairs",
                 "uvlock": true,
                 "x": 180
             }
@@ -446,7 +446,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_inner_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_inner_stairs",
                 "uvlock": true,
                 "x": 180
             }
@@ -458,7 +458,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_inner_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_inner_stairs",
                 "uvlock": true,
                 "x": 180,
                 "y": 180
@@ -471,7 +471,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_inner_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_inner_stairs",
                 "uvlock": true,
                 "x": 180,
                 "y": 90
@@ -484,7 +484,7 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "minecraft:block_variant/stairs/smooth_quartz_inner_stairs",
+                "model": "summerfields:block/stairs/smooth_quartz_inner_stairs",
                 "uvlock": true,
                 "x": 180,
                 "y": 270

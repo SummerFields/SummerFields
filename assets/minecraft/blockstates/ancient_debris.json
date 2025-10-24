@@ -2,10 +2,10 @@
     "variants": {
         "": [
             {
-                "model": "minecraft:block_variant/ancient_debris/ancient_debris"
+                "model": "summerfields:block/ancient_debris/ancient_debris"
             },
             {
-                "model": "minecraft:block_variant/ancient_debris/ancient_debris2"
+                "model": "summerfields:block/ancient_debris/ancient_debris2"
             }
         ]
     }

@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/button/oak_button",
+    "parent": "summerfields:block/button/oak_button",
     "display": {
         "thirdperson_righthand": {
             "rotation": [0, 0, -90],

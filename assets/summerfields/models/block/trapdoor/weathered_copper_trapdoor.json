@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/trapdoor/acacia_trapdoor",
+    "textures": {
+        "texture": "minecraft:block/weathered_copper_trapdoor",
+        "particle": "summerfields:block/trapdoor/weathered_copper_trapdoor_side"
+    }
+}

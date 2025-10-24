@@ -1,0 +1,6 @@
+{
+    "parent": "summerfields:item/harness/template_harness",
+    "textures": {
+        "layer0": "minecraft:entity/equipment/happy_ghast_body/yellow_harness"
+    }
+}

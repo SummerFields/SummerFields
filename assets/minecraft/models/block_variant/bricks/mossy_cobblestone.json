@@ -1,9 +1,0 @@
-{
-    "parent": "minecraft:block_variant/bricks/basemossy",
-    "textures": {
-        "down": "minecraft:textures_variant/bricks/mossy_cobblestone_top",
-        "up": "minecraft:textures_variant/bricks/mossy_cobblestone_top",
-        "side": "minecraft:block/mossy_cobblestone",
-        "crop": "minecraft:block/wheat_stage0"
-    }
-}

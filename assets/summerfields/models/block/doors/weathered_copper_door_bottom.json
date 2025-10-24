@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/doors/copper_door_bottom",
+    "textures": {
+        "1": "summerfields:block/doors/weathered_copper_door_side",
+        "bottom": "minecraft:block/weathered_copper_door_bottom"
+    }
+}

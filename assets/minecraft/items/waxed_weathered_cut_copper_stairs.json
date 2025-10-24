@@ -4,19 +4,19 @@
         "models": [
             {
                 "type": "minecraft:model",
-                "model": "minecraft:block_variant/stairs/weathered_cut_copper_stairs"
+                "model": "summerfields:block/stairs/weathered_cut_copper_stairs"
             },
             {
                 "type": "minecraft:model",
-                "model": "minecraft:block_variant/stairs/weathered_cut_copper_back"
+                "model": "summerfields:block/stairs/weathered_cut_copper_back"
             },
             {
                 "type": "minecraft:model",
-                "model": "minecraft:block_variant/stairs/weathered_cut_copper_side"
+                "model": "summerfields:block/stairs/weathered_cut_copper_side"
             },
             {
                 "type": "minecraft:model",
-                "model": "minecraft:item_variant/waxed/template_stairs_inventory_waxed"
+                "model": "summerfields:item/waxed/template_stairs_inventory_waxed"
             }
         ]
     }

@@ -1,10 +1,10 @@
 {
     "variants": {
         "powered=false": {
-            "model": "minecraft:block_variant/pressure_plate/stone_pressure_plate"
+            "model": "summerfields:block/pressure_plate/stone_pressure_plate"
         },
         "powered=true": {
-            "model": "minecraft:block_variant/pressure_plate/stone_pressure_plate_down"
+            "model": "summerfields:block/pressure_plate/stone_pressure_plate_down"
         }
     }
 }

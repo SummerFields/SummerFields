@@ -1,9 +1,0 @@
-{
-    "parent": "minecraft:block_variant/walls/template_side_tall",
-    "textures": {
-        "particle": "#front",
-        "front": "minecraft:block/red_sandstone_top",
-        "innertop": "minecraft:textures_variant/walls/red_sandstone_top",
-        "other": "minecraft:textures_variant/walls/red_sandstone_other"
-    }
-}

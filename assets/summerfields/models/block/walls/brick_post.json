@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/bricks/template_post",
+    "textures": {
+        "post": "summerfields:block/bricks/bricks_post",
+        "particle": "#post"
+    }
+}

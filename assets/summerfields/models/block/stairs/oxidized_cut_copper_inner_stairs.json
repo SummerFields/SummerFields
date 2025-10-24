@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/stairs/template_inner_stairs",
+    "textures": {
+        "0": "summerfields:block/stairs/oxidized_cut_copper_stair",
+        "particle": "summerfields:block/stairs/oxidized_cut_copper_stair"
+    }
+}

@@ -1,3 +1,3 @@
 {
-    "parent": "minecraft:block_variant/walls/prismarine_inventory"
+    "parent": "summerfields:block/walls/prismarine_inventory"
 }

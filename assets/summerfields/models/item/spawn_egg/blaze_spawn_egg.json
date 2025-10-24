@@ -1,0 +1,46 @@
+{
+    "parent": "summerfields:item/spawn_egg/display_spawn_egg",
+    "textures": {
+        "particle": "entity/blaze",
+        "layer0": "entity/blaze"
+    },
+    "elements": [
+        {
+            "name": "head",
+            "from": [4, 4, 4],
+            "to": [12, 12, 12],
+            "rotation": { "angle": 0, "axis": "y", "origin": [8, 8, 8] },
+            "faces": {
+                "north": { "uv": [2, 4, 4, 8], "texture": "#layer0" },
+                "east": { "uv": [0, 4, 2, 8], "texture": "#layer0" },
+                "south": { "uv": [6, 4, 8, 8], "texture": "#layer0" },
+                "west": { "uv": [4, 4, 6, 8], "texture": "#layer0" },
+                "down": { "uv": [6, 0, 4, 4], "texture": "#layer0" }
+            }
+        },
+        {
+            "name": "head",
+            "from": [4, 4, 12],
+            "to": [12, 12, 4],
+            "rotation": { "angle": 0, "axis": "y", "origin": [-8, 8, 0] },
+            "faces": {
+                "north": { "uv": [8, 4, 6, 8], "texture": "#layer0" },
+                "east": { "uv": [6, 4, 4, 8], "texture": "#layer0" },
+                "south": { "uv": [4, 4, 2, 8], "texture": "#layer0" },
+                "west": { "uv": [2, 4, 0, 8], "texture": "#layer0" },
+                "down": { "uv": [4, 0, 6, 4], "rotation": 180, "texture": "#layer0" }
+            }
+        }
+    ],
+    "display": {
+        "thirdperson_righthand": {
+            "scale": [0.25, 0.25, 0.25]
+        },
+        "thirdperson_lefthand": {
+            "scale": [0.25, 0.25, 0.25]
+        },
+        "fixed": {
+            "scale": [0.5, 0.5, 0.5]
+        }
+    }
+}

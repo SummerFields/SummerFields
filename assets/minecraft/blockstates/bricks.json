@@ -2,19 +2,19 @@
     "variants": {
         "": [
             {
-                "model": "minecraft:block_variant/bricks/bricks_1"
+                "model": "summerfields:block/bricks/bricks_1"
             },
             {
-                "model": "minecraft:block_variant/bricks/bricks_2"
+                "model": "summerfields:block/bricks/bricks_2"
             },
             {
-                "model": "minecraft:block_variant/bricks/bricks_3"
+                "model": "summerfields:block/bricks/bricks_3"
             },
             {
-                "model": "minecraft:block_variant/bricks/bricks_4"
+                "model": "summerfields:block/bricks/bricks_4"
             },
             {
-                "model": "minecraft:block_variant/bricks/bricks_5"
+                "model": "summerfields:block/bricks/bricks_5"
             }
         ]
     }

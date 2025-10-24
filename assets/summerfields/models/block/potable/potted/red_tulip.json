@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/potable/template_flower_pot",
+    "textures": {
+        "particle": "#side",
+        "side": "minecraft:block/red_tulip"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/potable/template_flower_16_pot",
+    "textures": {
+        "particle": "#side",
+        "side": "summerfields:block/potable/lily_of_the_valley"
+    }
+}

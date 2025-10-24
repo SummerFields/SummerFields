@@ -2,13 +2,13 @@
     "variants": {
         "": [
             {
-                "model": "minecraft:block_variant/ore/deepslate_gold_ore_1"
+                "model": "summerfields:block/ore/deepslate_gold_ore_1"
             },
             {
-                "model": "minecraft:block_variant/ore/deepslate_gold_ore_2"
+                "model": "summerfields:block/ore/deepslate_gold_ore_2"
             },
             {
-                "model": "minecraft:block_variant/ore/deepslate_gold_ore_3"
+                "model": "summerfields:block/ore/deepslate_gold_ore_3"
             }
         ]
     }

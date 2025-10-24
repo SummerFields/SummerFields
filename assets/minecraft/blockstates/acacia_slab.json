@@ -1,13 +1,13 @@
 {
     "variants": {
         "type=bottom": {
-            "model": "minecraft:block_variant/slabs/acacia_slab_bottom"
+            "model": "summerfields:block/slabs/acacia_slab_bottom"
         },
         "type=top": {
-            "model": "minecraft:block_variant/slabs/acacia_slab_top"
+            "model": "summerfields:block/slabs/acacia_slab_top"
         },
         "type=double": {
-            "model": "minecraft:block_variant/planks/acacia_planks"
+            "model": "summerfields:block/planks/acacia_planks"
         }
     }
 }

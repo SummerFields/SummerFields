@@ -2,35 +2,35 @@
     "variants": {
         "": [
             {
-                "model": "minecraft:block_variant/vine/twisting_vines_1",
+                "model": "summerfields:block/vine/twisting_vines_1",
                 "y": 0
             },
             {
-                "model": "minecraft:block_variant/vine/twisting_vines_1",
+                "model": "summerfields:block/vine/twisting_vines_1",
                 "y": 90
             },
             {
-                "model": "minecraft:block_variant/vine/twisting_vines_1",
+                "model": "summerfields:block/vine/twisting_vines_1",
                 "y": 180
             },
             {
-                "model": "minecraft:block_variant/vine/twisting_vines_1",
+                "model": "summerfields:block/vine/twisting_vines_1",
                 "y": 270
             },
             {
-                "model": "minecraft:block_variant/vine/twisting_vines_2",
+                "model": "summerfields:block/vine/twisting_vines_2",
                 "y": 0
             },
             {
-                "model": "minecraft:block_variant/vine/twisting_vines_2",
+                "model": "summerfields:block/vine/twisting_vines_2",
                 "y": 90
             },
             {
-                "model": "minecraft:block_variant/vine/twisting_vines_2",
+                "model": "summerfields:block/vine/twisting_vines_2",
                 "y": 180
             },
             {
-                "model": "minecraft:block_variant/vine/twisting_vines_2",
+                "model": "summerfields:block/vine/twisting_vines_2",
                 "y": 270
             }
         ]

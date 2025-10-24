@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block_variant/bars/template_copper_bars_post",
-    "textures": {
-        "particle": "block/weathered_copper_bars",
-        "edge": "block/weathered_copper_bars"
-    }
-}

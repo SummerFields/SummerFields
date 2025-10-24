@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:block_variant/pressure_plate/display_pressure_plate",
-    "textures": {
-        "texture": "minecraft:textures_variant/pressure_plate/birch_pressure_plate"
-    }
-}

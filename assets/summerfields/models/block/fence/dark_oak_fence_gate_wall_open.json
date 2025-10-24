@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/template_custom_fence_gate_wall_open",
+    "textures": {
+        "particle": "#texture",
+        "texture": "summerfields:block/fence/dark_oak_fence_gate"
+    }
+}

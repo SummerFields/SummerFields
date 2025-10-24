@@ -3,67 +3,67 @@
         {
             "apply": [
                 {
-                    "model": "minecraft:block_variant/potable/potted/oak_sapling",
+                    "model": "summerfields:block/potable/potted/oak_sapling",
                     "y": 0
                 },
                 {
-                    "model": "minecraft:block_variant/potable/potted/oak_sapling_22-5",
+                    "model": "summerfields:block/potable/potted/oak_sapling_22-5",
                     "y": 0
                 },
                 {
-                    "model": "minecraft:block_variant/potable/potted/oak_sapling_45",
+                    "model": "summerfields:block/potable/potted/oak_sapling_45",
                     "y": 0
                 },
                 {
-                    "model": "minecraft:block_variant/potable/potted/oak_sapling_-22-5",
+                    "model": "summerfields:block/potable/potted/oak_sapling_-22-5",
                     "y": 0
                 },
                 {
-                    "model": "minecraft:block_variant/potable/potted/oak_sapling",
+                    "model": "summerfields:block/potable/potted/oak_sapling",
                     "y": 90
                 },
                 {
-                    "model": "minecraft:block_variant/potable/potted/oak_sapling_22-5",
+                    "model": "summerfields:block/potable/potted/oak_sapling_22-5",
                     "y": 90
                 },
                 {
-                    "model": "minecraft:block_variant/potable/potted/oak_sapling_45",
+                    "model": "summerfields:block/potable/potted/oak_sapling_45",
                     "y": 90
                 },
                 {
-                    "model": "minecraft:block_variant/potable/potted/oak_sapling_-22-5",
+                    "model": "summerfields:block/potable/potted/oak_sapling_-22-5",
                     "y": 90
                 },
                 {
-                    "model": "minecraft:block_variant/potable/potted/oak_sapling",
+                    "model": "summerfields:block/potable/potted/oak_sapling",
                     "y": 180
                 },
                 {
-                    "model": "minecraft:block_variant/potable/potted/oak_sapling_22-5",
+                    "model": "summerfields:block/potable/potted/oak_sapling_22-5",
                     "y": 180
                 },
                 {
-                    "model": "minecraft:block_variant/potable/potted/oak_sapling_45",
+                    "model": "summerfields:block/potable/potted/oak_sapling_45",
                     "y": 180
                 },
                 {
-                    "model": "minecraft:block_variant/potable/potted/oak_sapling_-22-5",
+                    "model": "summerfields:block/potable/potted/oak_sapling_-22-5",
                     "y": 180
                 },
                 {
-                    "model": "minecraft:block_variant/potable/potted/oak_sapling",
+                    "model": "summerfields:block/potable/potted/oak_sapling",
                     "y": 270
                 },
                 {
-                    "model": "minecraft:block_variant/potable/potted/oak_sapling_22-5",
+                    "model": "summerfields:block/potable/potted/oak_sapling_22-5",
                     "y": 270
                 },
                 {
-                    "model": "minecraft:block_variant/potable/potted/oak_sapling_45",
+                    "model": "summerfields:block/potable/potted/oak_sapling_45",
                     "y": 270
                 },
                 {
-                    "model": "minecraft:block_variant/potable/potted/oak_sapling_-22-5",
+                    "model": "summerfields:block/potable/potted/oak_sapling_-22-5",
                     "y": 270
                 }
             ]
@@ -74,19 +74,19 @@
                     "model": "minecraft:block/flower_pot"
                 },
                 {
-                    "model": "minecraft:block_variant/potable/pot/pot_0"
+                    "model": "summerfields:block/potable/pot/pot_0"
                 },
                 {
-                    "model": "minecraft:block_variant/potable/pot/pot_1"
+                    "model": "summerfields:block/potable/pot/pot_1"
                 },
                 {
-                    "model": "minecraft:block_variant/potable/pot/pot_2"
+                    "model": "summerfields:block/potable/pot/pot_2"
                 },
                 {
-                    "model": "minecraft:block_variant/potable/pot/pot_3"
+                    "model": "summerfields:block/potable/pot/pot_3"
                 },
                 {
-                    "model": "minecraft:block_variant/potable/pot/pot_4"
+                    "model": "summerfields:block/potable/pot/pot_4"
                 }
             ]
         }

@@ -1,0 +1,70 @@
+{
+    "parent": "minecraft:block/block",
+    "textures": {
+        "particle": "#waxed",
+        "waxed": "summerfields:block/waxed/block_waxed"
+    },
+    "elements": [
+        {
+            "from": [-0.1, -0.1, -0.1],
+            "to": [16.1, 4.1, 16.1],
+            "faces": {
+                "north": {
+                    "uv": [0, 12, 16, 16],
+                    "texture": "#waxed",
+                    "cullface": "north"
+                },
+                "east": {
+                    "uv": [0, 12, 16, 16],
+                    "texture": "#waxed",
+                    "cullface": "east"
+                },
+                "south": {
+                    "uv": [0, 12, 16, 16],
+                    "texture": "#waxed",
+                    "cullface": "south"
+                },
+                "west": {
+                    "uv": [0, 12, 16, 16],
+                    "texture": "#waxed",
+                    "cullface": "west"
+                },
+                "down": {
+                    "uv": [0, 0, 16, 16],
+                    "texture": "#waxed",
+                    "cullface": "down"
+                }
+            }
+        },
+        {
+            "from": [-0.1, 3.9, -0.1],
+            "to": [16.1, 8.1, 16.1],
+            "faces": {
+                "north": {
+                    "uv": [0, 0, 16, 4],
+                    "texture": "#waxed",
+                    "cullface": "north"
+                },
+                "east": {
+                    "uv": [0, 0, 16, 4],
+                    "texture": "#waxed",
+                    "cullface": "east"
+                },
+                "south": {
+                    "uv": [0, 0, 16, 4],
+                    "texture": "#waxed",
+                    "cullface": "south"
+                },
+                "west": {
+                    "uv": [0, 0, 16, 4],
+                    "texture": "#waxed",
+                    "cullface": "west"
+                },
+                "up": {
+                    "uv": [0, 0, 16, 16],
+                    "texture": "#waxed"
+                }
+            }
+        }
+    ]
+}

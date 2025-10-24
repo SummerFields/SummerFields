@@ -1,12 +1,12 @@
 {
     "parent": "minecraft:block/block",
     "textures": {
-        "0": "minecraft:textures_variant/loom/loom_top",
+        "0": "summerfields:block/loom/loom_top",
         "1": "minecraft:block/loom_side",
-        "2": "minecraft:textures_variant/loom/loom_back",
+        "2": "summerfields:block/loom/loom_back",
         "3": "minecraft:block/loom_front",
         "5": "minecraft:block/loom_bottom",
-        "6": "minecraft:textures_variant/loom/loom_bross",
+        "6": "summerfields:block/loom/loom_bross",
         "particle": "#0"
     },
     "elements": [

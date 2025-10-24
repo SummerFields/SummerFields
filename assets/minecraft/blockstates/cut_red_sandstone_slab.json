@@ -1,13 +1,13 @@
 {
     "variants": {
         "type=bottom": {
-            "model": "minecraft:block_variant/slabs/cut_red_sandstone_slab_bottom"
+            "model": "summerfields:block/slabs/cut_red_sandstone_slab_bottom"
         },
         "type=top": {
-            "model": "minecraft:block_variant/slabs/cut_red_sandstone_slab_top"
+            "model": "summerfields:block/slabs/cut_red_sandstone_slab_top"
         },
         "type=double": {
-            "model": "minecraft:block_variant/slabs/cut_red_sandstone_slab_double"
+            "model": "summerfields:block/slabs/cut_red_sandstone_slab_double"
         }
     }
 }

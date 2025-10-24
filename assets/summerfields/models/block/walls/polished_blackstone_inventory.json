@@ -1,0 +1,9 @@
+{
+    "parent": "summerfields:block/walls/template_inventory",
+    "textures": {
+        "front": "block/polished_blackstone",
+        "top": "summerfields:block/walls/polished_blackstone_top",
+        "innertop": "summerfields:block/walls/polished_blackstone_inner_top",
+        "other": "summerfields:block/walls/polished_blackstone_other"
+    }
+}

@@ -5,7 +5,7 @@
                 "north": true
             },
             "apply": {
-                "model": "minecraft:block_variant/chorus/chorus_plant_side",
+                "model": "summerfields:block/chorus/chorus_plant_side",
                 "x": 90
             }
         },
@@ -14,7 +14,7 @@
                 "east": true
             },
             "apply": {
-                "model": "minecraft:block_variant/chorus/chorus_plant_side",
+                "model": "summerfields:block/chorus/chorus_plant_side",
                 "x": 90,
                 "y": 90,
                 "uvlock": true
@@ -25,7 +25,7 @@
                 "south": true
             },
             "apply": {
-                "model": "minecraft:block_variant/chorus/chorus_plant_side",
+                "model": "summerfields:block/chorus/chorus_plant_side",
                 "x": -90,
                 "uvlock": true
             }
@@ -35,7 +35,7 @@
                 "west": true
             },
             "apply": {
-                "model": "minecraft:block_variant/chorus/chorus_plant_side",
+                "model": "summerfields:block/chorus/chorus_plant_side",
                 "x": 90,
                 "y": -90,
                 "uvlock": true
@@ -46,7 +46,7 @@
                 "up": true
             },
             "apply": {
-                "model": "minecraft:block_variant/chorus/chorus_plant_side",
+                "model": "summerfields:block/chorus/chorus_plant_side",
                 "uvlock": true
             }
         },
@@ -55,7 +55,7 @@
                 "down": true
             },
             "apply": {
-                "model": "minecraft:block_variant/chorus/chorus_plant_side",
+                "model": "summerfields:block/chorus/chorus_plant_side",
                 "x": 180,
                 "uvlock": true
             }
@@ -66,17 +66,17 @@
             },
             "apply": [
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside",
+                    "model": "summerfields:block/chorus/chorus_plant_noside",
                     "weight": 2
                 },
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside1"
+                    "model": "summerfields:block/chorus/chorus_plant_noside1"
                 },
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside2"
+                    "model": "summerfields:block/chorus/chorus_plant_noside2"
                 },
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside3"
+                    "model": "summerfields:block/chorus/chorus_plant_noside3"
                 }
             ]
         },
@@ -86,22 +86,22 @@
             },
             "apply": [
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside1",
+                    "model": "summerfields:block/chorus/chorus_plant_noside1",
                     "y": 90,
                     "uvlock": true
                 },
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside2",
+                    "model": "summerfields:block/chorus/chorus_plant_noside2",
                     "y": 90,
                     "uvlock": true
                 },
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside3",
+                    "model": "summerfields:block/chorus/chorus_plant_noside3",
                     "y": 90,
                     "uvlock": true
                 },
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside",
+                    "model": "summerfields:block/chorus/chorus_plant_noside",
                     "weight": 2,
                     "y": 90,
                     "uvlock": true
@@ -114,23 +114,23 @@
             },
             "apply": [
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside2",
+                    "model": "summerfields:block/chorus/chorus_plant_noside2",
                     "y": 180,
                     "uvlock": true
                 },
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside3",
+                    "model": "summerfields:block/chorus/chorus_plant_noside3",
                     "y": 180,
                     "uvlock": true
                 },
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside",
+                    "model": "summerfields:block/chorus/chorus_plant_noside",
                     "weight": 2,
                     "y": 180,
                     "uvlock": true
                 },
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside1",
+                    "model": "summerfields:block/chorus/chorus_plant_noside1",
                     "y": 180,
                     "uvlock": true
                 }
@@ -142,23 +142,23 @@
             },
             "apply": [
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside3",
+                    "model": "summerfields:block/chorus/chorus_plant_noside3",
                     "y": 270,
                     "uvlock": true
                 },
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside",
+                    "model": "summerfields:block/chorus/chorus_plant_noside",
                     "weight": 2,
                     "y": 270,
                     "uvlock": true
                 },
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside1",
+                    "model": "summerfields:block/chorus/chorus_plant_noside1",
                     "y": 270,
                     "uvlock": true
                 },
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside2",
+                    "model": "summerfields:block/chorus/chorus_plant_noside2",
                     "y": 270,
                     "uvlock": true
                 }
@@ -170,23 +170,23 @@
             },
             "apply": [
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside",
+                    "model": "summerfields:block/chorus/chorus_plant_noside",
                     "weight": 2,
                     "x": 270,
                     "uvlock": true
                 },
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside3",
+                    "model": "summerfields:block/chorus/chorus_plant_noside3",
                     "x": 270,
                     "uvlock": true
                 },
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside1",
+                    "model": "summerfields:block/chorus/chorus_plant_noside1",
                     "x": 270,
                     "uvlock": true
                 },
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside2",
+                    "model": "summerfields:block/chorus/chorus_plant_noside2",
                     "x": 270,
                     "uvlock": true
                 }
@@ -198,22 +198,22 @@
             },
             "apply": [
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside3",
+                    "model": "summerfields:block/chorus/chorus_plant_noside3",
                     "x": 90,
                     "uvlock": true
                 },
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside2",
+                    "model": "summerfields:block/chorus/chorus_plant_noside2",
                     "x": 90,
                     "uvlock": true
                 },
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside1",
+                    "model": "summerfields:block/chorus/chorus_plant_noside1",
                     "x": 90,
                     "uvlock": true
                 },
                 {
-                    "model": "minecraft:block_variant/chorus/chorus_plant_noside",
+                    "model": "summerfields:block/chorus/chorus_plant_noside",
                     "weight": 2,
                     "x": 90,
                     "uvlock": true

@@ -1,13 +1,13 @@
 {
     "variants": {
         "type=bottom": {
-            "model": "minecraft:block_variant/slabs/end_stone_brick_slab_bottom"
+            "model": "summerfields:block/slabs/end_stone_brick_slab_bottom"
         },
         "type=top": {
-            "model": "minecraft:block_variant/slabs/end_stone_brick_slab_top"
+            "model": "summerfields:block/slabs/end_stone_brick_slab_top"
         },
         "type=double": {
-            "model": "minecraft:block_variant/bricks/end_stone_bricks"
+            "model": "summerfields:block/bricks/end_stone_bricks"
         }
     }
 }

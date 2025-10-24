@@ -1,9 +1,0 @@
-{
-    "ambientocclusion": false,
-    "textures": {
-        "top": "minecraft:block/magenta_stained_glass_pane_top",
-        "particle": "minecraft:block/magenta_stained_glass",
-        "face": "minecraft:block/magenta_stained_glass"
-    },
-    "parent": "minecraft:block_variant/glass/glass_pane_post"
-}

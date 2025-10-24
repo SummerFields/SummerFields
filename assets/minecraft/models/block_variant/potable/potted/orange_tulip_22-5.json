@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block_variant/potable/template_flower_pot_22-5",
-    "textures": {
-        "particle": "#side",
-        "side": "minecraft:block/orange_tulip"
-    }
-}

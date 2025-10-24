@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/inner_stairs",
+    "textures": {
+        "bottom": "summerfields:block/bricks/mossy_cobblestone_top",
+        "top": "summerfields:block/bricks/mossy_cobblestone_top",
+        "side": "minecraft:block/mossy_cobblestone"
+    }
+}

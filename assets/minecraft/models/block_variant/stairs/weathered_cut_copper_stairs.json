@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block_variant/stairs/template_stairs",
-    "textures": {
-        "3": "minecraft:textures_variant/stairs/weathered_cut_copper_stair",
-        "particle": "minecraft:textures_variant/stairs/weathered_cut_copper_stair"
-    }
-}

@@ -24,26 +24,26 @@
             "y": 90
         },
         "facing=down,short=false,type=sticky": {
-            "model": "minecraft:block_variant/piston/piston_head_sticky",
+            "model": "summerfields:block/piston/piston_head_sticky",
             "x": 90
         },
         "facing=up,short=false,type=sticky": {
-            "model": "minecraft:block_variant/piston/piston_head_sticky",
+            "model": "summerfields:block/piston/piston_head_sticky",
             "x": 270
         },
         "facing=north,short=false,type=sticky": {
-            "model": "minecraft:block_variant/piston/piston_head_sticky"
+            "model": "summerfields:block/piston/piston_head_sticky"
         },
         "facing=south,short=false,type=sticky": {
-            "model": "minecraft:block_variant/piston/piston_head_sticky",
+            "model": "summerfields:block/piston/piston_head_sticky",
             "y": 180
         },
         "facing=west,short=false,type=sticky": {
-            "model": "minecraft:block_variant/piston/piston_head_sticky",
+            "model": "summerfields:block/piston/piston_head_sticky",
             "y": 270
         },
         "facing=east,short=false,type=sticky": {
-            "model": "minecraft:block_variant/piston/piston_head_sticky",
+            "model": "summerfields:block/piston/piston_head_sticky",
             "y": 90
         },
         "facing=down,short=true,type=normal": {
@@ -70,26 +70,26 @@
             "y": 90
         },
         "facing=down,short=true,type=sticky": {
-            "model": "minecraft:block_variant/piston/piston_head_short_sticky",
+            "model": "summerfields:block/piston/piston_head_short_sticky",
             "x": 90
         },
         "facing=up,short=true,type=sticky": {
-            "model": "minecraft:block_variant/piston/piston_head_short_sticky",
+            "model": "summerfields:block/piston/piston_head_short_sticky",
             "x": 270
         },
         "facing=north,short=true,type=sticky": {
-            "model": "minecraft:block_variant/piston/piston_head_short_sticky"
+            "model": "summerfields:block/piston/piston_head_short_sticky"
         },
         "facing=south,short=true,type=sticky": {
-            "model": "minecraft:block_variant/piston/piston_head_short_sticky",
+            "model": "summerfields:block/piston/piston_head_short_sticky",
             "y": 180
         },
         "facing=west,short=true,type=sticky": {
-            "model": "minecraft:block_variant/piston/piston_head_short_sticky",
+            "model": "summerfields:block/piston/piston_head_short_sticky",
             "y": 270
         },
         "facing=east,short=true,type=sticky": {
-            "model": "minecraft:block_variant/piston/piston_head_short_sticky",
+            "model": "summerfields:block/piston/piston_head_short_sticky",
             "y": 90
         }
     }

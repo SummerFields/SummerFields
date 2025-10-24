@@ -1,13 +1,13 @@
 {
     "variants": {
         "type=bottom": {
-            "model": "minecraft:block_variant/slabs/cobblestone_slab_bottom"
+            "model": "summerfields:block/slabs/cobblestone_slab_bottom"
         },
         "type=top": {
-            "model": "minecraft:block_variant/slabs/cobblestone_slab_top"
+            "model": "summerfields:block/slabs/cobblestone_slab_top"
         },
         "type=double": {
-            "model": "minecraft:block_variant/bricks/cobblestone"
+            "model": "summerfields:block/bricks/cobblestone"
         }
     }
 }

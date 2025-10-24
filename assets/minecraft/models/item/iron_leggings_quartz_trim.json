@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/armor/template_leggings",
+    "parent": "summerfields:block/armor/template_leggings",
     "textures": {
         "layer0": "minecraft:models/armor/iron_layer_2",
         "layer2": "minecraft:trims/models/armor/wayfinder_leggings_quartz"

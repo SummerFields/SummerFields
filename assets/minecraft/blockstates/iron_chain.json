@@ -1,15 +1,15 @@
 {
     "variants": {
         "axis=x": {
-            "model": "minecraft:block_variant/chain/iron_chain",
+            "model": "summerfields:block/chain/iron_chain",
             "x": 90,
             "y": 90
         },
         "axis=y": {
-            "model": "minecraft:block_variant/chain/iron_chain"
+            "model": "summerfields:block/chain/iron_chain"
         },
         "axis=z": {
-            "model": "minecraft:block_variant/chain/iron_chain",
+            "model": "summerfields:block/chain/iron_chain",
             "x": 90
         }
     }

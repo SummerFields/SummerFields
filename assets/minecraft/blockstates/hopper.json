@@ -6,7 +6,7 @@
                 "enabled": "true"
             },
             "apply": {
-                "model": "minecraft:block_variant/hopper/hopper"
+                "model": "summerfields:block/hopper/hopper"
             }
         },
         {
@@ -15,7 +15,7 @@
                 "enabled": "true"
             },
             "apply": {
-                "model": "minecraft:block_variant/hopper/hopper_side",
+                "model": "summerfields:block/hopper/hopper_side",
                 "y": 90
             }
         },
@@ -25,7 +25,7 @@
                 "enabled": "true"
             },
             "apply": {
-                "model": "minecraft:block_variant/hopper/hopper_side"
+                "model": "summerfields:block/hopper/hopper_side"
             }
         },
         {
@@ -34,7 +34,7 @@
                 "enabled": "true"
             },
             "apply": {
-                "model": "minecraft:block_variant/hopper/hopper_side",
+                "model": "summerfields:block/hopper/hopper_side",
                 "y": 180
             }
         },
@@ -44,7 +44,7 @@
                 "enabled": "true"
             },
             "apply": {
-                "model": "minecraft:block_variant/hopper/hopper_side",
+                "model": "summerfields:block/hopper/hopper_side",
                 "y": 270
             }
         },
@@ -54,7 +54,7 @@
                 "enabled": "false"
             },
             "apply": {
-                "model": "minecraft:block_variant/hopper/hopper_close"
+                "model": "summerfields:block/hopper/hopper_close"
             }
         },
         {
@@ -63,7 +63,7 @@
                 "enabled": "false"
             },
             "apply": {
-                "model": "minecraft:block_variant/hopper/hopper_side_close",
+                "model": "summerfields:block/hopper/hopper_side_close",
                 "y": 90
             }
         },
@@ -73,7 +73,7 @@
                 "enabled": "false"
             },
             "apply": {
-                "model": "minecraft:block_variant/hopper/hopper_side_close"
+                "model": "summerfields:block/hopper/hopper_side_close"
             }
         },
         {
@@ -82,7 +82,7 @@
                 "enabled": "false"
             },
             "apply": {
-                "model": "minecraft:block_variant/hopper/hopper_side_close",
+                "model": "summerfields:block/hopper/hopper_side_close",
                 "y": 180
             }
         },
@@ -92,7 +92,7 @@
                 "enabled": "false"
             },
             "apply": {
-                "model": "minecraft:block_variant/hopper/hopper_side_close",
+                "model": "summerfields:block/hopper/hopper_side_close",
                 "y": 270
             }
         }

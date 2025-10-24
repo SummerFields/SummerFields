@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block_variant/walls/template_simple_post",
-    "textures": {
-        "top": "minecraft:textures_variant/bricks/cobblestone_top",
-        "post": "minecraft:block/cobblestone"
-    }
-}

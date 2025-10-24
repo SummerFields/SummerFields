@@ -1,3 +1,3 @@
 {
-    "parent": "minecraft:block_variant/vault/vault"
+    "parent": "summerfields:block/vault/vault"
 }

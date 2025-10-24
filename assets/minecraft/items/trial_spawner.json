@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:block_variant/spawner/trial_spawner"
+        "model": "summerfields:block/spawner/trial_spawner"
     }
 }

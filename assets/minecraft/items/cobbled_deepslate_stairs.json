@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:block_variant/stairs/cobbled_deepslate_stairs"
+        "model": "summerfields:block/stairs/cobbled_deepslate_stairs"
     }
 }

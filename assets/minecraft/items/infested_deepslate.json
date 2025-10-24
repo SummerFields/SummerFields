@@ -4,7 +4,7 @@
         "models": [
             {
                 "type": "minecraft:model",
-                "model": "minecraft:block_variant/infested/infested_inventory"
+                "model": "summerfields:block/infested/infested_inventory"
             },
             {
                 "type": "minecraft:model",

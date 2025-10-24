@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/pressure_plate/bamboo_pressure_plate",
+    "parent": "summerfields:block/pressure_plate/bamboo_pressure_plate",
     "display": {
         "thirdperson_righthand": {
             "rotation": [0, 0, -90],

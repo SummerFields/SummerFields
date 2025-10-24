@@ -1,0 +1,43 @@
+{
+    "parent": "minecraft:block/block",
+    "textures": {
+        "particle": "summerfields:block/waxed/block_waxed"
+    },
+    "elements": [
+        {
+            "from": [-0.1, -0.1, -0.1],
+            "to": [16.1, 16.1, 16.1],
+            "faces": {
+                "north": {
+                    "uv": [0, 0, 16, 16],
+                    "texture": "#particle",
+                    "cullface": "north"
+                },
+                "east": {
+                    "uv": [0, 0, 16, 16],
+                    "texture": "#particle",
+                    "cullface": "east"
+                },
+                "south": {
+                    "uv": [0, 0, 16, 16],
+                    "texture": "#particle",
+                    "cullface": "south"
+                },
+                "west": {
+                    "uv": [0, 0, 16, 16],
+                    "texture": "#particle",
+                    "cullface": "west"
+                },
+                "up": {
+                    "uv": [0, 0, 16, 16],
+                    "texture": "#particle"
+                },
+                "down": {
+                    "uv": [0, 0, 16, 16],
+                    "texture": "#particle",
+                    "cullface": "down"
+                }
+            }
+        }
+    ]
+}

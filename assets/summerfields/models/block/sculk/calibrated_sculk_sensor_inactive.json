@@ -1,0 +1,14 @@
+{
+    "parent": "summerfields:block/sculk/template_sculk_sensor",
+    "textures": {
+        "particle": "minecraft:block/sculk_sensor_bottom",
+        "bottom": "minecraft:block/sculk_sensor_bottom",
+        "side": "minecraft:block/sculk_sensor_side",
+        "side_amethyst": "summerfields:block/sculk/calibrated_sculk_sensor_input_side",
+        "tendrils": "minecraft:block/sculk_sensor_tendril_inactive",
+        "top": "summerfields:block/sculk/calibrated_sculk_sensor_top",
+        "emission": "summerfields:block/sculk/sculk_vein_emission",
+        "amethyst": "minecraft:block/calibrated_sculk_sensor_amethyst",
+        "top_amethyst": "minecraft:block/amethyst_block"
+    }
+}

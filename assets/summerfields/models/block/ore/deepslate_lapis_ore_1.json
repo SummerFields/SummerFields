@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/ore/template_ore",
+    "textures": {
+        "base": "minecraft:block/deepslate_lapis_ore",
+        "glow": "summerfields:block/ore/lapis_ore_1_emission"
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:block_variant/potable/template_flower_cross",
-    "textures": {
-        "particle": "#side",
-        "side": "minecraft:block/warped_fungus",
-        "branch": "minecraft:textures_variant/potable/warped_fungus_branch"
-    }
-}

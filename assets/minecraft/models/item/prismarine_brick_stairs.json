@@ -1,3 +1,3 @@
 {
-    "parent": "minecraft:block_variant/stairs/prismarine_bricks_inventory"
+    "parent": "summerfields:block/stairs/prismarine_bricks_inventory"
 }

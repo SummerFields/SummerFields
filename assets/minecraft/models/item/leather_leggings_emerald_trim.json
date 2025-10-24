@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/armor/template_leggings",
+    "parent": "summerfields:block/armor/template_leggings",
     "textures": {
         "layer0": "minecraft:models/armor/leather_layer_2",
         "layer1": "minecraft:models/armor/leather_layer_2_overlay",

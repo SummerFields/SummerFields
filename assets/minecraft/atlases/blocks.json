@@ -1,65 +1,51 @@
 {
     "sources": [
         {
-            "type": "directory",
-            "source": "block",
-            "prefix": "block/"
+            "type": "minecraft:directory",
+            "source": "summerfields:block",
+            "prefix": "summerfields:block/"
         },
         {
-            "type": "directory",
-            "source": "textures_variant",
-            "prefix": "textures_variant/"
-        },
-        {
-            "type": "directory",
-            "source": "item",
-            "prefix": "item/"
-        },
-        {
-            "type": "directory",
+            "type": "minecraft:directory",
             "source": "models",
             "prefix": "models/"
         },
         {
-            "type": "directory",
+            "type": "minecraft:directory",
             "source": "entity",
             "prefix": "entity/"
         },
         {
-            "type": "directory",
-            "source": "trims",
-            "prefix": "trims/"
-        },
-        {
-            "type": "paletted_permutations",
-            "textures": [
-                "trims/items/leggings_trim",
-                "trims/items/chestplate_trim",
-                "trims/items/helmet_trim",
-                "trims/items/boots_trim",
-                "trims/models/armor/shaper",
-                "trims/models/armor/shaper_leggings",
-                "trims/models/armor/wayfinder",
-                "trims/models/armor/wayfinder_leggings"
-            ],
-            "palette_key": "trims/color_palettes/trim_palette",
+            "type": "minecraft:paletted_permutations",
+            "palette_key": "minecraft:trims/color_palettes/trim_palette",
             "permutations": {
-                "quartz": "trims/color_palettes/quartz",
-                "iron": "trims/color_palettes/iron",
-                "gold": "trims/color_palettes/gold",
-                "diamond": "trims/color_palettes/diamond",
-                "netherite": "trims/color_palettes/netherite",
-                "redstone": "trims/color_palettes/redstone",
-                "copper": "trims/color_palettes/copper",
-                "emerald": "trims/color_palettes/emerald",
-                "lapis": "trims/color_palettes/lapis",
-                "amethyst": "trims/color_palettes/amethyst",
-                "iron_darker": "trims/color_palettes/iron_darker",
-                "gold_darker": "trims/color_palettes/gold_darker",
-                "diamond_darker": "trims/color_palettes/diamond_darker",
-                "netherite_darker": "trims/color_palettes/netherite_darker",
-                "resin": "trims/color_palettes/resin"
-            }
+                "amethyst": "minecraft:trims/color_palettes/amethyst",
+                "copper": "minecraft:trims/color_palettes/copper",
+                "copper_darker": "minecraft:trims/color_palettes/copper_darker",
+                "diamond": "minecraft:trims/color_palettes/diamond",
+                "diamond_darker": "minecraft:trims/color_palettes/diamond_darker",
+                "emerald": "minecraft:trims/color_palettes/emerald",
+                "gold": "minecraft:trims/color_palettes/gold",
+                "gold_darker": "minecraft:trims/color_palettes/gold_darker",
+                "iron": "minecraft:trims/color_palettes/iron",
+                "iron_darker": "minecraft:trims/color_palettes/iron_darker",
+                "lapis": "minecraft:trims/color_palettes/lapis",
+                "netherite": "minecraft:trims/color_palettes/netherite",
+                "netherite_darker": "minecraft:trims/color_palettes/netherite_darker",
+                "quartz": "minecraft:trims/color_palettes/quartz",
+                "redstone": "minecraft:trims/color_palettes/redstone",
+                "resin": "minecraft:trims/color_palettes/resin"
+            },
+            "textures": [
+                "minecraft:trims/items/leggings_trim",
+                "minecraft:trims/items/chestplate_trim",
+                "minecraft:trims/items/helmet_trim",
+                "minecraft:trims/items/boots_trim",
+                "minecraft:trims/models/armor/shaper",
+                "minecraft:trims/models/armor/shaper_leggings",
+                "minecraft:trims/models/armor/wayfinder",
+                "minecraft:trims/models/armor/wayfinder_leggings"
+            ]
         }
     ]
 }

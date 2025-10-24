@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:block_variant/potable/template_flower_cross_pot_22-5",
-    "textures": {
-        "particle": "#side",
-        "side": "minecraft:block/cherry_sapling",
-        "branch": "minecraft:textures_variant/potable/cherry_sapling_branch"
-    }
-}

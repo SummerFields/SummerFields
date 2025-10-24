@@ -1,0 +1,9 @@
+{
+    "parent": "summerfields:block/doors/dark_oak_door_bottom",
+    "ambientocclusion": false,
+    "textures": {
+        "2": "summerfields:block/doors/warped_door_side",
+        "particle": "#top",
+        "top": "minecraft:block/warped_door_bottom"
+    }
+}

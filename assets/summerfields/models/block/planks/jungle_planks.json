@@ -1,0 +1,6 @@
+{
+    "parent": "summerfields:block/planks/planks",
+    "textures": {
+        "all": "minecraft:block/jungle_planks"
+    }
+}

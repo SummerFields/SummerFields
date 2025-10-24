@@ -2,35 +2,35 @@
     "variants": {
         "": [
             {
-                "model": "minecraft:block_variant/potable/bush/short_dry_grass",
+                "model": "summerfields:block/potable/bush/short_dry_grass",
                 "y": 0
             },
             {
-                "model": "minecraft:block_variant/potable/bush/short_dry_grass",
+                "model": "summerfields:block/potable/bush/short_dry_grass",
                 "y": 90
             },
             {
-                "model": "minecraft:block_variant/potable/bush/short_dry_grass_22-5",
+                "model": "summerfields:block/potable/bush/short_dry_grass_22-5",
                 "y": 0
             },
             {
-                "model": "minecraft:block_variant/potable/bush/short_dry_grass_22-5",
+                "model": "summerfields:block/potable/bush/short_dry_grass_22-5",
                 "y": 90
             },
             {
-                "model": "minecraft:block_variant/potable/bush/short_dry_grass_45",
+                "model": "summerfields:block/potable/bush/short_dry_grass_45",
                 "y": 0
             },
             {
-                "model": "minecraft:block_variant/potable/bush/short_dry_grass_45",
+                "model": "summerfields:block/potable/bush/short_dry_grass_45",
                 "y": 90
             },
             {
-                "model": "minecraft:block_variant/potable/bush/short_dry_grass_-22-5",
+                "model": "summerfields:block/potable/bush/short_dry_grass_-22-5",
                 "y": 0
             },
             {
-                "model": "minecraft:block_variant/potable/bush/short_dry_grass_-22-5",
+                "model": "summerfields:block/potable/bush/short_dry_grass_-22-5",
                 "y": 90
             }
         ]

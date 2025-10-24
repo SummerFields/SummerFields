@@ -1,0 +1,18 @@
+{
+    "textures": {
+        "texture": "summerfields:block/mushroom/block_mushroom_inside1",
+        "particle": "summerfields:block/mushroom/block_mushroom_inside1"
+    },
+    "elements": [
+        {
+            "from": [0, 0, 0],
+            "to": [16, 16, 0],
+            "faces": {
+                "north": {
+                    "texture": "#texture",
+                    "cullface": "north"
+                }
+            }
+        }
+    ]
+}

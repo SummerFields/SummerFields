@@ -12,7 +12,7 @@
             },
             {
                 "type": "minecraft:model",
-                "model": "minecraft:item_variant/waxed/template_chest_inventory_waxed"
+                "model": "summerfields:item/waxed/template_chest_inventory_waxed"
             }
         ]
     }

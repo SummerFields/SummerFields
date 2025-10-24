@@ -1,0 +1,9 @@
+{
+    "parent": "summerfields:block/walls/template_inventory",
+    "textures": {
+        "front": "block/diorite",
+        "top": "#front",
+        "innertop": "#front",
+        "other": "#front"
+    }
+}

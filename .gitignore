@@ -5,7 +5,9 @@ todo_*
 alt_*
 src_*
 *.zip
-tool-*
+.tool-*
 pack_beta*
 *.aseprite
 *.xcf
+*.prettierrc
+.src*

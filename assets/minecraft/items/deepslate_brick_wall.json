@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:block_variant/walls/deepslate_brick_inventory"
+        "model": "summerfields:block/walls/deepslate_brick_inventory"
     }
 }

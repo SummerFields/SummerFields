@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+        "end": "summerfields:block/bricks/cracked_deepslate_tiles_top_3",
+        "side": "minecraft:block/cracked_deepslate_tiles"
+    }
+}

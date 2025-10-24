@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/stairs/template_stairs",
+    "textures": {
+        "3": "summerfields:block/stairs/deepslate_tiles_stair",
+        "particle": "summerfields:block/stairs/deepslate_tiles_stair"
+    }
+}

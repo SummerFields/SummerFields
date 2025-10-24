@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:block_variant/fence/cherry_fence_post"
+        "model": "summerfields:block/fence/cherry_fence_post"
     }
 }

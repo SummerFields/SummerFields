@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/template_piston",
+    "textures": {
+        "particle": "#bottom",
+        "bottom": "summerfields:block/piston/sticky_piston_bottom",
+        "side": "summerfields:block/piston/sticky_piston_side",
+        "platform": "minecraft:block/piston_top_sticky"
+    }
+}

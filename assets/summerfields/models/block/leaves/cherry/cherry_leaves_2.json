@@ -1,0 +1,6 @@
+{
+    "parent": "summerfields:block/leaves/cherry/template_leaves_2",
+    "textures": {
+        "particle": "summerfields:block/leaves/cherry_leaves_2"
+    }
+}

@@ -1,13 +1,13 @@
 {
     "variants": {
         "type=bottom": {
-            "model": "minecraft:block_variant/slabs/smooth_quartz_slab_bottom"
+            "model": "summerfields:block/slabs/smooth_quartz_slab_bottom"
         },
         "type=top": {
-            "model": "minecraft:block_variant/slabs/smooth_quartz_slab_top"
+            "model": "summerfields:block/slabs/smooth_quartz_slab_top"
         },
         "type=double": {
-            "model": "minecraft:block_variant/slabs/smooth_quartz_slab_double"
+            "model": "summerfields:block/slabs/smooth_quartz_slab_double"
         }
     }
 }

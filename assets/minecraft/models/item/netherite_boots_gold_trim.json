@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/armor/template_boots",
+    "parent": "summerfields:block/armor/template_boots",
     "textures": {
         "layer0": "minecraft:models/armor/netherite_layer_1",
         "layer2": "minecraft:trims/models/armor/wayfinder_gold"

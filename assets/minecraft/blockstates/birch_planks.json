@@ -1,7 +1,7 @@
 {
     "variants": {
         "": {
-            "model": "minecraft:block_variant/planks/birch_planks"
+            "model": "summerfields:block/planks/birch_planks"
         }
     }
 }

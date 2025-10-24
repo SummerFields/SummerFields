@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:item_variant/armorstand_inventory",
+    "parent": "summerfields:item/armorstand_inventory",
     "display": {
         "thirdperson_righthand": {
             "rotation": [0, 90, 0],

@@ -1,0 +1,9 @@
+{
+    "parent": "summerfields:block/walls/template_inventory",
+    "textures": {
+        "front": "block/stone_bricks",
+        "top": "summerfields:block/walls/stone_bricks_top",
+        "innertop": "summerfields:block/walls/stone_bricks_inner_top",
+        "other": "summerfields:block/walls/stone_bricks_other"
+    }
+}

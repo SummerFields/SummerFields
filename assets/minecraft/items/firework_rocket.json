@@ -10,7 +10,7 @@
                 },
                 "model": {
                     "type": "model",
-                    "model": "minecraft:item_variant/firework/firework_rocket_flight_duration_1"
+                    "model": "summerfields:item/firework/firework_rocket_flight_duration_1"
                 }
             },
             {
@@ -19,7 +19,7 @@
                 },
                 "model": {
                     "type": "model",
-                    "model": "minecraft:item_variant/firework/firework_rocket_flight_duration_2"
+                    "model": "summerfields:item/firework/firework_rocket_flight_duration_2"
                 }
             },
             {
@@ -28,13 +28,13 @@
                 },
                 "model": {
                     "type": "model",
-                    "model": "minecraft:item_variant/firework/firework_rocket_flight_duration_3"
+                    "model": "summerfields:item/firework/firework_rocket_flight_duration_3"
                 }
             }
         ],
         "fallback": {
             "type": "model",
-            "model": "minecraft:item_variant/firework/firework_rocket_flight_duration_2"
+            "model": "summerfields:item/firework/firework_rocket_flight_duration_2"
         }
     }
 }

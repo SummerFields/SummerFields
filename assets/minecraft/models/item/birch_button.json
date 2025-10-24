@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/button/birch_button",
+    "parent": "summerfields:block/button/birch_button",
     "display": {
         "thirdperson_righthand": {
             "rotation": [0, 0, -90],

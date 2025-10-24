@@ -13,7 +13,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion",
+                            "model": "summerfields:item/potion/type/potion",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -29,13 +29,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/night_vision"
+                                        "model": "summerfields:item/potion/effect/night_vision"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -50,7 +50,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion_long",
+                            "model": "summerfields:item/potion/type/potion_long",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -66,13 +66,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/night_vision"
+                                        "model": "summerfields:item/potion/effect/night_vision"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -87,7 +87,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion",
+                            "model": "summerfields:item/potion/type/potion",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -103,13 +103,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/invisibility"
+                                        "model": "summerfields:item/potion/effect/invisibility"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -124,7 +124,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion_long",
+                            "model": "summerfields:item/potion/type/potion_long",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -140,13 +140,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/invisibility"
+                                        "model": "summerfields:item/potion/effect/invisibility"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -161,7 +161,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion",
+                            "model": "summerfields:item/potion/type/potion",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -177,13 +177,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/leaping"
+                                        "model": "summerfields:item/potion/effect/leaping"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -198,7 +198,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion_long",
+                            "model": "summerfields:item/potion/type/potion_long",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -214,13 +214,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/leaping"
+                                        "model": "summerfields:item/potion/effect/leaping"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -235,7 +235,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion_strong",
+                            "model": "summerfields:item/potion/type/potion_strong",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -251,13 +251,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/leaping"
+                                        "model": "summerfields:item/potion/effect/leaping"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -272,7 +272,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion",
+                            "model": "summerfields:item/potion/type/potion",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -288,13 +288,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/fire_resistance"
+                                        "model": "summerfields:item/potion/effect/fire_resistance"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -309,7 +309,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion_long",
+                            "model": "summerfields:item/potion/type/potion_long",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -325,13 +325,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/fire_resistance"
+                                        "model": "summerfields:item/potion/effect/fire_resistance"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -346,7 +346,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion",
+                            "model": "summerfields:item/potion/type/potion",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -362,13 +362,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/swiftness"
+                                        "model": "summerfields:item/potion/effect/swiftness"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -383,7 +383,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion_long",
+                            "model": "summerfields:item/potion/type/potion_long",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -399,13 +399,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/swiftness"
+                                        "model": "summerfields:item/potion/effect/swiftness"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -420,7 +420,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion_strong",
+                            "model": "summerfields:item/potion/type/potion_strong",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -436,13 +436,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/swiftness"
+                                        "model": "summerfields:item/potion/effect/swiftness"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -457,7 +457,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion",
+                            "model": "summerfields:item/potion/type/potion",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -473,13 +473,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/slowness"
+                                        "model": "summerfields:item/potion/effect/slowness"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -494,7 +494,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion_long",
+                            "model": "summerfields:item/potion/type/potion_long",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -510,13 +510,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/slowness"
+                                        "model": "summerfields:item/potion/effect/slowness"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -531,7 +531,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion_strong",
+                            "model": "summerfields:item/potion/type/potion_strong",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -547,13 +547,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/slowness"
+                                        "model": "summerfields:item/potion/effect/slowness"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -568,7 +568,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion",
+                            "model": "summerfields:item/potion/type/potion",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -584,13 +584,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/turtle_master"
+                                        "model": "summerfields:item/potion/effect/turtle_master"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -605,7 +605,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion_long",
+                            "model": "summerfields:item/potion/type/potion_long",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -621,13 +621,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/turtle_master"
+                                        "model": "summerfields:item/potion/effect/turtle_master"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -642,7 +642,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion_strong",
+                            "model": "summerfields:item/potion/type/potion_strong",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -658,13 +658,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/turtle_master"
+                                        "model": "summerfields:item/potion/effect/turtle_master"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -679,7 +679,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion",
+                            "model": "summerfields:item/potion/type/potion",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -695,13 +695,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/water_breathing"
+                                        "model": "summerfields:item/potion/effect/water_breathing"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -716,7 +716,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion_long",
+                            "model": "summerfields:item/potion/type/potion_long",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -732,13 +732,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/water_breathing"
+                                        "model": "summerfields:item/potion/effect/water_breathing"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -753,7 +753,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion",
+                            "model": "summerfields:item/potion/type/potion",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -769,13 +769,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/healing"
+                                        "model": "summerfields:item/potion/effect/healing"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -790,7 +790,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion_strong",
+                            "model": "summerfields:item/potion/type/potion_strong",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -806,13 +806,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/healing"
+                                        "model": "summerfields:item/potion/effect/healing"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -827,7 +827,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion",
+                            "model": "summerfields:item/potion/type/potion",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -843,13 +843,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/harming"
+                                        "model": "summerfields:item/potion/effect/harming"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -864,7 +864,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion_strong",
+                            "model": "summerfields:item/potion/type/potion_strong",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -880,13 +880,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/harming"
+                                        "model": "summerfields:item/potion/effect/harming"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -901,7 +901,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion",
+                            "model": "summerfields:item/potion/type/potion",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -917,13 +917,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/poison"
+                                        "model": "summerfields:item/potion/effect/poison"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -938,7 +938,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion_long",
+                            "model": "summerfields:item/potion/type/potion_long",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -954,13 +954,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/poison"
+                                        "model": "summerfields:item/potion/effect/poison"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -975,7 +975,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion_strong",
+                            "model": "summerfields:item/potion/type/potion_strong",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -991,13 +991,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/poison"
+                                        "model": "summerfields:item/potion/effect/poison"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -1012,7 +1012,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion",
+                            "model": "summerfields:item/potion/type/potion",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -1028,13 +1028,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/regeneration"
+                                        "model": "summerfields:item/potion/effect/regeneration"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -1049,7 +1049,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion_long",
+                            "model": "summerfields:item/potion/type/potion_long",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -1065,13 +1065,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/regeneration"
+                                        "model": "summerfields:item/potion/effect/regeneration"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -1086,7 +1086,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion_strong",
+                            "model": "summerfields:item/potion/type/potion_strong",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -1102,13 +1102,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/regeneration"
+                                        "model": "summerfields:item/potion/effect/regeneration"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -1123,7 +1123,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion",
+                            "model": "summerfields:item/potion/type/potion",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -1139,13 +1139,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/strength"
+                                        "model": "summerfields:item/potion/effect/strength"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -1160,7 +1160,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion_long",
+                            "model": "summerfields:item/potion/type/potion_long",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -1176,13 +1176,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/strength"
+                                        "model": "summerfields:item/potion/effect/strength"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -1197,7 +1197,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion_strong",
+                            "model": "summerfields:item/potion/type/potion_strong",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -1213,13 +1213,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/strength"
+                                        "model": "summerfields:item/potion/effect/strength"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -1234,7 +1234,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion",
+                            "model": "summerfields:item/potion/type/potion",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -1250,13 +1250,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/weakness"
+                                        "model": "summerfields:item/potion/effect/weakness"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -1271,7 +1271,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion_long",
+                            "model": "summerfields:item/potion/type/potion_long",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -1287,13 +1287,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/weakness"
+                                        "model": "summerfields:item/potion/effect/weakness"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -1308,7 +1308,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion",
+                            "model": "summerfields:item/potion/type/potion",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -1324,13 +1324,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/luck"
+                                        "model": "summerfields:item/potion/effect/luck"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -1345,7 +1345,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion",
+                            "model": "summerfields:item/potion/type/potion",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -1361,13 +1361,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/slow_falling"
+                                        "model": "summerfields:item/potion/effect/slow_falling"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -1382,7 +1382,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion_long",
+                            "model": "summerfields:item/potion/type/potion_long",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -1398,13 +1398,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/slow_falling"
+                                        "model": "summerfields:item/potion/effect/slow_falling"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -1419,7 +1419,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion",
+                            "model": "summerfields:item/potion/type/potion",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -1435,13 +1435,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/wind_charged"
+                                        "model": "summerfields:item/potion/effect/wind_charged"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -1456,7 +1456,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion",
+                            "model": "summerfields:item/potion/type/potion",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -1472,13 +1472,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/weaving"
+                                        "model": "summerfields:item/potion/effect/weaving"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -1493,7 +1493,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion",
+                            "model": "summerfields:item/potion/type/potion",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -1509,13 +1509,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/oozing"
+                                        "model": "summerfields:item/potion/effect/oozing"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -1530,7 +1530,7 @@
                     "models": [
                         {
                             "type": "minecraft:model",
-                            "model": "minecraft:item_variant/potion/type/potion",
+                            "model": "summerfields:item/potion/type/potion",
                             "tints": [
                                 {
                                     "type": "minecraft:potion",
@@ -1546,13 +1546,13 @@
                                     "when": ["fixed", "gui"],
                                     "model": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item_variant/potion/effect/infested"
+                                        "model": "summerfields:item/potion/effect/infested"
                                     }
                                 }
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "summerfields:item/nothing"
                             }
                         }
                     ]
@@ -1561,7 +1561,7 @@
         ],
         "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item_variant/potion/type/potion",
+            "model": "summerfields:item/potion/type/potion",
             "tints": [
                 {
                     "type": "minecraft:potion",

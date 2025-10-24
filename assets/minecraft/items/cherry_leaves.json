@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:block_variant/leaves/cherry/cherry_leaves_1"
+        "model": "summerfields:block/leaves/cherry/cherry_leaves_1"
     }
 }

@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block_variant/walls/template_post",
-    "textures": {
-        "post": "minecraft:textures_variant/walls/red_sandstone_post",
-        "particle": "#post"
-    }
-}

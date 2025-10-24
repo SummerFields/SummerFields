@@ -1,0 +1,142 @@
+{
+    "parent": "minecraft:block/block",
+    "textures": {
+        "particle": "summerfields:block/waxed/block_waxed",
+        "waxed": "summerfields:block/waxed/block_waxed"
+    },
+    "elements": [
+        {
+            "name": "Top",
+            "from": [-0.1, 17, 6.4],
+            "to": [16.1, 25.1, 8.05],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [-4, 5, -1]
+            },
+            "faces": {
+                "north": {
+                    "uv": [0, 0, 16, 8],
+                    "texture": "#waxed"
+                },
+                "east": {
+                    "uv": [0, 8, 1.5, 16],
+                    "rotation": 180,
+                    "texture": "#waxed"
+                },
+                "west": {
+                    "uv": [14.5, 8, 16, 16],
+                    "rotation": 180,
+                    "texture": "#waxed"
+                },
+                "up": {
+                    "uv": [0, 0, 16, 1.5],
+                    "texture": "#waxed"
+                }
+            }
+        },
+        {
+            "name": "Bottom",
+            "from": [-0.1, -7.1, 6.4],
+            "to": [16.1, 1, 8.05],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [-4, -7, -1]
+            },
+            "faces": {
+                "north": {
+                    "uv": [0, 8, 16, 16],
+                    "texture": "#waxed"
+                },
+                "east": {
+                    "uv": [14.5, 8, 16, 16],
+                    "texture": "#waxed"
+                },
+                "west": {
+                    "uv": [0, 8, 1.5, 16],
+                    "texture": "#waxed"
+                },
+                "down": {
+                    "uv": [0, 0, 16, 1.5],
+                    "rotation": 180,
+                    "texture": "#waxed"
+                }
+            }
+        },
+        {
+            "name": "Bottom",
+            "from": [-0.1, -7.1, 7.9],
+            "to": [16.1, 1, 9.55],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [8, -3.05, 9.225]
+            },
+            "faces": {
+                "east": {
+                    "uv": [0, 8, 1.5, 16],
+                    "texture": "#waxed"
+                },
+                "south": {
+                    "uv": [0, 8, 16, 16],
+                    "texture": "#waxed"
+                },
+                "west": {
+                    "uv": [14.5, 8, 16, 16],
+                    "texture": "#waxed"
+                },
+                "down": {
+                    "uv": [0, 0, 16, 1.5],
+                    "texture": "#waxed"
+                }
+            }
+        },
+        {
+            "name": "Top",
+            "from": [-0.1, 17, 7.9],
+            "to": [16.1, 25.1, 9.55],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [-4, 5, 0]
+            },
+            "faces": {
+                "east": {
+                    "uv": [14.5, 8, 16, 16],
+                    "rotation": 180,
+                    "texture": "#waxed"
+                },
+                "south": {
+                    "uv": [0, 0, 16, 8],
+                    "texture": "#waxed"
+                },
+                "west": {
+                    "uv": [0, 8, 1.5, 16],
+                    "rotation": 180,
+                    "texture": "#waxed"
+                },
+                "up": {
+                    "uv": [0, 14.5, 16, 16],
+                    "texture": "#waxed"
+                }
+            }
+        }
+    ],
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [0, 90, 0],
+            "translation": [0, 0, -1],
+            "scale": [0.35, 0.35, 0.35]
+        },
+        "firstperson_righthand": {
+            "rotation": [-45, 90, 0],
+            "translation": [0, -3, -6],
+            "scale": [0.35, 0.35, 0.35]
+        },
+        "gui": {
+            "rotation": [30, -225, 0],
+            "scale": [0.4, 0.4, 0.4]
+        }
+    }
+}

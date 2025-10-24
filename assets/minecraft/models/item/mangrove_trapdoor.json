@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/trapdoor/mangrove_trapdoor",
+    "parent": "summerfields:block/trapdoor/mangrove_trapdoor",
     "display": {
         "thirdperson_righthand": {
             "rotation": [0, 0, -90],

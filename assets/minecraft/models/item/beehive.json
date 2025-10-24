@@ -11,31 +11,31 @@
             "predicate": {
                 "honey_level": 1
             },
-            "model": "minecraft:block_variant/beenest/beehive_1"
+            "model": "summerfields:block/beenest/beehive_1"
         },
         {
             "predicate": {
                 "honey_level": 2
             },
-            "model": "minecraft:block_variant/beenest/beehive_2"
+            "model": "summerfields:block/beenest/beehive_2"
         },
         {
             "predicate": {
                 "honey_level": 3
             },
-            "model": "minecraft:block_variant/beenest/beehive_3"
+            "model": "summerfields:block/beenest/beehive_3"
         },
         {
             "predicate": {
                 "honey_level": 4
             },
-            "model": "minecraft:block_variant/beenest/beehive_4"
+            "model": "summerfields:block/beenest/beehive_4"
         },
         {
             "predicate": {
                 "honey_level": 5
             },
-            "model": "minecraft:block_variant/beenest/beehive_honey"
+            "model": "summerfields:block/beenest/beehive_honey"
         }
     ]
 }

@@ -1,10 +1,10 @@
 {
     "variants": {
         "hanging=false": {
-            "model": "minecraft:block_variant/lantern/soul_lantern"
+            "model": "summerfields:block/lantern/soul_lantern"
         },
         "hanging=true": {
-            "model": "minecraft:block_variant/lantern/soul_lantern_hanging"
+            "model": "summerfields:block/lantern/soul_lantern_hanging"
         }
     }
 }

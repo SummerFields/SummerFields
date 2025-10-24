@@ -8,7 +8,7 @@
                 "west": "false"
             },
             "apply": {
-                "model": "minecraft:block_variant/glass/gray_stained_glass_pane_post"
+                "model": "summerfields:block/glass/gray_stained_glass_pane_post"
             }
         },
         {
@@ -19,7 +19,7 @@
                 "west": "true"
             },
             "apply": {
-                "model": "minecraft:block_variant/glass/gray_stained_glass_pane_forside"
+                "model": "summerfields:block/glass/gray_stained_glass_pane_forside"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "west": "false"
             },
             "apply": {
-                "model": "minecraft:block_variant/glass/gray_stained_glass_pane_side"
+                "model": "summerfields:block/glass/gray_stained_glass_pane_side"
             }
         },
         {
@@ -41,7 +41,7 @@
                 "west": "false"
             },
             "apply": {
-                "model": "minecraft:block_variant/glass/gray_stained_glass_pane_side",
+                "model": "summerfields:block/glass/gray_stained_glass_pane_side",
                 "y": 90
             }
         },
@@ -53,7 +53,7 @@
                 "west": "false"
             },
             "apply": {
-                "model": "minecraft:block_variant/glass/gray_stained_glass_pane_side",
+                "model": "summerfields:block/glass/gray_stained_glass_pane_side",
                 "y": 180
             }
         },
@@ -65,7 +65,7 @@
                 "west": "true"
             },
             "apply": {
-                "model": "minecraft:block_variant/glass/gray_stained_glass_pane_side",
+                "model": "summerfields:block/glass/gray_stained_glass_pane_side",
                 "y": 270
             }
         },
@@ -78,7 +78,7 @@
             },
             "apply": [
                 {
-                    "model": "minecraft:block_variant/glass/gray_stained_glass_pane_twoside"
+                    "model": "summerfields:block/glass/gray_stained_glass_pane_twoside"
                 }
             ]
         },
@@ -91,7 +91,7 @@
             },
             "apply": [
                 {
-                    "model": "minecraft:block_variant/glass/gray_stained_glass_pane_twoside",
+                    "model": "summerfields:block/glass/gray_stained_glass_pane_twoside",
                     "y": 90
                 }
             ]
@@ -104,7 +104,7 @@
                 "west": "false"
             },
             "apply": {
-                "model": "minecraft:block_variant/glass/gray_stained_glass_pane_angle"
+                "model": "summerfields:block/glass/gray_stained_glass_pane_angle"
             }
         },
         {
@@ -115,7 +115,7 @@
                 "west": "false"
             },
             "apply": {
-                "model": "minecraft:block_variant/glass/gray_stained_glass_pane_angle",
+                "model": "summerfields:block/glass/gray_stained_glass_pane_angle",
                 "y": 90
             }
         },
@@ -127,7 +127,7 @@
                 "west": "true"
             },
             "apply": {
-                "model": "minecraft:block_variant/glass/gray_stained_glass_pane_angle",
+                "model": "summerfields:block/glass/gray_stained_glass_pane_angle",
                 "y": 180
             }
         },
@@ -139,7 +139,7 @@
                 "west": "true"
             },
             "apply": {
-                "model": "minecraft:block_variant/glass/gray_stained_glass_pane_angle",
+                "model": "summerfields:block/glass/gray_stained_glass_pane_angle",
                 "y": 270
             }
         },
@@ -151,7 +151,7 @@
                 "west": "false"
             },
             "apply": {
-                "model": "minecraft:block_variant/glass/gray_stained_glass_pane_threeside"
+                "model": "summerfields:block/glass/gray_stained_glass_pane_threeside"
             }
         },
         {
@@ -162,7 +162,7 @@
                 "west": "true"
             },
             "apply": {
-                "model": "minecraft:block_variant/glass/gray_stained_glass_pane_threeside",
+                "model": "summerfields:block/glass/gray_stained_glass_pane_threeside",
                 "y": 90
             }
         },
@@ -174,7 +174,7 @@
                 "west": "true"
             },
             "apply": {
-                "model": "minecraft:block_variant/glass/gray_stained_glass_pane_threeside",
+                "model": "summerfields:block/glass/gray_stained_glass_pane_threeside",
                 "y": 180
             }
         },
@@ -186,7 +186,7 @@
                 "west": "true"
             },
             "apply": {
-                "model": "minecraft:block_variant/glass/gray_stained_glass_pane_threeside",
+                "model": "summerfields:block/glass/gray_stained_glass_pane_threeside",
                 "y": 270
             }
         }

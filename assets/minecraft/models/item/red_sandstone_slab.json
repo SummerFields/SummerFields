@@ -1,3 +1,3 @@
 {
-    "parent": "minecraft:block_variant/slabs/red_sandstone_slab_bottom"
+    "parent": "summerfields:block/slabs/red_sandstone_slab_bottom"
 }

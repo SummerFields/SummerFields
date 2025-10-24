@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/vine/twisting_vines_1",
+    "parent": "summerfields:block/vine/twisting_vines_1",
     "display": {
         "gui": {
             "rotation": [30, 135, 0],

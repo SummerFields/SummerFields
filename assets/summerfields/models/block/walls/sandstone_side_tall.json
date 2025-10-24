@@ -1,0 +1,9 @@
+{
+    "parent": "summerfields:block/walls/template_side_tall",
+    "textures": {
+        "particle": "#front",
+        "front": "minecraft:block/sandstone_top",
+        "innertop": "summerfields:block/walls/sandstone_top",
+        "other": "summerfields:block/walls/sandstone_other"
+    }
+}

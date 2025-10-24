@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/dripleaf/big_dripleaf",
+    "parent": "summerfields:block/dripleaf/big_dripleaf",
     "display": {
         "gui": {
             "rotation": [30, 225, 0],

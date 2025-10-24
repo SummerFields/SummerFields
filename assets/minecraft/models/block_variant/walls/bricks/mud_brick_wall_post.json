@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block_variant/walls/bricks/template_wall_post",
-    "textures": {
-        "top": "minecraft:textures_variant/bricks/mud_bricks_top_1",
-        "wall": "minecraft:block/mud_bricks"
-    }
-}

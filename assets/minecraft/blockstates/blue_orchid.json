@@ -2,67 +2,67 @@
     "variants": {
         "": [
             {
-                "model": "minecraft:block_variant/potable/flowers/blue_orchid",
+                "model": "summerfields:block/potable/flowers/blue_orchid",
                 "y": 0
             },
             {
-                "model": "minecraft:block_variant/potable/flowers/blue_orchid_22-5",
+                "model": "summerfields:block/potable/flowers/blue_orchid_22-5",
                 "y": 0
             },
             {
-                "model": "minecraft:block_variant/potable/flowers/blue_orchid_45",
+                "model": "summerfields:block/potable/flowers/blue_orchid_45",
                 "y": 0
             },
             {
-                "model": "minecraft:block_variant/potable/flowers/blue_orchid_-22-5",
+                "model": "summerfields:block/potable/flowers/blue_orchid_-22-5",
                 "y": 0
             },
             {
-                "model": "minecraft:block_variant/potable/flowers/blue_orchid",
+                "model": "summerfields:block/potable/flowers/blue_orchid",
                 "y": 90
             },
             {
-                "model": "minecraft:block_variant/potable/flowers/blue_orchid_22-5",
+                "model": "summerfields:block/potable/flowers/blue_orchid_22-5",
                 "y": 90
             },
             {
-                "model": "minecraft:block_variant/potable/flowers/blue_orchid_45",
+                "model": "summerfields:block/potable/flowers/blue_orchid_45",
                 "y": 90
             },
             {
-                "model": "minecraft:block_variant/potable/flowers/blue_orchid_-22-5",
+                "model": "summerfields:block/potable/flowers/blue_orchid_-22-5",
                 "y": 90
             },
             {
-                "model": "minecraft:block_variant/potable/flowers/blue_orchid",
+                "model": "summerfields:block/potable/flowers/blue_orchid",
                 "y": 180
             },
             {
-                "model": "minecraft:block_variant/potable/flowers/blue_orchid_22-5",
+                "model": "summerfields:block/potable/flowers/blue_orchid_22-5",
                 "y": 180
             },
             {
-                "model": "minecraft:block_variant/potable/flowers/blue_orchid_45",
+                "model": "summerfields:block/potable/flowers/blue_orchid_45",
                 "y": 180
             },
             {
-                "model": "minecraft:block_variant/potable/flowers/blue_orchid_-22-5",
+                "model": "summerfields:block/potable/flowers/blue_orchid_-22-5",
                 "y": 180
             },
             {
-                "model": "minecraft:block_variant/potable/flowers/blue_orchid",
+                "model": "summerfields:block/potable/flowers/blue_orchid",
                 "y": 270
             },
             {
-                "model": "minecraft:block_variant/potable/flowers/blue_orchid_22-5",
+                "model": "summerfields:block/potable/flowers/blue_orchid_22-5",
                 "y": 270
             },
             {
-                "model": "minecraft:block_variant/potable/flowers/blue_orchid_45",
+                "model": "summerfields:block/potable/flowers/blue_orchid_45",
                 "y": 270
             },
             {
-                "model": "minecraft:block_variant/potable/flowers/blue_orchid_-22-5",
+                "model": "summerfields:block/potable/flowers/blue_orchid_-22-5",
                 "y": 270
             }
         ]

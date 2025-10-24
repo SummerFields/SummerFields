@@ -1,16 +1,16 @@
 {
     "variants": {
         "age=0": {
-            "model": "minecraft:block_variant/beetroots/beetroots_stage0"
+            "model": "summerfields:block/beetroots/beetroots_stage0"
         },
         "age=1": {
-            "model": "minecraft:block_variant/beetroots/beetroots_stage1"
+            "model": "summerfields:block/beetroots/beetroots_stage1"
         },
         "age=2": {
-            "model": "minecraft:block_variant/beetroots/beetroots_stage2"
+            "model": "summerfields:block/beetroots/beetroots_stage2"
         },
         "age=3": {
-            "model": "minecraft:block_variant/beetroots/beetroots_stage3"
+            "model": "summerfields:block/beetroots/beetroots_stage3"
         }
     }
 }

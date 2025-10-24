@@ -1,9 +1,0 @@
-{
-    "parent": "minecraft:block_variant/walls/template_inventory",
-    "textures": {
-        "front": "block/cobblestone",
-        "top": "minecraft:textures_variant/bricks/cobblestone_top",
-        "innertop": "minecraft:textures_variant/bricks/cobblestone_top",
-        "other": "#front"
-    }
-}

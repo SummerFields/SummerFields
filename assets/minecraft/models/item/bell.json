@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/bell/bell_item",
+    "parent": "summerfields:block/bell/bell_item",
     "display": {
         "gui": {
             "rotation": [30, 225, 0],

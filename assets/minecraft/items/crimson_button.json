@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:block_variant/button/crimson_button"
+        "model": "summerfields:block/button/crimson_button"
     }
 }

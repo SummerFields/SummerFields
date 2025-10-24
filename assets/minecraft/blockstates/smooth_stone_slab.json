@@ -2,53 +2,53 @@
     "variants": {
         "type=bottom": [
             {
-                "model": "minecraft:block_variant/slabs/smooth_stone_slab_bottom_0"
+                "model": "summerfields:block/slabs/smooth_stone_slab_bottom_0"
             },
             {
-                "model": "minecraft:block_variant/slabs/smooth_stone_slab_bottom_1"
+                "model": "summerfields:block/slabs/smooth_stone_slab_bottom_1"
             },
             {
-                "model": "minecraft:block_variant/slabs/smooth_stone_slab_bottom_2"
+                "model": "summerfields:block/slabs/smooth_stone_slab_bottom_2"
             },
             {
-                "model": "minecraft:block_variant/slabs/smooth_stone_slab_bottom_3"
+                "model": "summerfields:block/slabs/smooth_stone_slab_bottom_3"
             },
             {
-                "model": "minecraft:block_variant/slabs/smooth_stone_slab_bottom_4"
+                "model": "summerfields:block/slabs/smooth_stone_slab_bottom_4"
             }
         ],
         "type=top": [
             {
-                "model": "minecraft:block_variant/slabs/smooth_stone_slab_top_0"
+                "model": "summerfields:block/slabs/smooth_stone_slab_top_0"
             },
             {
-                "model": "minecraft:block_variant/slabs/smooth_stone_slab_top_1"
+                "model": "summerfields:block/slabs/smooth_stone_slab_top_1"
             },
             {
-                "model": "minecraft:block_variant/slabs/smooth_stone_slab_top_2"
+                "model": "summerfields:block/slabs/smooth_stone_slab_top_2"
             },
             {
-                "model": "minecraft:block_variant/slabs/smooth_stone_slab_top_3"
+                "model": "summerfields:block/slabs/smooth_stone_slab_top_3"
             },
             {
-                "model": "minecraft:block_variant/slabs/smooth_stone_slab_top_4"
+                "model": "summerfields:block/slabs/smooth_stone_slab_top_4"
             }
         ],
         "type=double": [
             {
-                "model": "minecraft:block_variant/slabs/smooth_stone_slab_double_0"
+                "model": "summerfields:block/slabs/smooth_stone_slab_double_0"
             },
             {
-                "model": "minecraft:block_variant/slabs/smooth_stone_slab_double_1"
+                "model": "summerfields:block/slabs/smooth_stone_slab_double_1"
             },
             {
-                "model": "minecraft:block_variant/slabs/smooth_stone_slab_double_2"
+                "model": "summerfields:block/slabs/smooth_stone_slab_double_2"
             },
             {
-                "model": "minecraft:block_variant/slabs/smooth_stone_slab_double_3"
+                "model": "summerfields:block/slabs/smooth_stone_slab_double_3"
             },
             {
-                "model": "minecraft:block_variant/slabs/smooth_stone_slab_double_4"
+                "model": "summerfields:block/slabs/smooth_stone_slab_double_4"
             }
         ]
     }

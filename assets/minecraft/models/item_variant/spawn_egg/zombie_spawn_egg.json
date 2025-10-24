@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:item_variant/spawn_egg/shape_zombie",
-    "textures": {
-        "particle": "#layer0",
-        "layer0": "minecraft:entity/zombie/zombie",
-        "layer1": "minecraft:textures_variant/empty"
-    }
-}

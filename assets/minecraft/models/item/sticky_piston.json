@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/piston/sticky_piston",
+    "parent": "summerfields:block/piston/sticky_piston",
     "display": {
         "gui": {
             "rotation": [120, 0, 45],

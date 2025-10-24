@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:block_variant/chorus/chorus_flower_inventory"
+        "model": "summerfields:block/chorus/chorus_flower_inventory"
     }
 }

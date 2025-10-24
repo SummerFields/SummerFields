@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/pressure_plate_down",
+    "textures": {
+        "texture": "summerfields:block/pressure_plate/dark_oak_pressure_plate"
+    }
+}

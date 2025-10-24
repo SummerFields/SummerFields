@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/potable/template_flower",
+    "textures": {
+        "particle": "#side",
+        "side": "minecraft:block/pink_tulip"
+    }
+}

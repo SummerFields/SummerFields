@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:block_variant/walls/diorite_inventory"
+        "model": "summerfields:block/walls/diorite_inventory"
     }
 }

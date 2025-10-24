@@ -8,28 +8,28 @@
                 "when": "wild",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/axolotl_bucket/axolotl_bucket_wild"
+                    "model": "summerfields:item/axolotl_bucket/axolotl_bucket_wild"
                 }
             },
             {
                 "when": "gold",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/axolotl_bucket/axolotl_bucket_gold"
+                    "model": "summerfields:item/axolotl_bucket/axolotl_bucket_gold"
                 }
             },
             {
                 "when": "cyan",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/axolotl_bucket/axolotl_bucket_cyan"
+                    "model": "summerfields:item/axolotl_bucket/axolotl_bucket_cyan"
                 }
             },
             {
                 "when": "blue",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item_variant/axolotl_bucket/axolotl_bucket_blue"
+                    "model": "summerfields:item/axolotl_bucket/axolotl_bucket_blue"
                 }
             }
         ],

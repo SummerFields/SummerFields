@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/ore/template_ore",
+    "textures": {
+        "base": "summerfields:block/ore/gilded_blackstone_3",
+        "glow": "summerfields:block/ore/nether_gold_ore_3_emission"
+    }
+}

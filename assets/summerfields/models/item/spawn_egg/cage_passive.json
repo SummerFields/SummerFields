@@ -1,0 +1,132 @@
+{
+    "parent": "minecraft:block/block",
+    "textures": {
+        "bottom": "minecraft:block/glass"
+    },
+    "elements": [
+        {
+            "name": "barreau",
+            "from": [0, 0, 1],
+            "to": [1, 1, 15],
+            "rotation": { "angle": 0, "axis": "x", "origin": [0, 0, 16] },
+            "faces": {
+                "east": { "uv": [1, 15, 15, 16], "texture": "#bottom" },
+                "west": { "uv": [1, 15, 15, 16], "texture": "#bottom" },
+                "up": { "uv": [1, 15, 15, 16], "rotation": 90, "texture": "#bottom" },
+                "down": { "uv": [1, 0, 15, 1], "rotation": 90, "texture": "#bottom" }
+            }
+        },
+        {
+            "name": "barreau",
+            "from": [0, 15, 0],
+            "to": [1, 16, 15],
+            "rotation": { "angle": 0, "axis": "y", "origin": [0, 0, 15] },
+            "faces": {
+                "north": { "uv": [15, 0, 16, 1], "texture": "#bottom" },
+                "east": { "uv": [0, 0, 15, 1], "texture": "#bottom" },
+                "west": { "uv": [0, 0, 15, 1], "rotation": 180, "texture": "#bottom" },
+                "up": { "uv": [0, 15, 15, 16], "rotation": 90, "texture": "#bottom" },
+                "down": { "uv": [0, 0, 15, 1], "rotation": 90, "texture": "#bottom" }
+            }
+        },
+        {
+            "name": "barreau",
+            "from": [15, 0, 1],
+            "to": [16, 1, 15],
+            "rotation": { "angle": 0, "axis": "y", "origin": [16, 0, 0] },
+            "faces": {
+                "east": { "uv": [1, 15, 15, 16], "texture": "#bottom" },
+                "west": { "uv": [1, 15, 15, 16], "texture": "#bottom" },
+                "up": { "uv": [1, 0, 15, 1], "rotation": 270, "texture": "#bottom" },
+                "down": { "uv": [1, 15, 15, 16], "rotation": 270, "texture": "#bottom" }
+            }
+        },
+        {
+            "name": "barreau",
+            "from": [0, 0, 15],
+            "to": [16, 1, 16],
+            "rotation": { "angle": 0, "axis": "y", "origin": [15, 0, 16] },
+            "faces": {
+                "north": { "uv": [1, 15, 15, 16], "texture": "#bottom" },
+                "east": { "uv": [0, 15, 1, 16], "texture": "#bottom" },
+                "south": { "uv": [1, 15, 15, 16], "texture": "#bottom" },
+                "west": { "uv": [15, 15, 16, 16], "texture": "#bottom" },
+                "up": { "uv": [15, 0, 16, 16], "rotation": 90, "texture": "#bottom" },
+                "down": { "uv": [15, 0, 16, 16], "rotation": 90, "texture": "#bottom" }
+            }
+        },
+        {
+            "name": "barreau",
+            "from": [0, 15, 15],
+            "to": [16, 16, 16],
+            "rotation": { "angle": 0, "axis": "y", "origin": [15, 0, 16] },
+            "faces": {
+                "north": { "uv": [1, 0, 15, 1], "texture": "#bottom" },
+                "east": { "uv": [0, 0, 1, 1], "texture": "#bottom" },
+                "south": { "uv": [1, 0, 15, 1], "rotation": 180, "texture": "#bottom" },
+                "west": { "uv": [15, 0, 16, 1], "texture": "#bottom" },
+                "up": { "uv": [15, 0, 16, 16], "rotation": 90, "texture": "#bottom" },
+                "down": { "uv": [15, 0, 16, 16], "rotation": 90, "texture": "#bottom" }
+            }
+        },
+        {
+            "name": "barreau",
+            "from": [0, 0, 0],
+            "to": [16, 1, 1],
+            "rotation": { "angle": 0, "axis": "y", "origin": [-1, 0, 0] },
+            "faces": {
+                "north": { "uv": [1, 15, 15, 16], "texture": "#bottom" },
+                "east": { "uv": [15, 15, 16, 16], "texture": "#bottom" },
+                "south": { "uv": [1, 15, 15, 16], "texture": "#bottom" },
+                "west": { "uv": [0, 15, 1, 16], "texture": "#bottom" },
+                "up": { "uv": [0, 0, 1, 16], "rotation": 90, "texture": "#bottom" },
+                "down": { "uv": [0, 0, 1, 16], "rotation": 90, "texture": "#bottom" }
+            }
+        },
+        {
+            "name": "barreau",
+            "from": [0, 1, 0],
+            "to": [1, 15, 1],
+            "faces": {
+                "north": { "uv": [15, 1, 16, 15], "texture": "#bottom" },
+                "east": { "uv": [0, 1, 1, 15], "texture": "#bottom" },
+                "south": { "uv": [0, 1, 1, 15], "texture": "#bottom" },
+                "west": { "uv": [0, 1, 1, 15], "texture": "#bottom" }
+            }
+        },
+        {
+            "name": "barreau",
+            "from": [0, 1, 15],
+            "to": [1, 15, 16],
+            "faces": {
+                "north": { "uv": [0, 1, 1, 15], "texture": "#bottom" },
+                "east": { "uv": [0, 1, 1, 15], "texture": "#bottom" },
+                "south": { "uv": [0, 1, 1, 15], "texture": "#bottom" },
+                "west": { "uv": [15, 1, 16, 15], "texture": "#bottom" }
+            }
+        },
+        {
+            "name": "barreau",
+            "from": [15, 1, 15],
+            "to": [16, 15, 16],
+            "faces": {
+                "north": { "uv": [0, 1, 1, 15], "texture": "#bottom" },
+                "east": { "uv": [0, 1, 1, 15], "texture": "#bottom" },
+                "south": { "uv": [15, 1, 16, 15], "texture": "#bottom" },
+                "west": { "uv": [0, 1, 1, 15], "texture": "#bottom" }
+            }
+        }
+    ],
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [0, 180, 0],
+            "translation": [0, 2, 0],
+            "scale": [0.5, 0.5, 0.5]
+        },
+        "firstperson_lefthand": {
+            "rotation": [0, 90, 0],
+            "translation": [0, 2, 0],
+            "scale": [0.5, 0.5, 0.5]
+        }
+    }
+}

@@ -2,19 +2,19 @@
     "variants": {
         "": [
             {
-                "model": "minecraft:block_variant/potable/flowers_16/cornflower",
+                "model": "summerfields:block/potable/flowers_16/cornflower",
                 "y": 0
             },
             {
-                "model": "minecraft:block_variant/potable/flowers_16/cornflower",
+                "model": "summerfields:block/potable/flowers_16/cornflower",
                 "y": 90
             },
             {
-                "model": "minecraft:block_variant/potable/flowers_16/cornflower",
+                "model": "summerfields:block/potable/flowers_16/cornflower",
                 "y": 180
             },
             {
-                "model": "minecraft:block_variant/potable/flowers_16/cornflower",
+                "model": "summerfields:block/potable/flowers_16/cornflower",
                 "y": 270
             }
         ]

@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/ore/template_ore",
+    "textures": {
+        "base": "summerfields:block/ore/deepslate_diamond_ore_2",
+        "glow": "summerfields:block/ore/diamond_ore_2_emission"
+    }
+}

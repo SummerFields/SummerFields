@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block_variant/potable/template_flower",
-    "textures": {
-        "particle": "#side",
-        "side": "minecraft:block/oxeye_daisy"
-    }
-}

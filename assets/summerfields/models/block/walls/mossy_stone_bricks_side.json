@@ -1,0 +1,10 @@
+{
+    "parent": "summerfields:block/walls/template_side",
+    "textures": {
+        "particle": "#front",
+        "front": "minecraft:block/mossy_stone_bricks",
+        "top": "summerfields:block/walls/mossy_stone_bricks_top",
+        "innertop": "summerfields:block/walls/mossy_stone_bricks_inner_top",
+        "other": "summerfields:block/walls/mossy_stone_bricks_other"
+    }
+}

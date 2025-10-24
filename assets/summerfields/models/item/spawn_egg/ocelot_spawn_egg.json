@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:item/spawn_egg/shape_cat",
+    "textures": {
+        "0": "minecraft:entity/cat/ocelot",
+        "particle": "#0"
+    }
+}

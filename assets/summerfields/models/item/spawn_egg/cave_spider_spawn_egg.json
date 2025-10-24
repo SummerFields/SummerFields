@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:item/spawn_egg/shape_spider",
+    "textures": {
+        "particle": "#layer0",
+        "layer0": "minecraft:entity/spider/cave_spider"
+    }
+}

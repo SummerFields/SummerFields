@@ -1,9 +1,0 @@
-{
-    "parent": "minecraft:block_variant/polished/base_4",
-    "textures": {
-        "one": "minecraft:textures_variant/polished/polished_andesite_2",
-        "two": "minecraft:textures_variant/polished/polished_andesite_3",
-        "three": "minecraft:textures_variant/polished/polished_andesite_4",
-        "for": "minecraft:textures_variant/polished/polished_andesite_5"
-    }
-}

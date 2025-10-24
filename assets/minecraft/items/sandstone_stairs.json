@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:block_variant/stairs/sandstone_inventory"
+        "model": "summerfields:block/stairs/sandstone_inventory"
     }
 }

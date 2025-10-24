@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "minecraft:textures_variant/ominous_bottle/ominous_bottle_4"
-    }
-}

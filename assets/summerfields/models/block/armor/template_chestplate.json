@@ -1,6 +1,6 @@
 {
     "textures": {
-        "layer0": "models/armor/leather_layer_1",
+        "layer0": "models/armor/leather",
         "layer1": "summerfields:block/empty",
         "layer2": "summerfields:block/empty"
     },

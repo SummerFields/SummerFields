@@ -2,7 +2,7 @@
     "parent": "summerfields:item/spawn_egg/display_small",
     "textures": {
         "particle": "#layer1",
-        "layer1": "entity/silverfish"
+        "layer1": "entity/silverfish/silverfish"
     },
     "elements": [
         {

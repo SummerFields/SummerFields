@@ -2,7 +2,7 @@
     "parent": "summerfields:item/spawn_egg/display_middle_small",
     "textures": {
         "particle": "#layer0",
-        "layer0": "minecraft:entity/bat_spawn_egg"
+        "layer0": "minecraft:entity/bat/bat"
     },
     "elements": [
         {

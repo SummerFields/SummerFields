@@ -1,8 +1,8 @@
 {
     "parent": "summerfields:item/spawn_egg/display_middle_big",
     "textures": {
-        "particle": "entity/witch",
-        "layer0": "entity/witch"
+        "particle": "#layer0",
+        "layer0": "entity/witch/witch"
     },
     "elements": [
         {

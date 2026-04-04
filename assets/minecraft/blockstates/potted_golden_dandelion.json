@@ -1,0 +1,46 @@
+{
+    "multipart": [
+        {
+            "apply": [
+                {
+                    "model": "summerfields:block/potable/potted/golden_dandelion",
+                    "y": 0
+                },
+                {
+                    "model": "summerfields:block/potable/potted/golden_dandelion",
+                    "y": 90
+                },
+                {
+                    "model": "summerfields:block/potable/potted/golden_dandelion",
+                    "y": 180
+                },
+                {
+                    "model": "summerfields:block/potable/potted/golden_dandelion",
+                    "y": 270
+                }
+            ]
+        },
+        {
+            "apply": [
+                {
+                    "model": "minecraft:block/flower_pot"
+                },
+                {
+                    "model": "summerfields:block/potable/pot/pot_0"
+                },
+                {
+                    "model": "summerfields:block/potable/pot/pot_1"
+                },
+                {
+                    "model": "summerfields:block/potable/pot/pot_2"
+                },
+                {
+                    "model": "summerfields:block/potable/pot/pot_3"
+                },
+                {
+                    "model": "summerfields:block/potable/pot/pot_4"
+                }
+            ]
+        }
+    ]
+}

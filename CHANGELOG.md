@@ -5,6 +5,13 @@ This changelog lists all notable updates and contributions for the SummerFields 
 
 ---
 
+Release 26.1
+All legacy textures have been removed. This version is only compatible with Minecraft 26.1
+
+  - by [lipki] (https://github.com/lipki)
+	- new baby models and textures
+	- golden daisy
+
 Release 1.21.11
 
   - by [lipki] (https://github.com/lipki)

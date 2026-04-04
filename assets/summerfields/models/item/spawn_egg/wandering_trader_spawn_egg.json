@@ -2,6 +2,6 @@
     "parent": "summerfields:item/spawn_egg/shape_villager",
     "textures": {
         "particle": "#layer0",
-        "layer0": "minecraft:entity/wandering_trader"
+        "layer0": "minecraft:entity/wandering_trader/wandering_trader"
     }
 }

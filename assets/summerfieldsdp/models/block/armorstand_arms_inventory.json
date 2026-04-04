@@ -2,8 +2,8 @@
     "parent": "minecraft:block/block",
     "ambientocclusion": false,
     "textures": {
-        "1": "entity/armorstand/wood",
-        "particle": "entity/armorstand/wood"
+        "1": "entity/armorstand/armorstand",
+        "particle": "entity/armorstand/armorstand"
     },
     "elements": [
         {

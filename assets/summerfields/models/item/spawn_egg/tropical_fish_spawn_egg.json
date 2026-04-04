@@ -2,7 +2,7 @@
     "parent": "summerfields:item/spawn_egg/display_small",
     "textures": {
         "particle": "#layer0",
-        "layer0": "minecraft:entity/fish/tropical_item",
+        "layer0": "summerfields:block/tropical_item",
         "layer1": "minecraft:entity/fish/tropical_b_pattern_2"
     },
     "elements": [

@@ -1,5 +1,6 @@
 {
     "asset_id": "summerfieldsdp:entity/chicken/warm_chicken_3",
+    "baby_asset_id": "minecraft:entity/chicken/warm_chicken_baby",
     "model": "cold",
     "spawn_conditions": [
         {

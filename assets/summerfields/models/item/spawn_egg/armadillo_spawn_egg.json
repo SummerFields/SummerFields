@@ -2,7 +2,7 @@
     "parent": "summerfields:item/spawn_egg/display_middle_small",
     "textures": {
         "particle": "#layer0",
-        "layer0": "minecraft:entity/armadillo"
+        "layer0": "minecraft:entity/armadillo/armadillo"
     },
     "elements": [
         {

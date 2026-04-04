@@ -2,7 +2,7 @@
     "parent": "summerfields:item/spawn_egg/display_middle_small",
     "textures": {
         "particle": "#layer0",
-        "layer0": "entity/frog/temperate_frog"
+        "layer0": "entity/frog/frog_temperate"
     },
     "elements": [
         {

@@ -1,9 +1,9 @@
 {
     "parent": "summerfields:item/spawn_egg/display_middle_big",
     "textures": {
-        "layer1": "entity/spider_eyes",
+        "layer1": "minecraft:entity/spider/spider_eyes",
         "particle": "#layer0",
-        "layer0": "entity/spider/spider"
+        "layer0": "minecraft:entity/spider/spider"
     },
     "elements": [
         {

@@ -1,9 +1,9 @@
 {
     "parent": "summerfields:item/spawn_egg/display_middle_big",
     "textures": {
-        "layer1": "entity/phantom_eyes",
+        "layer1": "entity/phantom/phantom_eyes",
         "particle": "#layer0",
-        "layer0": "entity/phantom"
+        "layer0": "entity/phantom/phantom"
     },
     "elements": [
         {

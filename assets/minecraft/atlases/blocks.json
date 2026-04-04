@@ -7,8 +7,13 @@
         },
         {
             "type": "minecraft:directory",
-            "source": "models",
-            "prefix": "models/"
+            "source": "summerfields:item",
+            "prefix": "summerfields:item/"
+        },
+        {
+            "type": "minecraft:directory",
+            "source": "summerfields:gui",
+            "prefix": "summerfields:gui/"
         },
         {
             "type": "minecraft:directory",
@@ -41,10 +46,10 @@
                 "minecraft:trims/items/chestplate_trim",
                 "minecraft:trims/items/helmet_trim",
                 "minecraft:trims/items/boots_trim",
-                "minecraft:trims/models/armor/shaper",
-                "minecraft:trims/models/armor/shaper_leggings",
-                "minecraft:trims/models/armor/wayfinder",
-                "minecraft:trims/models/armor/wayfinder_leggings"
+                "minecraft:trims/entity/humanoid/shaper",
+                "minecraft:trims/entity/humanoid_leggings/shaper",
+                "minecraft:trims/entity/humanoid/wayfinder",
+                "minecraft:trims/entity/humanoid_leggings/wayfinder"
             ]
         }
     ]

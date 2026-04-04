@@ -2,7 +2,7 @@
     "parent": "summerfields:item/spawn_egg/display_spawn_egg",
     "textures": {
         "particle": "#layer0",
-        "layer0": "entity/guardian"
+        "layer0": "minecraft:entity/guardian/guardian"
     },
     "elements": [
         {

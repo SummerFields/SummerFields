@@ -1,7 +1,7 @@
 {
     "parent": "summerfields:item/spawn_egg/shape_cow",
     "textures": {
-        "0": "minecraft:entity/cow/red_mooshroom",
+        "0": "minecraft:entity/cow/mooshroom_red",
         "particle": "#0"
     }
 }

@@ -2,7 +2,7 @@
     "parent": "summerfields:item/spawn_egg/display_spawn_egg",
     "textures": {
         "particle": "#layer0",
-        "layer0": "minecraft:entity/turtle/big_sea_turtle"
+        "layer0": "minecraft:entity/turtle/turtle"
     },
     "elements": [
         {

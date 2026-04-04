@@ -2,7 +2,7 @@
     "parent": "summerfields:item/spawn_egg/shape_llama",
     "textures": {
         "particle": "#layer0",
-        "layer0": "minecraft:entity/llama/creamy",
+        "layer0": "minecraft:entity/llama/llama_creamy",
         "layer1": "summerfields:block/empty"
     }
 }

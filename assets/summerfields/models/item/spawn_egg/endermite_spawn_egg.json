@@ -2,7 +2,7 @@
     "parent": "summerfields:item/spawn_egg/display_small",
     "textures": {
         "particle": "#layer0",
-        "layer0": "minecraft:entity/endermite"
+        "layer0": "minecraft:entity/endermite/endermite"
     },
     "elements": [
         {

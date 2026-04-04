@@ -1,6 +1,6 @@
 {
     "textures": {
-        "layer0": "minecraft:models/armor/leather_layer_1",
+        "layer0": "minecraft:entity/equipment/humanoid/leather",
         "layer1": "summerfields:block/empty",
         "layer2": "summerfields:block/empty"
     },

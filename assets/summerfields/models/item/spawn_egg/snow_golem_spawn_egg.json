@@ -2,7 +2,7 @@
     "parent": "summerfields:item/spawn_egg/display_spawn_egg",
     "textures": {
         "particle": "#layer0",
-        "layer0": "minecraft:entity/snow_golem"
+        "layer0": "minecraft:entity/snow_golem/snow_golem"
     },
     "elements": [
         {

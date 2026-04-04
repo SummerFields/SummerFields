@@ -1,5 +1,6 @@
 {
     "asset_id": "summerfieldsdp:entity/chicken/temperate_chicken_4",
+    "baby_asset_id": "minecraft:entity/chicken/temperate_chicken_baby",
     "model": "cold",
     "spawn_conditions": [
         {

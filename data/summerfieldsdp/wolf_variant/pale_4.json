@@ -4,6 +4,11 @@
         "tame": "summerfieldsdp:entity/wolf/pale_tame_4",
         "wild": "summerfieldsdp:entity/wolf/pale_4"
     },
+    "baby_assets": {
+        "angry": "minecraft:entity/wolf/pale_angry_baby",
+        "tame": "minecraft:entity/wolf/pale_tame_baby",
+        "wild": "minecraft:entity/wolf/pale_baby"
+    },
     "spawn_conditions": [
         {
             "priority": 0

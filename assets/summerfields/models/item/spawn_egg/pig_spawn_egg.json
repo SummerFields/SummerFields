@@ -2,7 +2,7 @@
     "parent": "summerfields:item/spawn_egg/display_spawn_egg",
     "textures": {
         "particle": "#layer0",
-        "layer0": "entity/pig/temperate_pig"
+        "layer0": "entity/pig/pig_temperate"
     },
     "elements": [
         {

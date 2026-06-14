@@ -5,6 +5,25 @@ This changelog lists all notable updates and contributions for the SummerFields 
 
 ---
 
+Release 26.2
+All legacy textures have been removed. This version is only compatible with Minecraft 26.x
+
+  - by [lipki] (https://github.com/lipki)
+	- new baby sulfur cube
+	- new block sulfur and variante
+	- new potent sulfur and gaz
+	- new sulfur spike
+	- new block cinnabar and variante
+	- new disc "Bounce"
+	- new icon for pause menu
+	- old icon
+	- new geyser
+	- sign is now a block
+	- bed is now block
+	- new map item
+	- remake stair ... again
+	- remake chiseled block
+
 Release 26.1
 All legacy textures have been removed. This version is only compatible with Minecraft 26.1
 

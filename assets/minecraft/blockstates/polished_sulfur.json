@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "minecraft:block/polished_sulfur"
+            },
+            {
+                "model": "summerfields:block/polished/polished_sulfur_2"
+            },
+            {
+                "model": "summerfields:block/polished/polished_sulfur_3"
+            },
+            {
+                "model": "summerfields:block/polished/polished_sulfur_4"
+            },
+            {
+                "model": "summerfields:block/polished/polished_sulfur_5"
+            }
+        ]
+    }
+}

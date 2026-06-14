@@ -1,7 +1,7 @@
 {
     "textures": {
-        "2": "minecraft:entity/shulker/shulker",
-        "particle": "minecraft:entity/shulker/shulker"
+        "2": "summerfields:item/shulker",
+        "particle": "#2"
     },
     "elements": [
         {

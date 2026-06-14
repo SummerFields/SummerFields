@@ -3,6 +3,7 @@
     "textures": {
         "2": "summerfields:block/doors/warped_door_side",
         "3": "minecraft:block/warped_door_bottom",
-        "top": "minecraft:block/warped_door_top"
+        "top": "minecraft:block/warped_door_top",
+        "particle": "#2"
     }
 }

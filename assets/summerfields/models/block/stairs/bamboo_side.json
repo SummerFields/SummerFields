@@ -1,7 +1,7 @@
 {
     "parent": "summerfields:block/stairs/template_side",
     "textures": {
-        "back": "minecraft:block/bamboo_planks",
-        "particle": "#back"
+        "side": "minecraft:block/bamboo_planks",
+        "particle": "#side"
     }
 }

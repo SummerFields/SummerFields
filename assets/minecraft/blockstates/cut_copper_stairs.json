@@ -19,26 +19,17 @@
         },
         {
             "when": {
-                "facing": "east",
+                "facing": "south",
                 "shape": "straight"
             },
             "apply": {
-                "model": "summerfields:block/stairs/cut_copper_side"
+                "model": "summerfields:block/stairs/cut_copper_side",
+                "y": 0
             }
         },
         {
             "when": {
                 "facing": "west",
-                "shape": "straight"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_side",
-                "y": 180
-            }
-        },
-        {
-            "when": {
-                "facing": "south",
                 "shape": "straight"
             },
             "apply": {
@@ -53,26 +44,17 @@
             },
             "apply": {
                 "model": "summerfields:block/stairs/cut_copper_side",
-                "y": 270
+                "y": 180
             }
         },
         {
             "when": {
                 "facing": "east",
-                "shape": "inner_right"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_side"
-            }
-        },
-        {
-            "when": {
-                "facing": "west",
-                "shape": "inner_right"
+                "shape": "straight"
             },
             "apply": {
                 "model": "summerfields:block/stairs/cut_copper_side",
-                "y": 180
+                "y": 270
             }
         },
         {
@@ -83,6 +65,16 @@
             "apply": {
                 "model": "summerfields:block/stairs/cut_copper_side",
                 "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "shape": "inner_right"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_side",
+                "y": 180
             }
         },
         {
@@ -102,12 +94,42 @@
             },
             "apply": {
                 "model": "summerfields:block/stairs/cut_copper_side",
-                "y": 90
+                "y": 0
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "shape": "inner_right"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_side",
+                "y": 0
             }
         },
         {
             "when": {
                 "facing": "west",
+                "shape": "inner_right"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_side",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "shape": "inner_right"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_side",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
                 "shape": "inner_right"
             },
             "apply": {
@@ -118,34 +140,36 @@
         {
             "when": {
                 "facing": "south",
-                "shape": "inner_right"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_side",
-                "y": 180
-            }
-        },
-        {
-            "when": {
-                "facing": "north",
-                "shape": "inner_right"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_side"
-            }
-        },
-        {
-            "when": {
-                "facing": "east",
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "summerfields:block/stairs/cut_copper_side"
+                "model": "summerfields:block/stairs/cut_copper_side",
+                "y": 270
             }
         },
         {
             "when": {
                 "facing": "west",
+                "shape": "inner_left"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_side",
+                "y": 0
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "shape": "inner_left"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_side",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
                 "shape": "inner_left"
             },
             "apply": {
@@ -156,6 +180,16 @@
         {
             "when": {
                 "facing": "south",
+                "shape": "inner_left"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_side",
+                "y": 0
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
                 "shape": "inner_left"
             },
             "apply": {
@@ -170,73 +204,22 @@
             },
             "apply": {
                 "model": "summerfields:block/stairs/cut_copper_side",
-                "y": 270
-            }
-        },
-        {
-            "when": {
-                "facing": "east",
-                "shape": "inner_left"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_side",
-                "y": 270
-            }
-        },
-        {
-            "when": {
-                "facing": "west",
-                "shape": "inner_left"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_side",
-                "y": 90
-            }
-        },
-        {
-            "when": {
-                "facing": "south",
-                "shape": "inner_left"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_side"
-            }
-        },
-        {
-            "when": {
-                "facing": "north",
-                "shape": "inner_left"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_side",
                 "y": 180
             }
         },
         {
             "when": {
                 "facing": "east",
-                "half": "bottom",
-                "shape": "straight"
+                "shape": "inner_left"
             },
             "apply": {
-                "model": "summerfields:block/stairs/cut_copper_stairs",
-                "y": 180
-            }
-        },
-        {
-            "when": {
-                "facing": "south",
-                "half": "bottom",
-                "shape": "straight"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_stairs",
+                "model": "summerfields:block/stairs/cut_copper_side",
                 "y": 270
             }
         },
         {
             "when": {
-                "facing": "west",
+                "facing": "south",
                 "half": "bottom",
                 "shape": "straight"
             },
@@ -247,12 +230,45 @@
         },
         {
             "when": {
+                "facing": "west",
+                "half": "bottom",
+                "shape": "straight"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_stairs",
+                "y": 90
+            }
+        },
+        {
+            "when": {
                 "facing": "north",
                 "half": "bottom",
                 "shape": "straight"
             },
             "apply": {
                 "model": "summerfields:block/stairs/cut_copper_stairs",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "half": "bottom",
+                "shape": "straight"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_stairs",
+                "y": 270
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "half": "bottom",
+                "shape": "outer_right"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
                 "y": 90
             }
         },
@@ -269,27 +285,6 @@
         },
         {
             "when": {
-                "facing": "east",
-                "half": "bottom",
-                "shape": "outer_right"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_outer_stairs"
-            }
-        },
-        {
-            "when": {
-                "facing": "south",
-                "half": "bottom",
-                "shape": "outer_right"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
-                "y": 90
-            }
-        },
-        {
-            "when": {
                 "facing": "north",
                 "half": "bottom",
                 "shape": "outer_right"
@@ -301,6 +296,28 @@
         },
         {
             "when": {
+                "facing": "east",
+                "half": "bottom",
+                "shape": "outer_right"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
+                "y": 0
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "half": "bottom",
+                "shape": "outer_left"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
+                "y": 0
+            }
+        },
+        {
+            "when": {
                 "facing": "west",
                 "half": "bottom",
                 "shape": "outer_left"
@@ -308,6 +325,17 @@
             "apply": {
                 "model": "summerfields:block/stairs/cut_copper_outer_stairs",
                 "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "half": "bottom",
+                "shape": "outer_left"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
+                "y": 180
             }
         },
         {
@@ -325,21 +353,11 @@
             "when": {
                 "facing": "south",
                 "half": "bottom",
-                "shape": "outer_left"
+                "shape": "inner_right"
             },
             "apply": {
-                "model": "summerfields:block/stairs/cut_copper_outer_stairs"
-            }
-        },
-        {
-            "when": {
-                "facing": "north",
-                "half": "bottom",
-                "shape": "outer_left"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
-                "y": 180
+                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
+                "y": 90
             }
         },
         {
@@ -351,27 +369,6 @@
             "apply": {
                 "model": "summerfields:block/stairs/cut_copper_inner_stairs",
                 "y": 180
-            }
-        },
-        {
-            "when": {
-                "facing": "east",
-                "half": "bottom",
-                "shape": "inner_right"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_inner_stairs"
-            }
-        },
-        {
-            "when": {
-                "facing": "south",
-                "half": "bottom",
-                "shape": "inner_right"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
-                "y": 90
             }
         },
         {
@@ -389,22 +386,11 @@
             "when": {
                 "facing": "east",
                 "half": "bottom",
-                "shape": "inner_left"
+                "shape": "inner_right"
             },
             "apply": {
                 "model": "summerfields:block/stairs/cut_copper_inner_stairs",
-                "y": 270
-            }
-        },
-        {
-            "when": {
-                "facing": "west",
-                "half": "bottom",
-                "shape": "inner_left"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
-                "y": 90
+                "y": 0
             }
         },
         {
@@ -414,7 +400,19 @@
                 "shape": "inner_left"
             },
             "apply": {
-                "model": "summerfields:block/stairs/cut_copper_inner_stairs"
+                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
+                "y": 0
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "half": "bottom",
+                "shape": "inner_left"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
+                "y": 270
             }
         },
         {
@@ -430,36 +428,12 @@
         },
         {
             "when": {
-                "facing": "east",
-                "half": "top",
-                "shape": "straight"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_stairs",
-                "x": 180
-            }
-        },
-        {
-            "when": {
                 "facing": "west",
-                "half": "top",
-                "shape": "straight"
+                "half": "bottom",
+                "shape": "inner_left"
             },
             "apply": {
-                "model": "summerfields:block/stairs/cut_copper_stairs",
-                "x": 180,
-                "y": 180
-            }
-        },
-        {
-            "when": {
-                "facing": "south",
-                "half": "top",
-                "shape": "straight"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_stairs",
-                "x": 180,
+                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
                 "y": 90
             }
         },
@@ -472,7 +446,55 @@
             "apply": {
                 "model": "summerfields:block/stairs/cut_copper_stairs",
                 "x": 180,
+                "y": 0
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "half": "top",
+                "shape": "straight"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_stairs",
+                "x": 180,
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "half": "top",
+                "shape": "straight"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_stairs",
+                "x": 180,
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "half": "top",
+                "shape": "straight"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_stairs",
+                "x": 180,
                 "y": 270
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "half": "top",
+                "shape": "outer_right"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
+                "x": 180,
+                "y": 0
             }
         },
         {
@@ -489,6 +511,18 @@
         },
         {
             "when": {
+                "facing": "south",
+                "half": "top",
+                "shape": "outer_right"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
+                "x": 180,
+                "y": 180
+            }
+        },
+        {
+            "when": {
                 "facing": "west",
                 "half": "top",
                 "shape": "outer_right"
@@ -497,64 +531,6 @@
                 "model": "summerfields:block/stairs/cut_copper_outer_stairs",
                 "x": 180,
                 "y": 270
-            }
-        },
-        {
-            "when": {
-                "facing": "south",
-                "half": "top",
-                "shape": "outer_right"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
-                "x": 180,
-                "y": 180
-            }
-        },
-        {
-            "when": {
-                "facing": "north",
-                "half": "top",
-                "shape": "outer_right"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
-                "x": 180
-            }
-        },
-        {
-            "when": {
-                "facing": "east",
-                "half": "top",
-                "shape": "outer_left"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
-                "x": 180
-            }
-        },
-        {
-            "when": {
-                "facing": "west",
-                "half": "top",
-                "shape": "outer_left"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
-                "x": 180,
-                "y": 180
-            }
-        },
-        {
-            "when": {
-                "facing": "south",
-                "half": "top",
-                "shape": "outer_left"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
-                "x": 180,
-                "y": 90
             }
         },
         {
@@ -573,10 +549,22 @@
             "when": {
                 "facing": "east",
                 "half": "top",
-                "shape": "inner_right"
+                "shape": "outer_left"
             },
             "apply": {
-                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
+                "x": 180,
+                "y": 0
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "half": "top",
+                "shape": "outer_left"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
                 "x": 180,
                 "y": 90
             }
@@ -585,12 +573,36 @@
             "when": {
                 "facing": "west",
                 "half": "top",
+                "shape": "outer_left"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_outer_stairs",
+                "x": 180,
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "half": "top",
                 "shape": "inner_right"
             },
             "apply": {
                 "model": "summerfields:block/stairs/cut_copper_inner_stairs",
                 "x": 180,
-                "y": 270
+                "y": 0
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "half": "top",
+                "shape": "inner_right"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
+                "x": 180,
+                "y": 90
             }
         },
         {
@@ -607,13 +619,26 @@
         },
         {
             "when": {
-                "facing": "north",
+                "facing": "west",
                 "half": "top",
                 "shape": "inner_right"
             },
             "apply": {
                 "model": "summerfields:block/stairs/cut_copper_inner_stairs",
-                "x": 180
+                "x": 180,
+                "y": 270
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "half": "top",
+                "shape": "inner_left"
+            },
+            "apply": {
+                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
+                "x": 180,
+                "y": 270
             }
         },
         {
@@ -624,19 +649,8 @@
             },
             "apply": {
                 "model": "summerfields:block/stairs/cut_copper_inner_stairs",
-                "x": 180
-            }
-        },
-        {
-            "when": {
-                "facing": "west",
-                "half": "top",
-                "shape": "inner_left"
-            },
-            "apply": {
-                "model": "summerfields:block/stairs/cut_copper_inner_stairs",
                 "x": 180,
-                "y": 180
+                "y": 0
             }
         },
         {
@@ -653,14 +667,14 @@
         },
         {
             "when": {
-                "facing": "north",
+                "facing": "west",
                 "half": "top",
                 "shape": "inner_left"
             },
             "apply": {
                 "model": "summerfields:block/stairs/cut_copper_inner_stairs",
                 "x": 180,
-                "y": 270
+                "y": 180
             }
         }
     ]

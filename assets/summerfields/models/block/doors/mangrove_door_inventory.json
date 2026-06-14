@@ -2,7 +2,8 @@
     "parent": "summerfields:block/doors/template_door_inventory",
     "textures": {
         "bottom": "block/mangrove_door_bottom",
-        "top": "block/mangrove_door_top"
+        "top": "block/mangrove_door_top",
+        "particle": "#top"
     },
     "elements": [
         {

@@ -3,7 +3,8 @@
     "textures": {
         "1": "summerfields:block/doors/jungle_door_side",
         "jungle_door_bottom": "minecraft:block/jungle_door_bottom",
-        "jungle_door_top": "minecraft:block/jungle_door_top"
+        "jungle_door_top": "minecraft:block/jungle_door_top",
+        "particle": "#1"
     },
     "elements": [
         {

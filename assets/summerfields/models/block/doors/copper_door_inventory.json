@@ -3,7 +3,8 @@
     "textures": {
         "side": "summerfields:block/doors/copper_door_side",
         "door_lower": "minecraft:block/copper_door_bottom",
-        "door_upper": "minecraft:block/copper_door_top"
+        "door_upper": "minecraft:block/copper_door_top",
+        "particle": "#side"
     },
     "elements": [
         {

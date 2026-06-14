@@ -2,7 +2,7 @@
     "parent": "summerfields:item/spawn_egg/display_spawn_egg",
     "textures": {
         "particle": "#layer1",
-        "layer1": "entity/shulker/shulker"
+        "layer1": "summerfields:item/shulker"
     },
     "elements": [
         {

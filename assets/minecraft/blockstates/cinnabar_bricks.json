@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "summerfields:block/bricks/cinnabar_bricks_1"
+            },
+            {
+                "model": "summerfields:block/bricks/cinnabar_bricks_2"
+            },
+            {
+                "model": "summerfields:block/bricks/cinnabar_bricks_3"
+            },
+            {
+                "model": "summerfields:block/bricks/cinnabar_bricks_4"
+            },
+            {
+                "model": "summerfields:block/bricks/cinnabar_bricks_5"
+            }
+        ]
+    }
+}

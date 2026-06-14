@@ -2,7 +2,7 @@
     "parent": "summerfields:item/spawn_egg/display_middle_big",
     "textures": {
         "particle": "#layer0",
-        "layer0": "minecraft:entity/llama/brown",
+        "layer0": "minecraft:entity/llama/llama_brown",
         "layer1": "minecraft:entity/equipment/llama_body/trader_llama"
     },
     "elements": [

@@ -2,7 +2,8 @@
     "parent": "summerfields:block/doors/template_door_inventory",
     "textures": {
         "top": "minecraft:block/bamboo_door_top",
-        "bottom": "minecraft:block/bamboo_door_bottom"
+        "bottom": "minecraft:block/bamboo_door_bottom",
+        "particle": "#top"
     },
     "elements": [
         {

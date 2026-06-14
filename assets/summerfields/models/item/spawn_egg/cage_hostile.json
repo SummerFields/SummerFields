@@ -1,7 +1,8 @@
 {
     "parent": "minecraft:block/block",
     "textures": {
-        "bottom": "minecraft:block/yellow_wool"
+        "bottom": "minecraft:block/yellow_wool",
+        "particle": "#bottom"
     },
     "elements": [
         {

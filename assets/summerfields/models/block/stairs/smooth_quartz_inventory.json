@@ -1,7 +1,12 @@
 {
     "parent": "summerfields:block/stairs/template_stairs_inventory",
     "textures": {
-        "3": "minecraft:block/quartz_block_top",
-        "particle": "minecraft:block/quartz_block_top"
+	"right": "minecraft:block/quartz_block_top",
+	"left": "minecraft:block/quartz_block_top",
+	"straight": "minecraft:block/quartz_block_top",
+	"front": "minecraft:block/quartz_block_top",
+	"back": "minecraft:block/quartz_block_top",
+	"side": "minecraft:block/quartz_block_top",
+        "particle": "#front"
     }
 }

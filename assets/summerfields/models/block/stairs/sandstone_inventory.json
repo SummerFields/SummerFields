@@ -1,7 +1,12 @@
 {
     "parent": "summerfields:block/stairs/template_stairs_inventory",
     "textures": {
-        "3": "summerfields:block/stairs/sandstone_stair",
-        "particle": "summerfields:block/stairs/sandstone_stair"
+	"right": "summerfields:block/stairs/sandstone_stair_right",
+	"left": "summerfields:block/stairs/sandstone_stair_left",
+	"straight": "summerfields:block/stairs/sandstone_stair_top_straight",
+	"front": "summerfields:block/stairs/sandstone_stair_front",
+	"back": "minecraft:block/sandstone_bottom",
+	"side": "minecraft:block/sandstone",
+        "particle": "#front"
     }
 }

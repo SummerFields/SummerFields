@@ -3,7 +3,8 @@
     "textures": {
         "1": "summerfields:block/doors/acacia_door_side",
         "top": "minecraft:block/acacia_door_top",
-        "bottom": "minecraft:block/acacia_door_bottom"
+        "bottom": "minecraft:block/acacia_door_bottom",
+        "particle": "#1"
     },
     "elements": [
         {

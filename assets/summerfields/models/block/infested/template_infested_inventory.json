@@ -1,6 +1,6 @@
 {
     "textures": {
-        "4": "minecraft:entity/silverfish",
+        "4": "minecraft:entity/silverfish/silverfish",
         "top": "minecraft:block/variants/stone/cobblestone/cobblestone_top",
         "side": "minecraft:block/cobblestone",
         "particle": "#4"

@@ -1,7 +1,9 @@
 {
     "parent": "summerfields:block/stairs/template_stairs",
     "textures": {
-        "3": "summerfields:block/stairs/sandstone_stair",
-        "particle": "summerfields:block/stairs/sandstone_stair"
+	"front": "summerfields:block/stairs/sandstone_stair_front",
+	"straight": "summerfields:block/stairs/sandstone_stair_top_straight",
+	"left": "summerfields:block/stairs/sandstone_stair_left",
+	"right": "summerfields:block/stairs/sandstone_stair_right"
     }
 }

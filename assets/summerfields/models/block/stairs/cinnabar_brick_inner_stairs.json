@@ -1,0 +1,9 @@
+{
+    "parent": "summerfields:block/stairs/template_inner_stairs",
+    "textures": {
+	"left": "summerfields:block/stairs/cinnabar_bricks_stair_left",
+	"right": "summerfields:block/stairs/cinnabar_bricks_stair_right",
+	"front": "summerfields:block/stairs/cinnabar_bricks_stair_front",
+	"top_inner": "summerfields:block/stairs/cinnabar_bricks_stair_top_inner"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "summerfields:block/stairs/template_stairs_inventory",
+    "textures": {
+	"right": "summerfields:block/stairs/cinnabar_bricks_stair_right",
+	"left": "summerfields:block/stairs/cinnabar_bricks_stair_left",
+	"straight": "summerfields:block/stairs/cinnabar_bricks_stair_top_straight",
+	"front": "summerfields:block/stairs/cinnabar_bricks_stair_front",
+	"back": "summerfields:block/bricks/cinnabar_bricks_top_1",
+	"side": "minecraft:block/cinnabar_bricks",
+        "particle": "#front"
+    }
+}

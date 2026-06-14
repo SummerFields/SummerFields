@@ -4,6 +4,6 @@
         "particle": "#layer0",
         "layer0": "minecraft:entity/equipment/humanoid/leather",
         "layer1": "minecraft:entity/equipment/humanoid/leather_overlay",
-        "layer2": "minecraft:trims/entity/humanoid/wayfinder_copper"
+        "layer2": "minecraft:trims/entity/humanoid/wayfinder__copper"
     }
 }

@@ -1,7 +1,8 @@
 {
     "parent": "minecraft:block/block",
     "textures": {
-        "bottom": "summerfields:block/spawner/spawner_bottom"
+        "bottom": "summerfields:block/spawner/spawner_bottom",
+        "particle": "#bottom"
     },
     "elements": [
         {

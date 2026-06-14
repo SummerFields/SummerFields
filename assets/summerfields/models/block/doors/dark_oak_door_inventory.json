@@ -3,7 +3,8 @@
     "textures": {
         "2": "summerfields:block/doors/dark_oak_door_side",
         "3": "minecraft:block/dark_oak_door_bottom",
-        "top": "minecraft:block/dark_oak_door_top"
+        "top": "minecraft:block/dark_oak_door_top",
+        "particle": "#top"
     },
     "elements": [
         {

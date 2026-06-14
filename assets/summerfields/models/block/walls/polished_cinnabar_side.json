@@ -1,0 +1,10 @@
+{
+    "parent": "summerfields:block/walls/template_side",
+    "textures": {
+        "particle": "#front",
+        "front": "minecraft:block/polished_cinnabar",
+        "top": "summerfields:block/walls/polished_cinnabar_top",
+        "innertop": "summerfields:block/walls/polished_cinnabar_inner_top",
+        "other": "summerfields:block/walls/polished_cinnabar_other"
+    }
+}

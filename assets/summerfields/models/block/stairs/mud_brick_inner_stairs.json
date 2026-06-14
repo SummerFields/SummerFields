@@ -1,7 +1,9 @@
 {
     "parent": "summerfields:block/stairs/template_inner_stairs",
     "textures": {
-        "0": "summerfields:block/stairs/mud_bricks_stair",
-        "particle": "summerfields:block/stairs/mud_bricks_stair"
+	"left": "summerfields:block/stairs/mud_bricks_stair_left",
+	"right": "summerfields:block/stairs/mud_bricks_stair_right",
+	"front": "summerfields:block/stairs/mud_bricks_stair_front",
+	"top_inner": "summerfields:block/stairs/mud_bricks_stair_top_inner"
     }
 }

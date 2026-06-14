@@ -1,0 +1,122 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:item_name",
+    "cases": [
+      {
+        "when": {
+          "translate": "filled_map.buried_treasure"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "summerfields:item/map/buried_treasure_map"
+        }
+      },
+      {
+        "when": {
+          "translate": "filled_map.village_desert"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "summerfields:item/map/desert_village_map"
+        }
+      },
+      {
+        "when": {
+          "translate": "filled_map.explorer_jungle"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "summerfields:item/map/jungle_explorer_map"
+        }
+      },
+      {
+        "when": {
+          "translate": "filled_map.monument"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "summerfields:item/map/ocean_explorer_map"
+        }
+      },
+      {
+        "when": {
+          "translate": "filled_map.village_plains"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "summerfields:item/map/plains_village_map"
+        }
+      },
+      {
+        "when": {
+          "translate": "filled_map.village_savanna"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "summerfields:item/map/savanna_village_map"
+        }
+      },
+      {
+        "when": {
+          "translate": "filled_map.village_snowy"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "summerfields:item/map/snowy_village_map"
+        }
+      },
+      {
+        "when": {
+          "translate": "filled_map.explorer_swamp"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "summerfields:item/map/swamp_explorer_map"
+        }
+      },
+      {
+        "when": {
+          "translate": "filled_map.village_taiga"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "summerfields:item/map/taiga_village_map"
+        }
+      },
+      {
+        "when": {
+          "translate": "filled_map.trial_chambers"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "summerfields:item/map/trial_explorer_map"
+        }
+      },
+      {
+        "when": {
+          "translate": "filled_map.mansion"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "summerfields:item/map/woodland_explorer_map"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/filled_map",
+      "tints": [
+        {
+          "type": "minecraft:constant",
+          "value": -1
+        },
+        {
+          "type": "minecraft:map_color",
+          "default": 4603950
+        }
+      ]
+    }
+  }
+}

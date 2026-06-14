@@ -3,7 +3,7 @@
 - LithiumSound has created SummerFields. 
 - Team SummerFields continued the texture pack.
 
-[![SummerFields](http://summerfields.info/assets/signature/sign2.png)](http://summerfields.github.io/official/)
+[![SummerFields](https://summerfields.info/wp-content/uploads/2023/09/new_logo_summerfields_1-e1695635966527.png)](http://summerfields.github.io/official/)
 
 ## Inspiration sources.
 - [Notch] (http://www.minecraft.net) - For the amazing game, and for the beautiful dark blue water, & the ultra red lava! =D

@@ -1,7 +1,8 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "bottom": "minecraft:block/mangrove_door_bottom"
+        "bottom": "minecraft:block/mangrove_door_bottom",
+        "particle": "#bottom"
     },
     "elements": [
         {

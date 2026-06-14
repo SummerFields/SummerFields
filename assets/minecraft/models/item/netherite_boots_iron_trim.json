@@ -2,6 +2,6 @@
     "parent": "summerfields:block/armor/template_boots",
     "textures": {
         "layer0": "minecraft:entity/equipment/humanoid/netherite",
-        "layer2": "minecraft:trims/entity/humanoid/wayfinder_iron"
+        "layer2": "minecraft:trims/entity/humanoid/wayfinder__iron"
     }
 }

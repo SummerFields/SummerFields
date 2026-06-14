@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "summerfields:item/map/jungle_explorer_map"
+  }
+}

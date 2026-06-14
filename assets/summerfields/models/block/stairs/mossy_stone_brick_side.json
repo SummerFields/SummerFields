@@ -1,7 +1,7 @@
 {
     "parent": "summerfields:block/stairs/template_side",
     "textures": {
-        "back": "minecraft:block/mossy_stone_bricks",
-        "particle": "#back"
+        "side": "minecraft:block/mossy_stone_bricks",
+        "particle": "#side"
     }
 }

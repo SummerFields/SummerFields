@@ -1,7 +1,9 @@
 {
     "parent": "summerfields:block/stairs/template_inner_stairs",
     "textures": {
-        "0": "summerfields:block/stairs/cut_copper_stair",
-        "particle": "summerfields:block/stairs/cut_copper_stair"
+	"left": "summerfields:block/stairs/cut_copper_stair_left",
+	"right": "summerfields:block/stairs/cut_copper_stair_right",
+	"front": "summerfields:block/stairs/cut_copper_stair_front",
+	"top_inner": "summerfields:block/stairs/cut_copper_stair_top_inner"
     }
 }

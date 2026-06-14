@@ -3,6 +3,6 @@
     "textures": {
         "layer0": "minecraft:entity/equipment/humanoid/leather",
         "layer1": "minecraft:entity/equipment/humanoid/leather_overlay",
-        "layer2": "minecraft:trims/entity/humanoid/shaper_gold"
+        "layer2": "minecraft:trims/entity/humanoid/shaper__gold"
     }
 }

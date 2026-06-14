@@ -1,10 +1,10 @@
 {
-    "format_version": "1.21.6",
     "parent": "summerfields:block/doors/template_door_inventory",
     "textures": {
         "side": "summerfields:block/doors/spruce_door_side",
         "bottom": "block/spruce_door_bottom",
-        "top": "block/spruce_door_top"
+        "top": "block/spruce_door_top",
+        "particle": "#top"
     },
     "elements": [
         {

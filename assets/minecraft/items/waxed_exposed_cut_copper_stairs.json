@@ -3,16 +3,8 @@
         "type": "minecraft:composite",
         "models": [
             {
-                "type": "minecraft:model",
-                "model": "summerfields:block/stairs/exposed_cut_copper_stairs"
-            },
-            {
-                "type": "minecraft:model",
-                "model": "summerfields:block/stairs/exposed_cut_copper_back"
-            },
-            {
-                "type": "minecraft:model",
-                "model": "summerfields:block/stairs/exposed_cut_copper_side"
+		"type": "minecraft:model",
+		"model": "summerfields:block/stairs/exposed_cut_copper_inventory"
             },
             {
                 "type": "minecraft:model",

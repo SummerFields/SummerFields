@@ -1,7 +1,8 @@
 {
     "parent": "minecraft:block/block",
     "textures": {
-        "layer0": "minecraft:entity/equipment/happy_ghast_body/black_harness"
+        "layer0": "minecraft:entity/equipment/happy_ghast_body/black_harness",
+        "particle": "#layer0"
     },
     "elements": [
         {

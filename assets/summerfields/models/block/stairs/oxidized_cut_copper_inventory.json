@@ -1,7 +1,12 @@
 {
     "parent": "summerfields:block/stairs/template_stairs_inventory",
     "textures": {
-        "3": "summerfields:block/stairs/oxidized_cut_copper_stair",
-        "particle": "summerfields:block/stairs/oxidized_cut_copper_stair"
+	"right": "summerfields:block/stairs/oxidized_cut_copper_stair_right",
+	"left": "summerfields:block/stairs/oxidized_cut_copper_stair_left",
+	"straight": "summerfields:block/stairs/oxidized_cut_copper_stair_top_straight",
+	"front": "summerfields:block/stairs/oxidized_cut_copper_stair_front",
+	"back": "minecraft:block/oxidized_cut_copper",
+	"side": "minecraft:block/oxidized_cut_copper",
+        "particle": "#front"
     }
 }

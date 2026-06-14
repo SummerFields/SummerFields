@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "minecraft:block/polished_cinnabar"
+            },
+            {
+                "model": "summerfields:block/polished/polished_cinnabar_2"
+            },
+            {
+                "model": "summerfields:block/polished/polished_cinnabar_3"
+            },
+            {
+                "model": "summerfields:block/polished/polished_cinnabar_4"
+            },
+            {
+                "model": "summerfields:block/polished/polished_cinnabar_5"
+            }
+        ]
+    }
+}

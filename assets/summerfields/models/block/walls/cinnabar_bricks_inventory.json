@@ -1,0 +1,9 @@
+{
+    "parent": "summerfields:block/walls/template_inventory",
+    "textures": {
+        "front": "minecraft:block/cinnabar_bricks",
+        "top": "summerfields:block/bricks/cinnabar_bricks_top_1",
+        "innertop": "summerfields:block/bricks/cinnabar_bricks_top_1",
+        "other": "#front"
+    }
+}

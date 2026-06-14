@@ -1,7 +1,8 @@
 {
     "parent": "minecraft:block/block",
     "textures": {
-        "bottom": "minecraft:block/magenta_terracotta"
+        "bottom": "minecraft:block/magenta_terracotta",
+        "particle": "#bottom"
     },
     "elements": [
         {

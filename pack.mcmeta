@@ -1,9 +1,9 @@
 {
     "pack": {
-        "datapack_format": 101.1,
-        "pack_format": 84,
+        "datapack_format": 107.1,
+        "pack_format": 88,
         "min_format": 76,
-        "max_format": 84,
-        "description": "26.1 SummerFields"
+        "max_format": 88,
+        "description": "26.x SummerFields"
     }
 }

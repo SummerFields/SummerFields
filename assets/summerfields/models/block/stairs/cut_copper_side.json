@@ -1,7 +1,7 @@
 {
     "parent": "summerfields:block/stairs/template_side",
     "textures": {
-        "back": "minecraft:block/cut_copper",
-        "particle": "#back"
+        "side": "minecraft:block/cut_copper",
+        "particle": "#side"
     }
 }

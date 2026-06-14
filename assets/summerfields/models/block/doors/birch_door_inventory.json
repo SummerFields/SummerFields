@@ -3,7 +3,8 @@
     "textures": {
         "2": "summerfields:block/doors/birch_door_side",
         "door_birch_lower": "minecraft:block/birch_door_bottom",
-        "door_birch_upper": "minecraft:block/birch_door_top"
+        "door_birch_upper": "minecraft:block/birch_door_top",
+        "particle": "#2"
     },
     "elements": [
         {

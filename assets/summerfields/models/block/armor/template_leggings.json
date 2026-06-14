@@ -2,7 +2,8 @@
     "textures": {
         "layer0": "minecraft:entity/equipment/humanoid_leggings/leather",
         "layer1": "summerfields:block/empty",
-        "layer2": "summerfields:block/empty"
+        "layer2": "summerfields:block/empty",
+        "particle": "#layer0"
     },
     "elements": [
         {

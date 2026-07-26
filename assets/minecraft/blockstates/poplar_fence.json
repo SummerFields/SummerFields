@@ -1,0 +1,48 @@
+{
+    "multipart": [
+        {
+            "apply": {
+                "model": "summerfields:block/fence/poplar_fence_post"
+            }
+        },
+        {
+            "when": {
+                "north": "true"
+            },
+            "apply": {
+                "model": "summerfields:block/fence/poplar_fence_side"
+            },
+            "uvlock": false
+        },
+        {
+            "when": {
+                "east": "true"
+            },
+            "apply": {
+                "model": "summerfields:block/fence/poplar_fence_side",
+                "y": 90
+            },
+            "uvlock": false
+        },
+        {
+            "when": {
+                "south": "true"
+            },
+            "apply": {
+                "model": "summerfields:block/fence/poplar_fence_side",
+                "y": 180
+            },
+            "uvlock": false
+        },
+        {
+            "when": {
+                "west": "true"
+            },
+            "apply": {
+                "model": "summerfields:block/fence/poplar_fence_side",
+                "y": 270
+            },
+            "uvlock": false
+        }
+    ]
+}

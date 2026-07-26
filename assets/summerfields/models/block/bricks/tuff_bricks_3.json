@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-        "all": "summerfields:block/bricks/tuff_bricks_top_3"
-    }
-}

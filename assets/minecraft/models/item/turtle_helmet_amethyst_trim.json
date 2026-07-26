@@ -1,7 +1,7 @@
 {
-    "parent": "summerfields:block/armor/template_helmet",
+    "parent": "summerfields:item/armor/template_helmet",
     "textures": {
-        "layer0": "minecraft:entity/equipment/humanoid/turtle",
-        "layer2": "minecraft:trims/entity/humanoid/shaper__amethyst"
+        "layer0": "minecraft:item/turtle_helmet",
+        "layer2": "minecraft:trims/items/helmet_trim_amethyst"
     }
 }

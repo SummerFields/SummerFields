@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "summerfields:block/slabs/resin_bricks_slab_bottom_1"
+        "model": "summerfields:block/resin/resin_bricks_slab_bottom3"
     }
 }

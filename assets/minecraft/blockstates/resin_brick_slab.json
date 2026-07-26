@@ -1,41 +1,174 @@
 {
-    "variants": {
-        "type=bottom": [
+  "multipart": [
+    {
+      "when": { "type": "bottom" },
+      "apply": [
             {
-                "model": "summerfields:block/slabs/resin_bricks_slab_bottom_1"
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom1"
             },
             {
-                "model": "summerfields:block/slabs/resin_bricks_slab_bottom_2"
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom2"
             },
             {
-                "model": "summerfields:block/slabs/resin_bricks_slab_bottom_3"
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom3"
             },
             {
-                "model": "summerfields:block/slabs/resin_bricks_slab_bottom_4"
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom4"
             },
             {
-                "model": "summerfields:block/slabs/resin_bricks_slab_bottom_5"
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom5"
             }
-        ],
-        "type=top": [
+        ]
+    },
+    {
+      "when": { "type": "top" },
+      "apply": [
             {
-                "model": "summerfields:block/slabs/resin_bricks_slab_top_1"
+                "model": "summerfields:block/resin/resin_bricks_slab_top1"
             },
             {
-                "model": "summerfields:block/slabs/resin_bricks_slab_top_2"
+                "model": "summerfields:block/resin/resin_bricks_slab_top2"
             },
             {
-                "model": "summerfields:block/slabs/resin_bricks_slab_top_3"
+                "model": "summerfields:block/resin/resin_bricks_slab_top3"
             },
             {
-                "model": "summerfields:block/slabs/resin_bricks_slab_top_4"
+                "model": "summerfields:block/resin/resin_bricks_slab_top4"
             },
             {
-                "model": "summerfields:block/slabs/resin_bricks_slab_top_5"
+                "model": "summerfields:block/resin/resin_bricks_slab_top5"
             }
-        ],
-        "type=double": {
-            "model": "summerfields:block/bricks/resin_bricks_1"
-        }
+        ]
+    },
+    {
+      "when": { "type": "double" },
+      "apply": [
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom1"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom1"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom1"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom1"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom2"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom2"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom2"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom2"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom3"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom3"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom3"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom3"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom4"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom4"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom4"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom4"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom5"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom5"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom5"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_bottom5"
+            }
+        ]
+    },
+    {
+      "when": { "type": "double" },
+      "apply": [
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_top2"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_top3"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_top4"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_top5"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_top1"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_top3"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_top4"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_top5"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_top1"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_top2"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_top4"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_top5"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_top1"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_top2"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_top3"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_top5"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_top1"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_top2"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_top3"
+            },
+            {
+                "model": "summerfields:block/resin/resin_bricks_slab_top4"
+            }
+        ]
     }
+  ]
 }

@@ -1,7 +1,7 @@
 {
     "parent": "summerfields:block/stairs/template_back_4",
     "textures": {
-        "back": "summerfields:block/bricks/tuff_bricks_top_4",
+        "back": "summerfields:block/polished/tuff_bricks_4",
         "particle": "#back"
     }
 }

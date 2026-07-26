@@ -1,7 +1,7 @@
 {
-    "parent": "summerfields:block/armor/template_chestplate",
+    "parent": "summerfields:item/armor/template_chestplate",
     "textures": {
-        "layer0": "minecraft:entity/equipment/humanoid/chainmail",
-        "layer2": "minecraft:trims/entity/humanoid/wayfinder__resin"
+        "layer0": "minecraft:item/chainmail_chestplate",
+        "layer2": "minecraft:trims/items/chestplate_trim_resin"
     }
 }

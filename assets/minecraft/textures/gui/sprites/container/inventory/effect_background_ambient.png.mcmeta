@@ -2,13 +2,13 @@
     "gui": {
         "scaling": {
             "type": "nine_slice",
-            "width": 47,
-            "height": 47,
+            "width": 160,
+            "height": 32,
             "border": {
-                "left": 24,
-                "top": 11,
-                "right": 15,
-                "bottom": 18
+                "left": 26,
+                "top": 12,
+                "right": 13,
+                "bottom": 14
             }
         }
     }

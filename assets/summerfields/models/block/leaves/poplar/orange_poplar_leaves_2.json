@@ -1,0 +1,7 @@
+{
+    "parent": "summerfields:block/leaves/template_dappled_leaves_2",
+    "textures": {
+        "particle": "summerfields:block/leaves/orange_poplar_leaves_2",
+	"inner": "minecraft:block/orange_poplar_leaves"
+    }
+}

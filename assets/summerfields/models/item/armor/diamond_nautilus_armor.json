@@ -1,6 +1,0 @@
-{
-    "parent": "summerfields:item/armor/template_nautilus_armor",
-    "textures": {
-        "layer0": "minecraft:entity/equipment/nautilus_body/diamond"
-    }
-}

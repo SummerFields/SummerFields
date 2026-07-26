@@ -5,7 +5,7 @@
 	"left": "summerfields:block/stairs/tuff_bricks_stair_left",
 	"straight": "summerfields:block/stairs/tuff_bricks_stair_top_straight",
 	"front": "summerfields:block/stairs/tuff_bricks_stair_front",
-	"back": "summerfields:block/bricks/tuff_bricks_top_1",
+	"back": "minecraft:block/tuff_bricks",
 	"side": "minecraft:block/tuff_bricks",
         "particle": "#front"
     }

@@ -5,6 +5,23 @@ This changelog lists all notable updates and contributions for the SummerFields 
 
 ---
 
+Release 26.3
+Redesigned the 16 base colors for a more consistent and harmonious palette.
+
+  - by [lipki] (https://github.com/lipki)
+	- New 16 colors based textures
+	- Cushion
+	- New item for maps
+	- Straw bed
+	- New textures for destroy block (transparence update)
+	- Shelf mushroom
+	- Red shrub
+	- Poplar
+	- new Realms textures
+	- Some old textures
+	- New model for clock and compass in item frame
+	
+
 Release 26.2
 All legacy textures have been removed. This version is only compatible with Minecraft 26.x
 

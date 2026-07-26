@@ -1,0 +1,22 @@
+{
+	"parent": "minecraft:block/block",
+	"textures": {
+		"particle": "summerfields:block/resin/resin_bricks",
+		"post": "summerfields:block/resin/resin_bricks"
+	},
+	"elements": [
+		{
+			"from": [4, -0.001, 4],
+			"to": [12, 16.001, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 4]},
+			"faces": {
+				"north": {"uv": [8, 0, 16, 4], "rotation": 90, "texture": "#post"},
+				"east": {"uv": [8, 0, 16, 4], "rotation": 90, "texture": "#post"},
+				"south": {"uv": [8, 0, 16, 4], "rotation": 90, "texture": "#post"},
+				"west": {"uv": [8, 0, 16, 4], "rotation": 90, "texture": "#post"},
+				"up": {"uv": [4, 4, 0, 0], "texture": "#post"},
+				"down": {"uv": [4, 0, 0, 4], "texture": "#post"}
+			}
+		}
+	]
+}

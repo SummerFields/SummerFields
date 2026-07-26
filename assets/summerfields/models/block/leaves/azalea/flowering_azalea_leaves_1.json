@@ -1,6 +1,7 @@
 {
-    "parent": "summerfields:block/leaves/template_leaves_1",
+    "parent": "summerfields:block/leaves/template_dappled_leaves_1",
     "textures": {
-        "particle": "summerfields:block/leaves/flowering_azalea_leaves"
+        "particle": "summerfields:block/leaves/flowering_azalea_leaves",
+        "inner": "minecraft:block/flowering_azalea_leaves"
     }
 }

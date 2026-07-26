@@ -1,5 +1,5 @@
 {
-    "parent": "summerfields:block/leaves/template_leaves_2",
+    "parent": "summerfields:block/leaves/template_vrac_leaves_2",
     "textures": {
         "particle": "summerfields:block/leaves/spruce_leaves"
     }

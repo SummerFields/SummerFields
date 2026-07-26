@@ -1,0 +1,75 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
+	"textures": {
+		"particle": "summerfields:block/resin/resin_bricks",
+		"side": "summerfields:block/resin/resin_bricks"
+	},
+	"elements": [
+		{
+			"name": "one_dark",
+			"from": [12, 0, 7],
+			"to": [18, 5.5, 9],
+			"rotation": {"x": 0, "y": -90, "z": 0, "origin": [15, 2.75, 8]},
+			"faces": {
+				"east": {"uv": [8, 4, 7, 6.75], "texture": "#side"},
+				"south": {"uv": [4, 4, 7, 6.75], "texture": "#side"},
+				"west": {"uv": [7, 4, 8, 6.75], "texture": "#side"},
+				"up": {"uv": [4, 3, 7, 4], "texture": "#side"},
+				"down": {"uv": [4, 4, 7, 3], "texture": "#side"}
+			}
+		},
+		{
+			"name": "two_dark",
+			"from": [8, 0, 5],
+			"to": [14, 5.5, 11],
+			"rotation": {"x": 0, "y": -90, "z": 0, "origin": [11, 2.75, 8]},
+			"faces": {
+				"north": {"uv": [3, 4, 0, 6.75], "texture": "#side"},
+				"east": {"uv": [3, 4, 0, 6.75], "texture": "#side"},
+				"west": {"uv": [0, 4, 3, 6.75], "texture": "#side"},
+				"up": {"uv": [0, 0, 3, 3], "texture": "#side"},
+				"down": {"uv": [0, 3, 3, 0], "texture": "#side"}
+			}
+		},
+		{
+			"name": "one_dark_minus",
+			"from": [9.5, 5.5, 5],
+			"to": [16, 10.5, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12.75, 8, 8]},
+			"faces": {
+				"north": {"uv": [0.75, 6.75, 4, 9.25], "texture": "#side"},
+				"south": {"uv": [4, 6.75, 0.75, 9.25], "texture": "#side"},
+				"west": {"uv": [0, 6.75, 3, 9.25], "texture": "#side"},
+				"up": {"uv": [0, 0, 3, 3], "texture": "#side"},
+				"down": {"uv": [0, 3, 3, 0], "texture": "#side"}
+			}
+		},
+		{
+			"name": "one_minus",
+			"from": [8, 5.5, 5],
+			"to": [9.5, 10.5, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.75, 8, 8]},
+			"faces": {
+				"north": {"uv": [4, 6.75, 4.75, 9.25], "texture": "#side"},
+				"east": {"uv": [7, 6.75, 4, 9.25], "texture": "#side"},
+				"south": {"uv": [4.75, 6.75, 4, 9.25], "texture": "#side"},
+				"up": {"uv": [7.25, 0, 8, 3], "texture": "#side"},
+				"down": {"uv": [7.25, 3, 8, 0], "texture": "#side"}
+			}
+		},
+		{
+			"name": "one_dark",
+			"from": [8, 10.5, 5],
+			"to": [16, 16, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 11.25, 8]},
+			"faces": {
+				"north": {"uv": [0, 4, 4, 6.75], "texture": "#side"},
+				"south": {"uv": [4, 4, 0, 6.75], "texture": "#side"},
+				"up": {"uv": [0, 0, 4, 3], "texture": "#side"},
+				"down": {"uv": [0, 3, 4, 0], "texture": "#side"}
+			}
+		}
+	]
+}

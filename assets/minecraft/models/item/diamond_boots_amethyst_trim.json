@@ -1,7 +1,7 @@
 {
-    "parent": "summerfields:block/armor/template_boots",
+    "parent": "summerfields:item/armor/template_boots",
     "textures": {
-        "layer0": "minecraft:entity/equipment/humanoid/diamond",
-        "layer2": "minecraft:trims/entity/humanoid/wayfinder__amethyst"
+        "layer0": "minecraft:item/diamond_boots",
+        "layer2": "minecraft:trims/items/boots_trim_amethyst"
     }
 }

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+                "model": "summerfields:block/resin/resin_bricks_chiseled"
+	}
+    }
+}

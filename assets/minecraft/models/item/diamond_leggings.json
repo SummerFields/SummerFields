@@ -1,7 +1,7 @@
 {
-    "parent": "summerfields:block/armor/template_leggings",
+    "parent": "summerfields:item/armor/template_leggings",
     "textures": {
-        "layer0": "minecraft:entity/equipment/humanoid_leggings/diamond"
+        "layer0": "minecraft:item/diamond_leggings"
     },
     "overrides": [
         {

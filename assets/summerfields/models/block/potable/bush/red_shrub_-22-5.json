@@ -1,0 +1,8 @@
+{
+    "parent": "summerfields:block/potable/template_flower_bush_-22-5",
+    "textures": {
+        "side": "minecraft:block/red_shrub",
+        "side2": "#side",
+        "particle": "#side"
+    }
+}

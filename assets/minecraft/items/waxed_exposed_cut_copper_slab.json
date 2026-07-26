@@ -4,7 +4,7 @@
         "models": [
             {
                 "type": "minecraft:model",
-                "model": "minecraft:block/exposed_cut_copper_slab"
+                "model": "summerfields:block/slabs/exposed_cut_copper_slab_bottom"
             },
             {
                 "type": "minecraft:model",

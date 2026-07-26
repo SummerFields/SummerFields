@@ -1,6 +1,6 @@
 {
     "asset_id": "summerfieldsdp:entity/cow/temperate_cow_5",
-    "baby_asset_id": "minecraft:entity/cow/temperate_cow_baby",
+    "baby_asset_id": "summerfieldsdp:entity/cow/cow_temperate_baby",
     "spawn_conditions": [
         {
             "priority": 1

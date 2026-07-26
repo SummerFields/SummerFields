@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "summerfields:block/fence/poplar_fence_gate"
+    }
+}

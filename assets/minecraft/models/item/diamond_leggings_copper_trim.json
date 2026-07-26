@@ -1,7 +1,7 @@
 {
-    "parent": "summerfields:block/armor/template_leggings",
+    "parent": "summerfields:item/armor/template_leggings",
     "textures": {
-        "layer0": "minecraft:entity/equipment/humanoid_leggings/diamond",
-        "layer2": "minecraft:trims/entity/humanoid_leggings/wayfinder__copper"
+        "layer0": "minecraft:item/diamond_leggings",
+        "layer2": "minecraft:trims/items/leggings_trim_copper"
     }
 }

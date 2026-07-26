@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "type=bottom": {
+            "model": "summerfields:block/slabs/poplar_slab_bottom"
+        },
+        "type=top": {
+            "model": "summerfields:block/slabs/poplar_slab_top"
+        },
+        "type=double": {
+            "model": "summerfields:block/planks/poplar_planks"
+        }
+    }
+}

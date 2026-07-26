@@ -1,0 +1,7 @@
+{
+	"parent":  "summerfields:item/clock/template_clock",
+	"textures": {
+		"particle": "summerfields:item/clock/clock_63",
+		"back": "summerfields:item/clock/clock_back"
+	}
+}

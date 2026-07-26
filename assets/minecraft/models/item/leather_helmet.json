@@ -1,8 +1,7 @@
 {
-    "parent": "summerfields:block/armor/template_helmet",
+    "parent": "summerfields:item/armor/template_helmet",
     "textures": {
-        "layer0": "minecraft:entity/equipment/humanoid/leather",
-        "layer1": "minecraft:entity/equipment/humanoid/leather_overlay"
+        "layer0": "minecraft:item/leather_helmet"
     },
     "overrides": [
         {

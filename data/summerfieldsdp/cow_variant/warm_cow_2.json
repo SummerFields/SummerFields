@@ -1,6 +1,6 @@
 {
     "asset_id": "summerfieldsdp:entity/cow/warm_cow_2",
-    "baby_asset_id": "minecraft:entity/cow/warm_cow_baby",
+    "baby_asset_id": "summerfieldsdp:entity/cow/cow_warm_baby",
     "model": "warm",
     "spawn_conditions": [
         {

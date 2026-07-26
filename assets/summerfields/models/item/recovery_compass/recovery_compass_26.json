@@ -1,0 +1,7 @@
+{
+	"parent":  "summerfields:item/compass/template_compass",
+	"textures": {
+		"particle": "summerfields:item/compass/compass_26",
+		"back": "summerfields:item/compass/compass_back"
+	}
+}

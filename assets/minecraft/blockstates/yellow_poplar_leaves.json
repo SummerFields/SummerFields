@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "summerfields:block/leaves/poplar/yellow_poplar_leaves_1"
+            },
+            {
+                "model": "summerfields:block/leaves/poplar/yellow_poplar_leaves_2"
+            },
+            {
+                "model": "summerfields:block/leaves/poplar/yellow_poplar_leaves_3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "summerfields:block/potable/bush/red_shrub",
+                "y": 0
+            },
+            {
+                "model": "summerfields:block/potable/bush/red_shrub",
+                "y": 90
+            },
+            {
+                "model": "summerfields:block/potable/bush/red_shrub_22-5",
+                "y": 0
+            },
+            {
+                "model": "summerfields:block/potable/bush/red_shrub_22-5",
+                "y": 90
+            },
+            {
+                "model": "summerfields:block/potable/bush/red_shrub_45",
+                "y": 0
+            },
+            {
+                "model": "summerfields:block/potable/bush/red_shrub_45",
+                "y": 90
+            },
+            {
+                "model": "summerfields:block/potable/bush/red_shrub_-22-5",
+                "y": 0
+            },
+            {
+                "model": "summerfields:block/potable/bush/red_shrub_-22-5",
+                "y": 90
+            }
+        ]
+    }
+}

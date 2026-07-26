@@ -1,0 +1,51 @@
+{
+	"parent": "minecraft:block/block",
+	"textures": {
+		"particle": "summerfields:block/resin/resin_bricks",
+		"side": "summerfields:block/resin/resin_bricks"
+	},
+	"elements": [
+		{
+			"name": "one_dark",
+			"from": [8, 10.5, 8],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 10, 8]},
+			"faces": {
+				"north": {"uv": [0, 4, 4, 6.75], "texture": "#side"},
+				"east": {"uv": [4, 4, 0, 6.75], "texture": "#side"},
+				"south": {"uv": [4, 4, 0, 6.75], "texture": "#side"},
+				"west": {"uv": [0, 4, 4, 6.75], "texture": "#side"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#side", "cullface": "up"},
+				"down": {"uv": [0, 4, 4, 0], "texture": "#side"}
+			}
+		},
+		{
+			"name": "one",
+			"from": [0, 10.5, 8],
+			"to": [8, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 10, 8]},
+			"faces": {
+				"north": {"uv": [4, 4, 8, 6.75], "texture": "#side"},
+				"east": {"uv": [8, 4, 4, 6.75], "texture": "#side"},
+				"south": {"uv": [8, 4, 4, 6.75], "texture": "#side"},
+				"west": {"uv": [4, 4, 8, 6.75], "texture": "#side"},
+				"up": {"uv": [4, 0, 8, 4], "texture": "#side", "cullface": "up"},
+				"down": {"uv": [4, 4, 8, 0], "texture": "#side"}
+			}
+		},
+		{
+			"name": "two",
+			"from": [0, 10.5, 0],
+			"to": [16, 16, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 10, 0]},
+			"faces": {
+				"north": {"uv": [8, 9.25, 16, 12], "texture": "#side"},
+				"east": {"uv": [8, 4, 4, 6.75], "texture": "#side"},
+				"south": {"uv": [16, 9.25, 8, 12], "texture": "#side"},
+				"west": {"uv": [4, 4, 8, 6.75], "texture": "#side"},
+				"up": {"uv": [0, 9.25, 8, 13.25], "texture": "#side", "cullface": "up"},
+				"down": {"uv": [0, 13.25, 8, 9.25], "texture": "#side"}
+			}
+		}
+	]
+}

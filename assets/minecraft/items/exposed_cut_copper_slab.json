@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+	"model": "summerfields:block/slabs/exposed_cut_copper_slab_bottom"
+    }
+}

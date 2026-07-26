@@ -1,16 +1,15 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "minecraft:block/leaf_litter",
-		"texture": "minecraft:block/leaf_litter"
+		"particle": "minecraft:block/leaf_litter"
 	},
 	"elements": [
 		{
 			"from": [0, 0.25, 8],
 			"to": [8.5, 0.25, 16],
 			"faces": {
-				"up": {"uv": [3.75, 8, 8, 12.25], "texture": "#texture"},
-				"down": {"uv": [3.75, 12.25, 8, 8], "texture": "#texture"}
+				"up": {"uv": [3.75, 8, 8, 12.25], "texture": "#particle"},
+				"down": {"uv": [3.75, 12.25, 8, 8], "texture": "#particle"}
 			}
 		}
 	]

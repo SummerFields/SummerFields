@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "summerfields:block/pressure_plate/poplar_pressure_plate"
+    }
+}
